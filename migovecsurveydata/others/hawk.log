@@ -1,0 +1,14 @@
+Survex 1.1.12
+Copyright ¸ 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed hawk.1 at (0,0,0)
+
+Survey contains 6 survey stations, joined by 5 legs.
+There are 0 loops.
+Total length of survey legs =   29.49m (  29.49m adjusted)
+Total plan length of survey legs =   12.86m
+Total vertical length of survey legs =   23.29m
+Vertical range = 18.90m (from hawk.1 at 0.00m to hawk.5 at -18.90m)
+North-South range = 7.89m (from hawk.4 at 0.27m to hawk.6 at -7.63m)
+East-West range = 7.07m (from hawk.6 at 4.95m to hawk.4 at -2.13m)
+   2 1-nodes.
+   4 2-nodes.

@@ -1,0 +1,17 @@
+Survex 1.0.39
+Copyright (C) 1990-2006 Olly Betts
+Survey has no fixed points. Therefore I've fixed system.m2.jspdt.24 at (0,0,0)
+
+Survey contains 1608 survey stations, joined by 1612 legs.
+There are 5 loops.
+Total length of survey legs = 11493.18m (11493.34m adjusted)
+Total plan length of survey legs = 7072.40m
+Total vertical length of survey legs = 6662.96m
+Vertical range = 962.81m (from system.m2.izent1.16 at 249.50m to system.coldfeet.sifon.1 at -713.30m)
+North-South range = 423.92m (from system.m18.leki.1 at 108.14m to system.pdox.fame.9 at -315.78m)
+East-West range = 659.54m (from system.m16low.galact3.8 at 215.01m to system.coldfeet.deep.12 at -444.53m)
+ 110 1-nodes.
+1396 2-nodes.
+  89 3-nodes.
+  10 4-nodes.
+   3 5-nodes.

@@ -1,0 +1,24 @@
+Survex 1.1.12
+Copyright (C) 1990-2007 Olly Betts
+cavern.exe: warning: Unused fixed point `viewpoints.paradiso'
+cavern.exe: warning: Unused fixed point `viewpoints.ravne'
+
+Survey contains 4065 survey stations, joined by 1242 legs.
+There are 8 loops.
+Survey has 2831 connected components.
+Total length of survey legs = 5248.28m (5247.69m adjusted)
+Total plan length of survey legs = 2963.86m
+Total vertical length of survey legs = 3185.91m
+Vertical range = 630.12m (from system.m2.izent1.16 at 1851.00m to garden.kangaroo.fools_road.5 at 1220.88m)
+North-South range = 252.71m (from garden.kangaroo.bonus.12 at 124006.37m to garden.kangaroo.fools_road.1 at 123753.66m)
+East-West range = 367.61m (from garden.vilinska.vilinent.1 at 405131.04m to system.m18.gallery.24 at 404763.43m)
+cavern.exe: warning: Station `freezer.fr' referred to just once, with an explicit prefix - typo?
+cavern.exe: warning: Station `m17.29' referred to just once, with an explicit prefix - typo?
+2830 0-nodes.
+  97 1-nodes.
+1049 2-nodes.
+  76 3-nodes.
+   9 4-nodes.
+   3 5-nodes.
+   1 10-node.
+There were 4 warning(s).

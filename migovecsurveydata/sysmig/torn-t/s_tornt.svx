@@ -1,0 +1,26 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;System Mig - Torn T-Shirt Entrance
+
+;;;;;*fix Torn.26 534 975 1845;gps locations
+;*fix M2.1 561 936 1850   ;
+;*fix torn.26 -7.78 13.91 -6.64; data from surf1.pos
+
+*begin m18
+	*include ttc
+	*include ttc_up
+	*include ttc_low
+	*include turtle
+	*include shred
+	*include gallery
+	*include silos
+	*include void
+	*include dodge
+	*include zebra
+	*include plop
+	*include leki
+	*include plopzilla
+*end m18
+

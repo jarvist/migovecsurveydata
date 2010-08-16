@@ -1,0 +1,16 @@
+Survex 1.1.0
+Copyright ¸ 1990-2003 Olly Betts
+Survey has no fixed points. Therefore I've fixed gallery.2 at (0,0,0)
+
+Survey contains 18 survey stations, joined by 17 legs.
+There are 0 loops.
+Total length of survey legs =  101.46m ( 101.46m adjusted)
+Total plan length of survey legs =   50.10m
+Total vertical length of survey legs =   64.18m
+Vertical range = 58.75m (from void.15 at 4.89m to void.1 at -53.86m)
+North-South range = 18.67m (from void.17 at 0.00m to void.4 at -18.67m)
+East-West range = 28.28m (from void.17 at 0.00m to void.8 at -28.28m)
+cavern.exe: warning: Station `gallery.2' referred to just once, with an explicit prefix - typo?
+   2 1-nodes.
+  16 2-nodes.
+There were 1 warning(s).

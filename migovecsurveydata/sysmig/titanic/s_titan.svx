@@ -1,0 +1,12 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;System Mig - from titanic down
+
+
+*begin whitestar
+	*include titanic
+	*include olympic
+	*include maiden
+*end whitestar

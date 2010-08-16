@@ -1,0 +1,14 @@
+Survex 1.1.12
+Copyright ¸ 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed surf.96.s1.1 at (0,0,0)
+
+Survey contains 279 survey stations, joined by 285 legs.
+There are 7 loops.
+Total length of survey legs =    0.00m (   0.00m adjusted)
+Total plan length of survey legs =    0.00m
+Total vertical length of survey legs =    0.00m
+  27 1-nodes.
+ 222 2-nodes.
+  27 3-nodes.
+   2 4-nodes.
+   1 10-node.

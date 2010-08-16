@@ -1,0 +1,18 @@
+Survex 1.1.12
+Copyright (C) 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed garden.garden-ent.laurel.18 at (0,0,0)
+
+Survey contains 1098 survey stations, joined by 1098 legs.
+There are 3 loops.
+Survey has 3 connected components.
+Total length of survey legs = 6533.62m (6534.91m adjusted)
+Total plan length of survey legs = 4826.98m
+Total vertical length of survey legs = 2960.21m
+Vertical range = 798.06m (from garden.garden-ent.bclent2.0 at 31.16m to garden.garden-low.colarado.1 at -766.90m)
+North-South range = 961.98m (from garden.garden-low.hoover.1 at 621.10m to garden.garden-low.soda.2 at -340.88m)
+East-West range = 666.31m (from garden.vilinska.vilinent.1 at 73.43m to garden.garden-low.colarado.1 at -592.87m)
+  54 1-nodes.
+ 995 2-nodes.
+  45 3-nodes.
+   3 4-nodes.
+   1 5-node.

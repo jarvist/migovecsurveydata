@@ -1,0 +1,16 @@
+Survex 1.1.10
+Copyright ¸ 1990-2006 Olly Betts
+Survey has no fixed points. Therefore I've fixed level2.level2s.1 at (0,0,0)
+
+Survey contains 285 survey stations, joined by 285 legs.
+There is 1 loop.
+Total length of survey legs = 2419.79m (2420.19m adjusted)
+Total plan length of survey legs = 1370.56m
+Total vertical length of survey legs = 1510.53m
+Vertical range = 436.39m (from level2.level2s.14 at 49.43m to level2.penelope.13 at -386.96m)
+North-South range = 208.35m (from level2.exhib.6 at 134.99m to level2.toilet.1 at -73.35m)
+East-West range = 335.21m (from level2.migconleft.6 at 106.97m to level2.exhib.11 at -228.24m)
+  27 1-nodes.
+ 235 2-nodes.
+  19 3-nodes.
+   4 4-nodes.

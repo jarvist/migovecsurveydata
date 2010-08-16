@@ -1,0 +1,19 @@
+;#### KUK POT ####:
+; Also known as N9, discovered on winter blowing hole recce 2009.
+*date 2010 ; Vodna Sled 2010 - catch all
+
+*calibrate compass -2.62  ;2010 calibration
+
+;System file started by Jarvist on 25-6-10
+
+
+*begin kukpot 
+
+;minus a thousand, no problem!
+;data normal bcra grade 4
+;from   to      tape    comp    clino; L R U D
+ent	minus_a_thousand	1000.0  -  down
+
+*end kukpot
+
+*entrance kukpot.ent

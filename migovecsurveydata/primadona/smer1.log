@@ -1,0 +1,16 @@
+Survex 1.1.10
+Copyright ¸ 1990-2006 Olly Betts
+Survey has no fixed points. Therefore I've fixed smer0.43 at (0,0,0)
+
+Survey contains 19 survey stations, joined by 18 legs.
+There are 0 loops.
+Total length of survey legs =  114.15m ( 114.15m adjusted)
+Total plan length of survey legs =   96.25m
+Total vertical length of survey legs =   41.93m
+Vertical range = 22.51m (from smer1.7 at 22.51m to smer1.18 at 0.00m)
+North-South range = 58.18m (from smer1.1 at 58.18m to smer1.17 at -0.00m)
+East-West range = 65.94m (from smer1.17 at 0.00m to smer1.1 at -65.94m)
+cavern.exe: warning: Station `smer0.43' referred to just once, with an explicit prefix - typo?
+   2 1-nodes.
+  17 2-nodes.
+There were 1 warning(s).

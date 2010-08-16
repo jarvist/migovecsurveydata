@@ -1,0 +1,19 @@
+; System Razor
+; (c)2007 Imperial College Caving Club
+; Surveyed to BCRA Grade 4b
+
+;Main System File
+
+*copyright 2007 ICCC
+
+*begin razor
+
+*include razor1
+*include razor2
+*include razor3
+
+*end razor
+
+*fix razor.srazor.s1 5407312 5120455 1315 ; Razor hut itself; taken from 1:10'000 Map
+
+

@@ -1,0 +1,16 @@
+Survex 1.1.12
+Copyright ¸ 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed m17.0 at (0,0,0)
+
+Survey contains 30 survey stations, joined by 29 legs.
+There are 0 loops.
+Total length of survey legs =  228.50m ( 228.50m adjusted)
+Total plan length of survey legs =  170.97m
+Total vertical length of survey legs =  101.39m
+Vertical range = 95.64m (from m17.29 at 95.64m to m17.0 at 0.00m)
+North-South range = 47.34m (from m17.24 at 47.34m to m17.1 at 0.00m)
+East-West range = 27.36m (from m17.29 at 9.75m to m17.21 at -17.61m)
+   6 1-nodes.
+  21 2-nodes.
+   2 3-nodes.
+   1 4-node.

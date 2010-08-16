@@ -1,0 +1,36 @@
+;Whole migovec plateau
+; Clewin Griffith, Imperial College Caving Club 2001
+;edded Primadona- Zdenko Rejec- 11.2003
+
+*copyright 2001 ICCC
+
+
+; CAVES
+
+;Gardeners' World/Vrtnarija
+*include garden/s_garden
+
+*include others/freezer
+
+;Surface Surveys
+*include surface/surface
+
+*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
+*equate surf.01.sFR_GW.fr    	freezer.FR
+
+;Vilinska Jama, new entrance to GW
+*equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
+
+
+*entrance garden.garden-ent.bclent2.0  
+
+;*fix system.m2.izent1.16               5405040         5123930         1851
+;*fix system.m2.izent1.16 		5405040		5123930		1861
+;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843
+*fix surf.01.sFR_GW.gw	405095.82	123981.59	1780.66
+
+;Include DEM data at end as not always properly formatted
+*begin DEM
+*flags surface
+*include DEM/1500m_circle.svx
+*end DEM

@@ -1,0 +1,12 @@
+;West plaeau:
+; Primadona, Ubend, B9/M21/Jackie's Blower, Planika + Monatip
+
+*include surface/surface
+
+*include primadona/primadona
+*equate surf.07.surf_prima_planika.7 prim.prima1.35
+
+*include ubend/s_ubend
+*equate u-bend.ubend2.5 surf.07.surf_ubend_planika.1
+
+*equate u-bend.ubend_drainpipe.5 prim.drugi.8

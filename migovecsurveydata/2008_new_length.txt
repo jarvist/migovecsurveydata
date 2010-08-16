@@ -1,0 +1,20 @@
+Total length of survey shots =   94.50m (  94.50m adjusted)
+Total length of survey shots =   93.75m (  93.75m adjusted)
+Total length of survey shots =   63.70m (  63.70m adjusted)
+Total length of survey shots =   60.10m (  60.10m adjusted)
+Total length of survey shots =   41.85m (  41.85m adjusted)
+Total length of survey shots =  181.29m ( 181.29m adjusted)
+Total length of survey shots =   57.04m (  57.04m adjusted)
+Total length of survey shots =   40.65m (  40.65m adjusted)
+Total length of survey shots =   32.69m (  32.69m adjusted)
+Total length of survey shots =   81.94m (  81.94m adjusted)
+Total length of survey shots =    9.58m (   9.58m adjusted)
+Total length of survey shots =   43.38m (  43.38m adjusted)
+Total length of survey shots =   60.18m (  60.18m adjusted)
+Total length of survey shots =   44.93m (  44.93m adjusted)
+Total length of survey shots =   63.25m (  63.25m adjusted)
+Total length of survey shots =   60.64m (  60.64m adjusted)
+Total length of survey shots =   57.36m (  57.36m adjusted)
+[olpc@localhost mig]$ ./list_new_svx.sh | grep "Total length" | awk '{tot += $7} END {print tot}'
+1086.83
+

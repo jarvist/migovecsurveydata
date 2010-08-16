@@ -1,0 +1,14 @@
+Survex 1.1.12
+Copyright ¸ 1990-2007 Olly Betts
+
+Survey contains 13 survey stations, joined by 12 legs.
+There are 0 loops.
+Total length of survey legs =   65.00m (  65.00m adjusted)
+Total plan length of survey legs =   41.65m
+Total vertical length of survey legs =   45.14m
+Vertical range = 41.31m (from eastpole.13 at 1811.31m to eastpole.1 at 1770.00m)
+North-South range = 14.42m (from eastpole.12 at 5123214.42m to eastpole.1 at 5123200.00m)
+East-West range = 23.05m (from eastpole.13 at 5404713.05m to eastpole.1 at 5404690.00m)
+   3 1-nodes.
+   9 2-nodes.
+   1 3-node.

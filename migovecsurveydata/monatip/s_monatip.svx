@@ -1,0 +1,19 @@
+;Monatip cave:
+
+*begin s_monatip
+*date 2008
+;Generic date for monatip, will get overridden if any individual dates in file
+
+*include monatip
+*include monatip2
+
+*equate monatip.27 monatip2.27
+
+*include monatip3
+
+*include monatip4 ; 7.8.2008 - Aljosa, Izi, Dan G
+*include doubletime ; 7.8.2008 - Aljosa, Izi, Dan G
+*include broken_hammer ; 8.8.2008 - Izi, Tet, Samo
+*include alkatraz ; 8.8.2008 - Izi, Tet
+
+*end s_monatip

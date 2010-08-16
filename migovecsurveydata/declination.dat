@@ -1,0 +1,48 @@
+By NOAA American Webservice, with Lat + Long on M10/Bivi, calculated for 1st Aug of each year.
+http://www.ngdc.noaa.gov/geomagmodels/struts/calcDeclination
+
+2009    2 31' E changing by 0 6' E/year
+2008    2° 25' E changing by 0° 6' E/year 
+2007    Declination = 2° 18' E changing by 0° 6' E/year 
+2006    2° 12' E changing by 0° 6' E/year 
+2005    2° 6' E changing by 0° 6' E/year 
+2004    2° 0' E changing by 0° 5' E/year 
+2003    1° 54' E changing by 0° 5' E/year 
+2002    1° 49' E changing by 0° 5' E/year 
+2001    1° 43' E changing by 0° 5' E/year 
+2000    1° 38' E changing by 0° 5' E/year 
+1999    1° 33' E changing by 0° 4' E/year 
+1998    1° 28' E changing by 0° 4' E/year 
+1997    1° 23' E changing by 0° 4' E/year 
+1996    1° 18' E changing by 0° 4' E/year 
+1995    1° 13' E changing by 0° 4' E/year 
+1994    1° 8' E changing by 0° 4' E/year 
+
+1976    0° 30' W changing by 0° 6' E/year 
+
+1976:
+*calibrate compass +0.50
+
+1996:
+*calibrate compass -1.30
+
+2000:
+*calibrate compass -1.633
+
+2001:
+*calibrate compass -1.72
+
+2003:
+*calibrate compass -1.90
+
+2005:
+*calibrate compass -2.10
+
+2007:
+*calibrate compass -2.30
+
+2008:
+*calibrate compass -2.42
+
+2009:
+*calibrate compass -2.52

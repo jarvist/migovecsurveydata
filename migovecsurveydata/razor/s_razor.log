@@ -1,0 +1,15 @@
+Survex 1.1.12
+Copyright ¸ 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed razor.srazor.s1 at (0,0,0)
+
+Survey contains 62 survey stations, joined by 61 legs.
+There are 0 loops.
+Total length of survey legs =  207.75m ( 207.75m adjusted)
+Total plan length of survey legs =  173.13m
+Total vertical length of survey legs =   78.68m
+Vertical range = 24.84m (from razor.razor1.18 at -77.24m to razor.razor2.14 at -102.09m)
+North-South range = 76.95m (from razor.razor2.15 at 105.93m to razor.razor1.1 at 28.98m)
+East-West range = 29.11m (from razor.razor1.2 at -384.98m to razor.razor2.8 at -414.09m)
+   6 1-nodes.
+  52 2-nodes.
+   4 3-nodes.

@@ -1,0 +1,63 @@
+;Whole migovec plateau
+; Clewin Griffith, Imperial College Caving Club 2001
+;edded Primadona- Zdenko Rejec- 11.2003
+
+*copyright 2001 ICCC
+
+; CAVES
+
+*calibrate compass -1.633   ;catch-all Yr2000 Compass Declination
+
+;Just M2 and M18 (to locate silos)
+*include sysmig/m18_m2.svx
+
+;Gardeners' World/Vrtnarija
+*include garden/s_garden-ent-kangaroo
+*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
+
+;Vilinska Jama, new entrance to GW
+*equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
+
+
+;Surface Surveys
+*include surface/surface
+
+*equate surf.00.s1.M16       		system.m16ent.entrance.1
+;*equate surf.00.s4.pm        		primadona.prima1.35
+
+*equate surf.01.sFR_GW.fr    	freezer.FR
+*equate surf.01.sM17_NSCa.M17       	m17.29 
+
+;*equate surf.96.s1.M2  		system.m2.izent2.19
+*equate surf.96.s1.M18		system.m18.torn.26
+
+;*equate surf.00.s1.m10 surf.96.s1.M10
+
+*entrance system.m16ent.entrance.1
+*entrance garden.garden-ent.bclent2.0  
+;*entrance others.m17.29
+*entrance surf.01.sM17_NSCa.M17
+;*entrance surf.01.sM17_NSCb.nsc
+*entrance system.m2.izent1.16 
+*entrance system.m2.izent2.19
+
+*fix system.m2.izent1.16        405040         123930         1851
+;*fix system.m2.izent1.16 		5405040		5123930		1861
+;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843
+
+;I'm making up the following, to fit the DEM data
+;*fix system.m2.izent1.16        405080         123930         1851
+
+*begin VIEWPOINTS
+*flags surface
+*fix PARADISO 402199.939 116088.251 200
+*fix RAVNE    405167.010 121638.182 1000
+*entrance RAVNE
+*entrance PARADISO
+*end VIEWPOINTS
+
+;Include DEM data at end as not always properly formatted
+*begin DEM
+*flags surface
+*include DEM/1500m_circle_delta50.svx
+*end DEM

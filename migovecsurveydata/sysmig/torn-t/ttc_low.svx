@@ -1,0 +1,49 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;       >       TTC     (M18)   
+
+;M18 
+
+;Date: 1995????
+;Instruments:
+;Book: 
+
+;Data entered by
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+*equate lowerrift.2 torn.2
+
+*begin lowerrift                      
+
+2       100     2.7     281     -5
+100     101     3       -       Down
+101     102     2.5     271     20
+102     103     3.3     245     12
+103     104     2.1     270     -5
+104     105     3       220     0
+105     106     4.3     270     30
+106     107     7.8     -       Down
+107     108     3.3     216     -12
+108     109     1.95    231     26
+109     110     1.5     145     31
+110     111     2.3     229     23
+111     112     1.95    260     -57
+112     113     2.5     229     -40
+113     114     3.4     -       Down
+114     115     3.5     274     16
+115     116     3.5     248     -4
+116     117     2.4     345     0
+117     118     6.3     350     -69
+118     119     4.6     277     22
+119     120     0.85    256     8
+120     121     3       309     -37
+121     122     2       227     -21
+122     123     3       276     -54
+123     124     2.65    184     4
+
+*end lowerrift
+

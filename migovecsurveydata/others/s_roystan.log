@@ -1,0 +1,34 @@
+Survex 1.0.27
+Copyright (C) 1990-2004 Olly Betts
+
+Removing trailing traverses...
+
+Concatenating traverses between nodes...
+
+Simplifying network...
+
+Calculating network...
+
+Calculating traverses between nodes...
+
+Calculating trailing traverses...
+
+Calculating statistics...
+
+Survey contains 13 survey stations, joined by 12 legs.
+There are 0 loops.
+Total length of survey legs =   46.42m (  46.42m adjusted)
+Total plan length of survey legs =   22.81m
+Total vertical length of survey legs =   33.97m
+Vertical range = 29.75m (from roystan2.7 at 1847.59m to roystan1.1 at 1817.84m)
+North-South range = 13.29m (from roystan2.7 at 5123802.37m to roystan1.2 at 5123789.08m)
+East-West range = 11.49m (from roystan2.7 at 5404911.90m to roystan1.1 at 5404900.41m)
+   3 1-nodes.
+   9 2-nodes.
+   1 3-node.
+CPU time used  0.11s
+Done.
+.
+   1 3-node.
+CPU time used  0.06s
+Done.

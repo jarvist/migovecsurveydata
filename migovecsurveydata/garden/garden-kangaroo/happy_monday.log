@@ -1,0 +1,16 @@
+Survex 1.1.12
+Copyright (C) 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed happy_monday.1 at (0,0,0)
+
+Survey contains 8 survey stations, joined by 7 legs.
+There are 0 loops.
+Total length of survey legs =   92.90m (  92.90m adjusted)
+Total plan length of survey legs =   18.76m
+Total vertical length of survey legs =   85.32m
+Vertical range = 80.67m (from happy_monday.5 at 80.67m to happy_monday.1 at 0.00m)
+North-South range = 12.15m (from happy_monday.6 at 12.15m to happy_monday.3 at 0.00m)
+East-West range = 6.76m (from happy_monday.5 at 0.80m to happy_monday.0 at -5.96m)
+cavern.exe: warning: Station `walk_the_line_b.1' referred to just once, with an explicit prefix - typo?
+   2 1-nodes.
+   6 2-nodes.
+There were 1 warning(s).

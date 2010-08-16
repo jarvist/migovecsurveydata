@@ -1,0 +1,19 @@
+Survex 1.1.12
+Copyright (C) 1990-2007 Olly Betts
+Survey has no fixed points. Therefore I've fixed kangaroo.pico.13 at (0,0,0)
+
+Survey contains 330 survey stations, joined by 329 legs.
+There are 0 loops.
+Total length of survey legs = 1524.87m (1524.87m adjusted)
+Total plan length of survey legs =  917.55m
+Total vertical length of survey legs =  904.30m
+Vertical range = 440.80m (from kangaroo.kangaroo01.23 at 0.05m to kangaroo.fools_road.5 at -440.75m)
+North-South range = 252.71m (from kangaroo.bonus.12 at 40.19m to kangaroo.fools_road.1 at -212.52m)
+East-West range = 90.06m (from kangaroo.kangaroo01.8 at 7.66m to kangaroo.primula.west at -82.40m)
+cavern.exe: warning: Station `kangaroo.pico.13' referred to just once, with an explicit prefix - typo?
+  20 1-nodes.
+ 295 2-nodes.
+  13 3-nodes.
+   1 4-node.
+   1 5-node.
+There were 1 warning(s).
