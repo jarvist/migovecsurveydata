@@ -30,10 +30,12 @@
 9	8	15.58	57	+4	;.8 0 3 2 0
 9	10	5.73	198	-20	;.9 0 3 2 0
 11	10	12.20	121	-4	;.10 1 1 2 0
-11	12	18.23	298	+45	;.11 1 1 5 0
+11	12	8.23	298	+45	;.11 1 1 5 0
 12	13	4.40	152	+12	;.12 1 4 3 1
 
+*flags splay
 1	pseudosump	10.05	130	-5.71
+*flags not splay
 ;based on trig from comment below
 
 ;Notes on flipside of p1/5
@@ -67,6 +69,7 @@
 ;.7 should as top of T-piece, with other way on at ground level labelled "--> LEAD?" and shown as "TIGHT"
 
 ;p3/5
+*flags duplicate
 13	14	11.10	143	-22
 ;lots more, I'm skipping the LRUD data for speed - it's all rather boring & rounded to 1 metre anyway
 
@@ -78,16 +81,16 @@
 19	20	9.29	011	+13
 21	20	7.65	247	-23
 21	22	18.45	307	+3	;indistinct length in metre column, could be 12.45
-23	22	7.13	002	-49
+23	22	7.13	2	-49
 23	24	6.07	112	+2
 25	24	8.82	301	-30
 ;end of p3/5 - no notes on flipside
 
 ;p4/5
 25	26	7.98	200	+9
-27	26	9.90	359	-11
-27	28	5.26	364	-3	; DAMN ME THIS IS EXTREMELY SUSPICIOUS! 
-29	28	5.26	364	-3	; IDENTICAL LEGS, IN OPPOSITION, WITH THETA>360 deg!
+27	26	9.90	359	-11	; >360 compass reading?!?
+27	28	8.10	268	-7
+29	28	5.26	364	-3	; >360 compass reading?!?
 29	30	30.20	119	+21	; length indisdinct
 31	30	30.20	299	-13	; compass indisdinct
 31	32	7.33	118	+44
@@ -103,6 +106,7 @@
 39	38	5.55	348	+13
 40	39	9.65	341	+10
 41	40	13.30	315	-6
+*flags not duplicate
 42	41	2.80	267	-11	;direction of next few legs unclear - arrows have been crossed out & redrawn
 43	42	2.80	230	-24
 44	43	6.50	313	-11

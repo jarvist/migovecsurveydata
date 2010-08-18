@@ -29,6 +29,12 @@
 *include others/freezer
 *include others/M17
 
+*include others/M19
+*equate surf.96.s2.m19 M19.28
+
+*include others/PF10
+*equate gps.pf10 PF10.1
+
 *include others/M1
 *equate surf.96.s1.M1		M1.1
 *entrance M1.1
@@ -57,9 +63,12 @@
 *equate u-bend.ubend2.5 surf.07.surf_ubend_planika.1
 *equate u-bend.ubend2.5 surf.00.s4.UB
 
-*include others/julie
-*equate julie.17 surf.07.surf_ubend_planika.9
-;*entrance julie.17
+*include others/b9
+*equate B9.23 surf.07.surf_ubend_planika.9
+*entrance B9.23 
+
+*include others/hawk
+*equate hawk.1 gps.HAWK
 
 *include others/E1
 *equate E1.bolt surf.08.surf_m2e1.bolt

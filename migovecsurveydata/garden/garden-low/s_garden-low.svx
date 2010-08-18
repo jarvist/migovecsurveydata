@@ -23,6 +23,8 @@
 	*include nitro		;1.8.04 - Tom Ayles + J Hooper 
 	*include potato		;09.08.2003- Pete Jurd, J Hooper (Tetley)
 	*include doublethink	;06.08.2003- Jan Evetts, Tim Wright
+	
+	*include thirdthoughts	;6.8.03 - PJ (Pete Jurd) / RV (Richard Venn) - data seems rather poor, not entered till 2010
 
 ;a few additions JMF Oct 2009 to aid navigation
 *equate cascade.12 PLAYBOY_JUNCTION ; - see cascade for orig notes
@@ -38,24 +40,47 @@
 	*include beyond		; 1.8.2004 - James Hooper, Thomas Ayles
 	*include blind		;30-31.7.2004 - James Hooper, Thomas Ayles
 	*include greed		;31.7.2004 - James Hooper, Thomas Ayles
-;		*include mad_cow	;31/07/04 - Andy Jurd, Richard Venn - DATA ENTERED 2009!
 	*include balamory	;2.8.2004 - Jim Evens, Michael Rogerson
 	*include colarado	;2.8.2004 - Jan Evetts, Michael Rogerson
 	*include brownriceinlet	;3.8.2004 - Dave Wilson, Jim Evens, Mark Evens
 	*include envy		;3.8.2004 - Dave Wilson, Jim Evens, Mark Evens
 	*include hoover		;4.8.2004 - Dave Wilson, Jim Evens, Mark Evens
 
+	*include nevermore	;????	-	???? Unlabelled notes, data entered July 2010 - resurvey of gold. mad cow tied into this 
+	*include mad_cow	;31/07/04 - Andy Jurd, Richard Venn - DATA ENTERED 2009!
+
 ;EXPO 2009
 *date 2009
 *calibrate compass -2.52
 	*include republica	;7.8.2009 - James 'Tetley' Hooper, Samo Rutar
-	*include belowzimmer	;15.8.09   - Gergely Ambrus , Dave Wilson Jana Carga
+
+	*include belowzimmer	;15.8.09   - Gergely Ambrus , Dave Wilson, Jana Carga
 	*include eggsplosive	;17.8.09  - James Kirkpatrick, Tim Osborne
 ;EXPO 2010
 *date 2010
 *calibrate compass -2.62
-;INCLUDE MASSIVE FINDS HERE... :D :) :D :)
 
+	; ### INCLUDE MASSIVE FINDS HERE... :D :) :D :) ####
+	*include korita		; 24.7.2010 - Myles, Tetley
+	*include wonderland 	; 25.7.2010 - Gergely, Andy
+	*include consort 	; 25.7.2010 - Gergely, Andy
+	*include serpentine 	; 26.7.2010 - JMF, Mike "T1000" Foley, Kate Smith
+	*include blackknight 	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper	
+	*include sidewinder	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper
+	*include insomnia	; 28.7.2010 - Jan Evetts, James Kirkpatrick
+	*include minos		; 30.7.2010 - Dan Greenwald, Izi - includes King Minos palace 1 + 2 etc.
+	*include esoterica	; 29.7.2010 - Jan Evetts, James Kirkpatrick
+	*include rolling	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include surprise	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include mudstone	; 29.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include crack_in_time	;  1.8.2010 - Jarvist Frost, Jana Carga
+	*include kamikaze	;  3.8.2010 - James Kirkpatrick, Dave Wilson
+	*include povodni_moz	;  3.8.2010 - Izi, Eric
+	*include losthopes	;  6.8.2010 - Thara, Nikolas
+	*include whitebishop	;  7.8.2010 - Jarv, Myles
+	*include stalemate	;  7.8.2010 - Jarv, Myles
+	*include itwillrain	;  8.8.2010 - James KP, William
+	*include povodni_moz2   ;  7.8.2010 - James Hooper, Fratnik
 *end garden-low
 
 ;from email with Tet, Oct 2009 - "Yes - [Camp is] right at the junction with mushroom passage"

@@ -3,8 +3,11 @@
 ;THIS IS NOW JUST AN INCLUDE FILE FOR THE SUBDIERCTORIES!
 ;PLEASE ENTER NEW DATA BELOW HERE - Jarv 31-7-08
 
+*infer plumbs on
+
 *begin garden
 *calibrate compass -1.633
+*date 2000
   *include garden-ent/s_garden-ent
 
 ;2008

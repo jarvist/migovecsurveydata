@@ -28,6 +28,8 @@
 ;.1 is PSS at top of pitch
 ;.3 is PSS
 ;.12 is PSS bolt at top of drop - JNH thinks is AJ/RV 31/7/04 station 11
+; NB: JMF, 07-2010 - I believe this has to be mad_cow.7 (11 is a long way back) .7 is PSS bolt at top of pitch down to sump, which tallies with all descriptions.
+
 
 ;.16 is PSS at end of sandy passage
 ;.13 is lower bolt at head of pitch
@@ -50,8 +52,10 @@
 15	23	0.80	084	00
 
 ;Pseudo leg down rift / pitch
-;21	pesudo	30.0	-	down	; you can see at least 30m down this rift...
+*flags splay
+21	pesudo	30.0	-	down	; you can see at least 30m down this rift...
 
 *end republica
 
-*equate republica.12 cow.3 
+;*equate republica.12 cow.3 
+*equate republica.12 mad_cow.7

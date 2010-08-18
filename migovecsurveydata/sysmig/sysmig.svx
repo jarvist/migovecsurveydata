@@ -4,6 +4,8 @@
 
 ;Main System File
 
+*infer plumbs on
+
 *copyright 2000 ICCC
 
 *begin system
@@ -24,6 +26,7 @@
 *equate hotelt.hotel.1	     coldfeet.pinkp.1
 *equate pdox.cowboys.13      coldfeet.rameses.2
 
+*equate hotelt.hotel.1 HOTEL_TOLMINKA
 
 *include torn-t\s_tornt
 *include m16-ent\s_m16ent

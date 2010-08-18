@@ -147,7 +147,7 @@ b	a	10.90154806	284.3645824	-44.78041976
 ; Pseudoleg at bottom of M2
 ; APSJ and JNH 5 August 2008
 
-51	pseudo1	8	30	+20
+51	SmelltheGlove	8	30	+20
 ;in opposite direction to rift which was pushed on Oct08 real data
 ;AJ says, Feb 2009:
 ;Final pitch drops into small chamber with water trickling through ~10cm groove in floor to rift which was opened up
@@ -188,6 +188,13 @@ Start   DrinksCabinet   20.00   180 +00
 *end Oct09
 
 *equate Oct09.Start Oct08.1
+
+*begin 2010
+;Sort out mess :( Anyone for a spot of surveying?
+*date 2010
+*calibrate compass -2.62
+
+*end 2010
 
 *end m2
 

@@ -29,6 +29,7 @@
 ;.1 - - 80+ 0
 
 ;made up to get somewhere to place LRUD data on
+*flags splay
 0	wall	7.16	291	+27
 0	mudhole	12.16	111	+27
 

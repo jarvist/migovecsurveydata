@@ -11,8 +11,8 @@
 
 ;minus a thousand, no problem!
 ;data normal bcra grade 4
-;from   to      tape    comp    clino; L R U D
-ent	minus_a_thousand	1000.0  -  down
+;from   to      	tape    comp    clino; L R U D
+ent	minus_ten	10.0  -  down
 
 *end kukpot
 

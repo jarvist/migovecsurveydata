@@ -10,6 +10,7 @@
 
 
 *begin cow
+*flags duplicate ; superseded by Mad Cow, JMF 2010-07
 
 2	1	5.73	086	-19 ; stn 1 is pitch head
 3	2	4.73	112	-55 ; stn 3 is bolt
