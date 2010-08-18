@@ -12,8 +12,7 @@
 
 *begin palace 
 *data normal from to compass clino tape ignoreall
-;data normal bcra grade 4
-;from   to      tape    comp    clino; L R U D
+*units clino percent
 
 ;Data is on 1 page
 ;p1/1
@@ -24,9 +23,6 @@
 4	3	192	-12	8.90
 5	4	182	-51	9.73
 6	5	044	-06	2.43
-
-
-;TO BE CONVERTED LATER
 
 *end palace
 
