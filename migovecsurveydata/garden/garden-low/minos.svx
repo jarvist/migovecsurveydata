@@ -12,7 +12,8 @@
 
 *begin palace 
 *data normal from to compass clino tape ignoreall
-*units clino percent
+;data normal bcra grade 4
+;from   to      tape    comp    clino; L R U D
 
 ;Data is on 1 page
 ;p1/1
@@ -23,6 +24,9 @@
 4	3	192	-12	8.90
 5	4	182	-51	9.73
 6	5	044	-06	2.43
+
+
+;TO BE CONVERTED LATER
 
 *end palace
 
@@ -149,6 +153,7 @@
 *end ouroboros
 
 *equate ouroboros.23 palace2.3
+;*equate ouroboros.1 consort.5
 
 ;LRUD Data as below - introduce a new *data line if there's breaks in the survey
 ;*data passage station left right up down ignoreall

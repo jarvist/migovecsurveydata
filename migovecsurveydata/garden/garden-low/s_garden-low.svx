@@ -60,26 +60,32 @@
 *date 2010
 *calibrate compass -2.62
 
+
 	; ### INCLUDE MASSIVE FINDS HERE... :D :) :D :) ####
 	*include korita		; 24.7.2010 - Myles, Tetley
-	*include wonderland 	; 25.7.2010 - Gergely, Andy
-	*include consort 	; 25.7.2010 - Gergely, Andy
-	*include serpentine 	; 26.7.2010 - JMF, Mike "T1000" Foley, Kate Smith
 	*include blackknight 	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper	
 	*include sidewinder	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper
-	*include insomnia	; 28.7.2010 - Jan Evetts, James Kirkpatrick
-	*include minos		; 30.7.2010 - Dan Greenwald, Izi - includes King Minos palace 1 + 2 etc.
-	*include esoterica	; 29.7.2010 - Jan Evetts, James Kirkpatrick
+	*include crack_in_time	;  1.8.2010 - Jarvist Frost, Jana Carga
+	*include whitebishop	;  7.8.2010 - Jarv, Myles
+	*include stalemate	;  7.8.2010 - Jarv, Myles
+	
+	*include wonderland 	; 25.7.2010 - Gergely, Andy
 	*include rolling	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
 	*include surprise	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
 	*include mudstone	; 29.7.2010 - Nicolas Kral, Gergely Ambrus
-	*include crack_in_time	;  1.8.2010 - Jarvist Frost, Jana Carga
-	*include kamikaze	;  3.8.2010 - James Kirkpatrick, Dave Wilson
-	*include povodni_moz	;  3.8.2010 - Izi, Eric
 	*include losthopes	;  6.8.2010 - Thara, Nikolas
-	*include whitebishop	;  7.8.2010 - Jarv, Myles
-	*include stalemate	;  7.8.2010 - Jarv, Myles
-	*include itwillrain	;  8.8.2010 - James KP, William
+	*include kamikaze	;  3.8.2010 - James Kirkpatrick, Dave Wilson
+	
+	*include consort 	; 25.7.2010 - Gergely, Andy
+	*include serpentine 	; 26.7.2010 - JMF, Mike "T1000" Foley, Kate Smith
+
+	*include insomnia	; 28.7.2010 - Jan Evetts, James Kirkpatrick
+
+	*include minos		; 30.7.2010 - Dan Greenwald, Izi - includes King Minos palace 1 + 2 etc.
+	*include esoterica	; 29.7.2010 - Jan Evetts, James Kirkpatrick
+	*include povodni_moz	;  3.8.2010 - Izi, Eric
+
+*include itwillrain	;  8.8.2010 - James KP, William
 	*include povodni_moz2   ;  7.8.2010 - James Hooper, Fratnik
 *end garden-low
 

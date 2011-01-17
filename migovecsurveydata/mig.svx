@@ -92,7 +92,7 @@
 *equate surf.01.sFR_GW.fr    	freezer.FR
 *equate surf.01.sM17_NSCa.M17       	m17.29 
 
-;*equate surf.96.s1.M2  		system.m2.izent2.19
+*equate surf.96.s1.M2  		system.m2.izent2.19
 *equate surf.96.s1.M18		system.m18.torn.26
 
 ;*equate surf.00.s1.m10 surf.96.s1.M10

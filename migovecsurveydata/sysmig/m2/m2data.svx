@@ -189,6 +189,10 @@ Start   DrinksCabinet   20.00   180 +00
 
 *equate Oct09.Start Oct08.1
 
+*date 2010
+
+Oct08.1		SUPER_ACTION	70	-	down
+
 *begin 2010
 ;Sort out mess :( Anyone for a spot of surveying?
 *date 2010

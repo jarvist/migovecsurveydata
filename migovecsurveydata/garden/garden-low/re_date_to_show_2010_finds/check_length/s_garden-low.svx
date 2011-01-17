@@ -1,0 +1,49 @@
+;Gardener's World Cave (originally called BCL (or Ben's Crap Lead)) found in 2000
+
+*begin garden-low
+;EXPO 2010
+*calibrate compass -2.62
+
+
+	; ### INCLUDE MASSIVE FINDS HERE... :D :) :D :) ####
+	*date 1970
+	*include korita		; 24.7.2010 - Myles, Tetley
+	*include blackknight 	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper	
+	*include sidewinder	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper
+	*include crack_in_time	;  1.8.2010 - Jarvist Frost, Jana Carga
+	*include whitebishop	;  7.8.2010 - Jarv, Myles
+	*include stalemate	;  7.8.2010 - Jarv, Myles
+	
+	*date 1985
+	*include wonderland 	; 25.7.2010 - Gergely, Andy
+	*include rolling	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include surprise	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include mudstone	; 29.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include losthopes	;  6.8.2010 - Thara, Nikolas
+	*include kamikaze	;  3.8.2010 - James Kirkpatrick, Dave Wilson
+	
+	*date 1980
+	*include consort 	; 25.7.2010 - Gergely, Andy
+	*include serpentine 	; 26.7.2010 - JMF, Mike "T1000" Foley, Kate Smith
+	*include itwillrain	;  8.8.2010 - James KP, William
+
+	*date 1975
+	*include insomnia	; 28.7.2010 - Jan Evetts, James Kirkpatrick
+
+	*date 1990
+	*include minos		; 30.7.2010 - Dan Greenwald, Izi - includes King Minos palace 1 + 2 etc.
+	*include esoterica	; 29.7.2010 - Jan Evetts, James Kirkpatrick
+	*include povodni_moz	;  3.8.2010 - Izi, Eric
+
+	*include povodni_moz2   ;  7.8.2010 - James Hooper, Fratnik
+*end garden-low
+
+;from email with Tet, Oct 2009 - "Yes - [Camp is] right at the junction with mushroom passage"
+*equate garden-low.mushroom.15 THE_FRIDGE
+*entrance THE_FRIDGE
+
+
+;added camp x-ray explicitly
+*equate garden-low.friend.12 CAMP_X-RAY
+;Make it appear with a nice friendly green dot
+*entrance CAMP_X-RAY
