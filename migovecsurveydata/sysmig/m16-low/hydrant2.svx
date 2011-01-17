@@ -24,3 +24,14 @@
 
 *end hydrant2
 
+
+*begin ROTTING
+*date 1991
+*flags SPLAY 
+; 'M16 surveyed to -547 in 1983. Hydrant2. 3 is at 425m deep.'
+SOCIALISM COMMUNISM 	122.0 	- 	down
+*flags not SPLAY
+*end ROTTING
+
+*equate ROTTING.SOCIALISM hydrant2.3
+

@@ -64,8 +64,9 @@
 *equate u-bend.ubend2.5 surf.00.s4.UB
 
 *include others/b9
-*equate B9.23 surf.07.surf_ubend_planika.9
-*entrance B9.23 
+*equate B9.22 surf.07.surf_ubend_planika.9
+*entrance B9.23
+*entrance B9.22 
 
 *include others/hawk
 *equate hawk.1 gps.HAWK

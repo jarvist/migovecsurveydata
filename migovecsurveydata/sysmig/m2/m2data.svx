@@ -13,7 +13,8 @@
 ;from	to	tape	comp	clino
 
 *begin m2
-*date 1976
+*date 1990 ;lie about the date to make the display nicer!
+;*date 1976
 
 ;by NOAA webservice, declination is
 ;1976    0° 30' W changing by 0° 6' E/year
