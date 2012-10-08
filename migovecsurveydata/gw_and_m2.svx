@@ -12,7 +12,9 @@
 *include sysmig/m18_m2.svx
 
 ;Gardeners' World/Vrtnarija
-*include garden/s_garden-ent-kangaroo
+;*include garden/s_garden-ent-kangaroo
+*include garden/s_garden
+
 *equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
 
 ;Vilinska Jama, new entrance to GW
@@ -59,5 +61,6 @@
 ;Include DEM data at end as not always properly formatted
 *begin DEM
 *flags surface
-*include DEM/1500m_circle_delta50.svx
+*include DEM/east_west_lines.svx
+;*include DEM/1500m_circle_delta50.svx
 *end DEM

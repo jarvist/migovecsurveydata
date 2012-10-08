@@ -11,9 +11,8 @@
 *begin system
 *flags not surface
 
-*date 1999
+*date 1996
 ;Generic date, will get overridden in individual data files if date present
-
 *calibrate compass -1.30
 ;1996    1° 18' E changing by 0° 4' E/year
 
@@ -34,7 +33,7 @@
 *include level2\s_levl2
 *include hotel\s_hotel
 *include coldfeet\s_coldft
-*include m2\m2data
+*include m2\m2dataFeb2012.svx
 *include titanic\s_titan
 *include paradox\s_parad
 

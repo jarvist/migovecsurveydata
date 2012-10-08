@@ -89,29 +89,29 @@ Original length   1.65m (  1 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
 H: 0.000000 V: 0.000000
 
 surf.96.s1.1 - surf.96.s1.m18
-Original length  12.87m (  1 legs), moved   0.45m ( 0.45m/leg). Error   3.50%
-2.627182
-H: 3.300677 V: 1.306943
+Original length  12.87m (  1 legs), moved   0.45m ( 0.45m/leg). Error   3.48%
+2.613726
+H: 3.282866 V: 1.303218
 
 surf.00.s1.m10 - surf.00.s1.18
 Original length  21.24m (  1 legs), moved   0.46m ( 0.46m/leg). Error   2.17%
-1.711487
-H: 1.343514 V: 2.047411
+1.711615
+H: 1.343858 V: 2.047384
 
 system.m16ent.brezno.48 - system.m16ent.brezno.49 - system.m16ent.brezno.50
 Original length  21.15m (  2 legs), moved   0.34m ( 0.17m/leg). Error   1.59%
-1.940428
-H: 2.370290 V: 0.960902
+1.941974
+H: 2.372389 V: 0.960872
 
 system.m16ent.hotline.3 - system.m16ent.hotline.13 - system.m16ent.hotline.14 - system.m16ent.hotline.15 = system.m16ent.brezno.48
 Original length  23.05m (  3 legs), moved   0.33m ( 0.11m/leg). Error   1.43%
-1.648420
-H: 2.090648 V: 0.295915
+1.643437
+H: 2.084285 V: 0.295517
 
 system.m16ent.hotline.3 - system.m16ent.hotline.4 - system.m16ent.hotline.6 - system.m16ent.hotline.16 - system.m16ent.hotline.17 - system.m16ent.hotline.18 = system.m16ent.brezno.50
 Original length  69.39m (  5 legs), moved   1.07m ( 0.21m/leg). Error   1.54%
-2.657591
-H: 2.719992 V: 2.558211
+2.659126
+H: 2.722335 V: 2.558421
 
 system.m16low.galact2.4 - system.m16low.galact2.5 - system.m16low.galact2.6 - system.m16low.galact2.7 - system.m16low.galact2.8 - system.m16low.galact2.9 - system.m16low.galact2.10 = system.m16low.galact1.8 - system.m16low.galact1.7 - system.m16low.galact1.6 - system.m16low.galact1.5 - system.m16low.galact1.4 - system.m16low.galact1.3 - system.m16low.galact1.2 - system.m16low.galact1.1 = system.m16low.tamoka.3 - system.m16low.tamoka.2 - system.m16low.tamoka.1 = system.m16low.shordrop2.6 - system.m16low.shordrop2.5 - system.m16low.shordrop2.4 - system.m16low.shordrop2.3 - system.m16low.shordrop2.2 - system.m16low.shordrop2.1 = system.m16low.shordrop.1 - system.m16low.shordrop.2 - system.m16low.shordrop.3 - system.m16low.shordrop.4 - system.m16low.shordrop.5 - system.m16low.shordrop.6 - system.m16low.shordrop.7 = system.m16ent.brezno.50
 Original length 250.28m ( 26 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
@@ -134,14 +134,14 @@ Original length  88.42m (  9 legs), moved   1.46m ( 0.16m/leg). Error   1.65%
 H: 3.916508 V: 2.048318
 
 system.level2.level2s.6 - system.level2.level2s.7 - system.level2.level2s.8 - system.level2.level2s.9 - system.level2.level2s.10 - system.level2.level2s.11 - system.level2.level2s.12 - system.level2.level2s.13 - system.level2.level2s.14 = system.m18.void.6 - system.m18.void.7 - system.m18.void.8 - system.m18.void.9 - system.m18.void.10 - system.m18.void.11 - system.m18.void.12 - system.m18.void.13 - system.m18.void.14 - system.m18.void.15 - system.m18.void.16 - system.m18.void.17 = 
-Original length 110.38m ( 19 legs), moved   0.39m ( 0.02m/leg). Error   0.35%
-0.920650
-H: 0.250665 V: 1.598718
+Original length 110.38m ( 19 legs), moved   0.39m ( 0.02m/leg). Error   0.36%
+0.921073
+H: 0.250635 V: 1.599503
 
 system.level2.level2s.6 - system.level2.level2s.5 - system.level2.level2s.4 - system.level2.level2s.3 - system.level2.level2s.2 - system.level2.level2s.1 = system.level2.migcon.7 - system.level2.migcon.6 - system.level2.migcon.5 - system.level2.migcon.4 - system.level2.migcon.3 - system.level2.migcon.2 - system.level2.migcon.1 = system.level2.migconleft.1 - system.level2.migconleft.2 - system.level2.migconleft.3 - system.level2.migconleft.4 - system.level2.migconleft.5 - system.level2.migconleft.6 = system.m16ent.hotline.7 - system.m16ent.hotline.8 - system.m16ent.hotline.9 - system.m16ent.hotline.10 - system.m16ent.hotline.11 - system.m16ent.hotline.12 - system.m16ent.hotline.1 - system.m16ent.hotline.2 - system.m16ent.hotline.3
 Original length 311.56m ( 24 legs), moved   2.43m ( 0.10m/leg). Error   0.78%
-2.644034
-H: 0.261351 V: 3.989101
+2.642769
+H: 0.240136 V: 3.988901
 
 system.level2.exhib.22 - system.level2.exhib.23 - system.level2.exhib.24 - system.level2.exhib.10 - system.level2.exhib.25 - system.level2.exhib.26 - system.level2.exhib.27 - system.level2.exhib.28 - system.level2.exhib.29 = system.level2.level2n.4 - system.level2.level2n.3 - system.level2.level2n.2 - system.level2.level2n.1 = system.level2.level2s.6
 Original length 163.18m ( 11 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
@@ -164,9 +164,9 @@ Original length  79.80m ( 16 legs), moved   6.32m ( 0.40m/leg). Error   7.92%
 H: 21.050379 V: 2.859259
 
 system.m2.izent1.14 - system.m2.izent1.13 - system.m2.izent1.12 - system.m2.izent1.11 - system.m2.izent1.10 - system.m2.izent1.9 - system.m2.izent1.8 - system.m2.izent1.7 - system.m2.izent1.6 - system.m2.izent1.5 - system.m2.izent1.4 - system.m2.izent1.3 - system.m2.izent1.2 - system.m2.izent1.1 = system.m2.jspdt.1 - system.m2.jspdt.2 - system.m2.jspdt.3 - system.m2.jspdt.4 - system.m2.jspdt.5 - system.m2.jspdt.6 - system.m2.jspdt.7 - system.m2.jspdt.8 - system.m2.jspdt.9 - system.m2.jspdt.10 - system.m2.jspdt.11 - system.m2.jspdt.12 - system.m2.jspdt.13 - system.m2.jspdt.14 - system.m2.jspdt.15 - system.m2.jspdt.16 - system.m2.jspdt.17 - system.m2.jspdt.18 - system.m2.jspdt.19 - system.m2.jspdt.20 - system.m2.jspdt.21 - system.m2.jspdt.22 - system.m2.jspdt.23 - system.m2.jspdt.24 = system.m18.silos.8 - system.m18.silos.7 - system.m18.silos.6 - system.m18.silos.5 - system.m18.silos.4 - system.m18.silos.3 - system.m18.silos.2 - system.m18.silos.1 = system.m18.gallery.2
-Original length 458.76m ( 43 legs), moved  14.06m ( 0.33m/leg). Error   3.07%
-12.788990
-H: 13.499797 V: 6.019832
+Original length 458.76m ( 43 legs), moved  14.01m ( 0.33m/leg). Error   3.05%
+12.744730
+H: 13.451906 V: 6.016867
 
 system.m2.izent1.14 - system.m2.izent1.15 - system.m2.izent1.16
 Original length  32.36m (  2 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
@@ -174,44 +174,89 @@ Original length  32.36m (  2 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
 H: 0.000000 V: 0.000000
 
 garden.garden-low.fallsrd.1 - garden.garden-low.fallsrd.2 - garden.garden-low.fallsrd.3 - garden.garden-low.fallsrd.4 - garden.garden-low.fallsrd.5 = garden.kangaroo.fools_road.3 - garden.kangaroo.fools_road.4 - garden.kangaroo.fools_road.5 = garden.kangaroo.free_amalgamation.1 - garden.kangaroo.free_amalgamation.2 - garden.kangaroo.free_amalgamation.3 - garden.kangaroo.free_amalgamation.4 - garden.kangaroo.free_amalgamation.5 - garden.kangaroo.free_amalgamation.6 - garden.kangaroo.free_amalgamation.7 - garden.kangaroo.free_amalgamation.8 - garden.kangaroo.free_amalgamation.9 - garden.kangaroo.free_amalgamation.10 = garden.kangaroo.happy_monday.1 - garden.kangaroo.happy_monday.2 - garden.kangaroo.happy_monday.3 - garden.kangaroo.happy_monday.4 - garden.kangaroo.happy_monday.5 - garden.kangaroo.happy_monday.6 = garden.kangaroo.walk_the_line_b.1 - garden.kangaroo.walk_the_line_b.2 - garden.kangaroo.walk_the_line_b.3 - garden.kangaroo.walk_the_line_b.4 - garden.kangaroo.walk_the_line_b.5 - garden.kangaroo.walk_the_line_b.6 - garden.kangaroo.walk_the_line_b.7 - garden.kangaroo.walk_the_line_b.8 - garden.kangaroo.walk_the_line_b.9 - garden.kangaroo.walk_the_line_b.10 - garden.kangaroo.walk_the_line_b.11 - garden.kangaroo.walk_the_line_b.12 - garden.kangaroo.walk_the_line_b.13 - garden.kangaroo.walk_the_line_b.14 = garden.kangaroo.walk_the_line.1 - garden.kangaroo.walk_the_line.2 - garden.kangaroo.walk_the_line.3 - garden.kangaroo.walk_the_line.4 - garden.kangaroo.walk_the_line.5 - garden.kangaroo.walk_the_line.6 - garden.kangaroo.walk_the_line.7 - garden.kangaroo.walk_the_line.8 - garden.kangaroo.walk_the_line.9 - garden.kangaroo.walk_the_line.10 - garden.kangaroo.walk_the_line.11 - garden.kangaroo.walk_the_line.12 - garden.kangaroo.walk_the_line.13 - garden.kangaroo.walk_the_line.14 = garden.kangaroo.wet_hammer.1 - garden.kangaroo.wet_hammer.2 - garden.kangaroo.wet_hammer.3 - garden.kangaroo.wet_hammer.4 - garden.kangaroo.wet_hammer.5 - garden.kangaroo.wet_hammer.6 - garden.kangaroo.wet_hammer.7 - garden.kangaroo.wet_hammer.8 - garden.kangaroo.wet_hammer.9 - garden.kangaroo.wet_hammer.10 - garden.kangaroo.wet_hammer.11 = garden.kangaroo.mirage_canyon.1 - garden.kangaroo.mirage_canyon.2 - garden.kangaroo.mirage_canyon.3 - garden.kangaroo.mirage_canyon.4 - garden.kangaroo.mirage_canyon.5 - garden.kangaroo.mirage_canyon.6 = garden.kangaroo.dark_tranquillity.1 - garden.kangaroo.dark_tranquillity.2 - garden.kangaroo.dark_tranquillity.3 - garden.kangaroo.dark_tranquillity.4 - garden.kangaroo.dark_tranquillity.5 - garden.kangaroo.dark_tranquillity.6 = garden.kangaroo.intravenus_de_milo.3 - garden.kangaroo.intravenus_de_milo.2 - garden.kangaroo.intravenus_de_milo.1 - garden.kangaroo.intravenus_de_milo.4 - garden.kangaroo.intravenus_de_milo.5 - garden.kangaroo.intravenus_de_milo.6 - garden.kangaroo.intravenus_de_milo.7 - garden.kangaroo.intravenus_de_milo.8 - garden.kangaroo.intravenus_de_milo.9 - garden.kangaroo.intravenus_de_milo.10 = garden.kangaroo.kill_em_all.1 - garden.kangaroo.kill_em_all.2 - garden.kangaroo.kill_em_all.4 - garden.kangaroo.kill_em_all.5 - garden.kangaroo.kill_em_all.6 - garden.kangaroo.kill_em_all.7 - garden.kangaroo.kill_em_all.8 - garden.kangaroo.kill_em_all.9 - garden.kangaroo.kill_em_all.10 - garden.kangaroo.kill_em_all.11 - garden.kangaroo.kill_em_all.12 - garden.kangaroo.kill_em_all.13 - garden.kangaroo.kill_em_all.14 - garden.kangaroo.kill_em_all.15 - garden.kangaroo.kill_em_all.16 - garden.kangaroo.kill_em_all.17 - garden.kangaroo.kill_em_all.18 = garden.kangaroo.mudslump.6 - garden.kangaroo.mudslump.7 - garden.kangaroo.mudslump.8 - garden.kangaroo.mudslump.9 - garden.kangaroo.mudslump.10 - garden.kangaroo.mudslump.11 - garden.kangaroo.mudslump.12 - garden.kangaroo.mudslump.13 - garden.kangaroo.mudslump.14 - garden.kangaroo.mudslump.15 - garden.kangaroo.mudslump.16 - garden.kangaroo.mudslump.17 - garden.kangaroo.mudslump.18 - garden.kangaroo.mudslump.19 - garden.kangaroo.mudslump.20 - garden.kangaroo.mudslump.21 - garden.kangaroo.mudslump.22 = garden.kangaroo.mudslump.5 - garden.kangaroo.mudslump.4 = garden.kangaroo.mudslump.23 - garden.kangaroo.mudslump.24 - garden.kangaroo.mudslump.25 - garden.kangaroo.mudslump.26 - garden.kangaroo.mudslump.27 - garden.kangaroo.mudslump.28 = garden.kangaroo.scrotty.21 - garden.kangaroo.scrotty.20 - garden.kangaroo.scrotty.19 - garden.kangaroo.scrotty.18 - garden.kangaroo.scrotty.17 - garden.kangaroo.scrotty.16 - garden.kangaroo.scrotty.15 - garden.kangaroo.scrotty.14 - garden.kangaroo.scrotty.13b - garden.kangaroo.scrotty.13 - garden.kangaroo.scrotty.12 - garden.kangaroo.scrotty.11 - garden.kangaroo.scrotty.10 - garden.kangaroo.scrotty.9 - garden.kangaroo.scrotty.8 - garden.kangaroo.scrotty.6 - garden.kangaroo.scrotty.5 - garden.kangaroo.scrotty.4 - garden.kangaroo.scrotty.3 - garden.kangaroo.scrotty.2 - garden.kangaroo.scrotty.1 = garden.kangaroo.bonus.0 - garden.kangaroo.bonus.1 - garden.kangaroo.bonus.2 - garden.kangaroo.bonus.3 - garden.kangaroo.bonus.4 - garden.kangaroo.bonus.5 - garden.kangaroo.bonus.6 - garden.kangaroo.bonus.7 - garden.kangaroo.bonus.8 - garden.kangaroo.bonus.9 - garden.kangaroo.bonus.10 - garden.kangaroo.bonus.11 - garden.kangaroo.bonus.12 - garden.kangaroo.bonus.13 - garden.kangaroo.bonus.14 - garden.kangaroo.bonus.15 - garden.kangaroo.bonus.16 - garden.kangaroo.bonus.17 - garden.kangaroo.bonus.18 = garden.kangaroo.zubafu.10 - garden.kangaroo.zubafu.9 - garden.kangaroo.zubafu.8 - garden.kangaroo.zubafu.7 - garden.kangaroo.zubafu.6 - garden.kangaroo.zubafu.5 - garden.kangaroo.zubafu.4 - garden.kangaroo.zubafu.3 - garden.kangaroo.zubafu.2 - garden.kangaroo.zubafu.1 = garden.kangaroo.kangaroo01.0 - garden.kangaroo.kangaroo01.1 - garden.kangaroo.kangaroo01.2 - garden.kangaroo.kangaroo01.3 - garden.kangaroo.kangaroo01.4 - garden.kangaroo.kangaroo01.5 - garden.kangaroo.kangaroo01.6 - garden.kangaroo.kangaroo01.7 - garden.kangaroo.kangaroo01.8 - garden.kangaroo.kangaroo01.9 - garden.kangaroo.kangaroo01.10 - garden.kangaroo.kangaroo01.11 = garden.kangaroo.kangaroo01.12 - garden.kangaroo.kangaroo01.13 - garden.kangaroo.kangaroo01.14 - garden.kangaroo.kangaroo01.15 - garden.kangaroo.kangaroo01.16 - garden.kangaroo.kangaroo01.17 - garden.kangaroo.kangaroo01.18 - garden.kangaroo.kangaroo01.19 - garden.kangaroo.kangaroo01.20 - garden.kangaroo.kangaroo01.21 - garden.kangaroo.kangaroo01.22 - garden.kangaroo.kangaroo01.23 - garden.kangaroo.kangaroo01.24 = garden.kangaroo.pico.13 = garden.garden-ent.pico.13
-Original length 987.74m (183 legs), moved  17.07m ( 0.09m/leg). Error   1.73%
-12.927514
-H: 14.985132 V: 6.493104
+Original length 987.74m (183 legs), moved  16.63m ( 0.09m/leg). Error   1.68%
+12.592762
+H: 14.360777 V: 7.409090
 
 garden.garden-low.friend.4 - garden.garden-low.friend.5 - garden.garden-low.friend.6 - garden.garden-low.friend.7 - garden.garden-low.friend.8 - garden.garden-low.friend.9 - garden.garden-low.friend.10 - garden.garden-low.friend.11 - garden.garden-low.friend.12 - garden.garden-low.friend.13 - garden.garden-low.friend.14 - garden.garden-low.friend.15 - garden.garden-low.friend.16 - garden.garden-low.friend.17 - garden.garden-low.friend.3b
-Original length 170.65m ( 14 legs), moved   9.19m ( 0.66m/leg). Error   5.39%
-13.875208
-H: 18.569756 V: 1.309366
+Original length 170.65m ( 14 legs), moved  10.42m ( 0.74m/leg). Error   6.11%
+15.729506
+H: 20.822284 V: 3.771454
 
-garden.garden-low.leprachaun.31 - garden.garden-low.leprachaun.32 - garden.garden-low.leprachaun.33 = garden.garden-low.highway32.1 - garden.garden-low.highway32.2 - garden.garden-low.highway32.3 - garden.garden-low.highway32.4 - garden.garden-low.highway32.5 - garden.garden-low.highway32.6 - garden.garden-low.highway32.7 - garden.garden-low.highway32.8 - garden.garden-low.highway32.9 - garden.garden-low.highway32.10 - garden.garden-low.highway32.11 - garden.garden-low.highway32.12 - garden.garden-low.highway32.13 - garden.garden-low.highway32.14 - garden.garden-low.highway32.15 - garden.garden-low.highway32.16 - garden.garden-low.highway32.22 - garden.garden-low.highway32.23 - garden.garden-low.highway32.24 - garden.garden-low.highway32.25 - garden.garden-low.highway32.26 - garden.garden-low.highway32.27 - garden.garden-low.highway32.28 - garden.garden-low.highway32.29 - garden.garden-low.highway32.30 - garden.garden-low.highway32.31 - garden.garden-low.highway32.32 = garden.garden-low.candymountain.1 - garden.garden-low.candymountain.2 - garden.garden-low.candymountain.3 - garden.garden-low.candymountain.4 - garden.garden-low.candymountain.5 - garden.garden-low.candymountain.6 - garden.garden-low.candymountain.7 - garden.garden-low.candymountain.8 - garden.garden-low.candymountain.9 - garden.garden-low.candymountain.10 - garden.garden-low.candymountain.11 = garden.garden-low.friend.23 - garden.garden-low.friend.24 - garden.garden-low.friend.25 - garden.garden-low.friend.26 - garden.garden-low.friend.27 - garden.garden-low.friend.28 - garden.garden-low.friend.29 - garden.garden-low.friend.30 - garden.garden-low.friend.22 - garden.garden-low.friend.31 - garden.garden-low.friend.32 - garden.garden-low.friend.33 - garden.garden-low.friend.34 - garden.garden-low.friend.35 - garden.garden-low.friend.36 - garden.garden-low.friend.37 - garden.garden-low.friend.4
-Original length 404.01m ( 54 legs), moved   7.29m ( 0.14m/leg). Error   1.80%
-8.179782
-H: 9.371235 V: 5.694026
+garden.garden-low.friend.22 - garden.garden-low.friend.31 - garden.garden-low.friend.32 - garden.garden-low.friend.33 - garden.garden-low.friend.34 - garden.garden-low.friend.35 - garden.garden-low.friend.36 - garden.garden-low.friend.37 - garden.garden-low.friend.4
+Original length  87.76m (  8 legs), moved   1.86m ( 0.23m/leg). Error   2.12%
+4.158715
+H: 4.120098 V: 4.209120
+
+garden.garden-low.candymountain.2 - garden.garden-low.candymountain.3 - garden.garden-low.candymountain.4 - garden.garden-low.candymountain.5 - garden.garden-low.candymountain.6 - garden.garden-low.candymountain.7 - garden.garden-low.candymountain.8 - garden.garden-low.candymountain.9 - garden.garden-low.candymountain.10 - garden.garden-low.candymountain.11 = garden.garden-low.friend.23 - garden.garden-low.friend.24 - garden.garden-low.friend.25 - garden.garden-low.friend.26 - garden.garden-low.friend.27 - garden.garden-low.friend.28 - garden.garden-low.friend.29 - garden.garden-low.friend.30 - garden.garden-low.friend.22
+Original length 134.93m ( 17 legs), moved   2.60m ( 0.15m/leg). Error   1.93%
+5.831832
+H: 6.427115 V: 4.249863
+
+garden.garden-low.leprachaun.31 - garden.garden-low.leprachaun.32 - garden.garden-low.leprachaun.33 = garden.garden-low.highway32.1 - garden.garden-low.highway32.2 - garden.garden-low.highway32.3 - garden.garden-low.highway32.4 - garden.garden-low.highway32.5 - garden.garden-low.highway32.6 - garden.garden-low.highway32.7 - garden.garden-low.highway32.8 - garden.garden-low.highway32.9 - garden.garden-low.highway32.10 - garden.garden-low.highway32.11 - garden.garden-low.highway32.12 - garden.garden-low.highway32.13 - garden.garden-low.highway32.14 - garden.garden-low.highway32.15 - garden.garden-low.highway32.16 - garden.garden-low.highway32.22 - garden.garden-low.highway32.23 - garden.garden-low.highway32.24 - garden.garden-low.highway32.25 - garden.garden-low.highway32.26 - garden.garden-low.highway32.27 - garden.garden-low.highway32.28 - garden.garden-low.highway32.29 - garden.garden-low.highway32.30 - garden.garden-low.highway32.31 - garden.garden-low.highway32.32 = garden.garden-low.candymountain.1 - garden.garden-low.candymountain.2
+Original length 181.32m ( 29 legs), moved   3.31m ( 0.11m/leg). Error   1.83%
+5.255822
+H: 6.326033 V: 2.755972
+
+garden.garden-low.mushroom.17 - garden.garden-low.mushroom.16 - garden.garden-low.mushroom.15 = garden.garden-low.soda.26 - garden.garden-low.soda.25 - garden.garden-low.soda.24 - garden.garden-low.soda.23 - garden.garden-low.soda.22 - garden.garden-low.soda.21 - garden.garden-low.soda.20 - garden.garden-low.soda.19 - garden.garden-low.soda.18 - garden.garden-low.soda.17 - garden.garden-low.soda.16 - garden.garden-low.soda.15 - garden.garden-low.soda.14 - garden.garden-low.soda.13 - garden.garden-low.soda.12 - garden.garden-low.soda.11 - garden.garden-low.soda.10 - garden.garden-low.soda.9 - garden.garden-low.soda.8 = garden.garden-low.stagger_lee.29 - garden.garden-low.stagger_lee.28 - garden.garden-low.stagger_lee.27 - garden.garden-low.stagger_lee.26 - garden.garden-low.stagger_lee.25 - garden.garden-low.stagger_lee.24 - garden.garden-low.stagger_lee.23 - garden.garden-low.stagger_lee.22 - garden.garden-low.stagger_lee.21 - garden.garden-low.stagger_lee.19 - garden.garden-low.stagger_lee.18 - garden.garden-low.stagger_lee.17 - garden.garden-low.stagger_lee.16 - garden.garden-low.stagger_lee.15 - garden.garden-low.stagger_lee.14 - garden.garden-low.stagger_lee.13 - garden.garden-low.stagger_lee.12 - garden.garden-low.stagger_lee.11 - garden.garden-low.stagger_lee.10 - garden.garden-low.stagger_lee.9 - garden.garden-low.stagger_lee.8 - garden.garden-low.stagger_lee.7 - garden.garden-low.stagger_lee.6 - garden.garden-low.stagger_lee.5 - garden.garden-low.stagger_lee.4 - garden.garden-low.stagger_lee.2 - garden.garden-low.stagger_lee.3 = garden.garden-low.candymountain.2
+Original length 235.09m ( 46 legs), moved   7.17m ( 0.16m/leg). Error   3.05%
+10.839910
+H: 11.227613 V: 9.931605
+
+garden.garden-low.cascade.27 - garden.garden-low.cascade.28 - garden.garden-low.cascade.13 - garden.garden-low.cascade.14 - garden.garden-low.cascade.15 - garden.garden-low.cascade.16 - garden.garden-low.cascade.17 - garden.garden-low.cascade.18 - garden.garden-low.cascade.19 - garden.garden-low.cascade.20 - garden.garden-low.cascade.21 - garden.garden-low.cascade.1 - garden.garden-low.cascade.2 - garden.garden-low.cascade.3 - garden.garden-low.cascade.4 - garden.garden-low.cascade.5 - garden.garden-low.cascade.6 - garden.garden-low.cascade.7 - garden.garden-low.cascade.8 - garden.garden-low.cascade.9 - garden.garden-low.cascade.10 - garden.garden-low.cascade.11 - garden.garden-low.cascade.12 = garden.garden-low.leprachaun.31
+Original length 110.37m ( 22 legs), moved   2.91m ( 0.13m/leg). Error   2.64%
+6.359565
+H: 6.585239 V: 5.918153
 
 garden.garden-low.crack_in_time.carbide - garden.garden-low.crack_in_time.1 - garden.garden-low.crack_in_time.2 - garden.garden-low.crack_in_time.3 - garden.garden-low.crack_in_time.4 - garden.garden-low.crack_in_time.5 - garden.garden-low.crack_in_time.6 - garden.garden-low.crack_in_time.7 - garden.garden-low.crack_in_time.8 - garden.garden-low.crack_in_time.9 = garden.garden-low.sidewinder.8 - garden.garden-low.sidewinder.7 - garden.garden-low.sidewinder.6 - garden.garden-low.sidewinder.5 - garden.garden-low.sidewinder.4 - garden.garden-low.sidewinder.3 - garden.garden-low.sidewinder.2 - garden.garden-low.sidewinder.1 = garden.garden-low.blackknight.13 - garden.garden-low.blackknight.12 - garden.garden-low.blackknight.11 - garden.garden-low.blackknight.10 - garden.garden-low.blackknight.9 - garden.garden-low.blackknight.8 - garden.garden-low.blackknight.7 - garden.garden-low.blackknight.6 - garden.garden-low.blackknight.5 - garden.garden-low.blackknight.4 - garden.garden-low.blackknight.1 - garden.garden-low.blackknight.14 - garden.garden-low.blackknight.15 - garden.garden-low.blackknight.16 - garden.garden-low.blackknight.17 = garden.garden-low.korita.14 - garden.garden-low.korita.15 - garden.garden-low.korita.16 - garden.garden-low.korita.17 - garden.garden-low.korita.18 - garden.garden-low.korita.5 - garden.garden-low.korita.6 - garden.garden-low.korita.7 - garden.garden-low.korita.8 - garden.garden-low.korita.9 - garden.garden-low.korita.10 - garden.garden-low.korita.11 - garden.garden-low.korita.12 - garden.garden-low.korita.3 - garden.garden-low.korita.2 - garden.garden-low.korita.1 = garden.garden-low.eggsplosive.1 - garden.garden-low.eggsplosive.2 - garden.garden-low.eggsplosive.3 - garden.garden-low.eggsplosive.4 - garden.garden-low.eggsplosive.5 - garden.garden-low.eggsplosive.6 - garden.garden-low.eggsplosive.7 - garden.garden-low.eggsplosive.8 - garden.garden-low.eggsplosive.9 - garden.garden-low.eggsplosive.10 - garden.garden-low.eggsplosive.11 = garden.garden-low.belowzimmer.7 - garden.garden-low.belowzimmer.8 - garden.garden-low.belowzimmer.9 - garden.garden-low.belowzimmer.10 - garden.garden-low.belowzimmer.6 - garden.garden-low.belowzimmer.5 - garden.garden-low.belowzimmer.2 - garden.garden-low.belowzimmer.1 - garden.garden-low.belowzimmer.3 - garden.garden-low.belowzimmer.4 = garden.garden-low.friend.3b
-Original length 332.35m ( 64 legs), moved   5.74m ( 0.09m/leg). Error   1.73%
-7.493679
-H: 8.473537 V: 5.039313
+Original length 332.35m ( 64 legs), moved   7.25m ( 0.11m/leg). Error   2.18%
+9.457272
+H: 10.066062 V: 8.128462
 
 garden.garden-low.envy.3 - garden.garden-low.envy.4 - garden.garden-low.envy.5 - garden.garden-low.envy.6 - garden.garden-low.envy.7 - garden.garden-low.envy.8 - garden.garden-low.envy.9 - garden.garden-low.envy.10 - garden.garden-low.envy.11 - garden.garden-low.envy.12 = garden.garden-low.mad_cow.45 - garden.garden-low.mad_cow.44 - garden.garden-low.mad_cow.43 - garden.garden-low.mad_cow.42 - garden.garden-low.mad_cow.41 - garden.garden-low.mad_cow.40 - garden.garden-low.mad_cow.39 - garden.garden-low.mad_cow.38 - garden.garden-low.mad_cow.37 - garden.garden-low.mad_cow.36 - garden.garden-low.mad_cow.35 - garden.garden-low.mad_cow.34 - garden.garden-low.mad_cow.33 - garden.garden-low.mad_cow.32 - garden.garden-low.mad_cow.31 - garden.garden-low.mad_cow.30 - garden.garden-low.mad_cow.29 - garden.garden-low.mad_cow.28 - garden.garden-low.mad_cow.27 - garden.garden-low.mad_cow.26 - garden.garden-low.mad_cow.25 - garden.garden-low.mad_cow.24 - garden.garden-low.mad_cow.23 - garden.garden-low.mad_cow.22 - garden.garden-low.mad_cow.21 - garden.garden-low.mad_cow.20 - garden.garden-low.mad_cow.19 - garden.garden-low.mad_cow.18 - garden.garden-low.mad_cow.17 - garden.garden-low.mad_cow.16 - garden.garden-low.mad_cow.15 - garden.garden-low.mad_cow.14 = garden.garden-low.weepeople.24 - garden.garden-low.weepeople.23 - garden.garden-low.weepeople.22 - garden.garden-low.weepeople.21 - garden.garden-low.weepeople.20 - garden.garden-low.weepeople.19 - garden.garden-low.weepeople.18 - garden.garden-low.weepeople.17 - garden.garden-low.weepeople.16 - garden.garden-low.weepeople.15 - garden.garden-low.weepeople.14 - garden.garden-low.weepeople.13 - garden.garden-low.weepeople.12 - garden.garden-low.weepeople.11 - garden.garden-low.weepeople.10 - garden.garden-low.weepeople.9 - garden.garden-low.weepeople.8 - garden.garden-low.weepeople.7 - garden.garden-low.weepeople.6 - garden.garden-low.weepeople.5 - garden.garden-low.weepeople.4 - garden.garden-low.weepeople.3 - garden.garden-low.weepeople.2 - garden.garden-low.weepeople.1 - garden.garden-low.weepeople.25 - garden.garden-low.weepeople.26 = garden.garden-low.leprachaun.18 - garden.garden-low.leprachaun.17 - garden.garden-low.leprachaun.16 - garden.garden-low.leprachaun.15 - garden.garden-low.leprachaun.14 - garden.garden-low.leprachaun.13 - garden.garden-low.leprachaun.12 - garden.garden-low.leprachaun.11 - garden.garden-low.leprachaun.10 - garden.garden-low.leprachaun.9 - garden.garden-low.leprachaun.8 - garden.garden-low.leprachaun.7 - garden.garden-low.leprachaun.6 - garden.garden-low.leprachaun.5 - garden.garden-low.leprachaun.4 - garden.garden-low.leprachaun.3 - garden.garden-low.leprachaun.2 - garden.garden-low.leprachaun.1 - garden.garden-low.leprachaun.19 - garden.garden-low.leprachaun.20 - garden.garden-low.leprachaun.21 - garden.garden-low.leprachaun.22 - garden.garden-low.leprachaun.23 - garden.garden-low.leprachaun.24 - garden.garden-low.leprachaun.25 - garden.garden-low.leprachaun.26 - garden.garden-low.leprachaun.27 - garden.garden-low.leprachaun.28 - garden.garden-low.leprachaun.29 - garden.garden-low.leprachaun.30 - garden.garden-low.leprachaun.31
-Original length 796.74m ( 95 legs), moved   9.63m ( 0.10m/leg). Error   1.21%
-6.962756
-H: 2.292777 V: 10.527989
+Original length 796.74m ( 95 legs), moved   8.95m ( 0.09m/leg). Error   1.12%
+6.471732
+H: 1.763578 V: 9.890489
 
-garden.garden-low.envy.3 - garden.garden-low.envy.2 - garden.garden-low.envy.1 = garden.garden-low.greed.3 - garden.garden-low.greed.4 - garden.garden-low.greed.5 - garden.garden-low.greed.6 - garden.garden-low.greed.7 - garden.garden-low.greed.8 - garden.garden-low.greed.9 - garden.garden-low.greed.10 - garden.garden-low.greed.11 - garden.garden-low.greed.12 - garden.garden-low.greed.13 - garden.garden-low.greed.14 - garden.garden-low.greed.15 - garden.garden-low.greed.16 - garden.garden-low.greed.17 - garden.garden-low.greed.18 - garden.garden-low.greed.19 - garden.garden-low.greed.20 - garden.garden-low.greed.21 - garden.garden-low.greed.22 - garden.garden-low.greed.23 = garden.garden-low.cascade.22 - garden.garden-low.cascade.23 - garden.garden-low.cascade.24 - garden.garden-low.cascade.25 - garden.garden-low.cascade.26 - garden.garden-low.cascade.27 - garden.garden-low.cascade.28 - garden.garden-low.cascade.13 - garden.garden-low.cascade.14 - garden.garden-low.cascade.15 - garden.garden-low.cascade.16 - garden.garden-low.cascade.17 - garden.garden-low.cascade.18 - garden.garden-low.cascade.19 - garden.garden-low.cascade.20 - garden.garden-low.cascade.21 - garden.garden-low.cascade.1 - garden.garden-low.cascade.2 - garden.garden-low.cascade.3 - garden.garden-low.cascade.4 - garden.garden-low.cascade.5 - garden.garden-low.cascade.6 - garden.garden-low.cascade.7 - garden.garden-low.cascade.8 - garden.garden-low.cascade.9 - garden.garden-low.cascade.10 - garden.garden-low.cascade.11 - garden.garden-low.cascade.12 = garden.garden-low.leprachaun.31
-Original length 260.99m ( 49 legs), moved   4.04m ( 0.08m/leg). Error   1.55%
-5.725474
-H: 7.056293 V: 1.142698
+garden.garden-low.envy.3 - garden.garden-low.envy.2 - garden.garden-low.envy.1 = garden.garden-low.greed.3 - garden.garden-low.greed.4 - garden.garden-low.greed.5 - garden.garden-low.greed.6 - garden.garden-low.greed.7 - garden.garden-low.greed.8 - garden.garden-low.greed.9 - garden.garden-low.greed.10 - garden.garden-low.greed.11 - garden.garden-low.greed.12 - garden.garden-low.greed.13 - garden.garden-low.greed.14 - garden.garden-low.greed.15 - garden.garden-low.greed.16 - garden.garden-low.greed.17 - garden.garden-low.greed.18 - garden.garden-low.greed.19 - garden.garden-low.greed.20 - garden.garden-low.greed.21 - garden.garden-low.greed.22 - garden.garden-low.greed.23 = garden.garden-low.cascade.22 - garden.garden-low.cascade.23 - garden.garden-low.cascade.24 - garden.garden-low.cascade.25 - garden.garden-low.cascade.26 - garden.garden-low.cascade.27
+Original length 150.62m ( 27 legs), moved   2.94m ( 0.11m/leg). Error   1.95%
+5.467011
+H: 6.662226 V: 1.764563
 
 garden.garden-low.friend.3b - garden.garden-low.friend.3 - garden.garden-low.friend.2 - garden.garden-low.friend.1 = garden.garden-ent.zimmer.3 - garden.garden-ent.zimmer.2 - garden.garden-ent.zimmer.1 = garden.garden-ent.skynet.1 - garden.garden-ent.skynet.2 - garden.garden-ent.skynet.3 - garden.garden-ent.skynet.4 - garden.garden-ent.skynet.5 - garden.garden-ent.skynet.6 - garden.garden-ent.skynet.7 - garden.garden-ent.skynet.8 - garden.garden-ent.skynet.9 = garden.garden-ent.pink2.1 - garden.garden-ent.pink2.2 - garden.garden-ent.pink2.3 - garden.garden-ent.pink2.4 - garden.garden-ent.pink2.5 - garden.garden-ent.pink2.6 - garden.garden-ent.pink2.7 - garden.garden-ent.pink2.8 - garden.garden-ent.pink2.9 - garden.garden-ent.pink2.10 - garden.garden-ent.pink2.11 - garden.garden-ent.pink2.12 - garden.garden-ent.pink2.13 = garden.garden-ent.pink.7 - garden.garden-ent.pink.6 - garden.garden-ent.pink.5 - garden.garden-ent.pink.4 - garden.garden-ent.pink.3 - garden.garden-ent.pink.2 - garden.garden-ent.pink.1 - garden.garden-ent.pink.13 - garden.garden-ent.pink.14 - garden.garden-ent.pink.15 - garden.garden-ent.pink.16 - garden.garden-ent.pink.17 - garden.garden-ent.pink.18 = garden.garden-ent.banzai.12 - garden.garden-ent.banzai.12b - garden.garden-ent.banzai.13 - garden.garden-ent.banzai.14 = garden.garden-ent.alchemy.1 - garden.garden-ent.alchemy.2 - garden.garden-ent.alchemy.3 - garden.garden-ent.alchemy.4 - garden.garden-ent.alchemy.5 - garden.garden-ent.alchemy.6 - garden.garden-ent.alchemy.7 - garden.garden-ent.alchemy.8 = garden.garden-ent.concorde.1 - garden.garden-ent.concorde.2 - garden.garden-ent.concorde.3 - garden.garden-ent.concorde.4 - garden.garden-ent.concorde.5 - garden.garden-ent.concorde.6 = garden.garden-ent.spaceodessey.1 - garden.garden-ent.spaceodessey.2 - garden.garden-ent.spaceodessey.3 - garden.garden-ent.spaceodessey.4 - garden.garden-ent.spaceodessey.5 - garden.garden-ent.spaceodessey.6 = garden.garden-ent.tesselator.1 - garden.garden-ent.tesselator.2 - garden.garden-ent.tesselator.3 - garden.garden-ent.tesselator.4 - garden.garden-ent.tesselator.5 - garden.garden-ent.tesselator.6 - garden.garden-ent.tesselator.7 - garden.garden-ent.tesselator.8 = garden.garden-ent.pico2.1 - garden.garden-ent.pico2.2 - garden.garden-ent.pico2.3 - garden.garden-ent.pico2.4 - garden.garden-ent.pico2.5 - garden.garden-ent.pico2.6 = garden.garden-ent.pico.2 - garden.garden-ent.pico.3 - garden.garden-ent.pico.4 - garden.garden-ent.pico.5 - garden.garden-ent.pico.6 - garden.garden-ent.pico.7 - garden.garden-ent.pico.8 - garden.garden-ent.pico.9 - garden.garden-ent.pico.10 - garden.garden-ent.pico.11 - garden.garden-ent.pico.12 - garden.garden-ent.pico.13
-Original length 690.95m ( 80 legs), moved  13.10m ( 0.16m/leg). Error   1.90%
-12.234760
-H: 14.105529 V: 5.143418
+Original length 690.95m ( 80 legs), moved  12.73m ( 0.16m/leg). Error   1.84%
+11.893280
+H: 13.575474 V: 5.856979
 
-garden.garden-low.consort.14 - garden.garden-low.consort.13 - garden.garden-low.consort.12 - garden.garden-low.consort.15 - garden.garden-low.consort.16 - garden.garden-low.consort.17 - garden.garden-low.consort.14
-Original length  37.42m (  6 legs), moved   1.47m ( 0.25m/leg). Error   3.94%
-5.573465
-H: 6.674334 V: 2.557085
+garden.garden-low.consort.14 - garden.garden-low.consort.17 - garden.garden-low.consort.16 - garden.garden-low.consort.15 - garden.garden-low.consort.12
+Original length  23.97m (  4 legs), moved   0.91m ( 0.23m/leg). Error   3.79%
+4.444720
+H: 5.093185 V: 2.904493
+
+garden.garden-low.consort.14 - garden.garden-low.consort.13 - garden.garden-low.consort.12
+Original length  13.45m (  2 legs), moved   0.59m ( 0.30m/leg). Error   4.41%
+3.522931
+H: 4.376854 V: 0.501542
+
+garden.garden-low.roundpond.2 - garden.garden-low.roundpond.3 - garden.garden-low.roundpond.4 - garden.garden-low.roundpond.5 - garden.garden-low.roundpond.2
+Original length  12.44m (  4 legs), moved   0.41m ( 0.10m/leg). Error   3.32%
+2.540502
+H: 2.541643 V: 2.538020
+
+garden.garden-low.roundpond.2 - garden.garden-low.roundpond.6 = garden.garden-low.itwillrain.1 - garden.garden-low.itwillrain.2 - garden.garden-low.itwillrain.3 - garden.garden-low.itwillrain.4 - garden.garden-low.itwillrain.5 - garden.garden-low.itwillrain.6 - garden.garden-low.itwillrain.7 - garden.garden-low.itwillrain.8 - garden.garden-low.itwillrain.9 = garden.garden-low.serpentine.1 - garden.garden-low.serpentine.2 - garden.garden-low.serpentine.3 - garden.garden-low.serpentine.4 - garden.garden-low.serpentine.5 - garden.garden-low.serpentine.6 - garden.garden-low.serpentine.7 - garden.garden-low.serpentine.8 - garden.garden-low.serpentine.9 - garden.garden-low.serpentine.10 - garden.garden-low.serpentine.11 = garden.garden-low.consort.5 - garden.garden-low.consort.4 - garden.garden-low.consort.3 - garden.garden-low.consort.6 - garden.garden-low.consort.7 - garden.garden-low.consort.9 - garden.garden-low.consort.11 - 
+Original length 180.97m ( 26 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
+0.000000
+H: 0.000000 V: 0.000000
+
+garden.garden-low.longwater.1 - garden.garden-low.longwater.7 - garden.garden-low.longwater.2 - garden.garden-low.longwater.3 - garden.garden-low.longwater.4 - 
+Original length  16.26m (  5 legs), moved   1.16m ( 0.23m/leg). Error   7.10%
+6.435299
+H: 7.505474 V: 3.186186
+
+garden.garden-low.xanadu.1 - garden.garden-low.xanadu.4 - garden.garden-low.xanadu.5 - garden.garden-low.xanadu.6 - garden.garden-low.xanadu.7 - garden.garden-low.xanadu.8 - garden.garden-low.xanadu.1
+Original length  24.91m (  6 legs), moved   1.99m ( 0.33m/leg). Error   8.00%
+8.927598
+H: 1.129543 V: 14.793274
 
 prim.drugi.7a - prim.drugi.7 - prim.drugi.6 - prim.drugi.5 - prim.drugi.4 - prim.drugi.3 - prim.drugi.2 - prim.drugi.1 = prim.prima1.21b - prim.prima1.22 - prim.prima1.23 - prim.prima1.24 - prim.prima1.25 - prim.prima1.26 - prim.prima1.27 - prim.prima1.28 - prim.prima1.29 - prim.prima1.30 - prim.prima1.31 - prim.prima1.32 - prim.prima1.33 - prim.prima1.34 - prim.prima1.35
 Original length 173.32m ( 21 legs), moved   1.59m ( 0.08m/leg). Error   0.92%
@@ -254,74 +299,74 @@ Original length 436.61m ( 23 legs), moved   7.73m ( 0.34m/leg). Error   1.77%
 H: 7.341880 V: 4.786607
 
 surf.96.s1.1 - surf.96.s1.m2 = system.m2.izent2.19 - system.m2.izent2.18 - system.m2.izent2.17 - system.m2.izent2.16 = system.m2.izent1.14
-Original length  37.03m (  4 legs), moved   1.11m ( 0.28m/leg). Error   2.99%
-4.041356
-H: 4.705748 V: 2.870439
+Original length  37.03m (  4 legs), moved   1.10m ( 0.28m/leg). Error   2.98%
+4.030919
+H: 4.690373 V: 2.870371
 
 surf.96.s1.9 - surf.96.s1.8 - surf.96.s1.7 - surf.96.s1.6 - surf.96.s1.5 - surf.96.s1.4 - surf.96.s1.1
 Original length 155.10m (  6 legs), moved   5.44m ( 0.91m/leg). Error   3.51%
-6.823350
-H: 4.096198 V: 8.908667
+6.822436
+H: 4.093968 V: 8.908325
 
 surf.96.s1.m10 - surf.96.s1.17 - surf.96.s1.16 - surf.96.s1.15 - surf.96.s1.14 - surf.96.s1.11 - 
 Original length 122.09m (  6 legs), moved   2.53m ( 0.42m/leg). Error   2.07%
-3.598260
-H: 0.980123 V: 5.097339
+3.597830
+H: 0.979222 V: 5.096894
 
 surf.96.s1.m16 - surf.96.s1.12 - surf.96.s1.9
 Original length  26.66m (  2 legs), moved   0.12m ( 0.06m/leg). Error   0.46%
-0.500323
-H: 0.306021 V: 0.679337
+0.499714
+H: 0.303318 V: 0.679918
 
 surf.96.s2.m15 - surf.96.s2.9
 Original length  17.43m (  1 legs), moved   0.19m ( 0.19m/leg). Error   1.11%
-0.885266
-H: 1.056343 V: 0.593056
+0.885396
+H: 1.056487 V: 0.593165
 
 surf.01.s0725.m4 - surf.01.s0725.18 - surf.01.s0725.19 - surf.01.s0725.20 - surf.01.s0725.21 - surf.01.s0725.22 - surf.01.s0725.23 - surf.01.s0725.24 - surf.01.s0725.25 - surf.01.s0725.26 - surf.01.s0725.m15
 Original length 165.13m ( 10 legs), moved   0.63m ( 0.06m/leg). Error   0.38%
-0.870001
-H: 1.151720 V: 0.232557
+0.870667
+H: 1.152595 V: 0.232779
 
 surf.01.s0725.m4 - surf.01.s0725.16 - surf.01.s0725.15 - surf.01.s0725.14 - surf.01.s0725.13 - surf.01.s0725.12 - surf.01.s0725.11 - surf.01.s0725.10 - surf.01.s0725.9 - surf.01.s0725.8 - surf.01.s0725.7 - surf.01.s0725.6 - surf.01.s0725.5 - surf.01.s0725.4 - surf.01.s0725.3 - surf.01.s0725.2 - surf.01.s0725.m10
 Original length 206.94m ( 16 legs), moved   4.99m ( 0.31m/leg). Error   2.41%
-6.794429
-H: 4.511830 V: 9.009823
+6.794541
+H: 4.513096 V: 9.009161
 
 surf.01.sm10_rv_m17.5 - surf.01.sm10_rv_m17.4 - surf.01.sm10_rv_m17.3 - surf.01.sm10_rv_m17.2 - surf.01.sm10_rv_m17.m10 = surf.01.s0725.m10
 Original length  80.50m (  4 legs), moved   0.43m ( 0.11m/leg). Error   0.53%
-0.785803
-H: 0.971062 V: 0.502018
+0.785748
+H: 0.971058 V: 0.501844
 
 surf.01.sm10_rv_m17.10 - surf.01.sm10_rv_m17.12 - surf.01.sm10_rv_m17.13 - surf.01.sm10_rv_m17.14 - surf.01.sm10_rv_m17.15 - surf.01.sm10_rv_m17.m17 = surf.96.s2.m17 - surf.96.s2.2 - surf.96.s2.3 - surf.96.s2.4 - surf.96.s2.6 - surf.96.s2.7 - surf.96.s2.8 - surf.96.s2.9
 Original length 247.99m ( 12 legs), moved   2.34m ( 0.19m/leg). Error   0.94%
-2.270842
-H: 2.977458 V: 1.023171
+2.270821
+H: 2.977434 V: 1.023151
 
 surf.01.sm10_rv_m17.10 - surf.01.sm10_rv_m17.m15 = surf.01.s0725.m15
 Original length   5.98m (  1 legs), moved   0.02m ( 0.02m/leg). Error   0.34%
-0.199632
-H: 0.227570 V: 0.130326
+0.199575
+H: 0.227501 V: 0.130303
 
 surf.01.sm10_rv_m17.10 - surf.01.sm10_rv_m17.9 - surf.01.sm10_rv_m17.8 - surf.01.sm10_rv_m17.7 - surf.01.sm10_rv_m17.6 - surf.01.sm10_rv_m17.5
 Original length 171.32m (  5 legs), moved   2.10m ( 0.42m/leg). Error   1.22%
-2.064052
-H: 2.712417 V: 0.996470
+2.064051
+H: 2.712485 V: 0.996269
 
 surf.01.sm16_m4_m18.6 - surf.01.sm16_m4_m18.14 - surf.01.sm16_m4_m18.15 - surf.01.sm16_m4_m18.16 - surf.01.sm16_m4_m18.17 - surf.01.sm16_m4_m18.18 - surf.01.sm16_m4_m18.19 - surf.01.sm16_m4_m18.m18 = surf.00.s2.m18
-Original length  90.73m (  7 legs), moved   1.48m ( 0.21m/leg). Error   1.63%
-2.959341
-H: 2.901799 V: 3.031632
+Original length  90.72m (  7 legs), moved   1.48m ( 0.21m/leg). Error   1.63%
+2.963125
+H: 2.905525 V: 3.035490
 
 surf.01.sm16_m4_m18.6 - surf.01.sm16_m4_m18.7 - surf.01.sm16_m4_m18.8 - surf.01.sm16_m4_m18.9 - surf.01.sm16_m4_m18.12 - surf.01.sm16_m4_m18.m4 = surf.01.s0725.m4
 Original length  60.79m (  5 legs), moved   1.73m ( 0.35m/leg). Error   2.85%
-4.393985
-H: 4.030451 V: 4.809329
+4.394455
+H: 4.031865 V: 4.808814
 
 surf.01.sm16_m4_m18.6 - surf.01.sm16_m4_m18.5 - surf.01.sm16_m4_m18.4 - surf.01.sm16_m4_m18.3 - surf.01.sm16_m4_m18.2 - surf.01.sm16_m4_m18.m16 = surf.00.s1.m16
 Original length  87.16m (  5 legs), moved   3.25m ( 0.65m/leg). Error   3.73%
-5.988166
-H: 7.865641 V: 2.446812
+5.986650
+H: 7.862924 V: 2.448870
 
 garden.garden-ent.bclent2.0 - garden.garden-ent.bclent2.1 - garden.garden-ent.bclent2.2 - garden.garden-ent.bclent2.3 - garden.garden-ent.bclent2.4 - garden.garden-ent.bclent2.5 - garden.garden-ent.bclent2.6 - garden.garden-ent.bclent2.7 - garden.garden-ent.bclent2.8 - garden.garden-ent.bclent2.9 - garden.garden-ent.bclent2.10 - garden.garden-ent.bclent2.11 - garden.garden-ent.bclent2.12 - garden.garden-ent.bclent2.13 - garden.garden-ent.bclent2.14 - garden.garden-ent.bclent2.15 = garden.garden-ent.laurel.18 - garden.garden-ent.laurel.17 - garden.garden-ent.laurel.16 - garden.garden-ent.laurel.15 - garden.garden-ent.laurel.14 - garden.garden-ent.laurel.13 - garden.garden-ent.laurel.12 - garden.garden-ent.laurel.11
 Original length 131.39m ( 22 legs), moved   1.81m ( 0.08m/leg). Error   1.37%
@@ -335,21 +380,21 @@ H: 8.016006 V: 1.092132
 
 surf.96.s2.m10 - surf.96.s2.22 - surf.96.s2.21 - surf.96.s2.20 - surf.96.s2.19 - surf.96.s2.16 - surf.96.s2.15 - surf.96.s2.14 - surf.96.s2.13 - surf.96.s2.12 - surf.96.s2.11 - surf.96.s2.9
 Original length 254.92m ( 11 legs), moved   1.43m ( 0.13m/leg). Error   0.56%
-1.443000
-H: 1.366411 V: 1.523168
+1.443166
+H: 1.366458 V: 1.523452
 
 system.m16ent.entrance.1 - system.m16ent.entrance.2 - system.m16ent.entrance.3 - system.m16ent.entrance.4 - system.m16ent.entrance.5 - system.m16ent.entrance.6 - system.m16ent.entrance.7 - system.m16ent.entrance.8 - system.m16ent.entrance.9 - system.m16ent.entrance.10 - system.m16ent.entrance.11 - system.m16ent.entrance.12 - system.m16ent.entrance.13 - system.m16ent.entrance.14 - system.m16ent.entrance.15 - system.m16ent.entrance.16 - system.m16ent.entrance.17 - system.m16ent.entrance.18 - system.m16ent.entrance.19 - system.m16ent.entrance.20 - system.m16ent.entrance.21 - system.m16ent.entrance.22 - system.m16ent.entrance.23 - system.m16ent.entrance.24 - system.m16ent.entrance.25 - system.m16ent.entrance.26 - system.m16ent.entrance.27 - system.m16ent.entrance.28 - system.m16ent.entrance.29 - system.m16ent.entrance.30 - system.m16ent.entrance.31 = system.m16ent.brezno.31 - system.m16ent.brezno.32 - system.m16ent.brezno.33 - system.m16ent.brezno.35 - system.m16ent.brezno.36 - system.m16ent.brezno.37 - system.m16ent.brezno.38 - system.m16ent.brezno.40 - system.m16ent.brezno.41 - system.m16ent.brezno.44 - system.m16ent.brezno.45 - system.m16ent.brezno.46 - system.m16ent.brezno.47 - system.m16ent.brezno.48
-Original length 235.25m ( 43 legs), moved   0.93m ( 0.02m/leg). Error   0.40%
-1.488308
-H: 0.408246 V: 2.478869
+Original length 235.25m ( 43 legs), moved   0.94m ( 0.02m/leg). Error   0.40%
+1.492454
+H: 0.421075 V: 2.482025
 
 surf.00.s1.m16 - surf.00.s1.26 - surf.00.s1.25 - surf.00.s1.24 - surf.00.s1.23 - surf.00.s1.22 - surf.00.s1.21 - surf.00.s1.20 - surf.00.s1.18
 Original length 157.90m (  8 legs), moved   5.60m ( 0.70m/leg). Error   3.55%
-7.005976
-H: 8.734348 V: 4.322300
+7.007387
+H: 8.736738 V: 4.321745
 
 system.m18.torn.26 - system.m18.torn.25 - system.m18.torn.24 - system.m18.torn.23 - system.m18.torn.22 - system.m18.torn.21 - system.m18.torn.20 - system.m18.torn.19 - system.m18.torn.18 - system.m18.torn.17 - system.m18.torn.16 - system.m18.torn.15 - system.m18.torn.14 - system.m18.torn.13 - system.m18.torn.12 - system.m18.torn.11 - system.m18.torn.10 - system.m18.torn.9 - system.m18.torn.8 - system.m18.torn.7 - system.m18.torn.6 - system.m18.torn.5 - system.m18.torn.4 - system.m18.torn.3 - system.m18.torn.2 = system.m18.lowerrift.2 - system.m18.lowerrift.100 - system.m18.lowerrift.101 - system.m18.lowerrift.102 - system.m18.lowerrift.103 - system.m18.lowerrift.104 - system.m18.lowerrift.105 - system.m18.lowerrift.106 - system.m18.lowerrift.107 - system.m18.lowerrift.108 - system.m18.lowerrift.109 - system.m18.lowerrift.110 - system.m18.lowerrift.111 - system.m18.lowerrift.112 - system.m18.lowerrift.113 - system.m18.lowerrift.114 - system.m18.lowerrift.115 - system.m18.lowerrift.116 - system.m18.lowerrift.117 - system.m18.lowerrift.118 - system.m18.lowerrift.119 - system.m18.lowerrift.120 - system.m18.lowerrift.121 - system.m18.lowerrift.122 - system.m18.lowerrift.123 - system.m18.lowerrift.124 = system.m18.turtle.18 - system.m18.turtle.17 - system.m18.turtle.16 - system.m18.turtle.15 - system.m18.turtle.14 - system.m18.turtle.13 - system.m18.turtle.12 - system.m18.turtle.11 - system.m18.turtle.10 - system.m18.turtle.9 - system.m18.turtle.6 - system.m18.turtle.8 = system.m18.shreddie.8 - system.m18.shreddie.9 - system.m18.shreddie.12 - system.m18.shreddie.13 - system.m18.shreddie.14 - system.m18.shreddie.15 - system.m18.shreddie.16 - system.m18.shreddie.17 - system.m18.shreddie.18 - system.m18.shreddie.19 - system.m18.shreddie.20 - system.m18.shreddie.21 - system.m18.shreddie.22 - system.m18.shreddie.23 - system.m18.shreddie.24 - system.m18.shreddie.25 - system.m18.shreddie.26 - system.m18.shreddie.27 - system.m18.shreddie.28 - system.m18.shreddie.29 - system.m18.shreddie.30 - system.m18.shreddie.31 - system.m18.shreddie.32 - system.m18.shreddie.34 = system.m18.gallery.0 - system.m18.gallery.1 - system.m18.gallery.2
-Original length 323.60m ( 85 legs), moved   8.86m ( 0.10m/leg). Error   2.74%
-11.136716
-H: 13.430374 V: 3.296262
+Original length 323.60m ( 85 legs), moved   8.81m ( 0.10m/leg). Error   2.72%
+11.070132
+H: 13.347458 V: 3.297913
 

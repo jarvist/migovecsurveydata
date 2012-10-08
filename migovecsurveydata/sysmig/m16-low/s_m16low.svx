@@ -7,7 +7,12 @@
 ;*equate shordrop.7 brezno.50
 
 *begin m16low
+    *date 1996.07
+    *calibrate compass -1.30
 	*include shordrop
+
+    *date 1997.07
+    *calibrate compass -1.38
 	*include tamoka
 	*include galact1
 	*include galact2
@@ -19,6 +24,9 @@
 	*include mower
 	*include window
 	*include galac4
+
+    *date 1999.07
+    *calibrate compass -1.55
 	*include hydrant
 	*include frogshit
 	*include hydrant2

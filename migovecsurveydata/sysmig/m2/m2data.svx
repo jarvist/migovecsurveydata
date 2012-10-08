@@ -13,7 +13,6 @@
 ;from	to	tape	comp	clino
 
 *begin m2
-*date 1990 ;lie about the date to make the display nicer!
 ;*date 1976
 
 ;by NOAA webservice, declination is
@@ -148,58 +147,13 @@ b	a	10.90154806	284.3645824	-44.78041976
 ; Pseudoleg at bottom of M2
 ; APSJ and JNH 5 August 2008
 
-51	SmelltheGlove	8	30	+20
+;51	SmelltheGlove	8	30	+20
 ;in opposite direction to rift which was pushed on Oct08 real data
 ;AJ says, Feb 2009:
 ;Final pitch drops into small chamber with water trickling through ~10cm groove in floor to rift which was opened up
 ;Going upstream one finds a confluence, and a similar stream trickling through an almost identical aven
 
 *end JSPDT2
-
-*begin Oct08
-
-;Data by JH/AF
-;Date: 25/10/08
-*date 2008.10.25
-
-;2008 NOAA declination for mig:
-*calibrate compass -2.42
-;Page 1 of 1
-
-1	2	17.50	-	up	; .1 no LRUD
-2	3	4.00	031	+40	; .2 no LRUD
-3	4	5.00	293	+23	; .3 1 0 2 0
-5	4	3.90	139	-44	; .4 0 0.5 2 0
-6	5	3.60	155	-03	; .5 0 0.5 0.5 1.0
-6	7	4.30	014	00	; .6 0.5 0.2 0.3 0
-8	7	4.00	114	+52	; .7 no LRUD .8 no LRUD
-
-;Notes on reverse
-; .1 is a bottom of pitch
-; .2 is bolt at top of pitch
-; .8 is bottom of 'last' pitch in M2
-
-*end Oct08
-
-*equate JSPDT2.51 Oct08.8
-
-*begin Oct09
-;Data madeup by Jarv based on Tet's "moved drinks cabinet twenty metres further south" text message from Slov
-Start   DrinksCabinet   20.00   180 +00
-*end Oct09
-
-*equate Oct09.Start Oct08.1
-
-*date 2010
-
-Oct08.1		SUPER_ACTION	70	-	down
-
-*begin 2010
-;Sort out mess :( Anyone for a spot of surveying?
-*date 2010
-*calibrate compass -2.62
-
-*end 2010
 
 *end m2
 

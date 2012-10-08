@@ -7,7 +7,8 @@
 ;*equate migconleft.6 hotline.7
 
 *begin level2
-
+*date 1996.07
+*calibrate compass -1.30
 *include level2s
 *include level2n
 *include migcon
@@ -15,11 +16,23 @@
 *include exhib
 *include rockroll
 *include boogywoo
-*include toilet
 *include carwash
+
+*date 2000.07
+*calibrate compass -1.633
+*include toilet
+
+*date 1997.07
+*calibrate compass -1.38
 *include challenge
+
+*date 1998.07
+*calibrate compass -1.47
 *include polter
 *include waffles
+
+*date 1999.07
+*calibrate compass -1.55
 *include skalar
 *include ariane
 *include oratory
@@ -28,6 +41,9 @@
 *include paradiso2
 *include genghis
 *include obelix
+
+*date 2000.07
+*calibrate compass -1.633
 *include getafix
 *include below55
 *include gloworm

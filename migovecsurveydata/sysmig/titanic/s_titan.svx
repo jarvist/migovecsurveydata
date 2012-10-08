@@ -6,7 +6,12 @@
 
 
 *begin whitestar
+    *date 1997.07
+    *calibrate compass -1.38
 	*include titanic
-	*include olympic
+
+    *date 1998.07
+    *calibrate compass -1.47
+    *include olympic
 	*include maiden
 *end whitestar

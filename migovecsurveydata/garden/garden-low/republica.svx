@@ -54,6 +54,7 @@
 ;Pseudo leg down rift / pitch
 *flags splay
 21	pesudo	30.0	-	down	; you can see at least 30m down this rift...
+*flags not splay
 
 *end republica
 

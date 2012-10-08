@@ -20,11 +20,25 @@ http://www.ngdc.noaa.gov/geomagmodels/struts/calcDeclination
 
 1976    0° 30' W changing by 0° 6' E/year 
 
+As survex commands, these are:
+
 1976:
 *calibrate compass +0.50
 
+1995:
+*calibrate compass -1.22
+
 1996:
 *calibrate compass -1.30
+
+1997:
+*calibrate compass -1.38
+
+1998:
+*calibrate compass -1.47
+
+1999:
+*calibrate compass -1.55
 
 2000:
 *calibrate compass -1.633

@@ -5,7 +5,10 @@
 ;System Mig - Section below hotel including Glory Boys, Rameses, Fa999, Wonder Stuff and Good Not Grand
 
 *begin coldfeet
-	*include pinkp
+    *date 1997.07
+    *calibrate compass -1.38
+
+    *include pinkp
 	*include coldfeet
 	*include doh
 	*include god

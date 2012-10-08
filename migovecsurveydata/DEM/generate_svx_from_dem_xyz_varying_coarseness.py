@@ -3,15 +3,17 @@
 
 from math import *
 
-deltax=250
-deltay=25
+deltax=25
+deltay=200
 
-#M2: origx=404987 origy=123906 
+#M2: 
+origx=404987 
+origy=123906 
 
-origx=404700  #send over edge of Mig
-origy=124575
+#origx=404700  #send over edge of Mig
+#origy=124575
 
-maxdist=1500 #max dist from above origin to plot (circular, in XY plane)
+maxdist=1100 #max dist from above origin to plot (circular, in XY plane)
 
 dem=open("migovec_ascii_xyz.dat",'r')
 
@@ -36,6 +38,6 @@ print "\n*data nosurvey from to\n"
 for x,y,z in dofinterest:
     if (x%deltax==0 and y%deltay==0):
         for dx,dy in ([deltax,0],[0,deltay]): #work across from top-left
-            if (dx==0 and (x+dx-origx)**2 + (y+dy-origy)**2<maxdist**2):
+            if (dy==0 and (x+dx-origx)**2 + (y+dy-origy)**2<maxdist**2):
                 print "%d%d %d%d" % (x,y,x+dx,y+dy)
 #this generates the conenctions 'from to' for the stations specified above
