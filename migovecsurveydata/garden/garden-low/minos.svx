@@ -10,8 +10,8 @@
 ;data normal bcra grade 4
 ;from	to	tape	comp	clino; L R U D
 
-*begin palace 
-*data normal from to compass clino tape ignoreall
+;*begin palace 
+;*data normal from to compass clino tape ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D
 
@@ -19,16 +19,18 @@
 ;p1/1
 ;#### DATA ####
 ;CLINO WAS READ AS PERCENT
-2	1	234	-22	3.33
-3	2	194	-72	8.55
-4	3	192	-12	8.90
-5	4	182	-51	9.73
-6	5	044	-06	2.43
+;2	1	234	-22	3.33
+;3	2	194	-72	8.55
+;4	3	192	-12	8.90
+;5	4	182	-51	9.73
+;6	5	044	-06	2.43
 
 
 ;TO BE CONVERTED LATER
 
-*end palace
+;*end palace
+
+;[CG] The palace section was resurveyed by Jana and Gergely as guillotine2. This connected guillotine2.1 with palace.6, which becomes minataur.1
 
 *begin minataur
 ;Minataur Rift 29-7-09
@@ -47,7 +49,7 @@
 4	0.5	15	0	1.2
 *end minataur
 
-*equate minataur.1 palace.6
+;*equate minataur.1 palace.6
 
 *begin the_queen_bed_chamber
 *data normal from to compass clino tape ignoreall
@@ -76,7 +78,7 @@
 
 *end the_queen_bed_chamber
 
-*equate the_queen_bed_chamber.8 palace.6
+*equate the_queen_bed_chamber.8 minataur.1
 
 *begin palace2
 *data normal from to compass clino tape ignoreall

@@ -5,10 +5,15 @@
 ;System Mig - XXX to Hotel
 
 *begin hotelt
+    *date 1997.07
+    *calibrate compass -1.38
 	*include xxx
 	*include sajeta
-	*include arrow
 	*include hotel
+
+    *date 1998.07
+    *calibrate compass -1.47
+	*include arrow
 	*include bridge
 	*include adder
 	*include elephant

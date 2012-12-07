@@ -32,5 +32,5 @@
 ;Include DEM data at end as not always properly formatted
 *begin DEM
 *flags surface
-*include DEM/1500m_circle.svx
+*include DEM/north_south_lines.svx
 *end DEM

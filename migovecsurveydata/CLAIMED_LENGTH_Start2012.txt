@@ -1,0 +1,8 @@
+2011: 
+Vrtnarija: 11025/888
+Sysmig (2007): 11.49 / 970
+
+As of July 2012:
+Sysmig (July 2012): 11846 (resurvey set as *flags surface to not be counted)
+Garden: 11.025 / 888 (nb: Must run as garden.svx in parent directory for Vilinski tie in to be correct)
+sysmig_vrtnarija.svx: 22.868 - roughly self-consistent with above two figures

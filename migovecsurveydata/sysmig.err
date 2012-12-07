@@ -1,12 +1,27 @@
-system.m16ent.hotline.3 - system.m16ent.hotline.13 - system.m16ent.hotline.14 - system.m16ent.hotline.15 = system.m16ent.brezno.48 - system.m16ent.brezno.49 - system.m16ent.brezno.50
-Original length  44.20m (  5 legs), moved   0.69m ( 0.14m/leg). Error   1.56%
-2.599397
-H: 3.161309 V: 1.299451
+surf.96.s1.1 - surf.96.s1.m18
+Original length  12.87m (  1 legs), moved   0.45m ( 0.45m/leg). Error   3.48%
+2.613726
+H: 3.282866 V: 1.303218
+
+surf.00.s1.m10 - surf.00.s1.18
+Original length  21.24m (  1 legs), moved   0.46m ( 0.46m/leg). Error   2.17%
+1.711615
+H: 1.343858 V: 2.047384
+
+system.m16ent.brezno.48 - system.m16ent.brezno.49 - system.m16ent.brezno.50
+Original length  21.15m (  2 legs), moved   0.34m ( 0.17m/leg). Error   1.59%
+1.941974
+H: 2.372389 V: 0.960872
+
+system.m16ent.hotline.3 - system.m16ent.hotline.13 - system.m16ent.hotline.14 - system.m16ent.hotline.15 = system.m16ent.brezno.48
+Original length  23.05m (  3 legs), moved   0.33m ( 0.11m/leg). Error   1.43%
+1.643437
+H: 2.084285 V: 0.295517
 
 system.m16ent.hotline.3 - system.m16ent.hotline.4 - system.m16ent.hotline.6 - system.m16ent.hotline.16 - system.m16ent.hotline.17 - system.m16ent.hotline.18 = system.m16ent.brezno.50
-Original length  69.39m (  5 legs), moved   1.02m ( 0.20m/leg). Error   1.48%
-2.544144
-H: 2.708088 V: 2.267726
+Original length  69.39m (  5 legs), moved   1.07m ( 0.21m/leg). Error   1.54%
+2.659126
+H: 2.722335 V: 2.558421
 
 system.m16low.galact2.4 - system.m16low.galact2.5 - system.m16low.galact2.6 - system.m16low.galact2.7 - system.m16low.galact2.8 - system.m16low.galact2.9 - system.m16low.galact2.10 = system.m16low.galact1.8 - system.m16low.galact1.7 - system.m16low.galact1.6 - system.m16low.galact1.5 - system.m16low.galact1.4 - system.m16low.galact1.3 - system.m16low.galact1.2 - system.m16low.galact1.1 = system.m16low.tamoka.3 - system.m16low.tamoka.2 - system.m16low.tamoka.1 = system.m16low.shordrop2.6 - system.m16low.shordrop2.5 - system.m16low.shordrop2.4 - system.m16low.shordrop2.3 - system.m16low.shordrop2.2 - system.m16low.shordrop2.1 = system.m16low.shordrop.1 - system.m16low.shordrop.2 - system.m16low.shordrop.3 - system.m16low.shordrop.4 - system.m16low.shordrop.5 - system.m16low.shordrop.6 - system.m16low.shordrop.7 = system.m16ent.brezno.50
 Original length 250.28m ( 26 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
@@ -28,15 +43,15 @@ Original length  88.42m (  9 legs), moved   1.46m ( 0.16m/leg). Error   1.65%
 3.270734
 H: 3.916508 V: 2.048318
 
-system.level2.level2s.6 - system.level2.level2s.7 - system.level2.level2s.8 - system.level2.level2s.9 - system.level2.level2s.10 - system.level2.level2s.11 - system.level2.level2s.12 - system.level2.level2s.13 - system.level2.level2s.14 = system.m18.void.6 - system.m18.void.7 - system.m18.void.8 - system.m18.void.9 - system.m18.void.10 - system.m18.void.11 - system.m18.void.12 - system.m18.void.13 - system.m18.void.14 - system.m18.void.15 - system.m18.void.16 - system.m18.void.17 = system.m18.gallery.2 = system.m18.silos.1 - system.m18.silos.2 - system.m18.silos.3 - system.m18.silos.4 - system.m18.silos.5 - system.m18.silos.6 - system.m18.silos.7 - system.m18.silos.8
-Original length 239.87m ( 26 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+system.level2.level2s.6 - system.level2.level2s.7 - system.level2.level2s.8 - system.level2.level2s.9 - system.level2.level2s.10 - system.level2.level2s.11 - system.level2.level2s.12 - system.level2.level2s.13 - system.level2.level2s.14 = system.m18.void.6 - system.m18.void.7 - system.m18.void.8 - system.m18.void.9 - system.m18.void.10 - system.m18.void.11 - system.m18.void.12 - system.m18.void.13 - system.m18.void.14 - system.m18.void.15 - system.m18.void.16 - system.m18.void.17 = 
+Original length 110.38m ( 19 legs), moved   0.39m ( 0.02m/leg). Error   0.36%
+0.921073
+H: 0.250635 V: 1.599503
 
 system.level2.level2s.6 - system.level2.level2s.5 - system.level2.level2s.4 - system.level2.level2s.3 - system.level2.level2s.2 - system.level2.level2s.1 = system.level2.migcon.7 - system.level2.migcon.6 - system.level2.migcon.5 - system.level2.migcon.4 - system.level2.migcon.3 - system.level2.migcon.2 - system.level2.migcon.1 = system.level2.migconleft.1 - system.level2.migconleft.2 - system.level2.migconleft.3 - system.level2.migconleft.4 - system.level2.migconleft.5 - system.level2.migconleft.6 = system.m16ent.hotline.7 - system.m16ent.hotline.8 - system.m16ent.hotline.9 - system.m16ent.hotline.10 - system.m16ent.hotline.11 - system.m16ent.hotline.12 - system.m16ent.hotline.1 - system.m16ent.hotline.2 - system.m16ent.hotline.3
-Original length 311.56m ( 24 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
-0.000000
-H: 0.000000 V: 0.000000
+Original length 311.56m ( 24 legs), moved   2.43m ( 0.10m/leg). Error   0.78%
+2.642769
+H: 0.240136 V: 3.988901
 
 system.level2.exhib.22 - system.level2.exhib.23 - system.level2.exhib.24 - system.level2.exhib.10 - system.level2.exhib.25 - system.level2.exhib.26 - system.level2.exhib.27 - system.level2.exhib.28 - system.level2.exhib.29 = system.level2.level2n.4 - system.level2.level2n.3 - system.level2.level2n.2 - system.level2.level2n.1 = system.level2.level2s.6
 Original length 163.18m ( 11 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
@@ -57,4 +72,104 @@ system.coldfeet.glory.11 - system.coldfeet.glory.12 - system.coldfeet.glory.13 -
 Original length  79.80m ( 16 legs), moved   6.32m ( 0.40m/leg). Error   7.92%
 16.600666
 H: 21.050379 V: 2.859259
+
+system.m2.izent1.14 - system.m2.izent1.13 - system.m2.izent1.12 - system.m2.izent1.11 - system.m2.izent1.10 - system.m2.izent1.9 - system.m2.izent1.8 - system.m2.izent1.7 - system.m2.izent1.6 - system.m2.izent1.5 - system.m2.izent1.4 - system.m2.izent1.3 - system.m2.izent1.2 - system.m2.izent1.1 = system.m2.jspdt.1 - system.m2.jspdt.2 - system.m2.jspdt.3 - system.m2.jspdt.4 - system.m2.jspdt.5 - system.m2.jspdt.6 - system.m2.jspdt.7 - system.m2.jspdt.8 - system.m2.jspdt.9 - system.m2.jspdt.10 - system.m2.jspdt.11 - system.m2.jspdt.12 - system.m2.jspdt.13 - system.m2.jspdt.14 - system.m2.jspdt.15 - system.m2.jspdt.16 - system.m2.jspdt.17 - system.m2.jspdt.18 - system.m2.jspdt.19 - system.m2.jspdt.20 - system.m2.jspdt.21 - system.m2.jspdt.22 - system.m2.jspdt.23 - system.m2.jspdt.24 = system.m18.silos.8 - system.m18.silos.7 - system.m18.silos.6 - system.m18.silos.5 - system.m18.silos.4 - system.m18.silos.3 - system.m18.silos.2 - system.m18.silos.1 = system.m18.gallery.2
+Original length 458.76m ( 43 legs), moved  14.01m ( 0.33m/leg). Error   3.05%
+12.744730
+H: 13.451906 V: 6.016867
+
+system.m2.izent1.14 - system.m2.izent1.15 - system.m2.izent1.16
+Original length  32.36m (  2 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
+0.000000
+H: 0.000000 V: 0.000000
+
+surf.96.s1.1 - surf.96.s1.m2 = system.m2.izent2.19 - system.m2.izent2.18 - system.m2.izent2.17 - system.m2.izent2.16 = system.m2.izent1.14
+Original length  37.03m (  4 legs), moved   1.10m ( 0.28m/leg). Error   2.98%
+4.030919
+H: 4.690373 V: 2.870371
+
+surf.96.s1.9 - surf.96.s1.8 - surf.96.s1.7 - surf.96.s1.6 - surf.96.s1.5 - surf.96.s1.4 - surf.96.s1.1
+Original length 155.10m (  6 legs), moved   5.44m ( 0.91m/leg). Error   3.51%
+6.822436
+H: 4.093968 V: 8.908325
+
+surf.00.s4.ub - surf.00.s4.2 - surf.00.s4.3 - surf.00.s4.4 - surf.00.s4.5 - surf.00.s4.6 - surf.00.s4.7 - surf.00.s4.8 - surf.00.s4.pm = surf.07.surf_prima_planika.7 - surf.07.surf_prima_planika.8 - surf.07.surf_prima_planika.9 - surf.07.surf_prima_planika.10 - surf.07.surf_prima_planika.11 - surf.07.surf_prima_planika.12 - surf.07.surf_prima_planika.6 - surf.07.surf_prima_planika.5 - surf.07.surf_prima_planika.4 - surf.07.surf_prima_planika.3 - surf.07.surf_prima_planika.2 - surf.07.surf_prima_planika.1 = surf.07.surf_ubend_planika.14 - surf.07.surf_ubend_planika.13 - surf.07.surf_ubend_planika.12 - surf.07.surf_ubend_planika.11 - surf.07.surf_ubend_planika.10 - surf.07.surf_ubend_planika.8 - surf.07.surf_ubend_planika.7 - surf.07.surf_ubend_planika.6 - surf.07.surf_ubend_planika.5 - surf.07.surf_ubend_planika.4 - surf.07.surf_ubend_planika.3 - surf.07.surf_ubend_planika.2 - surf.07.surf_ubend_planika.1 = surf.00.s4.ub
+Original length 523.76m ( 31 legs), moved   8.79m ( 0.28m/leg). Error   1.68%
+6.981594
+H: 7.852211 V: 5.249909
+
+surf.96.s1.m10 - surf.96.s1.17 - surf.96.s1.16 - surf.96.s1.15 - surf.96.s1.14 - surf.96.s1.11 - 
+Original length 122.09m (  6 legs), moved   2.53m ( 0.42m/leg). Error   2.07%
+3.597830
+H: 0.979222 V: 5.096894
+
+surf.96.s1.m16 - surf.96.s1.12 - surf.96.s1.9
+Original length  26.66m (  2 legs), moved   0.12m ( 0.06m/leg). Error   0.46%
+0.499714
+H: 0.303318 V: 0.679918
+
+surf.96.s2.m15 - surf.96.s2.9
+Original length  17.43m (  1 legs), moved   0.19m ( 0.19m/leg). Error   1.11%
+0.885396
+H: 1.056487 V: 0.593165
+
+surf.01.s0725.m4 - surf.01.s0725.18 - surf.01.s0725.19 - surf.01.s0725.20 - surf.01.s0725.21 - surf.01.s0725.22 - surf.01.s0725.23 - surf.01.s0725.24 - surf.01.s0725.25 - surf.01.s0725.26 - surf.01.s0725.m15
+Original length 165.13m ( 10 legs), moved   0.63m ( 0.06m/leg). Error   0.38%
+0.870667
+H: 1.152595 V: 0.232779
+
+surf.01.s0725.m4 - surf.01.s0725.16 - surf.01.s0725.15 - surf.01.s0725.14 - surf.01.s0725.13 - surf.01.s0725.12 - surf.01.s0725.11 - surf.01.s0725.10 - surf.01.s0725.9 - surf.01.s0725.8 - surf.01.s0725.7 - surf.01.s0725.6 - surf.01.s0725.5 - surf.01.s0725.4 - surf.01.s0725.3 - surf.01.s0725.2 - surf.01.s0725.m10
+Original length 206.94m ( 16 legs), moved   4.99m ( 0.31m/leg). Error   2.41%
+6.794541
+H: 4.513096 V: 9.009161
+
+surf.01.sm10_rv_m17.10 - surf.01.sm10_rv_m17.12 - surf.01.sm10_rv_m17.13 - surf.01.sm10_rv_m17.14 - surf.01.sm10_rv_m17.15 - surf.01.sm10_rv_m17.m17 = surf.96.s2.m17 - surf.96.s2.2 - surf.96.s2.3 - surf.96.s2.4 - surf.96.s2.6 - surf.96.s2.7 - surf.96.s2.8 - surf.96.s2.9
+Original length 247.99m ( 12 legs), moved   2.34m ( 0.19m/leg). Error   0.94%
+2.270821
+H: 2.977434 V: 1.023151
+
+surf.01.sm10_rv_m17.10 - surf.01.sm10_rv_m17.m15 = surf.01.s0725.m15
+Original length   5.98m (  1 legs), moved   0.02m ( 0.02m/leg). Error   0.34%
+0.199575
+H: 0.227501 V: 0.130303
+
+surf.01.sm10_rv_m17.10 - surf.01.sm10_rv_m17.9 - surf.01.sm10_rv_m17.8 - surf.01.sm10_rv_m17.7 - surf.01.sm10_rv_m17.6 - surf.01.sm10_rv_m17.5 - surf.01.sm10_rv_m17.4 - surf.01.sm10_rv_m17.3 - surf.01.sm10_rv_m17.2 - surf.01.sm10_rv_m17.m10 = surf.01.s0725.m10
+Original length 251.82m (  9 legs), moved   2.52m ( 0.28m/leg). Error   1.00%
+2.185669
+H: 2.842441 V: 1.115273
+
+surf.01.sm16_m4_m18.6 - surf.01.sm16_m4_m18.7 - surf.01.sm16_m4_m18.8 - surf.01.sm16_m4_m18.9 - surf.01.sm16_m4_m18.12 - surf.01.sm16_m4_m18.m4 = surf.01.s0725.m4
+Original length  60.79m (  5 legs), moved   1.73m ( 0.35m/leg). Error   2.85%
+4.394455
+H: 4.031865 V: 4.808814
+
+surf.01.sm16_m4_m18.6 - surf.01.sm16_m4_m18.5 - surf.01.sm16_m4_m18.4 - surf.01.sm16_m4_m18.3 - surf.01.sm16_m4_m18.2 - surf.01.sm16_m4_m18.m16 = surf.00.s1.m16
+Original length  87.16m (  5 legs), moved   3.25m ( 0.65m/leg). Error   3.73%
+5.986650
+H: 7.862924 V: 2.448870
+
+surf.96.s2.m10 - surf.96.s2.22 - surf.96.s2.21 - surf.96.s2.20 - surf.96.s2.19 - surf.96.s2.16 - surf.96.s2.15 - surf.96.s2.14 - surf.96.s2.13 - surf.96.s2.12 - surf.96.s2.11 - surf.96.s2.9
+Original length 254.92m ( 11 legs), moved   1.43m ( 0.13m/leg). Error   0.56%
+1.443166
+H: 1.366458 V: 1.523452
+
+system.m16ent.entrance.1 - system.m16ent.entrance.2 - system.m16ent.entrance.3 - system.m16ent.entrance.4 - system.m16ent.entrance.5 - system.m16ent.entrance.6 - system.m16ent.entrance.7 - system.m16ent.entrance.8 - system.m16ent.entrance.9 - system.m16ent.entrance.10 - system.m16ent.entrance.11 - system.m16ent.entrance.12 - system.m16ent.entrance.13 - system.m16ent.entrance.14 - system.m16ent.entrance.15 - system.m16ent.entrance.16 - system.m16ent.entrance.17 - system.m16ent.entrance.18 - system.m16ent.entrance.19 - system.m16ent.entrance.20 - system.m16ent.entrance.21 - system.m16ent.entrance.22 - system.m16ent.entrance.23 - system.m16ent.entrance.24 - system.m16ent.entrance.25 - system.m16ent.entrance.26 - system.m16ent.entrance.27 - system.m16ent.entrance.28 - system.m16ent.entrance.29 - system.m16ent.entrance.30 - system.m16ent.entrance.31 = system.m16ent.brezno.31 - system.m16ent.brezno.32 - system.m16ent.brezno.33 - system.m16ent.brezno.35 - system.m16ent.brezno.36 - system.m16ent.brezno.37 - system.m16ent.brezno.38 - system.m16ent.brezno.40 - system.m16ent.brezno.41 - system.m16ent.brezno.44 - system.m16ent.brezno.45 - system.m16ent.brezno.46 - system.m16ent.brezno.47 - system.m16ent.brezno.48
+Original length 235.25m ( 43 legs), moved   0.94m ( 0.02m/leg). Error   0.40%
+1.492454
+H: 0.421075 V: 2.482025
+
+surf.00.s1.m16 - surf.00.s1.26 - surf.00.s1.25 - surf.00.s1.24 - surf.00.s1.23 - surf.00.s1.22 - surf.00.s1.21 - surf.00.s1.20 - surf.00.s1.18
+Original length 157.90m (  8 legs), moved   5.60m ( 0.70m/leg). Error   3.55%
+7.007387
+H: 8.736738 V: 4.321745
+
+system.m18.torn.26 - system.m18.torn.25 - system.m18.torn.24 - system.m18.torn.23 - system.m18.torn.22 - system.m18.torn.21 - system.m18.torn.20 - system.m18.torn.19 - system.m18.torn.18 - system.m18.torn.17 - system.m18.torn.16 - system.m18.torn.15 - system.m18.torn.14 - system.m18.torn.13 - system.m18.torn.12 - system.m18.torn.11 - system.m18.torn.10 - system.m18.torn.9 - system.m18.torn.8 - system.m18.torn.7 - system.m18.torn.6 - system.m18.torn.5 - system.m18.torn.4 - system.m18.torn.3 - system.m18.torn.2 = system.m18.lowerrift.2 - system.m18.lowerrift.100 - system.m18.lowerrift.101 - system.m18.lowerrift.102 - system.m18.lowerrift.103 - system.m18.lowerrift.104 - system.m18.lowerrift.105 - system.m18.lowerrift.106 - system.m18.lowerrift.107 - system.m18.lowerrift.108 - system.m18.lowerrift.109 - system.m18.lowerrift.110 - system.m18.lowerrift.111 - system.m18.lowerrift.112 - system.m18.lowerrift.113 - system.m18.lowerrift.114 - system.m18.lowerrift.115 - system.m18.lowerrift.116 - system.m18.lowerrift.117 - system.m18.lowerrift.118 - system.m18.lowerrift.119 - system.m18.lowerrift.120 - system.m18.lowerrift.121 - system.m18.lowerrift.122 - system.m18.lowerrift.123 - system.m18.lowerrift.124 = system.m18.turtle.18 - system.m18.turtle.17 - system.m18.turtle.16 - system.m18.turtle.15 - system.m18.turtle.14 - system.m18.turtle.13 - system.m18.turtle.12 - system.m18.turtle.11 - system.m18.turtle.10 - system.m18.turtle.9 - system.m18.turtle.6 - system.m18.turtle.8 = system.m18.shreddie.8 - system.m18.shreddie.9 - system.m18.shreddie.12 - system.m18.shreddie.13 - system.m18.shreddie.14 - system.m18.shreddie.15 - system.m18.shreddie.16 - system.m18.shreddie.17 - system.m18.shreddie.18 - system.m18.shreddie.19 - system.m18.shreddie.20 - system.m18.shreddie.21 - system.m18.shreddie.22 - system.m18.shreddie.23 - system.m18.shreddie.24 - system.m18.shreddie.25 - system.m18.shreddie.26 - system.m18.shreddie.27 - system.m18.shreddie.28 - system.m18.shreddie.29 - system.m18.shreddie.30 - system.m18.shreddie.31 - system.m18.shreddie.32 - system.m18.shreddie.34 = system.m18.gallery.0 - system.m18.gallery.1 - system.m18.gallery.2
+Original length 323.60m ( 85 legs), moved   8.81m ( 0.10m/leg). Error   2.72%
+11.070132
+H: 13.347458 V: 3.297913
+
+surf.01.sm16_m4_m18.m18 - surf.01.sm16_m4_m18.19 - surf.01.sm16_m4_m18.18 - surf.01.sm16_m4_m18.17 - surf.01.sm16_m4_m18.16 - surf.01.sm16_m4_m18.15 - surf.01.sm16_m4_m18.14 - surf.01.sm16_m4_m18.6
+Original length  90.72m (  7 legs), moved   1.48m ( 0.21m/leg). Error   1.63%
+2.963125
+H: 2.905525 V: 3.035490
 
