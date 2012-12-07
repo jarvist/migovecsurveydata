@@ -1,4 +1,5 @@
 garden-low.friend.22 - garden-low.friend.31 - garden-low.friend.32 - garden-low.friend.33 - garden-low.friend.34 - garden-low.friend.35 - garden-low.friend.36 - garden-low.friend.37 - garden-low.friend.4 - garden-low.friend.5 - garden-low.friend.6 - garden-low.friend.7 - garden-low.friend.8 - garden-low.friend.9 - garden-low.friend.10 - garden-low.friend.11 - garden-low.friend.12 - garden-low.friend.13 - garden-low.friend.14 - garden-low.friend.15 - garden-low.friend.16 - garden-low.friend.17 - garden-low.friend.3b
+<<<<<<< HEAD
 Original length 258.41m ( 22 legs), moved   9.83m ( 0.45m/leg). Error   3.80%
 12.295983
 H: 15.031954 V: 7.483585
@@ -22,6 +23,16 @@ garden-low.cascade.27 - garden-low.cascade.28 - garden-low.cascade.13 - garden-l
 Original length 110.37m ( 22 legs), moved   2.94m ( 0.13m/leg). Error   2.67%
 6.426918
 H: 6.595840 V: 6.101163
+=======
+Original length 258.41m ( 22 legs), moved   7.56m ( 0.34m/leg). Error   2.92%
+9.455373
+H: 12.018717 V: 4.396146
+
+garden-low.leprachaun.31 - garden-low.leprachaun.32 - garden-low.leprachaun.33 = garden-low.highway32.1 - garden-low.highway32.2 - garden-low.highway32.3 - garden-low.highway32.4 - garden-low.highway32.5 - garden-low.highway32.6 - garden-low.highway32.7 - garden-low.highway32.8 - garden-low.highway32.9 - garden-low.highway32.10 - garden-low.highway32.11 - garden-low.highway32.12 - garden-low.highway32.13 - garden-low.highway32.14 - garden-low.highway32.15 - garden-low.highway32.16 - garden-low.highway32.22 - garden-low.highway32.23 - garden-low.highway32.24 - garden-low.highway32.25 - garden-low.highway32.26 - garden-low.highway32.27 - garden-low.highway32.28 - garden-low.highway32.29 - garden-low.highway32.30 - garden-low.highway32.31 - garden-low.highway32.32 = garden-low.candymountain.1 - garden-low.candymountain.2 - garden-low.candymountain.3 - garden-low.candymountain.4 - garden-low.candymountain.5 - garden-low.candymountain.6 - garden-low.candymountain.7 - garden-low.candymountain.8 - garden-low.candymountain.9 - garden-low.candymountain.10 - garden-low.candymountain.11 = garden-low.friend.23 - garden-low.friend.24 - garden-low.friend.25 - garden-low.friend.26 - garden-low.friend.27 - garden-low.friend.28 - garden-low.friend.29 - garden-low.friend.30 - garden-low.friend.22
+Original length 316.25m ( 46 legs), moved   7.09m ( 0.15m/leg). Error   2.24%
+9.186395
+H: 11.015931 V: 4.305546
+>>>>>>> 64e0995faeea35424f52325075ec272e98c21a75
 
 garden-low.crack_in_time.carbide - garden-low.crack_in_time.1 - garden-low.crack_in_time.2 - garden-low.crack_in_time.3 - garden-low.crack_in_time.4 - garden-low.crack_in_time.5 - garden-low.crack_in_time.6 - garden-low.crack_in_time.7 - garden-low.crack_in_time.8 - garden-low.crack_in_time.9 = garden-low.sidewinder.8 - garden-low.sidewinder.7 - garden-low.sidewinder.6 - garden-low.sidewinder.5 - garden-low.sidewinder.4 - garden-low.sidewinder.3 - garden-low.sidewinder.2 - garden-low.sidewinder.1 = garden-low.blackknight.13 - garden-low.blackknight.12 - garden-low.blackknight.11 - garden-low.blackknight.10 - garden-low.blackknight.9 - garden-low.blackknight.8 - garden-low.blackknight.7 - garden-low.blackknight.6 - garden-low.blackknight.5 - garden-low.blackknight.4 - garden-low.blackknight.1 - garden-low.blackknight.14 - garden-low.blackknight.15 - garden-low.blackknight.16 - garden-low.blackknight.17 = garden-low.korita.14 - garden-low.korita.15 - garden-low.korita.16 - garden-low.korita.17 - garden-low.korita.18 - garden-low.korita.5 - garden-low.korita.6 - garden-low.korita.7 - garden-low.korita.8 - garden-low.korita.9 - garden-low.korita.10 - garden-low.korita.11 - garden-low.korita.12 - garden-low.korita.3 - garden-low.korita.2 - garden-low.korita.1 = garden-low.eggsplosive.1 - garden-low.eggsplosive.2 - garden-low.eggsplosive.3 - garden-low.eggsplosive.4 - garden-low.eggsplosive.5 - garden-low.eggsplosive.6 - garden-low.eggsplosive.7 - garden-low.eggsplosive.8 - garden-low.eggsplosive.9 - garden-low.eggsplosive.10 - garden-low.eggsplosive.11 = garden-low.belowzimmer.7 - garden-low.belowzimmer.8 - garden-low.belowzimmer.9 - garden-low.belowzimmer.10 - garden-low.belowzimmer.6 - garden-low.belowzimmer.5 - garden-low.belowzimmer.2 - garden-low.belowzimmer.1 - garden-low.belowzimmer.3 - garden-low.belowzimmer.4 = garden-low.friend.3b
 Original length 332.35m ( 64 legs), moved   8.03m ( 0.13m/leg). Error   2.42%

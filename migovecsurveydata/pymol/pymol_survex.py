@@ -174,7 +174,11 @@ DESCRIPTION
 	for s in survey:
 		l0, _, l1 = s.labels[0].rpartition('.')
 		resi, name = l1[:5], l1[5:]
+<<<<<<< HEAD
 		segi, chain, resn = l0[:4],l0[-4:-3], l0[-3:]
+=======
+		segi, chain, resn = l0[-8:-4], l0[-4:-3], l0[-3:]
+>>>>>>> 64e0995faeea35424f52325075ec272e98c21a75
 		atom = Atom()
 		atom.coord = [i/100.0 for i in s]
 		atom.segi = segi
