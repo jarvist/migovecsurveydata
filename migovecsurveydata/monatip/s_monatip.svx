@@ -16,4 +16,9 @@
 *include broken_hammer ; 8.8.2008 - Izi, Tet, Samo
 *include alkatraz ; 8.8.2008 - Izi, Tet
 
+;11-2012 - JSPDT super action push
+*include monatip5 ; 
+*equate monatip5.27     monatip2.27
+
+
 *end s_monatip
