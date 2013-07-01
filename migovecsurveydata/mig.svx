@@ -16,6 +16,9 @@
 *include garden/s_garden
 *equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
 
+;2012 CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
+*equate garden.garden-low.dreamsforthesoul.1    system.hotelt.waterloo.13
+
 ;Vilinska Jama, new entrance to GW
 *equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
 
