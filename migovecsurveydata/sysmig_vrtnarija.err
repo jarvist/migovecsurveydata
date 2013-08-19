@@ -153,11 +153,6 @@ Original length  44.96m (  5 legs), moved   0.51m ( 0.10m/leg). Error   1.14%
 1.287002
 H: 1.638552 V: 0.649418
 
-garden.garden-low.consort.14 - garden.garden-low.consort.18 - garden.garden-low.consort.19 - garden.garden-low.consort.20 - garden.garden-low.consort.21 - garden.garden-low.consort.22 - garden.garden-low.consort.24 - garden.garden-low.consort.25 = garden.garden-low.wonderland.5 - garden.garden-low.wonderland.7 - garden.garden-low.wonderland.8 - garden.garden-low.wonderland.9 - garden.garden-low.wonderland.10 - garden.garden-low.wonderland.11 - garden.garden-low.wonderland.12 - garden.garden-low.wonderland.13 = garden.garden-low.friend.3b
-Original length 173.11m ( 14 legs), moved   1.40m ( 0.10m/leg). Error   0.81%
-2.174195
-H: 2.749795 V: 0.618693
-
 garden.garden-low.consort.14 - garden.garden-low.consort.17 - garden.garden-low.consort.16 - garden.garden-low.consort.15 - garden.garden-low.consort.12
 Original length  23.97m (  4 legs), moved   0.93m ( 0.23m/leg). Error   3.89%
 4.570816
@@ -167,6 +162,16 @@ garden.garden-low.consort.14 - garden.garden-low.consort.13 - garden.garden-low.
 Original length  13.45m (  2 legs), moved   0.57m ( 0.28m/leg). Error   4.22%
 3.375631
 H: 4.165553 V: 0.810766
+
+garden.garden-low.consort.25 - garden.garden-low.consort.24 - garden.garden-low.consort.22 - garden.garden-low.consort.21 - garden.garden-low.consort.20 - garden.garden-low.consort.19 - garden.garden-low.consort.18 - garden.garden-low.consort.14
+Original length  87.47m (  7 legs), moved   0.73m ( 0.10m/leg). Error   0.84%
+1.527101
+H: 1.938833 V: 0.760705
+
+garden.garden-low.wonderland.5 - garden.garden-low.wonderland.7 - garden.garden-low.wonderland.8 - garden.garden-low.wonderland.9 - garden.garden-low.wonderland.10 - garden.garden-low.wonderland.11 - garden.garden-low.wonderland.12 - garden.garden-low.wonderland.13 = garden.garden-low.friend.3b
+Original length  85.64m (  7 legs), moved   0.77m ( 0.11m/leg). Error   0.89%
+1.781178
+H: 2.172659 V: 0.024963
 
 garden.garden-low.roundpond.2 - garden.garden-low.roundpond.3 - garden.garden-low.roundpond.4 - garden.garden-low.roundpond.5 - garden.garden-low.roundpond.2
 Original length  12.44m (  4 legs), moved   0.41m ( 0.10m/leg). Error   3.32%
@@ -187,6 +192,21 @@ garden.garden-low.xanadu.1 - garden.garden-low.xanadu.4 - garden.garden-low.xana
 Original length  24.91m (  6 legs), moved   1.99m ( 0.33m/leg). Error   8.00%
 8.927598
 H: 1.129543 V: 14.793274
+
+garden.garden-low.xanadu.12 - garden.garden-low.xanadu.13 - garden.garden-low.xanadu.14 - garden.garden-low.xanadu.15 - garden.garden-low.xanadu.16 - garden.garden-low.xanadu.11 - garden.garden-low.xanadu.10 - garden.garden-low.xanadu.9 - 
+Original length  37.52m (  8 legs), moved   0.00m ( 0.00m/leg). Error   0.00%
+0.000000
+H: 0.000000 V: 0.000000
+
+garden.garden-low.lethe.3 - garden.garden-low.lethe.4 - garden.garden-low.lethe.12 - garden.garden-low.lethe.13 - garden.garden-low.lethe.8 - garden.garden-low.lethe.9 - garden.garden-low.lethe.10 - garden.garden-low.lethe.11 - garden.garden-low.lethe.3
+Original length  43.93m (  8 legs), moved   4.35m ( 0.54m/leg). Error   9.90%
+15.391245
+H: 2.269741 V: 26.167264
+
+garden.garden-low.labyrinth.5 - garden.garden-low.labyrinth.6 - garden.garden-low.labyrinth.7 - garden.garden-low.labyrinth.8 - garden.garden-low.labyrinth.18 - garden.garden-low.labyrinth.19 - garden.garden-low.labyrinth.20 - garden.garden-low.labyrinth.21 - garden.garden-low.labyrinth.22 - garden.garden-low.labyrinth.23 - garden.garden-low.labyrinth.24 - garden.garden-low.labyrinth.25 - garden.garden-low.labyrinth.26 - garden.garden-low.labyrinth.5
+Original length  45.62m ( 13 legs), moved  17.34m ( 1.33m/leg). Error  38.00%
+57.556046
+H: 69.858339 V: 3.342257
 
 surf.96.s1.1 - surf.96.s1.m2 = system.m2.izent2.19 - system.m2.izent2.18 - system.m2.izent2.17 - system.m2.izent2.16 = system.m2.izent1.14
 Original length  37.03m (  4 legs), moved   1.17m ( 0.29m/leg). Error   3.15%
