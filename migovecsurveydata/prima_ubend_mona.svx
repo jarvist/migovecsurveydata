@@ -16,4 +16,4 @@
 ;*equate julie.17 surf.07.surf_ubend_planika.9
 
 *include monatip/s_monatip
-*equate surf.07.surf_prima_planika.6 s_monatip.monatip.1
+*equate surf.07.surf_prima_planika.6 s_monatip.monatip1.1

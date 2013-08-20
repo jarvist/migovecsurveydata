@@ -1,9 +1,12 @@
 ;Monatip cave:
 
-*begin
+*begin s_monatip
+*date 2008
+;Generic date for monatip, will get overridden if any individual dates in file
 
-*entrance monatip1.1
-*fix  	monatip1.1		404560.66	123835.66	1733.89
+; No global fixes in individual caves please! Breaks trying to include them from bigger directory
+;*entrance monatip1.1
+;*fix  	monatip1.1		404560.66	123835.66	1733.89
 
 *include monatip1
 *include monatip2
@@ -28,4 +31,4 @@
 *equate 	monatip7.20     monatip6.8 
 *equate		monatip7.1	monatip8.8
 
-*end
+*end s_monatip
