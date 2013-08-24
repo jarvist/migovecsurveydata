@@ -78,7 +78,7 @@
 *entrance E1.bolt
 
 *include monatip/s_monatip
-*equate surf.07.surf_prima_planika.6 s_monatip.monatip.1
+*equate surf.07.surf_prima_planika.6 s_monatip.monatip1.1
 
 ;*include kukpot/s_kukpot
 ;*fix kukpot.ent 404606.123 125626.115 1767.015625
@@ -149,6 +149,8 @@
 *flags surface
 ;*include DEM/1800m_kuk.svx
 ;*include DEM/north_south_strip.svx
-*include DEM/east_west_lines.svx
-;*include DEM/north_south_lines.svx
+;*include DEM/east_west_lines.svx
+;This is our largest DEM dataset
+;*include DEM/2000m_circle.svx
+*include DEM/north_south_lines.svx
 *end DEM

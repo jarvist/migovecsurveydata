@@ -1,0 +1,102 @@
+*start garden.garden-ent.bclent2.0
+*eleft garden.garden-ent.bclent2.0
+
+;break off CK - this puts main pitch series on far left
+*break garden.kangaroo.fools_road.4
+
+
+;bounce laurel to right
+*eswap garden.garden-ent.laurel.13
+
+;head bonus back to right
+*eswap garden.kangaroo.bonus.13
+*eswap garden.garden-ent.zimmer.2
+*eswap garden.garden-ent.banzai.11
+
+;*eswap garden.garden-ent.pico.10
+*eswap garden.kangaroo.kangaroo01.22
+
+
+
+;through olympic rift back towards main line
+;*eswap garden.kangaroo.scrotty.31
+
+*eswap garden.kangaroo.mudslump.27
+
+;send dangermouse away from mudslump
+*eswap garden.kangaroo.dangermouse.8
+*eswap  garden.kangaroo.greenback.5 garden.kangaroo.greenback.inlet
+*eswap  garden.kangaroo.greenback.2 garden.kangaroo.greenback.1
+
+;send DM towards kill'em on main pitch
+;*eswap garden.kangaroo.dangermouse.4
+
+;send climb above primula towards metal camp aven
+*eswap garden.kangaroo.keti.7
+
+;fire ride the lightning towards bottom of DM
+;*eswap garden.kangaroo.ride_the_lightning.6
+*eswap garden.kangaroo.kill_em_all.2
+*eswap garden.kangaroo.intravenus_de_milo.7
+
+*eswap garden.kangaroo.dark_tranquillity.3
+
+;get primula near the top of dark tranquility
+
+;bounce hanging garden towards fools road
+;*eswap garden.kangaroo.happy_monday.1
+
+;send Below Zimmer into blank space
+*eswap garden.garden-low.belowzimmer.1
+
+;bounce lower GW back
+*eswap garden.garden-low.candymountain.2
+
+;separate balamory
+*eswap garden.garden-low.cascade.11
+
+;Sep blind spot from balamory
+*eswap garden.garden-low.blind.9
+
+*eswap garden.garden-low.mushroom.15
+;count for weird loop
+*eswap garden.garden-low.greed.22
+;and other weird loop - Cactus Junct is a mess!
+
+; 2010
+
+*break garden.garden-low.crack_in_time.carbide
+;Now send korita back towards envy + tuck out of way from Leopard
+*eswap garden.garden-low.eggsplosive.7
+
+*eswap garden.garden-low.wonderland.12
+
+*eswap garden.garden-low.ouroboros.22
+
+*eswap garden.garden-low.kamikaze.28
+
+;Z-fold Wonderland underneath Korita and then back under Prince Consort
+*eswap garden.garden-low.wonderland.4
+
+*eswap garden.garden-low.wonderland.1
+*eswap garden.garden-low.palace.5
+
+*eswap garden.garden-low.republica.14
+
+*eswap garden.garden-low.fallsrd.6
+*eswap garden.kangaroo.roaring.8
+
+; 2011 ADDITIONS
+
+*eswap garden.garden-low.redbaron.2
+
+*eswap garden.garden-low.mad_cow.15
+
+*eswap garden.garden-low.eastlinks.23
+
+*eswap garden.garden-low.eastlinks.6
+
+*eswap garden.garden-low.krtkovadobradela.9
+
+*eswap garden.garden-low.krtekinorel.0
+*eswap garden.garden-low.herojtelemarkal1.1

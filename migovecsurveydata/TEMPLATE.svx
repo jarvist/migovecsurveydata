@@ -1,6 +1,6 @@
 ;####NAME####:
 ; ###LOCATION/DESCRIPTION###
-*date 2010.7.14 ; Expedition Vodna Sled 2010
+*date 2013.7.14 ; Expedition Za Mig Na Kuk 
 
 ;Book + Tape: ###
 ;Instruments: ###

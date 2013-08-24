@@ -22,6 +22,10 @@
 ;Vilinska Jama, new entrance to GW
 *equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
 
+;;Jailbreak, new cave in blowing holes
+;*include jailbreak/jailbreak
+;*fix jailbreak.ent 
+;unable to convert gps coords correctly :(
 
 ;*include kukpot/s_kukpot
 ;*fix kukpot.ent 404606.123 125626.115 1767.015625
