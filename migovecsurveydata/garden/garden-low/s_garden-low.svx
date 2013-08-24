@@ -146,7 +146,7 @@
 
 ;EXPO 2013
 *date 2013.07
-*calibrate compass -2.85
+*calibrate compass -2.99
 	*include hash			; 19.07.13 Rhys + Clare
 	*include beetlejuice		; 20.07.13 Tetley + Sam
 	*include hash2			; 22.07.13 Tetley + Sam
