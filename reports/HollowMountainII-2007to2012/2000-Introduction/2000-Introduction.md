@@ -1,6 +1,8 @@
-%Editorial - Exploration 2007-2012
-%Jarvist Moore Frost
-%
+%The Hollow Mountain II 2007-2012
+%Imperial College Caving Club
+
+\chapter*{Editorial}
+
 Looking back over the caving exploration between 2007 and 2012 it almost seems like it was a pre-ordained story. Living it, it never seemed like this, rather a more confused and complicated picture, individuals actors without a script, pulling together in some vague direction but towards perhaps an achievable objective. 
 
 If exploration were a rational expenditure of efforts towards a known end, the scenes would be rather more simple to describe - we realised how close we were to the connection of Vrtnarija and Kavkna Jama (M2) after more carefully analysing the 2007 "Kill 'em All" survey data. To pursue this, we rebolted and rerigged Kavkna Jama in 2008, while exploring on the other side in Vrtnarija. In 2009 we established a camp in Vrtnarija at the nearest suitable point to the closest approach, and used it to massively increase our time at the pushing front. In 2010, 2011 and 2012 we camped deeper in Vrtnarija, while pushing Kavkna Jama from the surface both during the Summer and on Autumn / Winter trips. In 2012 we connected the systems, forming the longest cave system in Slovenia, and one in which the vast majority of cave passage is at depths greater than 500 m.
@@ -23,17 +25,19 @@ And so, Ninety-Nine years after Apsley Cherry-Garrard returned to South Kensingt
 
 We were always in the longest cave in Slovenia, we just hadn't realised. 
 
-Jarvist Moore Frost
+\attrib{Jarvist Moore Frost}
 
-We shall not cease from exploration
-And the end of all our exploring
-Will be to arrive where we started
-And know the place for the first time.
-Through the unknown, unremembered gate
-When the last of earth left to discover
-Is that which was the beginning;
-At the source of the longest river
-The voice of the hidden waterfall
+\begin{verse}
+We shall not cease from exploration  \\
+And the end of all our exploring  \\
+Will be to arrive where we started  \\
+And know the place for the first time.  \\
+Through the unknown, unremembered gate  \\
+When the last of earth left to discover  \\
+Is that which was the beginning;  \\
+At the source of the longest river  \\
+The voice of the hidden waterfall \\
+\end{verse}
 
-T. S. Eliot
+\attrib{T. S. Eliot}
 

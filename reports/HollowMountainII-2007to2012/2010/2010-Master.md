@@ -1,22 +1,324 @@
 #Vodna Sled: Slovenia 2010
 
-##Pushing Insomnia
+Vodna Sled 2010 was a clear success - in all we discovered 2.2km of
+new passage, all below -500m, all in Vrtnarija using \textsc{Camp
+X-Ray} (\textsc{Reloaded}, now a plush four bed camp at -550 m) as a base.
+The majority of the discoveries lead from a horizontal series near
+\textsc{Zimmer} chamber with numerous un-pushed leads for next year
+and over 1.5 km of passage. Significant amounts of exploration also
+took place in \textsc{Tolminska Korita} concluding with a connection
+to the 'deep' level at -653 m, and pushing the \textsc{Republica}
+streamway from -744 to -802 m.
 
-I had travelled down to T'min to clean and get over the cabin fever that develops over the weeks of life on the Plateau. That night, after a slap up meal and a few bruskies, Jan arrived and we had a great evening of beer and bullshit. After the beer, we passed on to the whiskey and the bullshit got increasingly epic. "The leads at the bottom of Red Cow are going to make GW deeper" I told Jan "the next pushing trip will definitely do it". So after walking up the hill having dinner and a little too much to drink at the bivi we set off for the night train. Soon enough we are at camp and decide to keep going down, looking to continue pushing the Republika lead. I must admit it took a lot of strength not to push the leads that were already multiplying at the I knew the way to Red Cow, having been there with Dan a few days earlier. We soon got to the junction and followed the water upstream. Nice caving, I start feeling the all familiar excitement: here come lots of km of fresh cave! At one small pitch I turn around and find Jan has disappeared. I turn back to look for him and find him wandering in the wrong direction towards the sump. Apparently he had fallen asleep and started wandering off route. Shit maybe we are too tired for this? Meh! We get to the pitch head for Republika, which I must admit is rather God forsaken and wet and awful. We drop the pitch, I get the drill out and start rigging, brain totally disengaged. As I am rigging I can feel the batteries getting weaker and weaker. I guess there were a few too few bolts at the bottom of the main drop and maybe some of the pitch heads could have been a little neater. It certainly helps to cave with a tall bastard is all I can say :D. We reach the bottom of the main new pitch and it's a rather God forsaken wet and damp place. The water keeps going down along some immature passage. We follow the water, noting at least one unlikely but unchecked possible side passage. A few hand lines are placed here and there and the drill battery finally dies. Just as well as the last pitch we get to looks like a right nightmare: really tight pitch head etc. By this point we realise it's super late and we are almost certainly going to miss our callout. Time has gone in a blur, we are probably not 100% there mentally to be honest. Still might as well survey out. The way out is not very remarkable. We bump into Tetley at the top of Big Rock. He is not too worried, but apparently Gergely was hoping we were crumpled up in a heap somewhere so he could come and rescue us.
+## Expedition Overview
 
-%James Kirkpatrick
+Twenty-two expedition members travelled from the UK for a total of
+65 person-weeks in the field, with 88 person-trips in our callout
+roster. Seventeen from the UK stayed at underground camp, along with
+six Slovenes from the local JSPDT club, a total of 95 people-nights
+at camp. All successful exploration took place on camping trips. 
+This was the first expedition for three
+first-year UK students, all of whom stayed at underground camp and
+discovered significant quantities of new cave.
 
-##More Horror with Jan.
+In all, the cave consumed a kilometre of rope for the rerigging of
+the main pitch series, and newly explored sections left rigged (or
+with rope pulled up) for 2011.
 
-The next night we get up and decide to do some pushing. The whole day is marred by the fact that - once again - we promised not to push the obvious continuation from Albert Hall. So we decide to have a random bimble around. We try looking for alternative ways around the Albert Hall. No success. Somehow we end up pushing a lead from the right of the passage leading to the Albert Hall (right looking towards the Albert Hall!). The passage is small and bends under the main route. It is wet and rather grotty. We drop a pitch or two of utter horror and eventually turn around. Surveying out is awful. The book gets wet, my fingers are too cold to hold the instruments. It sucks majorly. At least the passage gets a cool name: Esoterica. O, and none has pushed the pitch were we stopped!
-James Kirkpatrick
+No work during the 2010 expedition went into M2 (Kavkna Jama), directed
+towards forging a connection with Vrtnarija. However, during the early
+Autumn two JSPDT trips capped through the tight rift at the very end
+of the cave (\textasciitilde{}-390m), discovering and then descending
+a \textasciitilde{}60m pitch.
 
-##Happy days with Jan.
+The prospects for 2011 are extremely good. The extensive horizontal
+development has led to the discovery and initial exploration of a
+number of independent streamways and associated pitch series, in a
+horizontal slice of the mountain we have never visited.
+
+\begin{figure*}
+\includegraphics[width=0.85\columnwidth]{2010/2010_deep_vrtnarija_colour_coded_inverted_labelled}
+\caption{Colour coded diagram of new cave discovered \& surveyed in 2010 in
+Vrtnarija.}
+\end{figure*}
+
+## Expedition Findings
+
+The initial effort of the expedition was directed into setting up underground
+camp. As the first pushing trips from this underground camp came back with
+positive news, exploration based from camp (i.e. deep in Vrtnarija) quickly
+became the main focus of expedition effort. This came at the cost of further
+work in bounce trips down Captain Kangaroo (Vrtnarija, the likely connection
+region to M2) and M2 / SysMig itself. 
+
+The usual surface bashing continued, looking for new cave systems on the
+plateau. A revisit was made to the area north of Kuk. This region is heavily
+cratered with clear cave development, but the fear is that the limestone is too
+broken and chossy for a human sized entrance. 
+
+We first visited this region with a serious aim of cave exploration in 2008,
+and returned in December 2009 on a 'winter recce' by a two person team with ice
+axe and crampons to identify which surface features were actively linked into
+extensive underground systems through the holes blown in the snow. Several more
+entrances were identified during this recce, ones that were likely to be
+continued to be ignored in the summer due to their unusual position.
+
+These entrances were relocated this summer, but no new descents were made.
+
+### Leopard --- 1.5 km of new passage
+
+\begin{figure*}
+\centering
+\includegraphics[width=0.9\columnwidth]{2010/2010_new_stuff_extended_extraction}
+\caption{Extended elevation of new cave discovered in \textsc{TOLMINSKA KORITA} and \textsc{PRINCE
+CONSORT} during 2010 Expedition.}
+\end{figure*}
+
+Leopard became the great focus of exploration this year. This lead
+(a window off Zimmer chamber, now a 15m 'up' pitch) had also been
+originally discovered in 2001, but the drop that it led to had lain
+untouched since then. 
+This was partially due to its loose and muddy nature, but also that deep
+exploration had concentrated on good leads elsewhere (most particularly the
+lower Vrtnarija level accessed with the bottoming of \textsc{Big Rock}). This
+took several sessions of rigging and gardening to successfully conquer, and is
+is now named Cheetah (P35m), because of the sense of having cheated death that
+it engenders on passing. There are several windows off Cheetah, which are
+definitely promising, although not easily accessible because of the broken nature
+of the rock.
+
+At the bottom, it intersects a horizontal, fossil passage, which has
+been explored in three main horizontal parts:
+
+Wonderland (heading South) linking into Rolling Stones, Surprise,
+Mudstone Traverse, Kamikaze and finally Lost Hopes. Mainly dry with large breakdown chambers. 
+
+Prince Consort Road (heading North) was initially pushed to \textsc{The Albert
+Hall} (from where the \textsc{Serpentine} meander leads off to the \textsc{It
+Will Rain for a Million Years} pitch), bisects three streamways (one of which
+was pushed and forms the Esoterica series) and includes considerable calcite
+formations.
+
+From \textsc{The Albert Hall} a climb was made into the
+\textsc{Palace of King Minos}. This passage is complex, and side branches have neither been fully
+explored nor surveyed. The known passage leads via Minotaur Rift to terminate in the
+Queens Bed Chamber where the draught disappears towards the ceiling.
+
+Together this passage leading off from Cheetah has been explored to over 1.5 km in length,
+and we are sure that more is yet to be found. 
+
+A significant volume of air flows through these regions, indicating that there may
+be further developments.
+
+### Wonderland
+
+Wonderland is the southern-most of the horizontal development, leading
+directly off from Cheetah. It was pushed to a small pitch dropping
+into a boulder filled chamber, Rolling Stones, which was the limit of the first
+exploration trip due to the lack of rope.  This chamber is situated right below
+Zimmer, about 40m deeper. There is a further, as yet unpushed, pitch going down
+between the large, seemingly unstable, boulders on the floor.
+
+A happen stance crawl behind some boulders led to further drafting
+passage (Hidden Surprise), which, after traversing another chamber
+and crawl, finishes in a chamber with a massive hole in the floor
+(Kamikaze pitch). The passage continues on the far side of the pitch
+(traversed on mud along the left wall), however, due to the collapsed
+ceiling, these developments are almost two-dimensional (Mudstone Squeeze).
+The squeeze, which is filled with interesting fossilised mud formations,
+was pushed to the limits of comfort, although it still continues.
+
+Kamikaze consists of a series of small ledges. From the second ledge
+a tell tale breeze led to an interesting bedding plane crawl pushed
+upwind but still untouched downwind. The pitch was bottomed (Lost
+Hopes), wherein an inlet was followed down a 10m pitch to a series
+of squeezes and rifts which quickly became tight. There is a ledge
+halfway down Lost Hopes, with a perhaps larger abandoned rift.
+
+These three leads (Kamikaze, Mudstone, Lost Hopes) are of interest
+as they now form the most Easterly extent of Vrtnarija at depth, seeming
+to 'spear' through the large N-S geological feature that contains
+the majority of the horizontal passage.
+
+The whole area of Wonderland is extremely dry, quiet and rather spacious
+in its scope. It is particularly reminiscent of the higher level passage
+in the Easegill system, Yorkshire.
+
+
+### Prince Consort Road
+
+Prince Consort Road is the passage going north from Cheetah. Several
+streams intersect it and some formations have been found there. The
+discovery of stalactites covered with helictites proved particularly
+exciting! The passage leads to a small boulder choke which was easily
+surpassed and led to a large chamber (the Albert Hall). Before the
+Albert Hall, three apparently unique streamways have been found:
+
+One intersecting the passage along a traverse (water chokes into boulder
+floor), then around a small chamber at about halfway to Albert Hall,
+on a corner of the main massage approximately 2/3 of the way to the
+Albert Hall a small rift to the east, and a nice white-sanded water
+inlet to the west. The latter leads to an unpushed pitch under the
+main passage, there is a cairn and note mentioning the lead. Of these,
+only the second has been pushed, into the Esoterica series. Strangely
+this wet, tight rift has only been visited once during the expedition,
+even though it is still going!
+
+In the Albert Hall two streams enter the chamber from on high (the
+ceiling was measured as being over 30m up, by laser disto) and join
+into a rather beautiful spacious vadose streamway (The Serpentine).
+Serpentine was pushed and leads to another split pitch (It Will Rain
+for a Million Years \textemdash{} pushed during a continuing flood
+pulse). At the bottom of It Will Rain pitch the stream continues and
+has not been explored.
+
+### The Palace of King Minos
+
+North from the Albert Hall a muddy climb lead to The Palace of King
+Minos. This passage and its continuation (The Minotaur Rift) has some
+of the most beautiful formations found on Migovec to date, in particular
+fine walls of calcite, gypsum and aragonite crystals, mud formations
+and weird soot encrusted floors. The Palace has a labyrinthine nature
+with several passages leading back to Albert Hall, the largest loop
+of which was named Ouroboros
+
+The passage has a classic large phreatic lozenge shape, with some
+parts undercut by fossil vadose passage. Near the start of the passage
+a significant breeze blew through a small hole. This was enlarged
+and found to lead to a small phreatic tube which bizarrely led into
+an active vadose streamway (Povodni Mo\v{z} \textemdash{} Water Nymph).
+Povodni Mo\v{z} has been pushed upstream to a large active aven (and smaller
+dry parallel shaft), and downstream to a sump (approximately 2mx2m
+in size in the corner of a small chamber and taking the small flow)
+and has hence been derigged.
+
+Continuing along the main Palace passage several horizontal tubes
+have been explored which lead back into the main passage, though not
+all have been entered in the survey. Eventually the main route leads
+to a high and wide rift (Minotaur Rift \textemdash{} 20m high, 60m
+long) beyond which the best formations are to be found. This passage
+has a few interesting leads in it: a high, dry, circular, muddy window
+to the right of the passage near a tiny inlet, 2 small tubes leading
+off the main passage which both need a little mechanical persuasion.
+
+The chambers beyond Minotaur Rift are spacious and display massive
+amounts of crystal formation on all available surfaces --- there is
+white 'popcorning' almost everywhere, with regions of more intricate
+needle and feather formations. The chambers decay into a crawl, which
+almost unbelievably is over a smooth calcite floor. This leads to
+a classic boulder choke gallery (choking at the end). On the left
+a small boulder choke climb leads to the Queens Bed Chamber. In this
+large room, the draught appears to disappear up towards the ceiling
+- both ends of the chamber are potential climbing projects (\textasciitilde{}+20m).
+
+The region is extremely reminiscent of Ogof Ffynnon Ddu II in Wales.
+
+## Tolminska Korita
+
+This lead of Zimmer chamber had been discovered in 2001 but had lain
+unexplored until last year, when the first few pits of the active
+meander were pushed to a larger pitch. Korita developed into cascades
+of active pitches (Black Knight series) to a duck. The duck was soon
+bypassed by a 5m free climb into old phreatic level. 
+
+The passage beyond
+soon diverges into two continuations:
+
+### Sidewinder, Crack in Time
+
+The higher dust filled dry phreatic level (Sidewinder, Crack in Time) connects
+into \textsc{Envy} in the low level via free climbs and two small pitches. It
+is not particularly surprisingly that the `Crack in Time' was not explored from
+below, as the connection is made by a long body-sized crawl above a thin (5 cm)
+crack connecting to known passage (Envy), which happily pops out at the top of
+a obscure 3 m free climb. Connecting into a 2004 era permanent survey station,
+Korita now forms a second loop in Vrtnarija, forming Vrtnarija into a figure-8
+shape with Friendship Gallery at the waist.
+
+### White Bishop, Stalemate
+
+The active streamway descends 
+two 10-15 m pitches connected with a spacious meander incorporating free
+climbable cascades, before ending in an impassable rift (-662 m). 
+
+This water disappears into `blank mountain' on
+our survey, but would require considerable effort to progress, and Korita
+was thus derigged.
+
+## Roaring Floor Tease (Muddy Window off Happy Monday)
+
+This was regained by bolt climbing from the bottom of Happy Monday to regain the Muddy Window. 
+The climb in the mud chamber was made, but quickly led to a large boulder
+blocking the way. A tight rift taking a large draught was left unpushed.
+Progress is believed to require expansion.
+
+Similarly the traverse to an inlet on Falls Road, and the continuation
+of Falls Road itself was left unpushed. A small dig was made in Friendship
+gallery beyond Prima junction, which led to a small unpushed pitch
+above a stream.
+
+## Deep Leads (Below \textsc{Big Rock Candy Mountain})
+
+### Insomnia - Republika Streamway
+
+Last year a 'written off' streamway (Republika, leading from Red Cow)
+was found and pushed upstream to an aven fed watershed, then down
+the other limb to a rift pitch.
+
+With the promise of being one of the deepest points of the cave a
+return in 2010 was obligatory. The pitch was found to be 41m and was
+pushed down a continuing active rift (Insomnia). The end is now only
+4m higher than Colorado Sump (the deepest known point of Vrtnarija).
+Since the limit of exploration is above a small 4-5m pitch it is understood
+that in 2011 this will inevitably become the deepest passage in the
+system, and the signs are good for continuing development of depth.
+The end is 802m below the entrance of Vrtnarija, but the M2 (Kakna
+Jama) entrance is 75 m higher still, and a connection between the
+systems would make this point -877m deep overall, with potential for
+further depth extension.
+
+
+###Balamory 
+
+A return to Balamory was thwarted by lack of rope of the exploratory
+party (one more pitch than expected on route), but the team made good
+use of the trip to the depths by recovering the camping mats from
+the deep 2004 camp (The Fridge, near Cactus Junction), and prospecting for
+other leads with some success.
+
+
+
+## Original Exploration Stories
+
+### Pushing Insomnia
+
+I had travelled down to T'min to clean and get over the cabin fever that develops over the weeks of life on the Plateau. That night, after a slap up meal and a few bruskies, Jan arrived and we had a great evening of beer and bullshit. After the beer, we passed on to the whiskey and the bullshit got increasingly epic. "The leads at the bottom of Red Cow are going to make GW deeper" I told Jan "the next pushing trip will definitely do it". So after walking up the hill having dinner and a little too much to drink at the bivi we set off for the night train. 
+
+Soon enough we are at camp and decide to keep going down, looking to continue pushing the Republika lead. I must admit it took a lot of strength not to push the leads that were already multiplying at the I knew the way to Red Cow, having been there with Dan a few days earlier. We soon got to the junction and followed the water upstream. Nice caving, I start feeling the all familiar excitement: here come lots of km of fresh cave! 
+
+At one small pitch I turn around and find Jan has disappeared. I turn back to look for him and find him wandering in the wrong direction towards the sump. Apparently he had fallen asleep and started wandering off route. Shit maybe we are too tired for this? Meh! We get to the pitch head for Republika, which I must admit is rather God forsaken and wet and awful. We drop the pitch, I get the drill out and start rigging, brain totally disengaged. As I am rigging I can feel the batteries getting weaker and weaker. I guess there were a few too few bolts at the bottom of the main drop and maybe some of the pitch heads could have been a little neater. It certainly helps to cave with a tall bastard is all I can say :D. 
+
+We reach the bottom of the main new pitch and it's a rather God forsaken wet and damp place. The water keeps going down along some immature passage. We follow the water, noting at least one unlikely but unchecked possible side passage. A few hand lines are placed here and there and the drill battery finally dies. Just as well as the last pitch we get to looks like a right nightmare: really tight pitch head etc. By this point we realise it's super late and we are almost certainly going to miss our callout. Time has gone in a blur, we are probably not 100% there mentally to be honest. Still might as well survey out. 
+
+The way out is not very remarkable. We bump into Tetley at the top of Big Rock. He is not too worried, but apparently Gergely was hoping we were crumpled up in a heap somewhere so he could come and rescue us.
+
+\attrib{James Kirkpatrick}
+
+### More Horror with Jan.
+
+The next night we get up and decide to do some pushing. The whole day is marred by the fact that - once again - we promised not to push the obvious continuation from Albert Hall. So we decide to have a random bimble around. We try looking for alternative ways around the Albert Hall. No success. Somehow we end up pushing a lead from the right of the passage leading to the Albert Hall (right looking towards the Albert Hall!). 
+
+The passage is small and bends under the main route. It is wet and rather grotty. We drop a pitch or two of utter horror and eventually turn around. Surveying out is awful. The book gets wet, my fingers are too cold to hold the instruments\footnote{The survey data had to be 'corrected' to avoid the survey self-intersecting due to backwards legs.}. It sucks majorly. At least the passage gets a cool name: Esoterica. O, and no-one has pushed the pitch where we stopped! \footnote{Esoterica was not revisited until 2012, where a broken bolting driving prevented any additional pitches being descended. It remains a lead.}
+
+\attrib{James Kirkpatrick}
+
+### Happy days with Jan.
 
 On our last day together we went looking around the amazing passage that we politely left for Dan and Izi. We smashed our way through the entrance of what would become Po Vodni Mos, we looked at the Queen's bed chamber, we pushed down some random tubes at the sides of the main route (has anyone ever surveyed these I wonder, one of them went!). All in all a super chilled day. No surveying and no water. And then we got back to camp, watched some videos and drank a lot of whiskey, Happy Days!
-James Kirkpatrick
 
-##Balamory
+\attrib{James Kirkpatrick}
+
+### Balamory
 
 When James and I went to have a look at the bottom of Balamory on the first day of our one-noght camping trip, we didn't make it to the target as an unexpected first pitch used up too much of the rope that we had taken with us.
 
@@ -48,10 +350,11 @@ I quickly returned to James to tell him of the find, and we decided to do a litt
 We hadn't found a great deal of length, but on the other hand, we had left a decent going lead, and due to the combination of a misbehaving drill making waiting cold and dull work and the luck of my breath showing there was something worth looking at, had ended up finding quite interesting passage in what must be one of the most unlikely of situations.
 
 Thinking partly of the initial nervousness with which I had slowly posted myself between the boulders and the wall, but mainly of the immense luck we had had with the draught, Kamikaze seemed like the obvious choice of name for the discovery.
-Dave Wilson
 
-Underground Logbook
-	 	 	
+\attrib{Dave Wilson}
+
+##Underground Logbook	 	 	
+
 Found in 'AggregateofMig2007-2010.doc' : Jarv Typed up?
 ----
 Camp X-Ray Logbook:
