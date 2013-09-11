@@ -1,4 +1,6 @@
-#Vodna Sled: Slovenia 2010
+# 2010
+
+## Vodna Sled
 
 Vodna Sled 2010 was a clear success - in all we discovered 2.2km of
 new passage, all below -500m, all in Vrtnarija using \textsc{Camp
