@@ -382,6 +382,188 @@ This went on for a good 15 minutes at least. Eventually I thought, fuck it, he m
 
 \attrib{Clare Tan}
 
+## 2001's Winter Journey
+
+I have never been to the 'deep' part of Vrtnarija, below Big Rock Candy Mountain. Or rather, I was with Jana when we pushed Korita to a connection, and free climbed down from an unlikely rift in the ceiling ('The Crack in Time') to reach Envy. That tiny taste of dry, ancient, phreatic as I continued down the crawl ways solo to find a PSS left a ticklish taste in my mouth. Such a strange, quiet place.
+
+
+Time on expedition was running out, so if I was going to get down Big Rock, it had better be soon! Jim Evans was recently up on the mountain, but rather lacking in terms of warm clothes. It later turned out that he'd forgotten he'd sent out a bundle of his warmest technical garments in the minibus, and had thus failed to find them when he flew out. They were safely sealed in a barrel at Ravne, while he shivered up top. 
+
+But he was up for a deep camping trip.
+
+Clare and Tetley had headed off in the good weather at the morning, Jim and I were taking rather longer to get ready. As the slower party of the day, we had, by default, drawn the short straw and committed ourselves to a 'night train'. By the time we were thinking to go, Andrej had arrived. He was interested in M2, but as there were few experienced cavers left on the mountain top, he very readily converted to Vrtnarija.
+
+
+And so we were off, what a fine collection of Speleologists to be going deep with, I am caving with the very pioneers of deep exploration on Migovec! Jim is having to remember a fair bit of SRT as he goes, but we make steady progress to camp, saying hello to Mike & Ari at around nine in the evening. Apparently Tetley & co. are not to be expected for a considerable time, which makes us rather worried about how strict they were intending to be with their Day Train booking in the camp roster. Now as a 3-person team, we have less flexibility if Tetley & Clare end up between the tracks. 
+
+
+Big Rock is a truly stupendous pitch. It's absolutely lovely. I eagerly checked out the window on the far side of the rift. It leads through onto an absolutely massive chamber, almost that we're descending in the side shaft. Tetley's Spaghetti, where rope thrown from the top of the pitch ended up impossibly tangled halfway down, I had assumed was Dave & Jonny's newly rigged drill traverse. I was later told that in fact, this rope isn't properly belayed at all, and that Dave took out their piece of rope again. Quite glad that I didn't attempt to get on it!
+
+
+The conglomerate rock on the floor of Big Rock is very interesting, specs of black, suspected Haematite, glued together with an open sponge of limestone chips. Andrej and Jim soon join me. It is here that our trip starts to go slightly astray.
+
+
+"Oh, I think my concussion is coming back!" groans Fratnik, his helmet off, exposing the large wound where he was knocked off his mountain bike earlier in the week.
+
+I look for Jim, he's down near the little stream with his water bottle, I assume making the best caving use of a stream, in having a piss and drinking some refreshing water. I do a double take --- he has his penis inserted into the wide mouth of the water beaker (as I find out later, the bottle was carefully selected for this very purpose), he then tops up with fresh water and drinks from it. 
+Wow. Minus 650 and all is well.
+
+
+Navigation soon became rather difficult. Jim and Fratnik have both been here before, but memories fade. Luckily we had stolen the A3 laminated survey from UG camp as we passed through, and this became rather useful in combination with our survey compass. 
+
+
+From Big Rock you can follow the stream, traversing above the trickle of water (Highway 32). The rift is high, and on the way back I ended up doing some crazy free climb back down at the end. Continuing into the cave you reach a sandy oxbow, with a lake to the left, which I assume is the source of the little stream that disappear down at the far side of the oxbow (and, one assumes, forms Brown Rice Inlet). It's an interesting area, and one that would be worth checking out seeing how this 'Highway 32' interacts with Big Rock. We blunder directly into what I believe is 'Postiga', and end up looking down into a chamber with what look like footprints, but for which there is no way down. 
+Backtracking, Andrej remembers that you have to double back to camp, we soon find the rope leading down.
+
+
+Down into a maze of twisty tunnels. Unfortunately, very few PSSs were placed in this area, and it's only when we pick up the 'Mad Cow' PSSes left by Andy and Rik on their accidental resurvey that we know we're on the right track.
+
+
+Once out of the small crawly bits of Leprechaun, and having found the subtle 'hidden under a ledge on the right' pitch down, the passage develops into a very curious large phreatic. Andrej comments that he reckons the water never ever flowed here, just percolated away leaving all this silt in place. Certainly there are no obvious stream features, but the few pitches and climbs could be old cascades. 
+
+
+
+The rigging gets more inspired, and rather minimalist. After a very strange traverse-pitch in a amphitheatre like corner of passage, we dive through the sandy digs and 'thomp, thomp, thomp' our way to what is clearly Red Cow Roundabout. There's a bundle of old rope here, and an inviting crawlway leading off to the right. With wide passage, plentiful sand, accessible water and little draught, this would make a very nice camp at -736 m. 
+
+
+We regroup, then head down the inviting crawlway. Soon we reach the little pitch and stream, I know this must lead quickly to the original Red-Cow sump but stupidly I don't go and have a quick look at it, instead heading directly upstream to Republica. Â We were more than a little bit worried at this point, as Tetley and Clare were meant to be on the Day Train - but it was already past midnight. Were they alright?
+
+
+In the little crawlway above the stream I hear voices ahead, and sit to wait until Tetley and Clare show up and Andrej and Jim catch up from behind. It is now well gone midnight, they won't be returning to camp till 3 or 4AM at least. Their Meanders glisten with water, they are upbeat but their wild staring eyes speak a slightly different story. To be honest they are a little short with us, considering they are the ones transgressing their Camp X-Ray booking, apparently just due to exploration fever. They relate their latest discoveries, the original streamway lead is dead, but an abandoned bypass into a chamber has been found. We agree to leave them sleeping till Noon at least, and bid them well. 
+
+
+Onwards to Republica, up a free climb next to the stream. The chamber is not too heavily spray lashed, by traversing you can avoid the twin waterfalls coming in from up high. I have a good look at the ceiling. The original description water being split on a boulder is not quite correct, it's more that you have water entering at opposite ends of a massive rift, and the Republica chamber is where these two separate routes of erosion have happened to intersect (I'd suspect). The bigger waterfall certainly seems to be the one that feeds the Red Cow sump, but it's difficult to assess the flow rate for certain.
+
+
+Republica pitch is rigged with what must have clearly been a speedy minimalism, almost all naturals, with a crazy rebelay in freespace dangling off a sling looped over a rock bridge. As a result, the hang and rebelay are wet, but it could be rigged perfectly dry (after bolting!) with an easy traverse on the large ledge. 
+
+Next we know is Insomnia. This has a profusion of stainless 8mm rawl bolts, and no naturals, yet still is rather terrifying in its own way! James KP is very tall, abseiling down onto the swinging traverse rope that crosses the pitch about 2m off the ledge is rather a challenge to execute safely, and the single bolt providing the hang for straight down the 32m pitch is terrifying. Halfway down the pitch there is a bouldery ledge that could be easily gained, and may have some Kamikaze-like lead running off it. The bottom third of the pitch is potentially very wet. Going down you can easily traverse sideways with your feet, on the way back up you have to self-deviate with a spare hand to the pitch wall to avoid swinging out into the spray.
+
+Below Insomnia, you are in a classic bit of stream cave, could be anywhere in Yorkshire as you clamber in crawl-ways above the water. The last item in Insomnia is a hand line on a toboggan, which would be rather entertaining in the proper wet. 
+
+
+Soon into the Dream series, we drop a number of little 10-15m pitches, always near the water. It's great fun, and would be an excellent Grade III in Yorkshire. With such cold water and so far from a place of safety, it's rather more sobering here. The hang from one of the rifts doesn't go quite far enough at one point, leaving you suspended above a deep pool. I kick off the wall behind and try to abseil down in one quick maneuver, but don't quite get enough slack through and swing back dragging my heels through the water. My wool socks are soaked, and my feet will be freezing till I get back to the surface.
+
+
+Finally we reach a long hall dipping down at about 20 degrees, rope is necessary but you sort of abseil by climbing off opposite sides of the rift. There is a crazy dumbbell shaped rock sitting nonchalantly on a shelf, looking utterly artificial. 
+Finally the water disappears down a crack in the floor, and the human-sized route forces you up onto a ledge. A short, unrigged, pitch leads down, to rejoin the water before it disappears into an impossible rift, the end of the Dream. 
+
+
+We stop for lunch, we don't have much. A few tins of fish and the bread from the Bivi that Clare & Tetley didn't take. I pop ahead along the Penguin's Egg, a series of crawl ways through muddy layers and down dipped bedding planes to finally gain the top of a sloping chamber, the exploration end. I am not filled with massive hope, you can indeed hear water but the rock and everywhere available surface is covered with fine grey silt silt, the cave feels like it is in shutdown. Though Tetley & Clare have certainly left a lead, I can't help but feel that they themselves would not be in such a rush to come back and push here. 
+
+
+I carefully climb down, past strange grey silt-stalagmites growing out of boulders, and find my way to the source of the noise.
+
+
+On the left, a tight rift issues the clear sound of tumbling water, and also supplies a draught that blows into your face. The too-tight rift is formed along the dip of the overall chamber, but with a strange protrusion of rock on the left that stops one from seeing the source of the noise. I take off my helmet and stick my head in it, no chance of passing it without significant expansion.
+
+
+I head in the opposite direction at the bottom of this small chamber (North), and follow the draught through a series of little muddy chambers, always at this ~60degree slope of the bedding, clambering up and down, and sometimes wriggling along sideways. There's little dry-pools of mud on the flat surfaces, with collections of colourful pebbles (including lots of little black Haematite flecks) and banded mud structures. 
+
+
+Jim and Andrej arrive, so we press on together. The last little chamber has a rather more tight slope climb out of it, flat underneath the inclined ceiling. My head pops out into a more spacious arena and I realise that the 'ceiling' I've just squeezed under is actually a whole plate of bedrock which has fallen and is now suspended by a mysterious force. I wriggle out underneath it and into a small chamber. The continuation upwards leads to an alcove, in the ceiling of which is a too-tight rift through which I can see draught getting hoovered as I breathe out condensation.
+
+
+Facing back down the dip, I could head right (further North) rather than back left under the suspended block, and continue down more of this squeezy muddy inclination. I explain the situation, neither Fratnik nor Jim seem particularly encouraged to attempt the squeeze and I am uncertain about climbing back up the slippery mud solo. The passage continues but I do not. 
+
+We start the survey, Fratnik passes me the tape under the block and I begin a PSS under where the draught disappears. A name... We've had our Penguins Egg, but with my cold wet feet, short rations and horrible tiredness setting in, we are only beginning our Winter Journey. 
+
+
+We continue surveying back into the initial, larger, chamber, and I put a leg down into the deepest part of rift I can reach, from where the tantalising noise of cascading water issues. I know this will become the deepest part of the cave when we compute the data. Following the inclined bedding North, we have definitely gained a few metres of height. 
+
+
+Survey tied in to Penguin's Egg, and observations made, Andrej and Jim head back to our lunch spot above the last, blind, pitch. I must photograph. I'm so tired already I don't want to. I mechanically unpack the gear. Photo the mud stal, I tell myself. Ok, done. Right, let's do the deepest point. I'm trying to avoid repacking my gear, so walking with both hands occupied with flash and camera. Unsurprisingly, I fall off the boulder I'm trying to clamber down. Stupid. Both legs OK, just a bruise. Photo the rift. My watch now says five in the morning. I woke at ten. So many more sites and sights to photograph on my way out, but I just can't. 
+
+
+I pack the gear away, and quickly return to the others, with one last look back from the massive muddy boulder into this sad chamber, and listen briefly to the tantalising noise of tumbling water.
+
+
+Now begins the real efforts of our trip. It's 350m vertically back to Camp X-Ray, but the distance and height really doesn't matter. This is a fight against tiredness.
+
+We eat the last of our bread, split the equipment, and head out. At the beautiful cascade pitch that demarcates Dream1 and Dream2, we stop on the ledge and make use of the massive Sigg bottle of meths, tuna can stove and mess tin. We have no provisions, but the hot water is lovely itself. 
+
+
+Jim is so cold without thermals and in his Warmbac that he gets into his survival bag at every stop, pulling it down from the top like a massive condom. I fold myself into a crack in the rock, resting against my boots, kneepads and helmets so that nothing touches the freezing rock. My eyes close, listening to the water falling down the pitch, that odd sensation of sinking into the Earth as sleep snatches your consciousness. My eyes open as I shiver, Jim is Penis-in-bottle again, his condensation filled survival bag lit from within, like some terrible angel.
+
+
+Andrej wakes up and suggests we move on. Wearily we do. At the end of Dream, where the squeeze onto the pitch is, Jim has a desperate urge for a shit, and has just taken off his harness to get through the horizontal pitch head squeeze. "Oh God, wait until I'm up!", I plead as the column of water thunders past. I make it to the rebelay ledge as the chicken nuggets go flying over my shoulder. 
+
+
+Andrej ahead, I go up Insomnia. It could really do with a deviation, but with one hand spare you can hold onto flakes on the wall and do it yourself. I call rope free to Jim, and get a response. At the traverse I wait, clipped in. I fall asleep, and wake an indeterminate time later, and bellow to Jim. I think I wake him up as well, as soon the rope starts twitching as he comes up. 
+
+
+Republica is really quite wet on its natural hangs. Back at Red Cow, we have a brief rest. Already, we seem so much closer to home. Whereas below here, you are at the mercy of the weather and the water, this massive phreatic is a warm friendly place. It is certainly a fantastic base, psychologically, practically and logistically for a camp to explore the deep area.
+
+
+The main hazards overcome (and the risk of flooding) we carefully pick our way back to Camp X-Ray. Above the hidden pitch in Leprechaun, we have another snooze. Awoken by a dream, I check my oversuit pocket - bonanza, just like in the dream, a chocolate bar! One bite each and it's a massive difference, but the very last we have. We are but machinery.
+
+
+Onwards we go, just keep moving, slowly, so slowly. The climbs seem so difficult now, limbs so uncoordinated, brain so slow in seeing hand holds and thinking things through. Back at Big Rock. I check that Jim is happy to head back to camp himself, and head up, head home. Nice and warm now at least, I thread my way along Friendship Gallery and, eventually, so back to camp.
+
+
+Hot tea, supper, warm fleece to wear and a beckoning bed. Jim does not appear, eventually a rather more refreshed Tetley is dispatched to find him, locating him staring down Prima Junction wondering if that's where he came from.
+
+
+Tetley and Clare, now that Gergely, Izi, Jana, and to a lesser extent Dan and I have all put in the bolts to conquer Stuck in Paradise, head off to go and push the draughting crawlway at the bottom. This area sounds like a fantastic lead, and absolutely amazing that all this passage grew from a ludicrous find on a bouldery ledge halfway down a pitch.
+
+
+Marzipan and Sleep. I'm awoken by noise, quietly spoken Slovene and the rustling of tinfoil. I awake again. The roar of the gas stove. It must be much later, but the song is the same again, the stereo is playing Blondie on loop. Nothing makes sense, my head too woolly to understand, to wake up enough to comprehend. 
+
+
+Eventually Andrej wakes up properly and speaks to the disembodied voices. It's Samo, who's taken a nasty fall and split his knee. He's come to camp with Karin. They're cold, sitting on the edge of the tent in damp caving gear, wrapped in rustling survival bags.
+
+A misunderstanding, in being concerned to let us sleep they were keeping us awake and torturing themselves! Andrej sorts them warm clothes, and frees his bed for the two. Instantly back to deep sleep. Andrej gets cold and crawls in between Jim and Samo, wrapped in all the spare fleece. I find myself pressed immobile between the tent and Jim's reassuring bulk, and hold this awareness for a second or two before I drop into deep sleep once more.
+
+\attrib{Jarvist Moore Frost}
+
+## Drink Your Own
+
+Fratnik departs with Karin & a taped up Samo in our night. After a delightful lie in, Jim and I slowly get ready for caving, taking the opportunity to absorb hot calories from the stove and round after round of drinks. Wet wet wool socks. Jim is horrifically stiff, he's barely done any SRT in the last 7 years! We head off for Serpentine. It's Jim's first passage down Leopard and brief sight of the formations. I lug my photo gear along, and Jim indulges me as I try and record the formations in the Long Water, and take a couple of mineral samples and a piece of broken straw. 
+
+Back at the end of Rotten Row, the pitch doesn't look hopeful. If anything, it is wetter than every previous time I've been here. 
+
+Having just been to Republica, I can't help but try and interpret what I see in terms of it being the same passage. Dangling from the end of Dan's bolt traverse in the ceiling of the rift, I can look down into a chamber, large boulders and bedrock with the two streams crashing down in different locations. God, if only we'd had the sense to put some retro-reflector markings or something down there! Then we'd know for sure. Was I walking along there less than a day ago?
+
+Jim is stiff and cold, and so rests in his survival bag in the quiet, dry, side chamber. I have no drill, and I'm not super hopeful in getting down. I rejig the rigging, turning a hastily placed drilled deviation into a rebelay and then attempt to rig a natural deviation to further swing along the rift and pass over the top of the inlets. Again and again it falls off, eventually I give up.
+
+With a drill and sufficient bolts, you could just keep on going in the rift and reach the far, dry side. But no such luxury now. Spider-walking along the left wall, I reach the "Duffer's Drop" inlet and confirm that I can see the bolt in the floor. It might actually require fewer bolts to successfully rig from here.
+
+The far side of this (left wall) inlet, I abseil down to a nodule of rock at the start of the dry bit of this rift, could I rig a rebelay? I'm getting wet now, ricocheting splashes from both inlets landing on me. The sling slips, again and again. I try a deviation. It falls off. This is hopeless.
+
+Defeated, I'm left dangling from my skyhook equipped cowstail and wonder what I should do. Nowt but to survey I guess. I tie a bunch of maillons to the end of the tape, and lower it down into the chamber below. It lands on a boulder, but gives me a reliable distance (15.10 m). How hilarious it would have been to have someone in Republica at that point, watching this fistful of metalwork being lowered from the Gods!
+
+Retreat! Back up the rope and do my best to survey. Jim is looking utterly miserable, tired and cold. 
+
+We've a lot to do on the way back to camp, but there's no thinking involved so we just quietly get on with it. The bolting kit, pushing rope and photo kit all need to be returned, and we intend to derig the whole of Serpentine. To this end we have taken one of the massive tackle sacks (used to transport the sleeping bags down) from camp. Back at Longwater we already have two filled normal tackle bags, and start feeding rope into the monster. 
+
+It is a struggle up "Will it Rain". I wonder about its height, and whether it was miss-surveyed due to the Laser rangefinder catching the wall. Certainly it seems to have a hell of a lot of rope for a '35 m' pitch.
+
+Massive bag stuffed with rope, I can barely prussic. Jim has led on out with the two normal sacks. Amazingly, he's waiting for me at the top of the pitch! Together we move the tackle bags along Serpentine. It is tough work, taking both of our strengths to wrestle the monster through some bits.
+
+Back at The Albert Hall, we continue along the passage with our treasure. Jim moves forwards with the massive bag, I have the two more manageable ones.
+
+Back at camp, we wake Eric and Tjasha, and soon find ourselves ensconced in the sleeping bags and drifting off to sleep once more.
+
+Eric and Tjasha come back early from their pushing, have decided to just survey and then come back as the Let na Drugi Svet cascades were getting unpleasantly wet. With little chance of pleasant pushing, Jim and I decide to pack up and head out. Everything is fine till we get to Alchemy, when I realise we can hear the water tumbling down Space Odyssey. The cave is going into flood!
+
+Swing is actually OK, if you self deviate. Similarly, Tera and Nova, though now terrifyingly noisy places (the water was splashing up to about 80-90% of the clean rock), were dry hangs. 
+
+Pico was something else entirely. There was heavy rain falling over the entire bottom of the pitch. Near the Tera entrance, there was a sheet of water falling, and perhaps most disturbingly, a stream is cascading down the rockface of Pico itself, intermingled with the rope on the last few rebelays. 
+
+Jim gave me a shout from near the top, and I dashed across the chamber avoiding the heavy water and sprinted up the rope. The scalloped ledge you pass on the left at about +25m was collecting a waterfall that came through a hole right up in in the high ceiling and directing it down the lower hangs. It was pretty bad. By the time you got to the Captain Kangaroo branch, you were out of the worst of it, and just had to contend with a few drips.
+
+Piston was similarly drenching, the stream coming over the lip so quickly that it bounced off the far wall and splattered down over the hang. Nearer the deviation, it was fine.
+
+The others in the Urinal series were splashy, but not as bad. Laurel itself was wet for sure, but more in a sort of 'soft rain' way that didn't feel anywhere near as threatening.
+
+The last few pitches were a definite struggle for Jim, so stiff he was just getting a few 10s of cm of height with each prussic step. 
+
+Back on the surface once more, a slow walk back to the Bivi over a wet, slippery, plateau for some food and needed rest. 
+
+This was a sleep deprived and rather unnecessarily sufferable trip, but nonetheless through grit & teamwork much was done, the deepest point since 1998 was explored to on Migovec, photos were taken of the deepest point of an Alpine cave, all leads were surveyed and the entirety of Serpentine was derigged to free rope, hangers and maillons for exploration in future years. Not only did we have our Penguins Egg, but we had brought it all back home.
+
+\attrib{Jarvist Moore Frost}
+
 ## M2 Super Action
 
 \begin{verse}
