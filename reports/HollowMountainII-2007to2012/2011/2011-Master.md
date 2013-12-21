@@ -30,7 +30,7 @@ Our major cave finds this year can be considered in three separate developments 
 ### The Serpentine & Let na Drugi Svet
 
 
-An active streamway, named the Serptentine, led off from a large chamber (The Albert Hall) discovered along Prince Consort Road. During 2010, this was pushed to -621 m (Will It Rain, for a Million Years?). Exploration in 2011 continued along this active meander.
+An active streamway, named the Serptentine, led off from a large chamber (The Albert Hall) discovered along Prince Consort Road. During 2010, this was pushed to -621 m (It Will Rain for a Million Years). Exploration in 2011 continued along this active meander.
 
 
 The initial exploration (Round Pond) descended a 2m climb down leading to an oxbow and 4m pitch. The following trip traversed out along a crack in the ceiling to avoid falling water down a 10m pitch (Longwater) which entered a chamber (also Longwater) with significant iron deposits (in the form of heavy ~4cm thick plates of dark mineral in a vein within the limestone), and a considerable number of orange-stained straws and stalactites.
@@ -536,7 +536,7 @@ Retreat! Back up the rope and do my best to survey. Jim is looking utterly miser
 
 We've a lot to do on the way back to camp, but there's no thinking involved so we just quietly get on with it. The bolting kit, pushing rope and photo kit all need to be returned, and we intend to derig the whole of Serpentine. To this end we have taken one of the massive tackle sacks (used to transport the sleeping bags down) from camp. Back at Longwater we already have two filled normal tackle bags, and start feeding rope into the monster. 
 
-It is a struggle up "Will it Rain". I wonder about its height, and whether it was miss-surveyed due to the Laser rangefinder catching the wall. Certainly it seems to have a hell of a lot of rope for a '35 m' pitch.
+It is a struggle up "It Will Rain". I wonder about its height, and whether it was miss-surveyed due to the Laser rangefinder catching the wall. Certainly it seems to have a hell of a lot of rope for a '35 m' pitch.
 
 Massive bag stuffed with rope, I can barely prussic. Jim has led on out with the two normal sacks. Amazingly, he's waiting for me at the top of the pitch! Together we move the tackle bags along Serpentine. It is tough work, taking both of our strengths to wrestle the monster through some bits.
 
