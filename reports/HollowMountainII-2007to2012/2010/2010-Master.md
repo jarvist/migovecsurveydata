@@ -1,6 +1,4 @@
-# 2010
-
-## Vodna Sled
+# 2010 --- Vodna Sled
 
 Vodna Sled 2010 was a clear success - in all we discovered 2.2km of
 new passage, all below -500m, all in Vrtnarija using \textsc{Camp
@@ -288,11 +286,25 @@ use of the trip to the depths by recovering the camping mats from
 the deep 2004 camp (The Fridge, near Cactus Junction), and prospecting for
 other leads with some success.
 
-
-
 ## Original Exploration Stories
 
-### Pushing Insomnia
+## Rerigging Vrtnarija
+
+An early morning on expedition... I stumble my way down to the Bivi, late as ever, and set about fixing some coffee. It's a disturbing hive of activity. William and James KP are planning to rig as far as possible, replacing the rope below Pico with new and rebolting where necessary, Tetley is following them down and introducing the new cavers to Vrtnarija. 
+
+Excellent! Everything is in hand. Gergely suggests we follow up the rear with extra rope and rigging gear, preparing the ground for tomorrow's deep pushing. Looking forward to a nice, relaxing, afternoon trip, I don't bother to cram food into myself (I'm never that innately hungry in the mornings), and Gergely and I take the minimum of provisions.
+
+It's nice to be back in Vrtnarija again, after a year, and even the stepping aside on the pitches to allow the vast quantities of cavers to pass is fine. Eventually we pass everyone else & get to Swing, and find William and James KP. They're both pretty pissed off, putting a new bolt in on Swing and rigging the blasted thing has sapped their energy.
+
+So Gergely and I take over. I rerig Tesselator, coiling the old rope ready for recovery. The head of space odyssey receives an extra bolt and thus a Y-hang, originally I intend to remove the deviation entirely, but find that I've misjudged slightly and it's still required, just. 
+
+The traverse ledge halfway down space odyssey needs more work. Gergely comes down and we work on it together, me putting in more bolts and working new rope out along the traverse, whereas Gergely carefully walked out on the old traverse and rigged the pitch down to Concorde. We have a bit of confusion in the middle, as we also have to start a new rope. All sorted out, we have a spare 15m of traverse rope that we hide for future use in a cubby hole.
+
+Leaving the bolting kit and rope for future riggers, we have a smooth exit. Rather deeper and more effort than I had been intending for this first day's trip, and I was certainly feeling the lack of food as I prussic'ed back up the entrance series, but successfully completed nonetheless. In their first day of caving the expedition had rerigged down to -300m!
+
+\attrib{Jarvist Moore Frost}
+
+## Pushing Insomnia
 
 I had travelled down to T'min to clean and get over the cabin fever that develops over the weeks of life on the Plateau. That night, after a slap up meal and a few bruskies, Jan arrived and we had a great evening of beer and bullshit. After the beer, we passed on to the whiskey and the bullshit got increasingly epic. "The leads at the bottom of Red Cow are going to make GW deeper" I told Jan "the next pushing trip will definitely do it". So after walking up the hill having dinner and a little too much to drink at the bivi we set off for the night train. 
 
@@ -306,7 +318,7 @@ The way out is not very remarkable. We bump into Tetley at the top of Big Rock. 
 
 \attrib{James Kirkpatrick}
 
-### More Horror with Jan.
+## More Horror with Jan.
 
 The next night we get up and decide to do some pushing. The whole day is marred by the fact that - once again - we promised not to push the obvious continuation from Albert Hall. So we decide to have a random bimble around. We try looking for alternative ways around the Albert Hall. No success. Somehow we end up pushing a lead from the right of the passage leading to the Albert Hall (right looking towards the Albert Hall!). 
 
@@ -320,7 +332,7 @@ On our last day together we went looking around the amazing passage that we poli
 
 \attrib{James Kirkpatrick}
 
-### Balamory
+## Balamory
 
 When James and I went to have a look at the bottom of Balamory on the first day of our one-noght camping trip, we didn't make it to the target as an unexpected first pitch used up too much of the rope that we had taken with us.
 

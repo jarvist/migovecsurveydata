@@ -322,8 +322,11 @@ Sped out once, gear stashed. 2hrs from bot. Fawlty Towers.
 
 ### Dangermouse - Izi, Paul, Jarv - by Jarv
 
-\verse{He's the greatest! He's Fantastic!
-Wherever there is danger he'll be there!}
+\begin{verse}
+He's the greatest! He's Fantastic!\\
+Wherever there is danger he'll be there!
+\end{verse}
+\attrib{Dangermouse}
 
 With a load of food & bolts, we shot down to Something Fishy & dived down the right crawl. Drafting, with deep sand floor (all spoiled!). Became rather tight after ~7m.
 

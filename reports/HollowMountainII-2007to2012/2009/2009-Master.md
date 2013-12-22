@@ -63,6 +63,73 @@ Tolminska Korita (below Zimmer) pushed for -45m:
    * Eggstravaganza (P10m)
    * Eggsplosive (P5m/P19m)
 
+##Contributed Stories
+
+## 2009 - Loop Trip
+
+Dan and I are men that like missions. This is a polite way of saying that in our laziness, we suddenly arrive at the last minute and find that the only way to achieve the bare minimum of what we planned, is to pull an all nighter. Or several.
+
+
+And so we had a plan. A photograph, camp, push, survey, derig plan. We zoomed down the main pitch series in Vrtnarija with a tackle sac each. I hadn't been below Pico since 2004, Dan had never gone past the CaptK window. I led with the camera, Dan followed with the flash unit. It was an interesting experience remembering the pitch series that I had glimpsed just once, five years previously. The rope was old, so very old. I made the mistake of looking for the label on Concorde while waiting for Dan to catch up. 'ICCC - 1998 - 90m'. Nice, old club rope that had been 'disposed' of by hiding underground in Slovenia.
+
+
+In all honesty, it was all a bit of a mess. Piecemeal upgrades had taken place in 2007 and 2008, but already the 'new' rope was looking increasingly indistinguishable from the stuff that had been in situ since 2003. And of course, being us, we had no records of exactly what had been replaced.
+
+
+It was quite a relief to get off at the foot of Zimmer (the shrunken rope and badly located original rebelay required some rather innovative gymnastics). Zimmer itself was an extremely impressive place for the first time visitor, it's a big chamber, and by far the larger volume of water comes in from the far side of the shaft. Where does the water come from? Nobody knows. 
+
+Seeing it for the first time, the simple existence of Leopard was amazing, you could see the same band of rock extending across the Zimmer shaft from the (freeclimable) window into Friendship Gallery. There was clearly excellent potential.
+
+
+Similarly, we followed the obvious gaping corridor down Korita. This was in fact the obvious way on from the Zimmer chamber, quickly collecting the pitch water that flowed down between the boulders. Only two pitches were rigged, but they were really quite beautiful. Y-hangs in a narrow rift popped out into perfect bell-jar hangs next to picturesque splash pools. Such an amazing lead to push next year.
+
+Our photographs taken, we returned to Zimmer pulling up the ropes. James and Tim were planning to return on a bounce trip here to push the next pitch. Dan & I started down Friendship Gallery - impressive for it's horizontal nature in such an aggressively vertical system, but otherwise a rather muddy place. Camp X-Ray was made obvious by the inevitable presence of a roll of dubious plastic bags, and a rusty tin of fish. It was not the most pretty of Oxbowes, but the floor was fairly flat and the plinth of dry-stone walling was obviously big enough for a 4-man tent.
+
+
+Directly after the site of the camp, there were some rather rubbish roped climbs. The muddy rock had been turned into slippery slopes by the passage of many cavers, but beyond the climbs was a beautiful crawlway half filled with a perfectly flat layer of silt. The crawl turned into a stoop and then a run down a slope to the obvious Prima Junction. 
+
+Our aim here was to tie in the survey. Finding the PSS at Prima Junction was a joke. We had read the description, but the cairn must have been kicked away many years ago. A few minutes were spent riffling through the boulders in case the PSS paper had escaped, but it was a dead loss.
+
+So we guessed where we'd put the PSS, and threaded a survey down through the boulders, finding the rope that Dave had rigged. The rusty old bolt on the ledge was an obvious place to put a survey station in, but we also bounced down to the start of The Falls Road. Tim's crazed traverse on sling hung naturals took you across to the other side of this confluence, a smaller stream that quite possibly leads from underneath Friendship Gallery. And the way down looked pretty exciting too. We had been told that it ends at a narrowing, but certainly the start of the pitches were something that after having forced Captain Kangaroo to a successful conclusion would not turn us away.
+
+Most strange of all, the way back into the bottom of Captain Kangaroo, Free Amalgamation was an obviously crawlway leading off from exactly where the Falls road explorers had stopped to bolt. I can only assume they were so obsessed with heading down that they never stopped to turn around and look at the massive rift disappearing off.
+
+Dan and I zoomed along this beautiful bit of cave, soon coming out into a clambering rift that leads to the Hanging Garden. Why they didn't come here in 2003 I will never understand. This was a rather distressing place to be, three large blocks dangled from the ceiling. You could see that the largest was held up by the bedrock on the walls, but you could also see how this had been pulverised into shattered pebbles and the boulder slid into place. The thin rope led off up into the ceiling.
+
+Following this, taking care to flick the rope away from the tiny stream and so keep it serviceable for people entering next year from below, a tiny bit of boulder choke finds you at the bottom of the impressive Happy Monday.
+
+What a pitch! It's truly massive. We measured it with the tape - a true twenty by twenty metres. We added PSS Zero on the obelisk like boulder in the centre of the chamber (the original PSS at the bottom of the thin 9mm disappearing into the ceiling was getting repeatedly kicked over). The walls just went up and up, a massive toblerone prism extending up into the blackness. Skidding around on the scree to get a good position to photograph Dan. The 9mm rope rising from the middle of this chamber and disappearing into blackness is simultaneously foreboding and alien.
+
+The Muddy Window is enticing indeed, but how to reach it, a good ten metres off the ground? The length of the lower hang is so great that we reckon we can swing... Halfway up and with Dan pulling the rope tail in synchronisation, I fly backwards and forwards pinwheeling my legs to retain attitude. Dan stumbles and nearly breaks a leg granting me my delta-V. I fly in and nearly kiss the rock, abseil down another metre and with a final pull from Dan and then the terrifying build of rushing wind as I accelerate towards my destiny, I enter the window and abseil to the ground, landing in a boulder filled corridor. 
+
+I shout an OK to Dan and pull up the rope behind me, wraping it around a few blocks. The corridor leads through a stoop and then to a chamber filled with heavy chocolate mud covered boulders. There is an extremely noticeable draught here. The mud is extremely odd, it's not obvious how it could have been carried by water. Earthquake driven liquefaction is Dan's best guess. The way on is obvious - from this chamber there's an easy climb up and to the right gaining a horizontal continuation.
+
+I return to Dan, and have the bolting kit passed up. I start to put in a bolt but it's a challenging position and time is marching on. We give up and leave it for next year. Dan is swung into the window to have a look, and then we make haste for Metal Camp, after the necessary photo.
+
+Dan prussics up with the camera flash, I blow my whistle when I think he should fire a flash. As well as the film camera balanced on the obelisk rock I'm lying flat on my back on the scree with my digital camera, trying to synchronise a long exposure with when he's firing the individual flashes flash. So peaceful to watch from below, the entire pitch seared with persistence of vision onto my retina. As he passes the rebelay, Dan disappears behind a flake that divides the top of the shaft into two bits (damn! not that there would have been anyway to predict this from below...). But still the flash illuminates from behind this flake, a truly enormous and humbling place to be. 
+
+Dan successfully up, I shake the sluggish blood from my extremities and shiver as I pack up the photo gear and prepare to climb. 
+The pitch itself passes without incident, but 81m seems a little long to do with a single rebelay! The 10m horizontal swing onto 'Spelenium Gold' dyneema rope at the rebelay is a little bit too life affirming.
+
+The trudge back to camp is rather soul sapping. I curse my camera equipment as I wrestle it, once more, through Kill 'em All. Sad times at camp to think that our little hovel, our little bolthole in the side of a pitch cascade, will soon be abandoned. Having made the connection and seen the pleasant environment at X-Ray, I doubt very much that this strange little side chamber will ever be occupied again. 
+Dan smokes a last cigarette before sleep, the Jonny Cash playing softly on the radio.
+
+The next day, stiff and tired, we head down once again. Our mission is to survey, then derig. The photo gear is left at camp, but still the trip feels rather arduous and not very rewarding.
+
+The rope is pulled up all the pitches, and coiled somewhere suitable. Another quiet evening in camp and some needed rest.
+
+The next morning we take the last few photos of camp as we slowly put it away, constructing our spoon garden in the nicely sculptured rock next to the stove. No longer will we have to do a 2m free climb in our socks to have a pee!
+
+We put the tent away, or rather, it sort of falls apart in our hands to its constituent pieces. The bouncers arrive from above, and we fill their hands with tackle sacks of gear. A Daren drum of chocolate, left for future bounce trips, and we leave, slogging our tackle along the myriad rifts and crawls of the now overtly familiar Captain Kangaroo.
+
+Pushing the sacks in front of me, and finally back to the Captain Kangaroo window overlooking Pico, I wonder when we will be back.
+
+Nb: Though it was planned to rerig Captain Kangaroo for 'tourist' loop trips in 2010 and to reinvestigate the Ride the Lightening lead and other minor locations, apart from a few aborted pushing trips that made it to Traverse Chamber and a visit to Dark Tranquillity to await the connection during the October 2010 super action, no one else has been back (and no one below the 2008 limit) as of Summer 2012.
+
+#####TO BE CONTINUED####
+
+\attrib{Jarvist Moore Frost}
+
 ## Outlook for 2010
 
 Five Major leads still going deep in Vrtnarija at the end of 2009 – two large phreatics separated by 120m and heading in opposite directions (Leopard -539m, Muddy Window -529m), two large active pitch series (Tolminska Korita -585m, Republika -737m) and the rather tight Fools/Falls Road (-577m).

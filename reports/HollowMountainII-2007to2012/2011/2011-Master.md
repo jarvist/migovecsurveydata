@@ -1,6 +1,5 @@
 ﻿# 2011 --- Izgubljeni Raj
 
-
 2011 was another great year deep within Tolminski Migovec. The weather was horrendous — we even had snow! But the cave kept on going. We found over 2.2km of new passage all below -500m in depth, and took the cave to a new deepest point of -888m. All of the exploration took place during underground-camping trips based at X-Ray (Vrtnarija, -550m), with the keenest of expeditioneers managing a total of around seven nights underground during the four week expedition.
 
 
@@ -382,7 +381,7 @@ This went on for a good 15 minutes at least. Eventually I thought, fuck it, he m
 
 \attrib{Clare Tan}
 
-## 2001's Winter Journey
+## Winter Journey
 
 I have never been to the 'deep' part of Vrtnarija, below Big Rock Candy Mountain. Or rather, I was with Jana when we pushed Korita to a connection, and free climbed down from an unlikely rift in the ceiling ('The Crack in Time') to reach Envy. That tiny taste of dry, ancient, phreatic as I continued down the crawl ways solo to find a PSS left a ticklish taste in my mouth. Such a strange, quiet place.
 
