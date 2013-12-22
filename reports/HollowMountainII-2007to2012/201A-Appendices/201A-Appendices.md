@@ -1,3 +1,17 @@
+# Appendix A --- Expedition Logistics
+
+One aspect that is often missing from expedition writeups is the expedition logistics that enabled the exploration. For sure, this information will be the fastest in this publication to age. For though the cave endures, and the human experience is understandable from year to year, technical progress makes a mockery of our carefully considered preparations.
+
+During the period 2007--2012 covered here, we saw the total domination of LED lights, displacing the previous carbide flames. Initially these were mainly powered by Alkaline Flatpacks (helmet mounted) which cave way to NiMh rechargeable packs as the brightness (and power input) increased, and the length of our trips extended.
+
+Our cave was rigged for Alpine style SRT, on Nylon rope. The main pitch routes were rigged on 11 mm. Pushing was done on a mixture of 10 mm and 9 mm. Rope brands were selected for their toughness and ability to resist abrasion more than ease of knot tying. Most of the caves were rigged during this time on Mammut.
+
+The majority of bolting was with hand-bolted Spitz (mostly to Petzl twist hangers), giving way in recent years to 8 mm stainless through bolts married with Raumer Stainless twist hangers. 7 mm long steel maillons are used almost invariably for rigging.
+
+There was approximately a 50:50 split with people wearing plastic oversuits versus those of cordura. Most people caved with a normal fleece furry and thermals, some stripping off for the prussic out. 
+
+\attrib{Jarvist Moore Frost}
+
 ## Three Years at X-Ray: Underground Camp Logistics
 
 The Vodna Sled 2010 4-berth underground camp was extremely comfortable and provided an excellent base for extended deep cave exploration. 
