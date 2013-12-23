@@ -63,9 +63,7 @@ Tolminska Korita (below Zimmer) pushed for -45m:
    * Eggstravaganza (P10m)
    * Eggsplosive (P5m/P19m)
 
-##Contributed Stories
-
-## 2009 - Loop Trip
+## The Great Loop Trip
 
 Dan and I are men that like missions. This is a polite way of saying that in our laziness, we suddenly arrive at the last minute and find that the only way to achieve the bare minimum of what we planned, is to pull an all nighter. Or several.
 
@@ -161,9 +159,7 @@ James, Jana and Dave returned a couple of days later to push a little and take p
 
 \attrib{Dave Wilson}
 
-## Contributed Stories
-
-### First night train trip down Captain Kangaroo  - Tim and Thara - written by Tharatorn Supasiti
+## First night train trip down Captain Kangaroo  - Tim and Thara - written by Tharatorn Supasiti
 
 13-14/08/09
 
@@ -181,7 +177,7 @@ A half an hour later, after Tim put a new bolt, we returned to the camp consider
 \attrib{Tharatorn Supasiti}
 
 
-14-15/08/09     
+### 14-15/08/09     
 
 The next night (or day by our standard), we continued Dan and Jana's lead down Happy Monday through a gap between loose rock and its wall. Little did we know that we, indeed, were kept up there by pure friction on the cavern wall. A double hammer action quickly led us into a chamber below Happy Monday. I was the first to descend into the unknown chamber.
 

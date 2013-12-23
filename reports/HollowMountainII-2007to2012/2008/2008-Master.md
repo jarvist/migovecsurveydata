@@ -6,7 +6,9 @@ The main focus of the Votla Gora 2008 Expedition to the Tolminski Migovec platea
 
 The part of Sistem Migovec that we were attempting to connect to was the bottom of M2, the original deep cave on Migovec pushed back in the early 1970s by the Slovenian JSPDT. Below the epic Tolminski Silos pitch (120m), the cave shut down into a series of small pitches with extremely tight rift, which had to be exploded open for passage. Exploration finished in the 1970s at yet another such rift.
 
-## Exploration Diary:
+2008 was also the first ICCC Slovenia expedition with a name - 'Votla Gora', meaning 'Hollow Mountain'. This was an idea, shamelessly copied from the recent OUCC Ario Caves expeditions, which instantly became a useful tradition. 
+
+## Exploration Diary
 
 During the first two weeks of expedition, the UK team rebolted and rerigged M2 via the original, more direct, entrance to the original pushing point. Once there the UK team attacked the rift with hammers and chisels, but the progress was slow. In the middle of the expedition an experienced Slovenian caver with access to explosives came on a trip at the same time as another team explored some of the near passage in Vrtnarija. This trip obliterated a large rock that was blocking the rift, but also collapsed the wall of the rift. Net distance gained - minus 50 cm! However, with another session of manual work the choss was cleared. Perhaps worryingly, the extremely loud explosion was not heard by the other party in Vrtnarija, though one must add that they were extensively 'gardening' large rocks down the 52m Dangermouse pitch!
 
@@ -54,9 +56,7 @@ A new survey on an East-West projection has been drawn of M2 and Vrtnarija.
 
 \attrib{Jarvist Frost}
 
-## Contributed Stories
-
-### Across the mountains --- an unexperienced way to reach Mig
+## Across the mountains --- an unexperienced way to reach Mig
 
 After two years with the ICCC, I finally made the decision to become a Migovecer. Having done some cave exploration in Hungary, my idea of such activities was spending endless hours of underground digging, in passages of at most a 40 cm high, half-filled with dirty cold water...
 
@@ -82,19 +82,19 @@ At that moment, I realised that I never really imagined Heaven, but if I did so 
 
 \attrib{Gergely Ambrus}
 
-### The Slov magic (2008)
+## The Slov magic (2008)
 
 Shortly after arriving to the plateau, I found myself getting ready for a trip. Not only a trip, in the ordinary sense, but a real Exploration Trip, with a goal none less than trying to remove the large boulder blocking the tight rift at the bottom of M2. I was chosen to be the lucky one who accompanies the Living Legend of Tolmin cavers. Soon I found myself holding a nice yellow tacklesack, with the instruction of “be gentle with it”. And this was not without reason. In the bag there was to be found an original memento of the great war, a product of the ever famous factory in Glasgow, dated to 1937.  A well educated friend of mine pointed out later, that products bearing the name of a prestigious prize become highly unstable in a period of cca 50 years, but little of this reassuring fact had I known back then. Instead, I took the tacklesack happily and we started our vigilant journey towards the centre of the globe. It soon became evident that the only way for being faster than my master would be to use gravity directly, without the unnecessary complication given by ropes, re-belays and so on. The main obstruction was a nasty wedging squeeze somewhere, which proved to be even worse on the way out. Finally, we reached the bottom, set up our magical set, murmured a couple of magic spells, and then woops, the boulder evaporated as if it had never been there! Indeed, it does help in exploration to read Harry Potter after all. We started to chisel our way further, but the rift got even narrower after a couple of meters, so we had to give up and started prussiking up. Again, my companion was nowhere to be seen until  I emerged completely exhausted at the bottom of Silos – where he waited half asleep, and noted that he is indeed quite cold. It was just the opposite for me. The rest of the trip continued in the same manner, and finally we emerged triumphantly at the surface. This was my first battle with Migovec, and so to say, I got completely addicted to the sweet smell of gunpowder.
 
 \attrib{Gergely Ambrus}
 
-### WATER! (2008)
+## WATER!
 
 It was one of the last pushing trips on the expo. Once again, we decided to go down to the unpassable rift at the bottom of M2 in order to find the Connection. This time, for sure, it was going to happen! Paul seemed to be as eager as I was, so we teamed up. At the same time, another party (Jarvist and Dan) was to go down to the “other side” of the rift, to hear our voices and then to shake hands, for sure. So we slowly worked our way down the many tight squeezes below Silos, and arrived at the – by then, familiar – small and cosy chamber. From here, the hammer and the chisel played the main role in our drama, or at least we thought so. It was not until a couple of hours later that we noticed that instead of the usual sound of water dripping into the pool, a steady, loud, constant noise is coming from the chamber. Squeezing back, we nervously looked at the stream of water dropping into the pool. Time to head out, as quick as possible! We threw some small flakes of the chocolate tinfoil to the stream in order to find it on the other side, hastily packed up, and started our way up, which turned out to be an ordeal. I wore a normal textile oversuit, which proved to be perfect for the cold water to directly run through, but Paul did not feel much better in his Meander either. The cave suddenly became like a wet Yorkshire cave, and soon we were completely soaked in the icy water. The flow became bigger and bigger, and our only hope was that from the top of Silos, the way should be dry, as we have never seen water there. Yet, once reaching the top, completely cold, exhausted, shivering, we had the worst sight in front of us: a 40 m high waterfall, the rope hopelessly dangling in the middle, with the majestic and frightening sound of water as it splashes at the rocks after its long freefall. At this point, there was no choice left: being as cold as we were, the survival bags would have been almost useless, and the water level seemed to rising, indicating that it is still raining on the surface, so did we decide to wait, it would have been at least half a day, resulting in hypothermia almost surely. We ate the last bits of chocolate we had, jumped, rubbed our arms to get some blood going, looked up into to dark, trying to estimate what is awaiting us. Neither of us was sure that we were going to make it. There was a ledge midway out of the water, so planned to go up there in one go, and the continue. Then, I clipped onto the rope. The jammers were in place, everything sorted out, feet in the footloop, bag on the back, rope as tight as possible. It was the moment to start. A wide swing took me directly in the middle of the water, and without thinking, I started prussiking as fast as I could. The force of the icy water seemed to be much stronger than my weak, half-frozen thighs, and it was hard to get any air, like being in the middle of a freezing icefall. I started swearing, knowing that I had to win. Seconds seemed minutes, and minutes hours, but finally I made it to the ledge. Paul could hardly hear the “rope free”, then he started up. I crossed my fingers and waited. The gigantic howling sound covered everything, the shouts of Paul went to thin air. Finally, he emerged with a frightened, completely pale face, blue lips, shivering, his hands are of almost no use at all. We hugged each other and jumped, trying to warm up. Then, the second half, just as bad as the first. When Paul showed up at the top, we smiled a bit: from here, we get out, even if we have to duck all the way! It was still a good couple of hours until we made it to the surface, about 6 hours after the callout. We dragged back to camp in the pouring rain, woke up Tetley, drank a bit of booze, and went for a massive 15 hour sleep – which was quite well earned after all.  
 
 \attrib{Gergely Ambrus}
 
-### Trying to climb into M2. Incompetence, bravery and no luck.
+## Trying to climb into M2. Incompetence, bravery and no luck.
 
 Our main aim in 2008 was to discover the connection between M2 and Gardener's World, a feat which would heap honor on the shoulders of who discovered it. 2008 was my first year of caving in Slovenia and I was Very Keen. I dreamed of my shoulders baring the honor of the great discovery and did all I possibly could to be on the right trip at the right time. I took part in a few of the rigging trips down M2 and was amazed by alpine caving on Migovec: the huge huge pitches, the dry nature of the caving, could not wait for more “pushing”. At the time, the bivi rumour machine had determined the most likely way to find the connection was to explore the area around Kill'Em'All in Cpt Kangaroo. This side branch of Vrtnarija had been pushed the previous year by Rik and was infamous: uncharacteristically tight and twatty, rigged sparsely and badly, a total nightmare.
 
@@ -294,7 +294,7 @@ Problem is the S-bend nature of the rift. And my refusal to go headfirst.
 
 On way out, we derigged to first rebelay & climbed into scary rift: "Diggers of the U.G.". Loose boulders everywhere, above extension Meander which forms lowest rebelay. BUT, off to the left is a strongly blowing chamber through tight, but hammerable , rift.
 
-### Plopzilla - Photo Trip Writeup - Jarv
+## Plopzilla - Photo Trip Writeup - Jarv
 
 Andy's last trip; so it had to be Plop.
 
@@ -320,7 +320,7 @@ Sped out once, gear stashed. 2hrs from bot. Fawlty Towers.
 
 \attrib{Jarvist Frost}
 
-### Dangermouse - Izi, Paul, Jarv - by Jarv
+## Dangermouse - Izi, Paul, Jarv - by Jarv
 
 \begin{verse}
 He's the greatest! He's Fantastic!\\
@@ -346,7 +346,7 @@ We blew trumpets every hour & listened every x 30minutes - nothing from the M2 c
 \attrib{Jarvist Frost}
 
 
-### Slop Kaboom
+## Slop Kaboom
 
 1) Into a pressure cooker put some Tuna, soya mince, chilli paste, tomato puree, dried onion and water
 2) Leave cooking and go to sunset spot, have a few glasses of wine
@@ -364,7 +364,7 @@ Safety Advice:
 
 \attrib{Martin McGowan}
 
-### Dangermouse Continued - Martin, Tim, Paul, Jarv - 9th Aug - by Martin
+## Dangermouse Continued - Martin, Tim, Paul, Jarv - 9th Aug - by Martin
 
 Despite being on several expeditions I have managed to always find somewhere else to go caving, but despite memories of Rik & Marcin's exploration of CK I was lulled into going down to Dangermouse. On the way down CK it was noticeable that there is a certain lack of quality rigging - reminding me of the early Ben's Crap Lead rigging. Bonus chamber could do with a traverse line before you swing out over the pitch. The near two sections of the cave Scrotty and Even Scrottier again with a few hours of bashing and reshaping could change the passage to something nearer normal type passage.
 
@@ -380,7 +380,7 @@ Further Thoughts: We need a demolition team to visit Scrotty and hammer, beat it
 
 \attrib{Martin McGowan}
 
-### Scrotty Bashing - Martin, Paul, Tim
+## Scrotty Bashing - Martin, Paul, Tim
 
 After the last trip, it was quite clear that the passages in Captain Kangaroo needed some alterations. So over a few drinks and the fire I talked about the possible home improvements we could make. The idea of bashing the shite out of scrotty seemed to appeal to lots of people, no doubt motivated by the idea of getting something back on the annoying part of the cave.
 
