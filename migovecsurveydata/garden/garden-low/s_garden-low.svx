@@ -4,7 +4,7 @@
 ;EXPO 2001:
 *date 2001
 *calibrate compass -1.72
-	*include friend		;09.08.2001-Tomaž Tivadar, James Hooper
+	*include friend		    ;09.08.2001-Tomaž Tivadar, James Hooper
 	*include fallsrd		;10.08.2001- Martin Mc Gowan, Dave Wilson
 ;2003:
 *date 2003
@@ -12,19 +12,18 @@
 	*include lowerfallsrd	;29.07.2003- Colm Caroll, Martin McGowan	
 	*include highway32		;30.07.2003- James Roberts, James Hooper
 	*include candyMountain	;31.07.2003- Colm Carroll, Brian Cullen
-	*include leprachaun	;31.07.2003- Colm Carroll, Brian Cullen
+	*include leprachaun	    ;31.07.2003- Colm Carroll, Brian Cullen
 	*include cascade		;03- 04.08.2003- James Hooper, Dave Wilson
 	*include mushroom		;04.08.2003- James Hooper, Dave Wilson
 	*include postiga		;04.08.2003- Pete Jurd, J Hooper (Tetley)
 	*include weepeople		;04.08.2003- Martin Mc Gowan, Brian Cullen
-	*include gold		;07.08.2003-  Dave Wilson, Brian Cullen		
-	;*include madeupleg	;07.08.2003- J Hooper
-	*include nitro		;1.8.04 - Tom Ayles + J Hooper 
-	*include potato		;09.08.2003- Pete Jurd, J Hooper (Tetley)
+	*include gold		    ;07.08.2003-  Dave Wilson, Brian Cullen		
+	;*include madeupleg	    ;07.08.2003- J Hooper
+	*include nitro		    ;1.8.04 - Tom Ayles + J Hooper 
+	*include potato		    ;09.08.2003- Pete Jurd, J Hooper (Tetley)
 	*include doublethink	;06.08.2003- Jan Evetts, Tim Wright
-	
-	*include thirdthoughts	;6.8.03 - PJ (Pete Jurd) / RV (Richard Venn) - data seems rather poor, not entered till 2010
 
+	*include thirdthoughts	;6.8.03 - PJ (Pete Jurd) / RV (Richard Venn) - data seems rather poor, not entered till 2010
 ;a few additions JMF Oct 2009 to aid navigation
 *equate cascade.12 PLAYBOY_JUNCTION ; - see cascade for orig notes
 *equate cascade.13 CACTUS_JUNCTION ; nb - surveyed in non-continuous sections
@@ -51,57 +50,56 @@
 ;EXPO 2009
 *date 2009
 *calibrate compass -2.52
-	*include republica	;7.8.2009 - James 'Tetley' Hooper, Samo Rutar
-
-	*include belowzimmer	;15.8.09   - Gergely Ambrus , Dave Wilson, Jana Carga
-	*include eggsplosive	;17.8.09  - James Kirkpatrick, Tim Osborne
+	*include republica	        ;7.8.2009 - James 'Tetley' Hooper, Samo Rutar
+	*include belowzimmer	    ;15.8.09   - Gergely Ambrus , Dave Wilson, Jana Carga
+	*include eggsplosive	    ;17.8.09  - James Kirkpatrick, Tim Osborne
 ;EXPO 2010
 *date 2010
 *calibrate compass -2.62
 
 	; ### INCLUDE MASSIVE FINDS HERE... :D :) :D :) ####
-	*include korita		; 24.7.2010 - Myles, Tetley
-	*include wonderland 	; 25.7.2010 - Gergely, Andy
-	*include consort 	; 25.7.2010 - Gergely, Andy
-	*include serpentine 	; 26.7.2010 - JMF, Mike "T1000" Foley, Kate Smith
-	*include blackknight 	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper	
-	*include sidewinder	; 28.7.2010 - Myles Denton, James 'Tetley' Hooper
-	*include insomnia	; 28.7.2010 - Jan Evetts, James Kirkpatrick
-	*include minos		; 30.7.2010 - Dan Greenwald, Izi - includes King Minos palace 1 + 2 etc.
-	*include esoterica	; 29.7.2010 - Jan Evetts, James Kirkpatrick
-	*include rolling	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
-	*include surprise	; 28.7.2010 - Nicolas Kral, Gergely Ambrus
-	*include mudstone	; 29.7.2010 - Nicolas Kral, Gergely Ambrus
-	*include crack_in_time	;  1.8.2010 - Jarvist Frost, Jana Carga
-	*include kamikaze	;  3.8.2010 - James Kirkpatrick, Dave Wilson
-	*include povodni_moz	;  3.8.2010 - Izi, Eric
-	*include losthopes	;  6.8.2010 - Thara, Nikolas
-	*include whitebishop	;  7.8.2010 - Jarv, Myles
-	*include stalemate	;  7.8.2010 - Jarv, Myles
-	*include itwillrain	;  8.8.2010 - James KP, William
-	*include povodni_moz2   ;  7.8.2010 - James Hooper, Fratnik
+	*include korita		        ; 24.7.2010 - Myles, Tetley
+	*include wonderland 	    ; 25.7.2010 - Gergely, Andy
+	*include consort 	        ; 25.7.2010 - Gergely, Andy
+	*include serpentine 	    ; 26.7.2010 - JMF, Mike "T1000" Foley, Kate Smith
+	*include blackknight 	    ; 28.7.2010 - Myles Denton, James 'Tetley' Hooper	
+	*include sidewinder	        ; 28.7.2010 - Myles Denton, James 'Tetley' Hooper
+	*include insomnia	        ; 28.7.2010 - Jan Evetts, James Kirkpatrick
+	*include minos		        ; 30.7.2010 - Dan Greenwald, Izi - includes King Minos palace 1 + 2 etc.
+	*include esoterica	        ; 29.7.2010 - Jan Evetts, James Kirkpatrick
+	*include rolling	        ; 28.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include surprise	        ; 28.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include mudstone	        ; 29.7.2010 - Nicolas Kral, Gergely Ambrus
+	*include crack_in_time	    ;  1.8.2010 - Jarvist Frost, Jana Carga
+	*include kamikaze	        ;  3.8.2010 - James Kirkpatrick, Dave Wilson
+	*include povodni_moz	    ;  3.8.2010 - Izi, Eric
+	*include losthopes	        ;  6.8.2010 - Thara, Nikolas
+	*include whitebishop	    ;  7.8.2010 - Jarv, Myles
+	*include stalemate	        ;  7.8.2010 - Jarv, Myles
+	*include itwillrain	        ;  8.8.2010 - James KP, William
+	*include povodni_moz2       ;  7.8.2010 - James Hooper, Fratnik
 
 ;EXPO 2011
 *date 2011.07
 *calibrate compass -2.72
-	*include throneroom		; 25.7.2011 - Jarv, Clare
-	*include redbaron		; 23.7.2011 - Johnny, Tetly
-	*include roundpond		; 21.7.2011 - Jarv, Jan
-	*include longwater		; 26.7.2011 - Jarv, Clare
-	*include rottenrow		; 26.7.2011 - Jarv, Clare
-	*include serenade		; 27.7.2011 - Jan, Kate
+	*include throneroom		    ; 25.7.2011 - Jarv, Clare
+	*include redbaron		    ; 23.7.2011 - Johnny, Tetly
+	*include roundpond		    ; 21.7.2011 - Jarv, Jan
+	*include longwater		    ; 26.7.2011 - Jarv, Clare
+	*include rottenrow		    ; 26.7.2011 - Jarv, Clare
+	*include serenade		    ; 27.7.2011 - Jan, Kate
 	*include amazinggrace		; 27.7.2011 - Jan, Kate
-	*include grace2			; 29.7.2011 - Tetley, Clare
+	*include grace2			    ; 29.7.2011 - Tetley, Clare
 	*include magicdragon		; 29.7.2011 - Tetley, Clare
 	*include daydreamers		; 30.7.2011 - Tetley, Clare
 	*include duffersdrop		; 27.7.2011 - Mike, Myles
 	*include stuckinparadise	; 30.7.2011 - Gergely, Jana
 	*include lowerpleasures		; 31.7.2011 - Gergely, Jana
 	*include stuckinparadise2	; 03.08.2011 - Gergely, Izi
-	*include eastlinks		; 03.08.2011 - Gergely, Izi
-	*include kneekiller		; 03.08.2011 - Gergely, Izi
-	*include salvation		; 05.08.2011 - Tetley, Clare
-	*include dream2			; 04.08.2011 - Tetley, Clare
+	*include eastlinks		    ; 03.08.2011 - Gergely, Izi
+	*include kneekiller		    ; 03.08.2011 - Gergely, Izi
+	*include salvation		    ; 05.08.2011 - Tetley, Clare
+	*include dream2			    ; 04.08.2011 - Tetley, Clare
 	*include penguinsegg		; 04.08.2011 - Tetley, Clare
 	*include winterjourney		; 05.08.2011 - Jarv, Fratnik, Jim
 	*include drinkyourown		; 06.08.2011 - Jarv, Jim
@@ -113,66 +111,66 @@
 ;EXPO 2012
 *date 2012.07
 *calibrate compass -2.85
-	*include perfidia		; 20.07.2012 - Clare, Jarv
+	*include perfidia		    ; 20.07.2012 - Clare, Jarv
 	*include watershipdown		; 20.07.2012 - Clare, Jarv
 	*include bravenewworld		; 21.07.2012 - Rhys, Tetley
-	*include xanadu			; 22.07.2012 - Rhys, Tetley
-	*include hotpants		; 23.07.2012 - Clare, Jarv
-	*include yorkshire		; 25.07.2012 - Oli, Thara
+	*include xanadu			    ; 22.07.2012 - Rhys, Tetley
+	*include hotpants		    ; 23.07.2012 - Clare, Jarv
+	*include yorkshire		    ; 25.07.2012 - Oli, Thara
 
 	;Clare/Rhys/Gergely/Kate super trip - Lost Miles extension
 	*include minestrone1		; 27.07.2012
 	*include minestrone2		; 27.07.2012
-	*include atlantis		; 27.07.2012
+	*include atlantis		    ; 27.07.2012
 
 	*include brezno_slapov		; 03.08.2012
-	*include guillotine		; 28.07.2012
+	*include guillotine		    ; 28.07.2012
 	*include guillotine2		; 02.08.2012
-	*include razor			; 02.08.2012
-	*include peepshow		; 02.08.2012
+	*include razor			    ; 02.08.2012
+	*include peepshow		    ; 02.08.2012
 	*include undercover_squirrell	; 02.08.2012
 	*include why_the_face		; 25.07.2012
 	*include watershipup		; 04.08.2012
-	*include invictus		; 03.08.2012
+	*include invictus		    ; 03.08.2012
 
-	*include euphrates		; 28.07.2012
-	*include euphrates2		; 07.08.2012
+	*include euphrates		    ; 28.07.2012
+	*include euphrates2		    ; 07.08.2012
 	
 	*include stagger_lee		; 08.08.2012 Tim + Thara
 	*include ingloriousbasterd	; 09.08.2012
-	*include apollo			; 11.08.2012
+	*include apollo			    ; 11.08.2012
 	*include milkyway_percent		; 11.08.2012        ; We believe that the clino was misread as percent
 	*include dreamsforthesoul	; 13.08.2012 - Gergely, Karin
 
 ;EXPO 2013
 *date 2013.07
 *calibrate compass -2.99
-	*include hash			; 19.07.13 Rhys + Clare
+	*include hash			    ; 19.07.13 Rhys + Clare
 	*include beetlejuice		; 20.07.13 Tetley + Sam
-	*include hash2			; 22.07.13 Tetley + Sam
-	*include lethe			; 25.07.2013 - Clare + Izi
+	*include hash2			    ; 22.07.13 Tetley + Sam
+	*include lethe			    ; 25.07.2013 - Clare + Izi
 	*include rural_underground	; 26.07.2013 - Maver + Dzaljo
-	*include xanadont
+	*include xanadont           ; 2013.7.14 - Rhys, Dave KP
 	*include cuckoos_nest		; 26.07.2013 - Clare + Izi
-	*include curiousandcuriouser	; Tim + Rhys
-	*include curiousandcuriouser2	; Oli + Saber
-	*include labyrinth		; Oli + Saber
+	*include curiousandcuriouser	; 2013.07.18 - Tim + Rhys
+	*include curiousandcuriouser2	; 2010.7.25  - Oli + Saber
+	*include labyrinth		    ; 2013.7.14 - Oli + Saber 
 	*include time_bandits		; 31.07.2013 - Tetley + Oli
-	*include kokain_lab		; 01.08.2013 - Erik + Maffi
+	*include kokain_lab		    ; 01.08.2013 - Erik + Maffi
 	*include kokain_rute		; 01.08.2013- Erik + Maffi
 	*include bingo_granny		; 02.08.2013 - Tetley + Oli
-	*include clapton		; 02.08.2013 - Andreja, Fratnik, Gergely
-	*include hash3			; 01.08.2013 - Clare + Rhys
+	*include clapton		    ; 02.08.2013 - Andreja, Fratnik, Gergely
+	*include hash3			    ; 01.08.2013 - Clare + Rhys
 	*include RCC_passage		; 01.08.2013 - Clare + Rhys
 	*include rejuvenation_rift	; 02.08.2013 - Clare + Rhys
 	*include straightjacket		; 02.08.2013 - Clare + Rhys
 	*include hydrophobia		; 02.08.2013 - Clare + Rhys
 	*include were_not_alone		; 07.08.2013 - Tetley + Dave W
-	*include 500m			; 05.08.2013 - Kate, Sam, Dave KP
-	*include dwarf_pine		; 05.08.2013 - Kate, Sam, Dave KP
+	*include 500m			    ; 05.08.2013 - Kate, Sam, Dave KP
+	*include dwarf_pine		    ; 05.08.2013 - Kate, Sam, Dave KP
 	*include pick_your_poison	; 08.08.2013 - Clare + Maffi
-	*include slinging		; 08.08.2013 - Oli + Rhys
-  *include apollo_traverse ; 25/7/2013  - Gergely + Peter
+	*include slinging		    ; 08.08.2013 - Oli + Rhys
+    *include apollo_traverse    ; 25/7/2013  - Gergely + Peter
 
 *end garden-low
 
