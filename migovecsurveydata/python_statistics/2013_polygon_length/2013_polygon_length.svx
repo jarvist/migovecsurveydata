@@ -1,0 +1,45 @@
+;Gardener's World Cave (originally called BCL (or Ben's Crap Lead)) found in 2000
+ *begin garden-low
+;EXPO 2013
+*date 2013.07
+*calibrate compass -2.99
+	*include stuckinparadise/hash			    ; 19.07.13 Rhys + Clare
+	*include apollo/beetlejuice		; 20.07.13 Tetley + Sam
+	*include stuckinparadise/hash2			    ; 22.07.13 Tetley + Sam
+	*include stuckinparadise/lethe			    ; 25.07.2013 - Clare + Izi
+	*include kamikaze/rural_underground	; 26.07.2013 - Maver + Dzaljo
+	*include xanadu/xanadont           ; 2013.7.14 - Rhys, Dave KP
+	*include xanadu/cuckoos_nest		; 26.07.2013 - Clare + Izi
+	*include lowerpleasures/curiousandcuriouser	; 2013.07.18 - Tim + Rhys
+	*include lowerpleasures/curiousandcuriouser2	; 2010.7.25  - Oli + Saber
+	*include lowerpleasures/labyrinth		    ; 2013.7.14 - Oli + Saber 
+	*include xanadu/time_bandits		; 31.07.2013 - Tetley + Oli
+
+	*include balamory/kokain_lab		    ; 01.08.2013 - Erik + Maffi
+	*include balamory/kokain_rute		; 01.08.2013- Erik + Maffi
+	*include balamory/bingo_granny		; 02.08.2013 - Tetley + Oli
+	*include balamory/clapton		    ; 02.08.2013 - Andreja, Fratnik, Gergely
+	
+    *include stuckinparadise/hash3			    ; 01.08.2013 - Clare + Rhys
+	*include stuckinparadise/RCC_passage		; 01.08.2013 - Clare + Rhys
+	*include xanadu/rejuvenation_rift	; 02.08.2013 - Clare + Rhys
+	*include stuckinparadise/straightjacket		; 02.08.2013 - Clare + Rhys
+	*include xanadu/hydrophobia		; 02.08.2013 - Clare + Rhys
+	*include stuckinparadise/were_not_alone		; 07.08.2013 - Tetley + Dave W
+	*include xanadu/500m			    ; 05.08.2013 - Kate, Sam, Dave KP
+	*include xanadu/dwarf_pine		    ; 05.08.2013 - Kate, Sam, Dave KP
+	*include balamory/pick_your_poison	; 08.08.2013 - Clare + Maffi
+	*include lowerpleasures/slinging		    ; 08.08.2013 - Oli + Rhys
+    *include apollo/apollo_traverse    ; 25/7/2013  - Gergely + Peter
+
+*end garden-low
+
+;from email with Tet, Oct 2009 - "Yes - [Camp is] right at the junction with mushroom passage"
+*equate garden-low.mushroom.15 THE_FRIDGE
+*entrance THE_FRIDGE
+
+
+;added camp x-ray explicitly
+*equate garden-low.friend.12 CAMP_X-RAY
+	;Make it appear with a nice friendly green dot
+*entrance CAMP_X-RAY

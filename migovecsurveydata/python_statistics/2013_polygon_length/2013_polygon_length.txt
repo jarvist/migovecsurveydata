@@ -1,0 +1,60 @@
+Polygon lengths:-
+Total 1834.63 m (does this tally with expectations? this is only in garden_low, natch).
+
+Sorted by date of discovery:-
+stuckinparadise/hash  39.64m
+apollo/beetlejuice  55.46m
+stuckinparadise/hash2  26.07m
+stuckinparadise/lethe  138.97m
+kamikaze/rural_underground  101.29m
+xanadu/xanadont  34.28m
+xanadu/cuckoos_nest  220.73m
+lowerpleasures/curiousandcuriouser  69.42m
+lowerpleasures/curiousandcuriouser2  35.45m
+lowerpleasures/labyrinth  103.89m
+xanadu/time_bandits  126.56m
+balamory/kokain_lab  69.80m
+balamory/kokain_rute  113.90m
+balamory/bingo_granny  21.06m
+balamory/clapton  51.04m
+stuckinparadise/hash3  21.40m
+stuckinparadise/RCC_passage  26.50m
+xanadu/rejuvenation_rift  103.39m
+stuckinparadise/straightjacket  24.31m
+xanadu/hydrophobia  63.42m
+stuckinparadise/were_not_alone  39.96m
+xanadu/500m  15.59m
+xanadu/dwarf_pine  33.20m
+balamory/pick_your_poison  191.66m
+lowerpleasures/slinging  86.01m
+apollo/apollo_traverse  21.63m
+
+Sorted alphabetically (i.e. by region in cave):
+apollo/apollo_traverse  21.63m
+apollo/beetlejuice  55.46m
+balamory/bingo_granny  21.06m
+balamory/clapton  51.04m
+balamory/kokain_lab  69.80m
+balamory/kokain_rute  113.90m
+balamory/pick_your_poison  191.66m
+kamikaze/rural_underground  101.29m
+lowerpleasures/curiousandcuriouser2  35.45m
+lowerpleasures/curiousandcuriouser  69.42m
+lowerpleasures/labyrinth  103.89m
+lowerpleasures/slinging  86.01m
+stuckinparadise/hash2  26.07m
+stuckinparadise/hash3  21.40m
+stuckinparadise/hash  39.64m
+stuckinparadise/lethe  138.97m
+stuckinparadise/RCC_passage  26.50m
+stuckinparadise/straightjacket  24.31m
+stuckinparadise/were_not_alone  39.96m
+xanadu/500m  15.59m
+xanadu/cuckoos_nest  220.73m
+xanadu/dwarf_pine  33.20m
+xanadu/hydrophobia  63.42m
+xanadu/rejuvenation_rift  103.39m
+xanadu/time_bandits  126.56m
+xanadu/xanadont  34.28m
+
+Jarv
