@@ -166,7 +166,7 @@
     *include stuckinparadise/hash3			    ; 01.08.2013 - Clare + Rhys
 	*include stuckinparadise/RCC_passage		; 01.08.2013 - Clare + Rhys
 	*include xanadu/rejuvenation_rift	; 02.08.2013 - Clare + Rhys
-	*include stuckinparadise/straightjacket		; 02.08.2013 - Clare + Rhys
+	*include xanadu/straightjacket		; 02.08.2013 - Clare + Rhys
 	*include xanadu/hydrophobia		; 02.08.2013 - Clare + Rhys
 	*include stuckinparadise/were_not_alone		; 07.08.2013 - Tetley + Dave W
 	*include xanadu/500m			    ; 05.08.2013 - Kate, Sam, Dave KP
