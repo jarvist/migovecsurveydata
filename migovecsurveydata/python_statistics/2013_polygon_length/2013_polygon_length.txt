@@ -20,7 +20,7 @@ balamory/clapton  51.04m
 stuckinparadise/hash3  21.40m
 stuckinparadise/RCC_passage  26.50m
 xanadu/rejuvenation_rift  103.39m
-stuckinparadise/straightjacket  24.31m
+xanadu/straightjacket  24.31m
 xanadu/hydrophobia  63.42m
 stuckinparadise/were_not_alone  39.96m
 xanadu/500m  15.59m
@@ -47,13 +47,13 @@ stuckinparadise/hash3  21.40m
 stuckinparadise/hash  39.64m
 stuckinparadise/lethe  138.97m
 stuckinparadise/RCC_passage  26.50m
-stuckinparadise/straightjacket  24.31m
 stuckinparadise/were_not_alone  39.96m
 xanadu/500m  15.59m
 xanadu/cuckoos_nest  220.73m
 xanadu/dwarf_pine  33.20m
 xanadu/hydrophobia  63.42m
 xanadu/rejuvenation_rift  103.39m
+xanadu/straightjacket  24.31m
 xanadu/time_bandits  126.56m
 xanadu/xanadont  34.28m
 
