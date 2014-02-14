@@ -1,0 +1,49 @@
+len(mig) - stations 6424
+len(list(mig.iterlegs())) - legs 6299
+
+M2 <-> Vrtnarija connection
+Loop Length (m): 1513.78185676
+Shots in Path:  258
+Camp X-Ray to Surface Depth of X-Ray
+Loop Length (m): 1029.46783413
+Camp Deepcore to Surface
+Loop Length (m): 1668.33352758
+Brezno to Surface
+Loop Length (m): 687.401725936
+[<Station garden.camp_x-ray, garden.garden-low.friend.12>, <Station garden.garden-low.friend.13>, <Station garden.garden-low.friend.14>, <Station garden.garden-low.friend.15>, <Station garden.garden-low.friend.16>, <Station garden.garden-low.friend.17>, <Station garden.garden-low.wonderland.13, garden.garden-low.belowzimmer.4, garden.garden-low.friend.3b>, <Station garden.garden-low.belowzimmer.3>, <Station garden.garden-low.belowzimmer.1>, <Station garden.garden-low.belowzimmer.2>, <Station garden.garden-low.belowzimmer.5>, <Station garden.garden-low.belowzimmer.6>, <Station garden.garden-low.belowzimmer.10>, <Station garden.garden-low.belowzimmer.9>, <Station garden.garden-low.belowzimmer.8>, <Station garden.garden-low.belowzimmer.7, garden.garden-low.eggsplosive.11>, <Station garden.garden-low.eggsplosive.10>, <Station garden.garden-low.eggsplosive.9>, <Station garden.garden-low.eggsplosive.8>, <Station garden.garden-low.eggsplosive.7>, <Station garden.garden-low.eggsplosive.6>, <Station garden.garden-low.eggsplosive.5>, <Station garden.garden-low.eggsplosive.4>, <Station garden.garden-low.eggsplosive.3>, <Station garden.garden-low.eggsplosive.2>, <Station garden.garden-low.eggsplosive.1, garden.garden-low.korita.1>, <Station garden.garden-low.korita.2>, <Station garden.garden-low.korita.3>, <Station garden.garden-low.korita.12>, <Station garden.garden-low.korita.11>, <Station garden.garden-low.korita.10>, <Station garden.garden-low.korita.9>, <Station garden.garden-low.korita.8>, <Station garden.garden-low.korita.7>, <Station garden.garden-low.korita.6>, <Station garden.garden-low.korita.5>, <Station garden.garden-low.korita.18>, <Station garden.garden-low.korita.17>, <Station garden.garden-low.korita.16>, <Station garden.garden-low.korita.15>, <Station garden.garden-low.korita.14, garden.garden-low.blackknight.17>, <Station garden.garden-low.blackknight.16>, <Station garden.garden-low.blackknight.15>, <Station garden.garden-low.blackknight.14>, <Station garden.garden-low.blackknight.1>, <Station garden.garden-low.blackknight.4>, <Station garden.garden-low.blackknight.5>, <Station garden.garden-low.blackknight.6>, <Station garden.garden-low.blackknight.7>, <Station garden.garden-low.blackknight.8>, <Station garden.garden-low.blackknight.9>, <Station garden.garden-low.blackknight.10>, <Station garden.garden-low.blackknight.11>, <Station garden.garden-low.blackknight.12>, <Station garden.garden-low.whitebishop.1, garden.garden-low.blackknight.13, garden.garden-low.sidewinder.1>, <Station garden.garden-low.sidewinder.2>, <Station garden.garden-low.sidewinder.3>, <Station garden.garden-low.sidewinder.4>, <Station garden.garden-low.sidewinder.5>, <Station garden.garden-low.sidewinder.6>, <Station garden.garden-low.sidewinder.7>, <Station garden.garden-low.sidewinder.8, garden.garden-low.crack_in_time.9>, <Station garden.garden-low.crack_in_time.8>, <Station garden.garden-low.crack_in_time.7>, <Station garden.garden-low.crack_in_time.6>, <Station garden.garden-low.crack_in_time.5>, <Station garden.garden-low.crack_in_time.4>, <Station garden.garden-low.crack_in_time.3>, <Station garden.garden-low.crack_in_time.2>, <Station garden.garden-low.crack_in_time.1>, <Station garden.garden-low.crack_in_time.carbide, garden.garden-low.envy.3>, <Station garden.garden-low.envy.2>, <Station garden.garden-low.greed.3, garden.garden-low.envy.1>, <Station garden.garden-low.greed.4>, <Station garden.garden-low.greed.5>, <Station garden.garden-low.greed.6>, <Station garden.garden-low.greed.7>, <Station garden.garden-low.greed.8>, <Station garden.garden-low.greed.9>, <Station garden.garden-low.greed.10>, <Station garden.garden-low.greed.11>, <Station garden.garden-low.greed.12>, <Station garden.garden-low.greed.13>, <Station garden.garden-low.greed.14>, <Station garden.garden-low.greed.15>, <Station garden.garden-low.greed.16>, <Station garden.garden-low.greed.17>, <Station garden.garden-low.greed.18>, <Station garden.garden-low.greed.19>, <Station garden.garden-low.greed.20>, <Station garden.garden-low.greed.21>, <Station garden.garden-low.greed.22>, <Station garden.garden-low.cascade.22, garden.garden-low.greed.23>, <Station garden.garden-low.cascade.30>, <Station garden.garden-low.cascade.31>, <Station garden.garden-low.cascade.32>, <Station garden.garden-low.cascade.33>, <Station garden.garden-low.cascade.34>, <Station garden.garden-low.cascade.35>, <Station garden.garden-low.doublethink.2, garden.garden-low.cascade.36>, <Station garden.garden-low.doublethink.1>, <Station garden.garden-low.doublethink.3>, <Station garden.garden-low.doublethink.4>, <Station garden.garden-low.doublethink.5>, <Station garden.garden-low.doublethink.6>, <Station garden.garden-low.doublethink.7>, <Station garden.garden-low.doublethink.8>, <Station garden.garden-low.blind.10, garden.garden-low.doublethink.9>, <Station garden.garden-low.doublethink.10>, <Station garden.garden-low.doublethink.11>, <Station garden.garden-low.doublethink.12>, <Station garden.garden-low.doublethink.13>, <Station garden.garden-low.doublethink.14>, <Station garden.garden-low.thirdthoughts.8, garden.garden-low.balamory.11, garden.garden-low.doublethink.15>, <Station garden.garden-low.balamory.10>, <Station garden.garden-low.balamory.9>, <Station garden.garden-low.balamory.8>, <Station garden.garden-low.balamory.7>, <Station garden.garden-low.balamory.6>, <Station garden.garden-low.balamory.5>, <Station garden.garden-low.balamory.4>, <Station garden.garden-low.balamory.3>, <Station garden.garden-low.balamory.2>, <Station garden.garden-low.balamory.1>]
+
+The end (Colarado Sump) of Vrtnarija <> Vrtnarija Entrance
+Loop Length (m): 2777.00463939
+Shots in Path:  347
+
+Winter journey .1 <> Vrtnarija Entrance
+Loop Length (m): 2213.91807065
+Shots in Path:  310
+
+CAMP X-Ray <> Vrtnarija Entrance
+Loop Length (m): 1029.46783413
+Shots in Path:  130
+
+CAMP X-Ray <> CAMP Deep Core (Red Cow)
+Loop Length (m): 782.095307064
+Shots in Path:  111
+
+CAMP The Fridge <> Vrtnarija Entrance
+Loop Length (m): 1451.08807664
+Shots in Path:  217
+
+The end (Colarado Sump) of Vrtnarija <> The Fridge
+Loop Length (m): 1649.89816413
+Shots in Path:  199
+
+Paradox Sump <> M16 Entrance
+Loop Length (m): 2351.0775407
+Shots in Path:  311
+
+Waterloo .13 [CONNECTION] <> M16 Entrance
+Loop Length (m): 1543.74941762
+Shots in Path:  171
+
+dreams for the soul . 1 [CONNECTION] <> Vrtnarija Entrance
+Loop Length (m): 1535.34272446
+Shots in Path:  210
