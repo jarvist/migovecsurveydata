@@ -3,12 +3,14 @@
 Vodna Sled 2010 was a clear success - in all we discovered 2.2km of
 new passage, all below -500m, all in Vrtnarija using \textsc{Camp
 X-Ray} (\textsc{Reloaded}, now a plush four bed camp at -550 m) as a base.
-The majority of the discoveries lead from a horizontal series near
-\textsc{Zimmer} chamber with numerous un-pushed leads for next year
-and over 1.5 km of passage. 
+
+The major discovery was the swinging into the \textsc{Leopard} lead from
+\textsc{Zimmer} chamber, leading to a 1.5 km complex of mainly horizontal passage
+(\textsc{Prince Consort Road}, \textsc{Wonderland}), with many unpushed leads
+for future years.
 Significant amounts of exploration also
 took place in \textsc{Tolminska Korita} concluding with a connection
-to the 'deep' level at -653 m, and pushing the \textsc{Republica}
+to the deep level of Vrtnarija (below \textsc{Big Rock}) at -653 m, and pushing the \textsc{Republica}
 streamway from -744 to -802 m.
 
 ## Expedition Overview
@@ -29,18 +31,22 @@ In all, the cave consumed a kilometre of rope for the rerigging of
 the main pitch series, and newly explored sections left rigged (or
 with rope pulled up) for 2011.
 
-No work during the 2010 expedition went into M2 (Kavkna Jama), directed
-towards forging a connection with Vrtnarija. 
+In terms of establishing the connection between Vrtnarija and System Migovec, 
+no work during the 2010 expedition went into M2 (Kavkna Jama).
 However, during the early
 Autumn two JSPDT trips capped through the tight rift at the very end
 of the cave (\textasciitilde{}-390m), discovering and then descending
 a \textasciitilde{}60m pitch.
 
-The prospects for 2011 are extremely good. 
+The prospects for exploration in 2011 are extremely good. 
+
 The extensive horizontal
 development has led to the discovery and initial exploration of a
 number of independent streamways and associated pitch series, in a
-horizontal slice of the mountain we have never visited.
+horizontal slice of the mountain we have never visited. \textsc{Camp X-Ray} is
+well suited for the continual exploration of these leads. We therefore left the
+camp partially equipped (roll mats, tent, a small quantity of sealed gas
+cylinders and fuel).
 
 \begin{figure*}
 \includegraphics[width=0.85\columnwidth]{2010/2010_deep_vrtnarija_colour_coded_inverted_labelled}
@@ -52,14 +58,15 @@ Vrtnarija.}
 
 The initial effort of the expedition was directed into setting up underground
 camp. 
+
 As the first pushing trips from this underground camp came back with
 positive news, exploration based from camp (i.e. 
 deep in Vrtnarija) quickly
 became the main focus of expedition effort. 
+
 This came at the cost of further
 work in bounce trips down Captain Kangaroo (Vrtnarija, the likely connection
 region to M2) and M2 / SysMig itself. 
-
 
 The usual surface bashing continued, looking for new cave systems on the
 plateau. 
@@ -77,7 +84,7 @@ Several more
 entrances were identified during this recce, ones that were likely to be
 continued to be ignored in the summer due to their unusual position.
 
-These entrances were relocated this summer, but no new descents were made.
+These entrances were relocated (by GPS) this summer, but no new descents were made.
 
 ### Leopard --- 1.5 km of new passage
 
@@ -90,32 +97,32 @@ CONSORT} during 2010 Expedition.}
 
 Leopard became the great focus of exploration this year. 
 This lead
-(a window off Zimmer chamber, now a 15m 'up' pitch) had also been
+(a window off \textsc{Zimmer} chamber, now a 15 m 'up' pitch) had also been
 originally discovered in 2001, but the drop that it led to had lain
 untouched since then. 
 
 This was partially due to its loose and muddy nature, but also that deep
 exploration had concentrated on good leads elsewhere (most particularly the
 lower Vrtnarija level accessed with the bottoming of \textsc{Big Rock}). 
-This
+This pitch 
 took several sessions of rigging and gardening to successfully conquer, and is
-is now named Cheetah (P35m), because of the sense of having cheated death that
-it engenders on passing. 
+now named Cheetah (P35m), because of the sense of having cheated death that
+it engenders on passing \footnote{As with other loose pitches, this stabilised considerably over
+the next few years.}. 
 There are several windows off Cheetah, which are
-definitely promising, although not easily accessible because of the broken nature
+definitely promising \footnote{One was revisited by Jan and Kate in 2011, and found to be an alcove.}, although not easily accessible because of the broken nature
 of the rock.
 
-At the bottom, it intersects a horizontal, fossil passage, which has
-been explored in three main horizontal parts:
+At the bottom, this pitch intersects a horizontal, fossil passage, which 
+can be divided into three main horizontal areas:
 
 Wonderland (heading South) linking into Rolling Stones, Surprise,
 Mudstone Traverse, Kamikaze and finally Lost Hopes. 
-Mainly dry with large breakdown chambers. 
-
+This is mainly dry with large breakdown chambers. 
 
 Prince Consort Road (heading North) was initially pushed to \textsc{The Albert
 Hall} (from where the \textsc{Serpentine} meander leads off to the \textsc{It
-Will Rain for a Million Years} pitch), bisects three streamways (one of which
+Will Rain for a Million Years} pitch). This passage bisects three streamways (one of which
 was pushed and forms the Esoterica series) and includes considerable calcite
 formations.
 
@@ -128,7 +135,6 @@ Queens Bed Chamber where the draught disappears towards the ceiling.
 
 Together this passage leading off from Cheetah has been explored to over 1.5 km in length,
 and we are sure that more is yet to be found. 
-
 
 A significant volume of air flows through these regions, indicating that there may
 be further developments.
@@ -180,11 +186,12 @@ in the Easegill system, Yorkshire.
 
 Prince Consort Road is the passage going north from Cheetah. 
 Several
-streams intersect it and some formations have been found there. 
+small streams intersect it and some formations have been found. 
 The
 discovery of stalactites covered with helictites proved particularly
 exciting! The passage leads to a small boulder choke which was easily
-surpassed and led to a large chamber (the Albert Hall). 
+passed and led to a large chamber (the Albert Hall). 
+
 Before the
 Albert Hall, three apparently unique streamways have been found:
 
@@ -199,7 +206,7 @@ Of these,
 only the second has been pushed, into the Esoterica series. 
 Strangely
 this wet, tight rift has only been visited once during the expedition,
-even though it is still going!
+even though it is still going.
 
 In the Albert Hall two streams enter the chamber from on high (the
 ceiling was measured as being over 30m up, by laser disto) and join
@@ -458,6 +465,7 @@ When James and I went to have a look at the bottom of Balamory on the first day 
 However, as well as airflow going towards Balamory, there is also airflow in the main passage above, beyond the point where the hole down to Balamory leads off so here are two leads in that area there that are worth looking at.
 
 The upper lead *does* need some way of climbing across a pit to a ledge covered in loose crap (maybe a bolt traverse round one of the walls, though I can't remember how much good rock there was in that area.
+
 Subsequent email exchanges on the subject do seem a bit vague as to exactly what was done, and whether the upper passage had actually been boldly examined or not (Clewin was bold somewhere round there, but it wasn't certain where), but anyone going to potentially move/split the boulder down Balamory (I think it was supposed to be down the third of the three possible 'second pitches') down should also probably plan to look at the upper passage continuation, especially if they have a drill/bolts to help with climbing/traversing belays.
 
 On the way back from this little trip, after grabbing some stashed karrimats from the old camp, that the black black hole across Big Rock was noticed.
@@ -518,7 +526,7 @@ exploration until summer 2011.
 
 ## Exploration Outlook
 
-In all, 2.2km of new cave was found during the 2010 Vodna Sled expedition,
+In all, 2.2 km of new cave was found during the 2010 Vodna Sled expedition,
 taking Vrtnarija to 8.776 km.
 
 We are in the extremely fortuitous circumstance where we finish the year with
@@ -582,7 +590,7 @@ After about 6 hours of caving, finally made it down.
 Met Gergely & James on he way down as they were leaving the cave. 
 Last bolt before camp is horrible = needs rebolting / rerigging. 
 15cm lower would be awesome. 
-Built a tent at teh camp. 
+Built a tent at the camp. 
 Required some stone movement. 
 Mike got water, me & Jarv built tent, kate = smoking. 
 NEED WEED! Should have thought about it before. 
@@ -593,7 +601,7 @@ Camp is getting established, looking forward to Worms World Party.
 Mike = Cooking. 
 Weed is really a missing resource. 
 So far so good. 
-About 5 metres from camp is a hole with water in it = able to hear, quickly got established as peeing corner, hope its not a lead... 
+About 5 metres from camp is a hole with water in it = able to hear, quickly got established as peeing corner\footnote{The fast increasing smell of urea put a stop to this practice, and instead a BDH container emptied in Zimmer was used.}, hope its not a lead... 
 Nick
 
 23/7/10
