@@ -12,10 +12,8 @@ Between 15th July and the 15th August 2011, Imperial College Caving Club had twe
 The aims for this expedition were the continued exploration of Vrtnarija, where considerable efforts in 2010 had led to the discovery of 2.2 km of mainly horizontal passage, all below 500 m in depth. 
 At the start of the expedition, Vrtnarija was 8796 m long and 807 m deep.
 
-
 This summer we had less manpower than last year, but were still attempting to set up a similar four-man camp at -550 m and carry out deep pushing. 
 Our exploration continued routes which were diverse in direction from camp---soon we were taking many hours just to travel from camp to the pushing front and back.
-
 
 As a result of the reduced manpower and the considerable demands that exploration of Vrtnarija was making on our time, we unfortunately did not manage to contribute towards the exploration of Kavkna Jama and the attempted connection of the Migovec and Vrtnarija systems.
 
@@ -25,11 +23,9 @@ We had the wettest summer we've ever experienced on Migovec.
 We only very rarely had sunny enough periods to dry our caving equipment and clothes. 
 A particularly memorable rainstorm of 48 hours near the beginning of expedition was rounded off by a heavy snowstorm -- the first we've ever experienced in 15 summers on this mountain!
 
-
 For two periods of 36 hours, underground camp was effectively cut off from the surface by high water levels in the cave system, making some of the pitches impassable. 
 Thanks to the quality, warmth, provisions and size of underground camp this wasn't a major problem as exploration simply stopped and the explorers got a lot of sleep instead. 
 Certainly underground camp was a more pleasant environment than the windswept, rain lashed and barely above freezing surface of the mountain.
-
 
 In all we discovered 2229 m of new cave passage taking the cave to 11025 m long and 888 m deep. 
 All these extensions have been made at depths greater than 500m, on multi-day trips based at an underground camp. 
@@ -41,15 +37,12 @@ Our major cave finds this year can be considered in three separate developments 
 
 ### The Serpentine & Let na Drugi Svet
 
-
 An active streamway, named the Serptentine, led off from a large chamber (The Albert Hall) discovered along Prince Consort Road. 
 During 2010, this was pushed to -621 m (It Will Rain for a Million Years). 
 Exploration in 2011 continued along this active meander.
 
-
 The initial exploration (Round Pond) descended a 2m climb down leading to an oxbow and 4m pitch. 
 The following trip traversed out along a crack in the ceiling to avoid falling water down a 10m pitch (Longwater) which entered a chamber (also Longwater) with significant iron deposits (in the form of heavy ~4cm thick plates of dark mineral in a vein within the limestone), and a considerable number of orange-stained straws and stalactites.
-
 
 The boulder collapse in this chamber was bypassed by a squeeze between boulders on the right which entered a crawl-way which soon refound the water flowing from beneath the boulders. 
 A 4m pitch was reached where the bedding plane appeared to intersect a joint. 
@@ -57,24 +50,19 @@ A 3m diameter apparently rather deep pool is present below this pitch.
 Passage continues in vadose development with the water, which entered a small chamber with a set of cascades (cascade chamber). 
 There is also an apparently phreatic connection between high up in the roof of this cascade chamber and part way up the 4m pitch.
 
-
 The cascade chamber is rather complex in structure, the cascades falling into a large & deep 4x2m pool. 
 This water flows down a short rift and immediately tumbles down a ~8m pitch (Duffers Drop) which leads via two freeclimbable cascades (requiring very careful maneuvering near to the water) to reach a wet inlet on a large pitch (Drink Your Own).
-
 
 Behind the large pool in cascade chamber there is a dried pool with haematite deposits and the start of a phreatic crawlway (Rotten Row), which is hidden from view unless you're crouching next to the dried pool. 
 This crawlway leads to a short pitch into the dry end of the rift-developed Drink Your Own pitch.
 
-
 The cascade chamber also contains a rock bridge which can be used to traverse over the chamber into a dry scalloped shape alcove and so avoid climbing the direct 2m cascade to the pool.
-
 
 The maximum depth reached was -688 m. 
 Our surveys indicate that the current termination, at a large wet pitch with two accessible pitch heads (via Duffers Drop, or Rotten Row), is very close to the Republica chamber at -723m, where two streams enter from the ceiling and split. 
 Exploration was halted by the wetness of the pitch, which will require a considerable effort in bolting to rig safely. 
 Drink Your Own is a pitch which has developed in a perfectly straight rift (probably fault controlled), with two streams entering the rift from opposing perpendicular directions (i.e. 
 perpendicular to the rift direction of the pitch), one of which is the Duffers Drop water which we have been following continuously from the start of the Serpentine in the Albert Hall.
-
 
 The Serpentine rope was derigged back to camp to avoid water damage during winter.
 
@@ -86,72 +74,57 @@ The water entering on the opposite side of this large rift pitch is considerably
 Below the first pitch in the Serpentine, a climb was made to access Let na Drugi Svet (Fly to Another World), which via a series of digs and a 21m pitch led to a large active meander Krt Kova Dobra Dela (Little Mole Done Good), which is has been pushed both upstream (to +19 m) and downstream (to -23 m) and is ongoing. 
 It is possible that this water forms the larger of the streams that enters Drink Your Own.
 
-
 212 m of passage was found below It Will Rain, and 252 m in Let na Drugi Svet.
 
-
 ### Insomnia
-
 
 Insomnia is the continued exploration of a descending streamway in the 'deep' level of Vrtnarija off Red Cow Roundabout, which started with Republica in 2009 and was left with an active streamway at -802m (Insomnia, 2010). 
 Two pushing trips (Daydreamers) followed this stream down a series of small (5-15m) pitches. 
 The last trip saw this stream disappear into a narrow, too-tight, rift. 
 A bypass was sought via an abandoned bedding plane level (Penguins Egg), which gained the head of a chamber in which the noise of falling water could be heard.
 
-
 The descent and exploration of this chamber (Winter Journey), found that the loud stream noise could be heard through a too-tight rift formed in a bedding plane with the characteristic -70 degree dip of the passages near the sumps in SysMig. 
 This rift was also issuing a draught, which was followed along the inclined bedding plane (heading North) through a series of muddy squeezes to where it disappeared into an immature rift in the roof. 
 It is hypothesised that this could be the water-driven draught return from a sumped section. 
 The chamber had considerable thick grey silt deposits, with unusual silt stalagmites on the boulders, which may be evidence of a sump backing up.
 
-
 The bedding plane was pushed in a northerly direction for circa. 
 20 m. 
 This is in the direction of the hypothesised dip of the mountain's water table, and so it is possible that continued pushing or digging of this bedding plane may lead to a sump bypass.
-
 
 Exploration was carried out by trips that started on the surface (confirming good weather for the day), went to the bottom, explored and then returned to underground camp. 
 This was due to us being extremely concerned about the flood response of this new part of the cave. 
 The pitches are active, and due to a combination of the unavoidable cave nature, and 'exploration' rigging, they are wet even in moderate conditions.
 
-
 The 2011 exploration of Insomnia found 294 m of passage and took the cave to a new maximum depth of -888 m. 
 The pitches were left fully rigged as the intended last pushing trips did not occur due to a multi-day rain storm near the end of expedition.
-
 
 ## Kamikaze
 
 Kamikaze is a subtle route through the boulders on a ledge part way down the pitch to Lost Hopes in Wonderland (the name given to the chambers developing South / South East from Cheetah). 
 The original explorer (DW) was making good use of his time while hand bolting down the pitch continued, and the key squeeze through the boulders was only found when the condensation from an exasperated sigh was noticed to disappear sideways!
 
-
 The sandy crawling passage was originally pushed upwind, to eventually reach a boulder blockage in a spacious bedding plane beyond which a large sound of water can be heard (Kamikaze). 
 There is enough space in the bedding plane to dispose of boulder fragments, if it can be reduced in size, and is an obvious future dig target.
-
 
 This year we pushed downwind, almost instantly discovering a large chamber (Red Baron) and a bolt traverse over a pit to reach a large (~6m diameter) ascending (at almost exactly 30 degrees, in a straight line for 140 m) phreatic level (The Throne Room). 
 This terminates in what appears to be a cross rift intersecting it, making it a hammer head shape in plan. 
 There is a 6 m undescended pitch at the end, and the possibility of a traverse across this pitch and a continuing crawl way.
 
-
 Midway along this phreatic tunnel, a climb was made (Serenade) following the draught through a window and into a parallel piece of passage now descending (Amazing Grace). 
 This continued with large sections of passage separated by short boulder chokes where the floor raised to reach the roof (Magic Dragon), eventually reaching a large and extremely muddy pitch.
-
 
 This pitch, Stuck in Paradise (P69m), took three pushing trips to make a successful descent, and was conquered by the use of an electric drill and rawl bolts. 
 The rock was too poor, and the pitch literally too muddy to make effective hand bolting possible. 
 The pitch was formed from a series of chambers through which a complicated SRT route was found.
 
-
 Below this pitch, the route split with the discovery of two extensive horizontal levels:
-
 
 Lost Miles (originally East Links) is a comfortable walking phreatic passage of 2-3m width, decorated by plenty of crystals, but which does not take a significant amount of draught. 
 Exploration was blocked by a boulder choke after 270 m, which was dug, and nearly passed, this year. 
 After the boulder blockage, the passage seems to continue with a similar dimension. 
 There are white crystals (we believe Calcite and Aragonite) present, but no stalactites. 
 This termination is now the most Southerly cave passage in Vrtnarija.
-
 
 The Penitence crawl (originally Knee Killer) takes the draught to a boulder choke, and includes some clean white stalagmites (the first seen in Tolminski Migovec) and stalactites. 
 The entirety of Penitence is crawling in passage with a maximum height of one metre. 
@@ -192,24 +165,19 @@ We have no idea where this water goes or where it could be coming from, though i
 A drill battery was expended in starting a high traverse in the process of gaining the window. 
 As Big Rock has developed in a long rift and we abseil down the near end, the horizontal distance to be gained is large, perhaps 30m.
 
-
 A bolt climb was made in the Queen's Bed Chamber, using an electric drill, 8mm rawl bolts and a Raumer 'stick-up'. 
 Progress was halted by the muddy layers in between the bands of good limestone. 
 In order to reach the hypothesised continuation of the phreatic passage, a further 10 m of climb is needed with a solution to this technical difficulty.
 
-
 A bolt traverse was made to one of the windows on Cheetah, and was found to be a small abandoned inlet cascade.
-
 
 The oxbow just at the beginning of Prince Consort Road (just beyond the roped traverse past the inlet, on the right) was pushed to a tight inactive rift that leads upstream about 30 m and terminates in a small chamber. 
 Further climbing upstream is possible. 
 This was not surveyed.
 
-
 Windows in The Albert Hall and Minotaur rift were inspected, climbed, and found not to continue.
 
 ## Prospect for 2012
-
 
 The pitches in the entrance series to -550m were derigged with the ropes left coiled in situ and the metal removed to the Bivouac on top of the mountain for cleaning and upkeep. 
 The underground campsite was readied for winter with small reserves of food and fuel being left in Daren drums, the tent being flipped upside down and the roll mats stood up to dry. 
