@@ -3,6 +3,12 @@
 This is a slowly aggregating collection of our stories brought over from Google
 docs, intended to be published as Volume II of the Hollow Mountain.
 
+## Organisation
+
+Currently the editors are: Jarvist... {{ your name here, pretty please }}
+
+Trello board for organisation: https://trello.com/b/k97lugrL/the-hollow-mountain-ii-2007-2012
+
 ## Editing / Contributing
 
 As we are in version control with git, don't worry about breaking things by
