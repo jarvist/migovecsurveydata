@@ -12,6 +12,7 @@
 *equate exhib.22 polter.9
 
 *begin polter
+*date 1998.07.25
 
 1	2	5.89	112	24	;stn 1 is a cairn at bottom of pitch
 2	3	31.95	033	87

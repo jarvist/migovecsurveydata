@@ -16,6 +16,7 @@
 *equate exhib.27 challenge.7
 
 *begin challenge
+*date 1997.08.07
 
 2	1	12.50	-	down
 3	2	4.71	140	-18

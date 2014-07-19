@@ -11,6 +11,7 @@
 *equate gloworm.9 penelope.1
 
 *begin penelope
+*date 2000.07.23
 
 1	2	1.33	112	30	;stn 2 is gloworm pitch bolt
 2	3	5.28	225	-76

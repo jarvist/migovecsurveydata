@@ -13,7 +13,7 @@
 *equate boogywoo.1 toilet.10
 
 *begin toilet
-
+*date 2000.07.30
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 

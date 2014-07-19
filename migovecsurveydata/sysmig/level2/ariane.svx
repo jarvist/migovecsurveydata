@@ -11,7 +11,7 @@
 *equate level2s.4 ariane.1
 
 *begin ariane
-
+*date 1999.07.15
 *calibrate tape +0.30
 
 1	2	7.95	017	-16

@@ -11,6 +11,7 @@
 *equate migcon.4 genghis.7
 
 *begin genghis
+*date 1999.08.02
 
 1	2	13.95	004	56	;stn1 is pss cairn
 2	3	6.34	036	39

@@ -11,6 +11,7 @@
 *equate gloworm.1 below55.7
 
 *begin gloworm
+*date 2000.07.14
 
 2	1	7.70	128	34
 2	3	4.27	310	-38.5

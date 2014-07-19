@@ -16,6 +16,7 @@
 *equate level2n.1 level2s.6
 
 *begin level2n
+*date 1996.07.28
 
 2	1	7.49	091	-09	;Stn.1 is 2m from bottom of Faulty Towers rope
 2	3	9.58	008	-02

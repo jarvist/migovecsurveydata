@@ -11,6 +11,7 @@
 *equate paradiso2.1 paradiso.11
 
 *begin paradiso2
+*date 1999.08.02
 
 2	1	12.85	349	-19
 2	3	2.52	217	7

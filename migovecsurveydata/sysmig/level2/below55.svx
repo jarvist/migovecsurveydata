@@ -11,6 +11,7 @@
 *equate paradiso2.12 below55.1
 
 *begin below55
+*date 1999.09.09
 
 1	2	7.38	280	-08	;stn 1 is pss paradiso2.12
 2	3	2.54	336	03

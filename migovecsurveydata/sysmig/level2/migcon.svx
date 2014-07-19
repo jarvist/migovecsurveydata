@@ -16,6 +16,7 @@
 *equate migcon.7 level2s.1
 
 *begin migcon
+*date 1996.07.28
 
 2	1	8.80	063	47	;Stn.1 is cairn at top of Mig Country
 3	2	21.08	111	17.5	
@@ -40,6 +41,7 @@
 *equate migconleft.1 migcon.1
 
 *begin migconleft
+*date 1996.08.11
 
 2       1       10.87   345     -03
 2       3       20.23   049     -29
@@ -65,7 +67,7 @@
 *equate migcondown.0 migcon.1
 
 *begin migcondown
-
+*date 1996.08.16
 0       1       7.50    125     -23
 2       3       28.99   250     +81
 3       4       31.00   285     +72

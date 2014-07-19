@@ -17,6 +17,7 @@
 ;*equate level2s.14 m18.void.6
 
 *begin level2s
+*date 1996.07.25
 
 1	2	13.40	339	12	;Stn.1 is Cairn at top of Titanic
 2	3	10.49	261	-10

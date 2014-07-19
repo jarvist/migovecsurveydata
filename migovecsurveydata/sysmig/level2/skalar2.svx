@@ -11,6 +11,7 @@
 *equate skalar.1 skalar2.1
 
 *begin skalar2
+*date 1999.07.21
 
 1	2	6.0	070	-15	;stn 1 is a pss cairn at bottom of pitch
 2	3	4.0	164	-13

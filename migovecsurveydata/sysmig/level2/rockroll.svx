@@ -16,6 +16,7 @@
 *equate migcondown.2 rockroll.0
 
 *begin rockroll
+*date 1996.08.03
 
 1	2	9.50	280	-04.5	;Stn.1 is carbide mark on wall at bottom of Mig Country
 3	2	4.39	066.5	40.5

@@ -11,6 +11,7 @@
 *equate obelix.12 getafix.12
 
 *begin getafix
+*date 2000.07.13
 
 1	2	6.82	299	-22	;stn1 is pencilled in started 					;bolt hole
 2	3	1.88	129	-41

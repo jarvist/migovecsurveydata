@@ -11,7 +11,7 @@
 *equate level2s.4 paradiso.1
 
 *begin paradiso
-
+*date 1999.07.19
 1	2	5.25	033	+3
 2	3	17.60	333	-24
 3	4	7.67	169	-42

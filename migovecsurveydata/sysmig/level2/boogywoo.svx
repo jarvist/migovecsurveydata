@@ -17,6 +17,7 @@
 *equate rockroll.12 boogywoo.6
 
 *begin boogywoo
+*date 1996.08.17
 
 1       2       7.27    030     +65
 2       3       7.02    340     +50

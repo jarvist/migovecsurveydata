@@ -16,6 +16,7 @@
 *equate carwash.11 exhib.13	;changed from carwash.10 mje
 
 *begin carwash
+*date 1996.08.20
 
 1       2       5.08    346     26	;a pss on rock at top of xxx 
 2       3       4.20    290     06
