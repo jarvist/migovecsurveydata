@@ -17,6 +17,7 @@
 *equate sifon.12 fa999.27	;this equate is only approximate to nearest 3metres)
 
 *begin sifon
+*date 1997.07.30
 
 1	2	15.6	021	31	;stn. 1 is a sump
 2	3	11.9	010	15

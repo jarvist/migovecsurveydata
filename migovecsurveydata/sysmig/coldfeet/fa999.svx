@@ -16,6 +16,7 @@
 *equate glory.22 fa999.24
 
 *begin fa999
+*date 1997.08.10
 
 ;20cm taken off all legs to make up for cut in tape
 

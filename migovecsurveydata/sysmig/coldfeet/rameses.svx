@@ -16,6 +16,7 @@
 *equate glory.5 rameses.20
 
 *begin rameses
+*date 1997.08.11
 
 *calibrate tape 0.18
 

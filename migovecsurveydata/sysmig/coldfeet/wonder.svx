@@ -17,6 +17,7 @@
 *equate pinkp.1 wonder.67
 
 *begin wonder
+*date 1997.07.30
 
 1	2	9.5	061	67
 2	3	4.8	160	08

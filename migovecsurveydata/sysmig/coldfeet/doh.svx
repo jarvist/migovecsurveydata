@@ -15,6 +15,7 @@
 
 *equate doh.19	pinkp.18
 *begin doh
+*date 1997.07.31
 
 1	2	7.60	136	12	;1 is PSS, big black blob
 2	3	5.50	125	2

@@ -16,6 +16,7 @@
 *equate coldfeet.28 pinkp.18
 
 *begin coldfeet
+*date 1997.08.01
 
 2	1	9.56	251	-68 	;
 3	2	4.15	284	-62

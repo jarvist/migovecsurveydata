@@ -16,6 +16,7 @@
 *equate god.31 coldfeet.1
 
 *begin god
+*date 1997.08.02
 
 1	2	12.1	72.5	54	;The last spit
 2	3	13.6	45	33.5

@@ -16,6 +16,7 @@
 ;*equate pinkp.1 hotel.1
 
 *begin pinkp
+*date 1997.08.01
 
 1	2	4.96	203	4	; PSS Hotel.1
 2	3	7.80	196	-10

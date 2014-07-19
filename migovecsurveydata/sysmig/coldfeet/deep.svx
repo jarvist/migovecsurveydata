@@ -17,6 +17,7 @@
 *equate god.1 deep.1
 
 *begin deep
+*date 1997.08.03
 
 1	2	9.55	261	-59	;1 is bolt near carbide S on roof
 2	3	11.00	-	down	;2 is bolt
