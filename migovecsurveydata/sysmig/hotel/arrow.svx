@@ -12,7 +12,7 @@
 *equate arrow.6 sajeta.13
 
 *begin arrow
-
+*date 1998.08.05
 1	2	16.98	138	-51	;2 is pss on boulder
 3	2	22.37	017	-11
 4	3	6.78	301	-33	;4 IS PSS CENTRE OF BLACK CROSS

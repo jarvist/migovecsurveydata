@@ -12,6 +12,7 @@
 *equate elephant.1 bosh.1
 
 *begin bosh
+*date 1998.08.05
 
 1	2	2.88	063	-04	
 2	3	5.15	057	-43

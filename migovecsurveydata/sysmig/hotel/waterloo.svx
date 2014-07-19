@@ -12,7 +12,7 @@
 *equate bosh.6	waterloo.14
 
 *begin waterloo
-
+*date 1998.08.06
 2	1	9.61	197	-17	;1 is a pss
 3	2	7.57	016	-64
 4	3	3.05	309	-32

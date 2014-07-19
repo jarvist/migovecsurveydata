@@ -12,6 +12,7 @@
 *equate trunk.1 elephant.16
 
 *begin trunk
+*date 1998.08.06
 
 1	2	3.93	194	-58
 2	3	4.63	-	down

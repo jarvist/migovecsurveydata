@@ -18,6 +18,7 @@
 *entrance hotel.1 ; HOME SWEET HOME
 
 *begin hotel
+*date 1997.07.30
 
 2	1	6.33	274	-12	;1 is bolt at hotel
 2	3	2.55	-	up

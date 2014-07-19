@@ -16,6 +16,7 @@
 ;*equate xxx.1 carwash.1
 
 *begin xxx
+*date 1997.07.25
 
 1	2	0.85	066	-11	;stn 1 is a pss on rock by xxx pitch head
 3	2	43.39	-	up	;bolt on top of xxx
