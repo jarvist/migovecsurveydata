@@ -12,6 +12,7 @@
 *equate sump2.1 sump1.1
 
 *begin sump2
+*date 1998.08.01
 
 2	1	4.4	067	10
 3	2	4.8	115	49

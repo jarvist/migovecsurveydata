@@ -16,6 +16,7 @@
 ;*equate level2s.1 titanic.27
 
 *begin titanic
+*date 1997.08.10-1997.08.11
 
 ; most survey points are marked by carbide
 ;compass readings may be incorrect due to being read by a small maglight

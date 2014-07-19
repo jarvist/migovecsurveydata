@@ -9,6 +9,7 @@
 ;Data entered by Andrew Jurd 01/08/07
 
 *begin plopzilla
+*date 2007.07.31
 
 2	1	5.85	347	-35
 3	2	3.95	354	-22

@@ -14,6 +14,7 @@
 ;from	to	tape	comp	clino
 
 *begin paradox
+*date 1997.08.15
 
 2	1	8.91	029	-12	;1 is a pss
 2	3	8.29	202	-19

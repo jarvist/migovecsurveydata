@@ -12,6 +12,7 @@
 *equate pencil.36 fame.1
 
 *begin fame
+*date 1998.08.01
 
 1	2	4.77	-	down	;station 2 is bottom of pitch
 3	2	2.52	358	-40	;station 3 is pss on roof by inlet	

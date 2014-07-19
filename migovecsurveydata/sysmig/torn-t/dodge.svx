@@ -17,7 +17,7 @@
 *equate dodge.0 gallery.12
 
 *begin dodge
-
+*date 1996.07.29
 0	1	5.80	105	58	;Stn 0 is gallery.12
 1	2	1.73	337 	18
 2	3	11.57 	050	18

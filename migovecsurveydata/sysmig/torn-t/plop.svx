@@ -16,7 +16,7 @@
 *equate plop.0 gallery.10
 
 *begin plop
-
+*date 1996.08.16
 0       1       3.90    -       down
 1       2       4.99    052     +28
 2       3       4.83    102     +16

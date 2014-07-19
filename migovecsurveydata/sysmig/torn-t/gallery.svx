@@ -19,7 +19,7 @@
 *equate gallery.104 gallery.89
 
 *begin gallery
-
+*date 1996.08.14
 0       1        5.9    245     +00     ;0 is rebelay bolt
 1       2       20.9    138     -05
 2       3        3.4    007     -40

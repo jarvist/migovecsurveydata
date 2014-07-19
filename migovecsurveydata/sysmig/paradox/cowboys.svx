@@ -17,6 +17,7 @@
 ;*equate cowboys.13 rameses.2
 
 *begin cowboys
+*date 1997.08.22
 *calibrate tape 0.05
 
 1	2	16.07	009	2	;stn 1 is pss cairn between pitches

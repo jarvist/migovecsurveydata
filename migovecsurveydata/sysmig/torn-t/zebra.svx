@@ -17,6 +17,7 @@
 *equate zebra.0 gallery.80
 
 *begin zebra
+*date 1996.08.14
 
 0       1       4.07    109     +22
 1       2       5.07    347     -01

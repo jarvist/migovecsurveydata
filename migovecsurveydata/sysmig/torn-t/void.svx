@@ -17,6 +17,7 @@
 *equate void.17 gallery.2
 
 *begin void
+*date 1996.07.24
 
 1	2	10.51	-	up	
 2	3	2.11	238	02	;Stn.2 is the bolt

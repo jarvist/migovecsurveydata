@@ -12,6 +12,7 @@
 *equate sump1.5 fame.13
 
 *begin sump1
+*date 1998.08.01
 
 1	2	6.1	188	16
 2	3	8.2	040	45

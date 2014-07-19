@@ -12,6 +12,7 @@
 *equate olympic.10 titanic.1
 
 *begin olympic
+*date 1998.07.23
 
 1	2	38.80	-	up	;stn 2 is a bolt
 2	3	1.25	270	00

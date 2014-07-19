@@ -12,6 +12,7 @@
 *equate fame.3 marwood.25
 
 *begin marwood
+*date 1998.08.05
 
 2	1	9.58	142	15
 3	2	5.48	085	12

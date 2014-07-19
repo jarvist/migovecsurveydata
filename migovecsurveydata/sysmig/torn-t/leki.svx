@@ -17,6 +17,7 @@
 *equate leki.20 gallery.80
 
 *begin leki
+*date 1999.08.03
 
 2	1	18.53	270	-70	;stn 2 is pss bolt mark at top of pitch
 3	2	3.60	-	down
