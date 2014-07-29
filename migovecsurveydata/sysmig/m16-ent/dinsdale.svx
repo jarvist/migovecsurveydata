@@ -16,6 +16,7 @@
 *equate spiny.10 dinsdale.1
 
 *begin dinsdale
+*date 1999.07.27
 
 1	2	1.25	233	23
 2	3	4.75	117	6	

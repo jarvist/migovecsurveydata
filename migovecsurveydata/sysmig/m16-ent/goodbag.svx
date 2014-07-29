@@ -16,6 +16,7 @@
 *equate goodbag.13 hotline.6
 
 *begin goodbag
+*date 1996.08.11
 
 1       2       2.70    122     +58
 2       3       3.3     103     +22

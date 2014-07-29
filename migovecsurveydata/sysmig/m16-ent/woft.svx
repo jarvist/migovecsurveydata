@@ -16,7 +16,7 @@
 *equate woft.6	hotline.6
 
 *begin woft
-
+*date 1997.07.25
 1	2	6.1	050	-02
 2	3	26.4	-	up
 3	4	6.4	302	32

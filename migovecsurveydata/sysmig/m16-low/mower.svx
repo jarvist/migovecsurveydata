@@ -16,6 +16,7 @@
 *equate mower.9 batshit2.7
 
 *begin mower
+*date 1997.08.14
 
 1	2	8.00	-	down	;2 is a pss
 2	3	9.34	171	23	;3 is a pss
