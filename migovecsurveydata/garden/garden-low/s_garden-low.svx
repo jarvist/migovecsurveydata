@@ -174,7 +174,26 @@
 	*include balamory/pick_your_poison	; 08.08.2013 - Clare + Maffi
 	*include lowerpleasures/slinging		    ; 08.08.2013 - Oli + Rhys
     *include apollo/apollo_traverse    ; 25/7/2013  - Gergely + Peter
-
+;EXPO 2014
+*date 2014.07
+*calibrate compass -2.99
+        *include 2014/sicsempertyrannis      ; 19.07.2014 - Rhys + Tanguy
+        *include 2014/gravity                ; 19.07.2014 - Sam + William
+        *include 2014/hanginggardensdeep     ; 21.07.2014 - Clare + Tetley
+        *include 2014/rocksteadylove         ; 22.07.2014 - Clare + Tetley
+        *include 2014/jericho                ; 24.07.2014 - Rhys + Dave Kp
+        *include 2014/pleasurepalace         ; 24.07.2014 - Rhys + Dave Kp
+        *include 2014/yourmum                ; 24.07.2014 - William and James O'Hanlon
+        *include 2014/AJA                    ; 27.07.2014 - Erik and Grega
+        *include 2014/jericho2               ; 26.07.2014 - Tanguy and Sam
+        *include 2014/squidgygoodness        ; 01.08.2014 - Saber and Sam
+        *include 2014/serrure                ; 30.07.2014 - Tanguy and William
+        *include 2014/stupid                 ; 31.07.2014 - Saber and Sam
+        *include 2014/touchingthevoid        ; 07.08.2014 - Gergely and Izi
+        *include 2014/hipsdontlie            ; 07.08.2014 - Rhys and Sarah
+        *include 2014/apuntoofar1            ; 06.08.2014 - Tanguy and Aileen
+        *include 2014/apuntoofar2            ; 07.08.2014 - Tanguy and Aileen
+        *include 2014/apuntoofar3            ; 08.08.2014 - Tanguy and Aileen
 *end garden-low
 
 ;from email with Tet, Oct 2009 - "Yes - [Camp is] right at the junction with mushroom passage"
