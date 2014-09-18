@@ -1020,8 +1020,8 @@
        effect="spiro"
        id="path-effect8189-4-8-25-9"
        is_visible="true" /></defs><sodipodi:namedview
-     inkscape:window-height="1003"
-     inkscape:window-width="1920"
+     inkscape:window-height="803"
+     inkscape:window-width="1536"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      guidetolerance="10.0"
@@ -1033,11 +1033,11 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.77145692"
-     inkscape:cx="632.3097"
-     inkscape:cy="480.53564"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:current-layer="layer25"
+     inkscape:cx="450.83489"
+     inkscape:cy="428.68569"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="layer97"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -1093,6 +1093,7 @@
      id="tspan9448-3-9-0-2-6-6-1-5-6-3"
      sodipodi:role="line">K</tspan></text>
 
+
 </g><g
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="g9450-1-0-5-8-8-1-3-6-1-3-6"
@@ -1121,6 +1122,7 @@
      x="-313.28476"
      id="tspan9448-3-9-0-2-6-6-1-54-4-7-2"
      sodipodi:role="line">K</tspan></text>
+
 
 </g><g
        style="fill:#ffffff;fill-opacity:1;display:inline"
@@ -1151,6 +1153,7 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-0"
      sodipodi:role="line">K</tspan></text>
 
+
 </g><g
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="g9450-1-0-5-8-8-1-3-2-1-7"
@@ -1179,6 +1182,7 @@
      x="-313.28476"
      id="tspan9448-3-9-0-2-6-6-1-7-2-6"
      sodipodi:role="line">K</tspan></text>
+
 
 </g><g
        style="fill:#ffffff;fill-opacity:1;display:inline"
@@ -1209,6 +1213,7 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-6-0"
      sodipodi:role="line">K</tspan></text>
 
+
 </g><g
        style="fill:#ffffff;fill-opacity:1;display:inline"
        id="g9450-1-0-5-8-8-1-3-2-1-0-7"
@@ -1238,11 +1243,16 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-7-6"
      sodipodi:role="line">K</tspan></text>
 
+
 </g></g><g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Extended Elevation"
-     style="display:none"><g
+     style="display:inline"
+     sodipodi:insensitive="true"><g
+       inkscape:groupmode="layer"
+       id="layer97"
+       inkscape:label="2014" /><g
        inkscape:groupmode="layer"
        id="layer46"
        inkscape:label="2013"
@@ -11366,6 +11376,7 @@
      x="102.42981"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">0</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="907.68311"
@@ -11376,6 +11387,7 @@
      y="907.68311"
      x="166.22174 172.47675 178.73175"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -11391,6 +11403,7 @@
      x="237.5058 243.7608 250.01581"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">200</tspan></text>
 
+
 <text
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
@@ -11404,6 +11417,7 @@
      y="908.82666"
      x="308.07153 314.32654 320.58154"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">300</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -11419,6 +11433,7 @@
      x="379.30283 385.55783 391.81284"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">400</tspan></text>
 
+
 <text
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
@@ -11432,6 +11447,7 @@
      y="908.00366"
      x="450.30704 456.56192 462.81693"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">500</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -11447,6 +11463,7 @@
      x="521.29468 527.54968 533.80469"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">600</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="907.68286"
@@ -11458,6 +11475,7 @@
      x="592.05981 598.31482 604.56982"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">700</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="907.68286"
@@ -11468,6 +11486,7 @@
      y="907.68286"
      x="662.56439 668.81934 675.0744"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">800</tspan></text>
+
 
 <g
    transform="matrix(0,-1,1,0,-143.33899,947.5316)"
@@ -11489,6 +11508,7 @@
      x="734.83984 741.09485 747.34985"
      sodipodi:role="line"
      id="tspan20186-6">900</tspan></text>
+
 
 <g
    id="g14464-8"
@@ -11512,6 +11532,7 @@
      x="800.80774"
      id="tspan14476-0"
      sodipodi:role="line">1000m</tspan></text>
+
 
 </g><g
        id="g14478"
@@ -11597,6 +11618,7 @@
      x="60.516937"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">0</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="230.24086"
@@ -11607,6 +11629,7 @@
      y="230.24086"
      x="46.962685 53.217686 59.472687"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -11622,6 +11645,7 @@
      x="46.820686 53.075687 59.330685"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">200</tspan></text>
 
+
 <text
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
@@ -11635,6 +11659,7 @@
      y="371.71164"
      x="46.19281 52.447815 58.702812"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">300</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -11650,6 +11675,7 @@
      x="46.973686 53.228687 59.483688"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">400</tspan></text>
 
+
 <text
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
@@ -11663,6 +11689,7 @@
      y="513.94708"
      x="47.021187 53.276188 59.531185"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">500</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -11678,6 +11705,7 @@
      x="46.973686 53.228687 59.483688"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">600</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="655.73285"
@@ -11689,6 +11717,7 @@
      x="47.308937 53.563934 59.818939"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">700</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="726.19897"
@@ -11699,6 +11728,7 @@
      y="726.19897"
      x="43.125809 49.380817 55.635815"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">800</tspan></text>
+
 
 <g
    transform="translate(12.866561,-93.020846)"
@@ -11720,6 +11750,7 @@
      x="43.125809 49.380817 55.635815"
      sodipodi:role="line"
      id="tspan20186">900</tspan></text>
+
 
 <g
    id="g14464"
@@ -11743,6 +11774,7 @@
      x="37.418003"
      id="tspan14476"
      sodipodi:role="line">1000m</tspan></text>
+
 
 </g></g><g
      inkscape:groupmode="layer"
@@ -11911,6 +11943,7 @@
      y="115.41078"
      style="font-size:22px">Guide to the Leads</tspan></text>
 
+
 <text
    sodipodi:linespacing="125%"
    id="text10550"
@@ -11923,6 +11956,7 @@
      x="361.55215"
      id="tspan10552"
      sodipodi:role="line">Open Lead</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -11937,6 +11971,7 @@
      y="148.11713"
      style="font-size:16px">Lead Requires Enlargment</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT Bold"
@@ -11949,6 +11984,7 @@
      x="361.55215"
      y="196.64915"
      style="font-size:16px">Sump</tspan></text>
+
 
 <path
    transform="translate(414.10442,23.201854)"
@@ -11980,6 +12016,7 @@
      x="361.55215"
      y="223.27263"
      style="font-size:16px">Climbing Lead</tspan></text>
+
 
 <g
    id="g10617"
@@ -12460,6 +12497,7 @@
      id="tspan10672"
      sodipodi:role="line">?</tspan></text>
 
+
 </g><text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT Bold"
@@ -12472,6 +12510,7 @@
      x="360.29593"
      y="251.5584"
      style="font-size:16px">Unsure of Situation</tspan></text>
+
 
 <g
    style="display:inline"
@@ -12496,6 +12535,7 @@
      x="333.61398"
      id="tspan10672-8"
      sodipodi:role="line">?</tspan></text>
+
 
 </g><g
    transform="matrix(0,1,-1,0,473.59848,362.3628)"
@@ -12561,6 +12601,7 @@
      id="tspan10672-8-5"
      sodipodi:role="line">?</tspan></text>
 
+
 </g><g
    transform="matrix(0,1,-1,0,617.864,208.74673)"
    style="display:inline"
@@ -12605,6 +12646,7 @@
      id="tspan10672-1"
      sodipodi:role="line">?</tspan></text>
 
+
 </g><g
    style="display:inline"
    id="g10674-97"
@@ -12628,6 +12670,7 @@
      x="333.61398"
      id="tspan10672-6"
      sodipodi:role="line">?</tspan></text>
+
 
 </g><path
    style="fill:none;stroke:#00c412;stroke-opacity:1;display:inline"
@@ -41642,6 +41685,7 @@
      sodipodi:role="line"
      id="tspan35-2" /></text>
 
+
 <text
    style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
    id="text13-4"
@@ -41652,6 +41696,7 @@
      id="tspan15-6"
      x="58.166813"
      y="60.868526">MIGOVEC SYSTEM</tspan></text>
+
 
 <text
    id="text37-3"
@@ -41674,6 +41719,7 @@
      y="169.92427"
      sodipodi:role="line"
      id="tspan43-9">Exploration 1974-2013</tspan></text>
+
 
 <path
    inkscape:connector-curvature="0"
@@ -41701,6 +41747,7 @@
      y="130.52489"
      id="tspan11352-1"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans" /></text>
+
 
 <flowRoot
    transform="translate(0,70.938944)"
@@ -41737,6 +41784,7 @@
      id="tspan11352-6-4"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">Location 540510 / 512398</tspan></text>
 
+
 <text
    id="text8659-7"
    y="43.814827"
@@ -41759,6 +41807,7 @@
      y="73.814827"
      x="472.09814"
      sodipodi:role="line">Location 540504 / 512393</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -41783,6 +41832,7 @@
      id="tspan11352-6-0-1"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">Location 540505 / 512381</tspan></text>
 
+
 <text
    id="text8659-9-4"
    y="43.814247"
@@ -41805,6 +41855,7 @@
      y="73.814247"
      x="824.84772"
      sodipodi:role="line">Location 540503 / 512394</tspan></text>
+
 
 <text
    id="text8659-9-2-6"
@@ -41830,6 +41881,7 @@
      x="1179.2749"
      sodipodi:role="line">Location 540512 / 512408</tspan></text>
 
+
 <text
    style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:8.37318611;stroke-dasharray:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text21-2"
@@ -41845,6 +41897,7 @@
      y="204.95021"
      sodipodi:role="line"
      id="tspan25-1">ELEVATION</tspan></text>
+
 
 </g><g
        inkscape:groupmode="layer"
@@ -41863,6 +41916,7 @@
      sodipodi:role="line"
      id="tspan49-7">Hardy</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text55-1"
@@ -41877,6 +41931,7 @@
      y="378.16699"
      sodipodi:role="line"
      id="tspan57-4">Pico</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -41893,6 +41948,7 @@
      sodipodi:role="line"
      id="tspan61-5">Space Odyssey</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text63-1"
@@ -41908,6 +41964,7 @@
      sodipodi:role="line"
      id="tspan65-8">Concorde</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text67-1"
@@ -41922,6 +41979,7 @@
      y="541.78937"
      sodipodi:role="line"
      id="tspan69-1">Alchemy</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -41943,6 +42001,7 @@
      sodipodi:role="line"
      id="tspan75-5">of Tolars</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text77-6"
@@ -41957,6 +42016,7 @@
      y="613.14899"
      sodipodi:role="line"
      id="tspan79-1">Pink</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -41973,6 +42033,7 @@
      sodipodi:role="line"
      id="tspan83-8">Zimmer</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text85-0"
@@ -41987,6 +42048,7 @@
      y="655.35907"
      sodipodi:role="line"
      id="tspan87-3">Friendship Gallery</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42010,6 +42072,7 @@
      sodipodi:role="line"
      id="tspan95-2">Mountain</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text127-0"
@@ -42024,6 +42087,7 @@
      y="439.00165"
      sodipodi:role="line"
      id="tspan129-8">Tessellator</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42040,6 +42104,7 @@
      sodipodi:role="line"
      id="tspan133-1">Swing</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text477-9"
@@ -42051,6 +42116,7 @@
      y="367.79834"
      sodipodi:role="line"
      id="tspan479-8">Piston</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42072,6 +42138,7 @@
      sodipodi:role="line"
      id="tspan495-9">Kangaroo</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text501-9"
@@ -42091,6 +42158,7 @@
      sodipodi:role="line"
      y="482.99924"
      id="tspan9651-5">Rift</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42112,6 +42180,7 @@
      sodipodi:role="line"
      id="tspan489-6">Chamber</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text5499-0"
@@ -42126,6 +42195,7 @@
      id="tspan5501-9"
      x="228.87436"
      y="510.06839">Dangermouse</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42147,6 +42217,7 @@
      y="553.32703"
      id="tspan5507-7">Canyon</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text5509-4"
@@ -42167,6 +42238,7 @@
      y="634.49005"
      id="tspan5513-0">Monday</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text5515-9"
@@ -42181,6 +42253,7 @@
      x="224.90399"
      y="533.63763"
      id="tspan5519-6">Wet Hammer</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42202,6 +42275,7 @@
      y="561.47504"
      id="tspan5527-8">to Midnight</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text107-2"
@@ -42213,6 +42287,7 @@
      y="764.04095"
      sodipodi:role="line"
      id="tspan109-1">Leprechaun</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42231,6 +42306,7 @@
      x="638.99164"
      y="824.50848" /></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-4"
@@ -42248,6 +42324,7 @@
      sodipodi:role="line"
      id="tspan121-1">Potatoes</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text123-6"
@@ -42263,6 +42340,7 @@
      x="350.81082"
      y="704.97992">Falls Road</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text207-0"
@@ -42274,6 +42352,7 @@
      y="756.53003"
      sodipodi:role="line"
      id="tspan209-7">Memory Lane</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42287,6 +42366,7 @@
      sodipodi:role="line"
      id="tspan217-6">Smash</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text219-6"
@@ -42298,6 +42378,7 @@
      y="821.39136"
      sodipodi:role="line"
      id="tspan221-8">Miles Underground</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42316,6 +42397,7 @@
      sodipodi:role="line"
      id="tspan233-0">Spot</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text235-2"
@@ -42327,6 +42409,7 @@
      y="777.47192"
      sodipodi:role="line"
      id="tspan237-8">Balamory</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42350,6 +42433,7 @@
      sodipodi:role="line"
      id="tspan9864-9">(-879m)</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text443-7"
@@ -42367,6 +42451,7 @@
      sodipodi:role="line"
      id="tspan447-3">and Beyond</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42379,6 +42464,7 @@
      x="445.57846"
      y="695.74359">Korita</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text97-5"
@@ -42390,6 +42476,7 @@
      y="733.02533"
      sodipodi:role="line"
      id="tspan99-5">Highway 32</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42408,6 +42495,7 @@
      x="734.11432"
      y="839.51959" /></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text5509-1-6"
@@ -42422,6 +42510,7 @@
      x="244.10214"
      y="643.97345"
      id="tspan5513-4-4">Roaring</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42442,6 +42531,7 @@
      x="550.01202"
      y="669.99927"
      id="tspan22809-2">Consort Rd.</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42468,6 +42558,7 @@
      y="656.47852"
      id="tspan22890-3">Hall</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text81-8-2-1-6"
@@ -42482,6 +42573,7 @@
      x="698.82544"
      y="755.65387"
      id="tspan22837-3-8">Serpentine</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42503,6 +42595,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan22915-6">Mož</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text81-8-2-1-7-6-5"
@@ -42522,6 +42615,7 @@
      x="809.02368"
      y="667.48688"
      id="tspan22940-5">Rift</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42543,6 +42637,7 @@
      y="657.24109"
      id="tspan22938-1">Bedchamber</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text207-5-5"
@@ -42559,6 +42654,7 @@
      x="508.05811"
      y="717.84778"
      id="tspan22963-2">神風</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42584,6 +42680,7 @@
      x="672.60516"
      y="643.43787"
      id="tspan22994-4">of King Minos</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42611,6 +42708,7 @@
      y="744.35419"
      id="tspan23011-5">Hopes</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text81-8-2-9-8-0"
@@ -42631,6 +42729,7 @@
      y="694.45483"
      id="tspan23011-2-4">Eso.</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42650,6 +42749,7 @@
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="tspan9639-8">Tranquilit</tspan>y</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;stroke-width:0.5;stroke-miterlimit:8.37318611;stroke-dasharray:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text51-5"
@@ -42661,6 +42761,7 @@
      y="350.05463"
      sodipodi:role="line"
      id="tspan53-4">Laurel</tspan></text>
+
 
 <text
    y="869.58173"
@@ -42678,6 +42779,7 @@
      id="tspan24090-9"
      sodipodi:role="line"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Day Dreamers</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42701,6 +42803,7 @@
      y="925.7309"
      id="tspan9862-1">(-972m)</tspan></text>
 
+
 <text
    y="872.54498"
    x="562.33246"
@@ -42718,6 +42821,7 @@
      sodipodi:role="line"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Penguin's Egg</tspan></text>
 
+
 <g
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="g11611-9-0-8"
@@ -42733,9 +42837,10 @@
      id="tspan11607-8-99-2"
      sodipodi:role="line">e</tspan></text>
 
+
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
-   d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
+   d="m 178.84897,307.46896 c 0,2.735 -2.21715,4.95216 -4.95215,4.95216 -2.735,0 -4.95215,-2.21716 -4.95215,-4.95216 0,-2.735 2.21715,-4.95215 4.95215,-4.95215 2.735,0 4.95215,2.21715 4.95215,4.95215 z"
    sodipodi:ry="4.9521546"
    sodipodi:rx="4.9521546"
    sodipodi:cy="307.46896"
@@ -42757,9 +42862,10 @@
      id="tspan11607-8-2-0"
      sodipodi:role="line">e</tspan></text>
 
+
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
-   d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
+   d="m 178.84897,307.46896 c 0,2.735 -2.21715,4.95216 -4.95215,4.95216 -2.735,0 -4.95215,-2.21716 -4.95215,-4.95216 0,-2.735 2.21715,-4.95215 4.95215,-4.95215 2.735,0 4.95215,2.21715 4.95215,4.95215 z"
    sodipodi:ry="4.9521546"
    sodipodi:rx="4.9521546"
    sodipodi:cy="307.46896"
@@ -42783,6 +42889,7 @@
      sodipodi:role="line"
      id="tspan25415-6">Paradise</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-5-2"
@@ -42794,6 +42901,7 @@
      y="738.01617"
      sodipodi:role="line"
      id="tspan25415-0-5">Magic Dragon</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42815,6 +42923,7 @@
      y="746.79926"
      id="tspan7502-5">Drugi Svet</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-5-0-2"
@@ -42826,6 +42935,7 @@
      y="696.05042"
      sodipodi:role="line"
      id="tspan25487-7">Grace</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42842,6 +42952,7 @@
      sodipodi:role="line"
      id="tspan79-4-9">Banzai</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-3"
@@ -42853,6 +42964,7 @@
      y="751.9696"
      sodipodi:role="line"
      id="tspan25415-3-14">Salvation</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42866,6 +42978,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-9">Penitence</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-6"
@@ -42877,6 +42990,7 @@
      y="764.63519"
      sodipodi:role="line"
      id="tspan25415-3-1-0-1">Lost Miles</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42894,6 +43008,7 @@
      y="793.77887"
      sodipodi:role="line"
      id="tspan7696-3">Stream</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:end;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42915,6 +43030,7 @@
      y="596.85199"
      id="tspan7724-0">Line</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text77-2-9"
@@ -42930,6 +43046,7 @@
      sodipodi:role="line"
      id="tspan79-9-7">Skynet</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text81-8-9-5"
@@ -42944,6 +43061,7 @@
      x="508.47888"
      y="647.80914"
      id="tspan22809-8-6">Cheetah</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -42970,6 +43088,7 @@
      x="594.55109"
      y="739.01294"
      id="tspan7870-4">Baron</tspan></text>
+
 
 <g
    style="font-size:13.86816025px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43002,6 +43121,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-0-6-6">Atlantis</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-1-8-1"
@@ -43013,6 +43133,7 @@
      y="822.34021"
      sodipodi:role="line"
      id="tspan25415-3-1-0-6-5-3">Minestrone</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43026,6 +43147,7 @@
      sodipodi:role="line"
      id="tspan81194-6">Invictus</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-1-4"
@@ -43038,6 +43160,7 @@
      sodipodi:role="line"
      id="tspan25415-3-8-0">Milky Way</tspan></text>
 
+
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-9-3"
@@ -43049,6 +43172,7 @@
      y="686.85016"
      sodipodi:role="line"
      id="tspan25415-3-27-3">Sanje za Dušo</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43069,6 +43193,7 @@
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="tspan10720-3">m</tspan> a</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="265.00546"
@@ -43080,6 +43205,7 @@
      x="233.15523"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan9998-0">Vrtnarija</tspan></text>
+
 
 <g
    transform="translate(400.65295,-75.740914)"
@@ -43096,6 +43222,7 @@
      x="171.14865"
      y="309.95862">e</tspan></text>
 
+
 <path
    sodipodi:type="arc"
    style="font-size:11.71679306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:5.60730028;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43104,7 +43231,7 @@
    sodipodi:cy="307.46896"
    sodipodi:rx="4.9521546"
    sodipodi:ry="4.9521546"
-   d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
+   d="m 178.84897,307.46896 c 0,2.735 -2.21715,4.95216 -4.95215,4.95216 -2.735,0 -4.95215,-2.21716 -4.95215,-4.95216 0,-2.735 2.21715,-4.95215 4.95215,-4.95215 2.735,0 4.95215,2.21715 4.95215,4.95215 z"
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)" /></g><g
    transform="translate(808.48141,-81.051684)"
    id="g8271-5-1-5"
@@ -43120,6 +43247,7 @@
      x="171.14865"
      y="309.95862">e</tspan></text>
 
+
 <path
    sodipodi:type="arc"
    style="font-size:11.71679306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:5.60730028;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43128,7 +43256,7 @@
    sodipodi:cy="307.46896"
    sodipodi:rx="4.9521546"
    sodipodi:ry="4.9521546"
-   d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
+   d="m 178.84897,307.46896 c 0,2.735 -2.21715,4.95216 -4.95215,4.95216 -2.735,0 -4.95215,-2.21716 -4.95215,-4.95216 0,-2.735 2.21715,-4.95215 4.95215,-4.95215 2.735,0 4.95215,2.21715 4.95215,4.95215 z"
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)" /></g><g
    transform="translate(847.03775,-74.337384)"
    id="g8271-9-4-2"
@@ -43144,6 +43272,7 @@
      x="171.14865"
      y="309.95862">e</tspan></text>
 
+
 <path
    sodipodi:type="arc"
    style="font-size:11.71679306px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:5.60730028;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43152,7 +43281,7 @@
    sodipodi:cy="307.46896"
    sodipodi:rx="4.9521546"
    sodipodi:ry="4.9521546"
-   d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
+   d="m 178.84897,307.46896 c 0,2.735 -2.21715,4.95216 -4.95215,4.95216 -2.735,0 -4.95215,-2.21716 -4.95215,-4.95216 0,-2.735 2.21715,-4.95215 4.95215,-4.95215 2.735,0 4.95215,2.21715 4.95215,4.95215 z"
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)" /></g><text
    sodipodi:linespacing="91.000003%"
    y="475.45731"
@@ -43164,6 +43293,7 @@
      y="475.45731"
      x="1007.0914"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Poltergeist</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43177,6 +43307,7 @@
      x="1087.1731"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">XXX</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="509.32236"
@@ -43188,6 +43319,7 @@
      y="509.32236"
      x="1057.2139"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Sajeta</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43201,6 +43333,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan8662-8-5">Always the Sun</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="355.06403"
@@ -43212,6 +43345,7 @@
      y="355.06403"
      x="996.27124"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Plopzilla</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43225,6 +43359,7 @@
      x="659.76978"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Galactica</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="387.41699"
@@ -43237,6 +43372,7 @@
      x="553.53265"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Ta Mokr</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="518.70038"
@@ -43248,6 +43384,7 @@
      y="518.70038"
      x="572.87213"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Hidrant</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43266,6 +43403,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27215-0-4">Gulf</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="359.88553"
@@ -43282,6 +43420,7 @@
      x="954.96594"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15823-3-7">Silos</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43300,6 +43439,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-4-7">Surprise</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="466.36276"
@@ -43317,6 +43457,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27263-0-1">of Oz</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="413.75522"
@@ -43328,6 +43469,7 @@
      x="884.32306"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-1-6-1">Paradiso</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43341,6 +43483,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-1-3-8-6">Titanic</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="439.97531"
@@ -43352,6 +43495,7 @@
      x="820.07458"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-1-3-2-9-6">Britannic</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43365,6 +43509,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-1-3-2-8-3-2">Olympic</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="556.60742"
@@ -43376,6 +43521,7 @@
      x="710.77997"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-1-3-2-8-5-8-7">Canberra</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43394,6 +43540,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan13287-9">Country</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="314.96814"
@@ -43405,6 +43552,7 @@
      x="665.37842"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27235-1-3-5-5-0">Hotline</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43428,6 +43576,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27430-0-8">Roll</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="448.72678"
@@ -43444,6 +43593,7 @@
      x="740.5105"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27463-3-4">Humor</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43462,6 +43612,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27486-5-2">Del</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="284.52115"
@@ -43478,6 +43629,7 @@
      x="633.90485"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27514-0-1">Strahov</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43497,6 +43649,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan14239-3-2">T-shirt</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43515,6 +43668,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan10387-3">Jama</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -43528,6 +43682,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan14241-6-6-9">M16</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="404.21545"
@@ -43539,6 +43694,7 @@
      x="1041.2931"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27514-8-7-7">Exhibition Road</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43552,6 +43708,7 @@
      x="969.74573"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Getafix</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="427.75153"
@@ -43563,6 +43720,7 @@
      y="427.75153"
      x="954.35742"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">*</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43576,6 +43734,7 @@
      x="938.84637"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Obelix</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="272.70535"
@@ -43588,6 +43747,7 @@
      x="1052.5953"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15534-7-7">Shreddies</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43607,6 +43767,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15562-3-3">Passage</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="304.96637"
@@ -43619,6 +43780,7 @@
      x="1006.0674"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15562-1-59-5">Dodge City</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43636,6 +43798,7 @@
      x="848.61615"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15611-1-2">Towers</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43655,6 +43818,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15634-6-8" /></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="350.00848"
@@ -43672,6 +43836,7 @@
      x="504.14624"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15634-3-80-5" /></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43691,6 +43856,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15634-3-8-5-2" /></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="544.00439"
@@ -43707,6 +43873,7 @@
      x="787.37463"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15798-2-5">Pot</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43725,6 +43892,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan15821-6-8">Shed</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="605.0741"
@@ -43742,6 +43910,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan10417-2">the Hill</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="597.16974"
@@ -43753,6 +43922,7 @@
      y="597.16974"
      x="1103.995"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Pawoden</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43766,6 +43936,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-1-3-3-3">Wonderstuff</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="629.97443"
@@ -43777,6 +43948,7 @@
      x="1067.0129"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan26922-9-7-6-1-2">Northern Line</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43795,6 +43967,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27704-3-0">Passage</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="719.51471"
@@ -43806,6 +43979,7 @@
      x="1045.9835"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27704-9-9-2">Waterloo</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43834,6 +44008,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27758-0-5" /></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="686.46704"
@@ -43845,6 +44020,7 @@
      x="1265.8441"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-1-3-9-5-9-7">Cold Feet</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43861,6 +44037,7 @@
      x="1214.1563"
      y="938.35004"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">(-958m)</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43879,6 +44056,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-7-2-4">(-970m)</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="866.06934"
@@ -43891,6 +44069,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-7-0-5-1">FA999</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="727.06757"
@@ -43901,6 +44080,7 @@
      id="tspan27994-3-6"
      x="1224.7363"
      y="727.06757">Teotihuacán</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43919,6 +44099,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan28019-4-0">Passage</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="743.22021"
@@ -43931,6 +44112,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-7-0-5-8-8-4">Rameses</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="790.76459"
@@ -43942,6 +44124,7 @@
      x="1161.949"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-46-0-8-2">Antivox</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -43960,6 +44143,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27992-6-1">Pencil</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="621.23151"
@@ -43977,6 +44161,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan10662-4">for Mig</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="738.73608"
@@ -43989,6 +44174,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-1-3-9-5-5-9-7">Kaboom</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="705.96179"
@@ -44000,6 +44186,7 @@
      x="1332.4508"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-1-3-9-5-1-2-2">Glory Boys</tspan></text>
+
 
 <text
    sodipodi:linespacing="91.000003%"
@@ -44018,6 +44205,7 @@
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-6-7">(-967m)</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="879.15924"
@@ -44034,6 +44222,7 @@
      x="947.25702"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan27529-1-4-9">(-937m)</tspan></text>
+
 
 <text
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -44052,6 +44241,7 @@
      sodipodi:role="line"
      id="tspan81113-0">Slapov</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -44065,6 +44255,7 @@
      id="tspan81033-7"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Yorkshire</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -44076,6 +44267,7 @@
      id="tspan81039-2"
      x="295.95294"
      y="716.01489">Xanadu</tspan></text>
+
 
 <flowRoot
    transform="translate(-2.8451687e-7,-4.0149229e-6)"
@@ -44163,6 +44355,7 @@
      id="tspan81111-4"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Rain</tspan></text>
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot81115-6"
@@ -44236,6 +44429,7 @@
      x="934.54089"
      y="718.68768">Beetlejuice</tspan></text>
 
+
 <flowRoot
    xml:space="preserve"
    id="flowRoot81202-9"
@@ -44291,6 +44485,7 @@
      id="tspan28225-1"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Socialism</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -44309,6 +44504,7 @@
      id="tspan28225-2-5"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">Communism</tspan></text>
 
+
 <text
    sodipodi:linespacing="91.000003%"
    y="519.03387"
@@ -44320,6 +44516,7 @@
      x="804.40155"
      style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;writing-mode:lr-tb;text-anchor:start;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan54498-1">Gloworm</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -44333,6 +44530,7 @@
      x="387.94431"
      y="725.84381">P.J.</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9.14285755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:91.00000262%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -44344,6 +44542,7 @@
      id="tspan33743-9"
      x="477.25"
      y="734.68903">Kamikaze</tspan></text>
+
 
 <path
    id="path24-3-7"
@@ -44370,6 +44569,7 @@
      x="61.724751"
      y="184.35542" /></text>
 
+
 <text
    y="60.421314"
    x="59.869865"
@@ -44381,6 +44581,7 @@
      sodipodi:role="line"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">SISTEM MIGOVEC</tspan></text>
 
+
 <text
    style="font-size:15px;display:inline"
    y="159.25159"
@@ -44391,6 +44592,7 @@
      y="159.25159"
      x="81.538239"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT Bold" /></text>
+
 
 <path
    id="path7639-2"
@@ -44437,6 +44639,7 @@
      x="90.494423"
      sodipodi:role="line"
      id="tspan14423-5" /></text>
+
 
 <flowRoot
    transform="translate(0,70.938936)"
@@ -44510,6 +44713,7 @@
      x="441.6362"
      sodipodi:role="line" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -44562,6 +44766,7 @@
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT Bold"
      id="tspan14682-4" /></text>
 
+
 <text
    id="text14684-2"
    y="-14.546106"
@@ -44609,6 +44814,7 @@
      x="788.45679"
      sodipodi:role="line" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
@@ -44645,6 +44851,7 @@
      y="60.453896"
      style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT Bold"
      id="tspan14778-2" /></text>
+
 
 <text
    id="text14780-7"
@@ -44693,6 +44900,7 @@
      x="1147.4385"
      sodipodi:role="line" /></text>
 
+
 </g><text
    y="165.39691"
    x="696.57568"
@@ -44708,5 +44916,6 @@
      x="696.57568"
      style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
      id="tspan7675-0">PROFIL</tspan></text>
+
 
 </g></g></svg>
