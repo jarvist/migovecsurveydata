@@ -25,7 +25,7 @@
    inkscape:export-ydpi="635.17999"><metadata
      id="metadata7"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs5"><marker
        style="overflow:visible"
        inkscape:stockid="InfiniteLineEnd"
@@ -2036,11 +2036,11 @@
      id="base"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="306.73133"
-     inkscape:cy="268.42146"
+     inkscape:cx="972.11848"
+     inkscape:cy="35.640814"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="layer112"
+     inkscape:current-layer="layer2"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2063,7 +2063,7 @@
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="2013 line"
-       style="display:inline"
+       style="display:none"
        sodipodi:insensitive="true"><g
          transform="matrix(0.28689847,0,0,0.28689847,979.01013,403.93654)"
          id="g4-5-4"
@@ -3357,7 +3357,8 @@
        inkscape:groupmode="layer"
        id="layer110"
        inkscape:label="2014 line"
-       style="display:none"><g
+       style="display:none"
+       sodipodi:insensitive="true"><g
          transform="matrix(0.28638007,0,0,0.28637991,978.88706,404.73395)"
          id="Legs"
          style="fill:none;stroke:#b81ff0;stroke-width:1.74455726;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"><path
@@ -6075,7 +6076,124 @@
            inkscape:connector-curvature="0"
            d="m -37.98,221.08 0,0 9.46,15.48 -0.78,0.84 4.64,13.18 8.6,-0.5 5.6,6.8 0,0 3.44,10.36 3.68,2.44 7.68,16.96 0.32,-2.84 5.88,2.2 1.06,11.3 4.42,5.38 0,0 5.24,5.54 6.58,11.22 1.02,-0.52 9.18,-7.82 0.72,-7.4 -6.34,-4.38 2.88,-9.08 -5,-17 2.98,-30.3 -3.14,0.8 2.64,0 5.14,-4.98 8.76,-5.48 3.88,2.82 0.8,3.72 -6.38,3.7 3.06,6.28 2.5,-1.2 1.02,11.62 0.1,-1.62 0,0 6.64,3.08 4.44,5.9 -3.66,9.06 -2.98,0.68 0.78,5.48 6,4.22 -0.88,-0.44 -6.04,1.84 -0.4,5.78 1.82,-2.5 -6.78,9 2.46,5.82 5.78,6.64 5.02,5.56 2.5,3.08 4.44,1.7 2.78,5.26 7.64,4.58 11.12,6.42 12.36,-10.76 2.58,12.12"
            id="path683-8"
-           style="stroke:#b81ff0;stroke-width:1.74455726;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g></g></g><g
+           style="stroke:#b81ff0;stroke-width:1.74455726;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g></g><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1014.6016,860.05595 c 0.069,0.69053 0.4833,-0.48338 0.7595,0.34526 0.2763,0.82865 0.1382,1.51918 0.1382,2.14066 0,0.62148 0.5896,0.91028 0.2234,1.54504 -0.3662,0.63477 -0.708,0.61036 -0.9522,1.12305 -0.2441,0.5127 -0.6348,1.04981 -0.4639,1.2207 0.1709,0.1709 0.7813,0.12207 0.8301,0.80567 0.049,0.68359 -0.2441,0.68359 -0.5859,2.02636 -0.3418,1.34278 -0.2197,2.56348 -0.2197,2.95411 0,0.39062 -0.3174,0.80566 -0.3174,1.75781 0,0.95215 0.415,1.95312 -0.024,2.17285 -0.4395,0.21973 -1.0743,-0.3418 -1.4649,0.14648 -0.3906,0.48829 -0.7812,1.58692 -1.3428,1.63575 -0.5615,0.0488 -1.1962,0.34179 -0.8544,0.58593 0.3418,0.24415 1.1718,0.83008 1.4404,1.66016 0.2685,0.83008 0.3418,1.95313 -0.3418,2.09961 -0.6836,0.14648 -0.6836,0.14648 -0.6836,0.14648 -0.2201,0.83008 -2.4906,3.32031 -2.0756,3.97949 0.4151,0.65918 1.001,1.46485 1.416,2.31934 0.4151,0.85449 0.8789,2.05078 0.8789,2.05078 0,0 0.5668,1.5324 0.9811,2.32652 0.4143,0.79411 1.1739,0.86317 1.7609,1.13938 0.5869,0.27621 1.7954,1.10485 2.3133,1.93349 0.5179,0.82865 1.2084,2.4514 1.4156,2.90025 0.2071,0.44884 0.4833,1.93349 0.7595,2.62403 0.2763,0.69053 0.3453,1.0358 0.9668,1.45012 0.6215,0.41432 1.1739,0.37979 2.2097,0.75958 1.0358,0.3798 1.1394,0.31075 2.1407,0.51791 1.0012,0.20716 2.8311,0.10358 3.0728,1.1739 0.2417,1.07033 -0.3798,0.82864 -0.1381,1.38107 0.2417,0.55243 1.3466,1.76086 1.3466,1.76086 0.4833,0.96675 0.8286,1.96802 1.2774,3.10741 0.4489,1.13938 1.5883,2.45139 1.5883,3.14193 0,0.69053 0.3452,2.52044 0.5524,4.28131 0.2072,1.76086 0.2647,1.5222 0.2714,1.74095 0.01,0.2948 0.6122,0.28851 -0.043,0.46273 m -2.2187,0 c -0.4632,-0.0441 -0.2713,-0.16889 -0.3228,-0.61546 -0.1036,-0.89769 -1.1048,-3.45267 -1.0358,-4.79921 0.069,-1.34654 -0.4834,-3.07287 -0.4834,-3.07287 0,0 0.035,-1.48465 -0.2762,-2.20971 -0.3107,-0.72506 -1.3465,-1.65728 -1.3465,-1.65728 l -0.3108,-0.3798"
+       id="path6920"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsscccssscscccsccccscsccsscssccsssccsscccc" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1013.6231,861.37695 c -0.1709,0.36621 -0.3418,0.78125 -0.1221,1.5625 0.2197,0.78125 1.0498,0.43946 0.5615,1.3916 -0.4883,0.95215 -0.5859,2.22168 -0.9521,2.29493 -0.3663,0.0732 -1.7579,0.73242 -1.587,1.48925 0.1709,0.75684 0.7081,1.66016 0.2686,2.14844 -0.4395,0.48828 -0.8789,3.56445 -1.2451,3.97949 -0.3662,0.41504 -0.024,0.75684 -0.3906,1.02539 -0.3663,0.26856 -1.4893,-0.14648 -2.0752,0.53711 -0.586,0.6836 -1.0498,0.3418 -0.8789,1.44043 0.1709,1.09864 0.9765,1.17188 1.3916,1.53809 0.415,0.36621 0.9521,1.58691 0.9521,2.05078 0,0.46387 -0.9277,1.70899 -1.416,2.63672 -0.4883,0.92773 -0.1221,1.61133 -0.8301,0.75684 -0.708,-0.8545 -1.6846,-0.78126 -1.8066,-1.66016 -0.3418,-1.0254 -1.7927,-1.5053 -1.8171,-1.8471 -0.024,-0.34179 0.2111,-1.017 0.2602,-1.43204 0.049,-0.41504 -0.2922,-0.0754 -0.8326,-0.82314 -0.1953,-0.19532 -1.4669,-0.51833 -1.882,0.11644 -0.415,0.63476 -1.47882,0.61873 -1.1858,1.76619 0.2929,1.14747 0.1353,0.80363 -0.32856,1.14543 -0.46387,0.3418 -1.97754,1.36719 -1.97754,1.36719 0.0227,0.60372 -0.39159,1.43236 -0.6678,1.70857 -0.27621,0.27622 -0.24169,0.5179 -0.89769,0.31074 -0.65601,-0.20716 -1.62276,-0.44884 -2.27877,-0.24168 -0.656,0.20716 -1.79539,1.07032 -1.93349,1.38106 -0.13811,0.31075 0.17263,0.51791 -0.31074,0.55243 -0.48338,0.0345 -3.10741,-0.656 -3.21099,-0.20711 -0.10358,0.44884 -1.5537,2.58949 -1.96802,2.27875 -0.41432,-0.31074 -0.24168,-3.21098 -1.69181,-2.31328 -1.45012,0.89769 -2.38234,1.0358 -2.38234,1.31201 0,0.27621 0,0.10358 0,0.10358 -0.656,0.41428 -2.03707,0.13807 -3.03835,0.20712 -1.00127,0.069 -1.24296,0.65601 -1.24296,0.65601 0,0 -0.10358,-0.24169 -0.31074,-0.5179 -0.20716,-0.27622 0.27622,-0.8977 -0.86317,-1.0358 -1.13938,-0.13811 -1.45012,-0.3798 -1.76086,-0.24169 -0.31074,0.13811 -0.41432,-0.37979 -1.17391,-0.24169 -0.75958,0.13811 -2.17518,0.27622 -2.41686,0.55243 -0.24169,0.27621 -0.5179,1.34654 -1.76086,1.69181"
+       id="path8058"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscsssccscsssccccccsccsscccsssccccssccc" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2480315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.2480315,0.2480315;stroke-dashoffset:0"
+       d="m 969.82044,888.81669 c -1.24296,0.34526 -2.86572,0.62148 -2.55498,1.69181 0.31074,1.07032 1.62275,2.79666 2.48592,2.79666 0.86317,0 2.48592,-1.65728 2.34782,-2.17518 -0.13811,-0.5179 -0.44885,-1.13938 -0.44885,-1.55371 0,-0.41432 -0.069,-0.41432 1.20843,-0.69053 1.27749,-0.27621 1.24297,-0.44885 2.34782,-0.13811 1.10485,0.31074 1.76086,0.48338 2.00255,0.3798"
+       id="path8056" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 977.20915,889.12743 c 0.24168,-0.10358 0.24168,-0.13811 0.24168,-0.13811 -0.75958,-0.34527 -0.93222,-1.0358 -1.62275,-0.86317 -0.69053,0.17264 -2.20971,-0.0345 -2.86572,0.10358 -0.656,0.13811 -1.89896,0.69054 -2.0716,1.34654 -0.17263,0.65601 -0.24168,1.20844 -0.5179,0.62149 -0.27621,-0.58696 -1.34654,-2.52045 -1.79539,-2.9693 -0.44884,-0.44885 0.8977,-1.24296 0.8977,-1.45012 0,-0.20716 -0.55243,-1.0358 -1.07033,-0.62148 -0.5179,0.41432 -1.0358,1.45012 -1.27749,1.34654 -0.24168,-0.10358 -1.62275,0.69053 -2.45139,0.44885 -0.82864,-0.24169 -1.07033,-1.58823 -2.17519,-1.86445 -1.10485,-0.27621 -2.27876,-0.37979 -3.69435,-1.13938 -1.4156,-0.75958 -3.79794,-1.31201 -4.59205,-1.72633 -0.79412,-0.41432 -0.79412,-0.41432 -0.79412,-0.41432"
+       id="path6922" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1011.3651,874.09177 c 1.0009,0 1.1963,0.0977 1.1718,0.68359 -0.024,0.58594 -0.2929,0.80567 -0.708,1.12305 -0.415,0.31738 -1.0254,0.39062 -0.83,-0.6836 0.1953,-1.07421 0.3662,-1.12304 0.3662,-1.12304 z"
+       id="path6924"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.49960631000000000, 0.49960631000000000;stroke-dashoffset:0"
+       d="m 1008.4766,875.72477 c 0.2441,0.14648 0.7324,0.39062 0.3662,0.97656 -0.3662,0.58594 -0.4883,1.34277 -0.9033,1.14746 -0.4151,-0.19531 -0.4151,-0.19531 -0.4151,-0.19531"
+       id="path6926"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960630000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.49960630000000000, 0.49960630000000000;stroke-dashoffset:0"
+       d="m 1000.2385,880.21954 c 0.1381,0.55243 0.2762,0.62148 1.1739,0.48337 0.8977,-0.1381 1.7954,0.27622 1.9335,-0.34526 0.1381,-0.62148 0.4143,-1.0358 0.4143,-1.0358"
+       id="path8033"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 951.62488,893.44332 c 0,0 2.03708,1.51917 3.03835,1.89896 1.00128,0.3798 1.62276,1.27754 2.90025,1.34654 1.27748,0.0691 5.28258,0.13811 6.52554,0.13811 1.24296,0 3.79794,-0.48337 4.48847,-0.75959 0.69054,-0.27621 2.20971,-2.93477 2.48593,-3.79793 0.27624,-0.86317 -0.31074,-1.03583 0.31074,-1.07033 0.62148,-0.0345 0.44884,1.34654 1.89896,0.75959 1.45013,-0.58696 5.5588,-0.79412 6.73271,-0.69054 1.17391,0.10358 2.31329,-1.38106 2.86572,-2.03707 0.55245,-0.65601 0.97562,0.51594 1.07032,0.96675 0.28812,1.37156 2.11724,0.53891 2.58951,-0.20716 0.36281,-0.57316 2.00255,0.79411 2.52045,0.1381 0.53163,-0.63401 0.22509,-0.6411 0.0345,-1.96802 -0.1025,-0.71361 1.24296,0.41432 1.9335,0.13811 0.69053,-0.27624 1.34654,-0.96675 1.51918,-0.44885 -0.40165,1.63261 1.41982,1.72921 1.8299,1.69181 1.03467,-0.0943 2.44461,0.72464 2.03709,-1.24297 0.27496,-2.29782 0.62075,-1.18196 1.00127,-1.96801 0.33099,-0.68373 0.82864,0.069 1.5537,0.069 0.72506,0 1.10483,-1.9335 1.82993,-3.1074 0.725,-1.17391 1.312,-1.10491 1.6573,-1.03581 0.3452,0.0691 1.05,0.93223 1.6025,1.34655 0.5524,0.41432 1.3381,2.15741 2.4775,2.95152 1.1394,0.79412 1.2192,1.60499 1.8752,2.60626 0.6561,1.00127 0.4643,1.10587 1.1203,2.10714 0.9692,1.89897 0.9347,2.86572 1.3835,3.41815 0.4489,0.55242 2.0026,0.58695 2.4514,1.31201 0.4488,0.72506 1.2084,1.82992 1.8299,2.9693 0.6215,1.13938 1.1739,3.28003 1.8299,4.69563 0.656,1.41559 1.9335,2.76213 2.2788,2.45139 0.3453,-0.31074 -0.034,-0.37979 1.6227,-0.41432 1.6573,-0.0345 1.6919,-0.5179 2.1752,0.0345 0.4834,0.55243 0.1036,1.41559 1.0704,1.82991 0.9667,0.41433 1.3119,1.20844 1.3119,1.20844"
+       id="path8038"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccsscsccscsscsscccscsccsssscccc" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.24803149999999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.24803149999999999, 0.49606298999999998;stroke-dashoffset:0"
+       d="m 993.71291,886.29624 c 0.62148,-0.34527 1.76086,-0.3798 1.82991,-0.13811 0.0691,0.24169 0.20717,0.69054 -0.1381,0.96675 -0.34527,0.27621 -1.38107,0.75959 -1.5537,0.37979 -0.17264,-0.37979 -0.13811,-1.20843 -0.13811,-1.20843 z"
+       id="path8040"
+       inkscape:connector-curvature="0" /><path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 960.80897,887.12488 c 2.10612,1.0358 2.0716,1.17391 2.0716,1.17391 l -2.34782,-0.0691 z"
+       id="path8042"
+       inkscape:connector-curvature="0" /><path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 960.08391,889.43817 c -0.69054,1.31201 -0.82864,1.45012 -0.82864,1.45012 l 2.0716,0.5179 z"
+       id="path8044"
+       inkscape:connector-curvature="0" /><path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 958.73737,891.88957 c -0.8977,1.31201 -0.82864,1.34654 -0.82864,1.34654 l 2.10613,0.0691 z"
+       id="path8046"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 967.0583,887.91899 c -0.55243,-0.10358 -2.20971,-0.5179 -2.93477,0.5179 -0.72506,1.0358 -0.0345,1.45013 -0.44885,1.76087 -0.41432,0.31074 -0.75959,0.31074 -0.58695,0.55242 0.17263,0.24169 -0.13811,-0.0345 0.24168,0.34527 m 1.07033,0.72506 c 0.3798,0.3798 0.86317,0.10358 0.69054,-0.0691 -0.17264,-0.17264 -0.34527,-0.5179 0.31074,-0.65601 0.656,-0.13811 1.62275,-0.79411 1.5537,-1.48465 -0.069,-0.69053 0.13811,-1.00127 0.13811,-1.00127 l 0,0 0,0"
+       id="path8060"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccsscccc" /><path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.2480315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 965.81534,888.36784 c -0.41432,0.27621 -0.44885,0.5179 -0.44885,0.5179 l 0.65601,-0.17263 z"
+       id="path8064"
+       inkscape:connector-curvature="0" /><path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.2480315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       d="m 966.50082,889.45282 c -0.38485,0.31597 -0.62612,0.27866 -0.62612,0.27866 l 0.35611,-0.57735 z"
+       id="path8064-3"
+       inkscape:connector-curvature="0" /><g
+       id="g8098"
+       style="stroke:#ff0000;stroke-width:0.49960631;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.46825483,0,0,0.46825483,511.43501,471.84786)"><path
+         inkscape:connector-curvature="0"
+         id="path8088"
+         d="m 974.61965,898.7949 c -0.44885,-0.79411 0.72506,-1.07032 1.76086,-1.27748 1.0358,-0.20716 1.07032,-1.34655 1.07032,-1.34655 l 0,0"
+         style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><path
+         inkscape:connector-curvature="0"
+         id="path8096"
+         d="m 975.37923,896.65425 c 2.0716,-0.58696 2.27876,-0.69054 2.27876,-0.69054 l 0.48338,2.17519 0,0 0,0"
+         style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g><g
+       id="g8098-9"
+       style="stroke:#ff0000;stroke-width:0.49960631;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       transform="matrix(0.50010226,0,0,0.67970832,475.15023,281.98517)"><path
+         inkscape:connector-curvature="0"
+         id="path8088-8"
+         d="m 974.61965,898.7949 c -0.44885,-0.79411 0.72506,-1.07032 1.76086,-1.27748 1.0358,-0.20716 1.07032,-1.34655 1.07032,-1.34655 l 0,0"
+         style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><path
+         inkscape:connector-curvature="0"
+         id="path8096-0"
+         d="m 975.37923,896.65425 c 2.0716,-0.58696 2.27876,-0.69054 2.27876,-0.69054 l 0.48338,2.17519 0,0 0,0"
+         style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960630000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1023.8547,905.52761 c 0.3453,-0.0345 0.5179,-0.37979 1.1049,-0.0345 0.5869,0.34527 0.5524,0.10358 0.6215,0.82864 0.069,0.72506 0.8286,1.72634 -0.3453,1.00128 -1.1739,-0.72506 -1.4847,-1.24296 -1.3811,-1.79539 z"
+       id="path8128"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960630000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1026.9276,908.70407 c 0.4488,0.37979 0.7941,0.86316 0.3453,0.79411 -0.4489,-0.0691 -1.0358,-0.37979 -1.0704,-0.65601 -0.035,-0.27621 0.7251,-0.1381 0.7251,-0.1381 z"
+       id="path8130"
+       inkscape:connector-curvature="0" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1031.5312,921.375 c 0.375,0.59375 1,1.34375 0.5938,2.28125 -0.4063,0.9375 -0.6875,0.96875 -0.1875,1.71875 0.5,0.75 1.1875,2.40625 1.2187,2.84375 0.031,0.4375 1.4063,2.1875 1.375,3.53125 -0.031,1.34375 -0.125,1.71875 -0.125,1.71875"
+       id="path8134"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccc" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.49960631;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1029.0625,921.25 c 0.031,0.4375 1.2812,0.9375 1.3125,1.40625 0.031,0.46875 0.2187,1 0.125,1.5625 -0.094,0.5625 -0.75,1.53125 -0.4688,1.78125 0.2813,0.25 0.7813,-0.0937 1.0625,1.15625 0.2813,1.25 0.9375,2.375 1,2.90625 0.062,0.53125 0.5313,1.75 0.5625,2.25 0.031,0.5 0.5,1.40625 0.5,1.40625"
+       id="path8136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" /><path
+       style="fill:#ffffff;stroke:#ff0000;stroke-width:0.35433070999999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       d="m 1027.9687,911.5625 c -0.875,0.625 0.2188,1.21875 0.2813,2.5625 0.062,1.34375 0.2812,1.71875 0.3124,2.6875 0.031,0.96875 0.5625,1.5 0.5625,2.78125 0,1.28125 0.375,4.21875 1.9063,4.21875 1.5312,0 0.125,-2.09375 0.031,-3.3125 -0.094,-1.21875 -0.625,-2.53125 -0.75,-3.34375 -0.125,-0.8125 -0.062,-3.0625 -1,-4.15625 -0.9375,-1.09375 -1.3438,-1.4375 -1.3438,-1.4375 z"
+       id="path8132"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscssc" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2480315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.2480315, 0.2480315;stroke-dashoffset:0"
+       d="m 1029.4062,916.21875 c 0.4063,0.25 0.8126,0.84375 0.7501,1.59375 -0.062,0.75 0.1874,1.3125 -0.2501,1.0625 -0.4375,-0.25 -0.75,-0.90625 -0.75,-1.1875 0,-0.28125 -0.5625,-1.03125 -0.125,-1.1875 0.4375,-0.15625 0.375,-0.28125 0.375,-0.28125 z"
+       id="path8138"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssc" /><path
+       style="fill:none;stroke:#ff0000;stroke-width:0.2480315;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.2480315, 0.2480315;stroke-dashoffset:0"
+       d="m 1030.25,921.65625 c 0.5937,-0.40625 1.625,0.90625 0.9687,1.0625 0,1.34375 -1.3125,-0.28125 -1.2187,-0.625 0.094,-0.34375 0.25,-0.4375 0.25,-0.4375 z"
+       id="path8140"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" /></g><g
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="GoogleMapsTileGuide"
@@ -6152,7 +6270,7 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="PLAN: Insets"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true"><g
        inkscape:groupmode="layer"
        id="layer81"
@@ -8077,6 +8195,7 @@
      x="225.55988"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">0</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="897.5011"
@@ -8087,6 +8206,7 @@
      y="897.5011"
      x="289.78299 296.03799 302.293"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan></text>
+
 
 <text
    style="font-size:15px"
@@ -8099,6 +8219,7 @@
      x="360.52728 366.78226 373.03726"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">200</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="897.41852"
@@ -8109,6 +8230,7 @@
      y="897.41852"
      x="431.29102 437.54602 443.80099"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">300</tspan></text>
+
 
 <text
    style="font-size:15px"
@@ -8121,6 +8243,7 @@
      x="502.08624 508.34125 514.59625"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">400</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="897.42389"
@@ -8131,6 +8254,7 @@
      y="897.42389"
      x="572.66888 578.92389 585.17889 591.43384"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">500m</tspan></text>
+
 
 </g></g></g><g
      inkscape:groupmode="layer"
@@ -8187,6 +8311,7 @@
      x="225.55988"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">0</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="897.5011"
@@ -8197,6 +8322,7 @@
      y="897.5011"
      x="289.78299 296.03799 302.293"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan></text>
+
 
 <text
    style="font-size:15px"
@@ -8209,6 +8335,7 @@
      x="360.52728 366.78226 373.03726"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">200</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="897.41852"
@@ -8219,6 +8346,7 @@
      y="897.41852"
      x="431.29102 437.54602 443.80099"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">300</tspan></text>
+
 
 <text
    style="font-size:15px"
@@ -8231,6 +8359,7 @@
      x="502.08624 508.34125 514.59625"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">400</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="897.42389"
@@ -8241,6 +8370,7 @@
      y="897.42389"
      x="572.66888 578.92389 585.17889 591.43384"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">500m</tspan></text>
+
 
 </g><g
          style="display:inline;enable-background:new"
@@ -8327,6 +8457,7 @@
      x="60.516937"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">0</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="230.24086"
@@ -8337,6 +8468,7 @@
      y="230.24086"
      x="46.962685 53.217686 59.472687"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">100</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -8352,6 +8484,7 @@
      x="46.820686 53.075687 59.330685"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">200</tspan></text>
 
+
 <text
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
@@ -8365,6 +8498,7 @@
      y="371.71164"
      x="46.19281 52.447815 58.702812"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">300</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -8380,6 +8514,7 @@
      x="46.973686 53.228687 59.483688"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">400</tspan></text>
 
+
 <text
    inkscape:export-ydpi="300"
    inkscape:export-xdpi="300"
@@ -8393,6 +8528,7 @@
      y="513.94708"
      x="47.021187 53.276188 59.531185"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">500</tspan></text>
+
 
 <text
    inkscape:export-ydpi="300"
@@ -8408,6 +8544,7 @@
      x="46.973686 53.228687 59.483688"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">600</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="655.73285"
@@ -8419,6 +8556,7 @@
      x="47.308937 53.563934 59.818939"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">700</tspan></text>
 
+
 <text
    style="font-size:15px"
    y="726.19897"
@@ -8429,6 +8567,7 @@
      y="726.19897"
      x="43.125809 49.380817 55.635815"
      style="font-size:11.25px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">800</tspan></text>
+
 
 <g
    transform="translate(12.866561,-93.020846)"
@@ -8450,6 +8589,7 @@
      x="43.125809 49.380817 55.635815"
      sodipodi:role="line"
      id="tspan20186-5">900</tspan></text>
+
 
 <g
    id="g14464-0"
@@ -8473,6 +8613,7 @@
      x="37.418003"
      id="tspan14476-4"
      sodipodi:role="line">1000m</tspan></text>
+
 
 </g></g><g
        inkscape:groupmode="layer"
@@ -8545,7 +8686,7 @@
                sodipodi:end="4.712389"
                sodipodi:start="0"
                transform="translate(0,0.18498551)"
-               d="M 852.22826,392.47968 A 14.243885,14.243885 0 1 1 837.98438,378.23579"
+               d="m 852.22826,392.47968 c 0,7.86668 -6.3772,14.24388 -14.24389,14.24388 -7.86668,0 -14.24388,-6.3772 -14.24388,-14.24388 0,-7.86669 6.3772,-14.24389 14.24388,-14.24389 10e-6,0 10e-6,0 10e-6,0"
                sodipodi:ry="14.243885"
                sodipodi:rx="14.243885"
                sodipodi:cy="392.47968"
@@ -8560,7 +8701,7 @@
                sodipodi:cy="392.47968"
                sodipodi:rx="14.243885"
                sodipodi:ry="14.243885"
-               d="M 852.22826,392.47968 A 14.243885,14.243885 0 1 1 837.98438,378.23579"
+               d="m 852.22826,392.47968 c 0,7.86668 -6.3772,14.24388 -14.24389,14.24388 -7.86668,0 -14.24388,-6.3772 -14.24388,-14.24388 0,-7.86669 6.3772,-14.24389 14.24388,-14.24389 10e-6,0 10e-6,0 10e-6,0"
                transform="matrix(0.49646943,0,0,0.49646943,422.08545,197.6758)"
                sodipodi:start="0"
                sodipodi:end="4.712389"
@@ -11714,6 +11855,7 @@
      x="943.23578"
      y="578.54504" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text193-1-4"
@@ -11725,6 +11867,7 @@
      id="tspan195-3-1"
      x="915.7439"
      y="555.61243" /></text>
+
 
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
@@ -11738,6 +11881,7 @@
      x="865.91693"
      y="523.55005" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text239-5-6"
@@ -11749,6 +11893,7 @@
      id="tspan241-2-8"
      x="1055.682"
      y="611.2948" /></text>
+
 
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
@@ -11762,6 +11907,7 @@
      x="1084.2102"
      y="653.21881" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text247-4-7"
@@ -11773,6 +11919,7 @@
      id="tspan251-4-9"
      x="1024.0077"
      y="677.12201" /></text>
+
 
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
@@ -11786,6 +11933,7 @@
      x="821.15393"
      y="458.53925" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text253-6-4"
@@ -11797,6 +11945,7 @@
      id="tspan257-8-6"
      x="788.69733"
      y="421.09888" /></text>
+
 
 <path
    style="fill:none;stroke:#0000ff;stroke-width:0.41826841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6.65403318;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -11909,6 +12058,7 @@
      x="774.14343"
      y="303.53262" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text263-9-1"
@@ -11920,6 +12070,7 @@
      id="tspan265-4-7"
      x="688.58392"
      y="191.61626" /></text>
+
 
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
@@ -11933,6 +12084,7 @@
      x="776.04309"
      y="74.966011" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text271-4-4"
@@ -11945,6 +12097,7 @@
      x="654.29608"
      y="42.803761" /></text>
 
+
 <text
    style="font-size:15px;stroke:#008080;stroke-width:1;stroke-opacity:1;display:inline"
    id="text439-5-1"
@@ -11956,6 +12109,7 @@
      id="tspan441-4-3"
      x="773.22833"
      y="23.377876" /></text>
+
 
 <path
    style="fill:none;stroke:#0000ff;stroke-width:0.41826841;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6.65403318;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -15540,7 +15694,7 @@
      inkscape:groupmode="layer"
      id="layer30"
      inkscape:label="ENG"
-     style="display:inline"><g
+     style="display:none"><g
        inkscape:groupmode="layer"
        id="layer37"
        inkscape:label="ENG: Info boxes"
@@ -15557,6 +15711,7 @@
      x="49.045803"
      y="60.070229">MIGOVEC SYSTEM</tspan></text>
 
+
 <text
    id="text37-2"
    x="929.52045"
@@ -15568,6 +15723,7 @@
      y="91.158264"
      sodipodi:role="line"
      id="tspan67987-4" /></text>
+
 
 <path
    inkscape:connector-curvature="0"
@@ -15623,6 +15779,7 @@
      id="tspan11352-0"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT Bold" /></text>
 
+
 <text
    style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:8.37318611;stroke-dasharray:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text21-6"
@@ -15633,6 +15790,7 @@
      y="218.35242"
      sodipodi:role="line"
      id="tspan25-2">PLAN</tspan></text>
+
 
 <text
    style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:8.37318611;stroke-dasharray:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15645,6 +15803,7 @@
      sodipodi:role="line"
      id="tspan23448-1">ABOVE -575M</tspan></text>
 
+
 <text
    style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke-width:0.5;stroke-miterlimit:8.37318611;stroke-dasharray:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text21-3-7-5"
@@ -15655,6 +15814,7 @@
      y="450.87518"
      sodipodi:role="line"
      id="tspan25-0-6-4">BELOW -575M</tspan></text>
+
 
 </g><g
        inkscape:groupmode="layer"
@@ -15674,6 +15834,7 @@
      y="68.459129"
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">To Infinity and Beyond</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15685,6 +15846,7 @@
      id="tspan11360-3-0"
      x="757.57666"
      y="123.2323">The Rock of Sages</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -15706,6 +15868,7 @@
      y="57.42197"
      id="tspan11373-3-1" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15717,6 +15880,7 @@
      id="tspan11377-0-1"
      x="664.16626"
      y="209.38853">Miles Underground</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -15730,6 +15894,7 @@
      x="796.54565"
      y="235.06868">Smash</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15742,6 +15907,7 @@
      x="730.16156"
      y="293.04559">No More Potatoes</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15753,6 +15919,7 @@
      x="780.42529"
      y="397.26682"
      id="tspan11393-7-4">Nitro</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -15770,6 +15937,7 @@
      y="362.33942"
      id="tspan9477-9">Drugi Svet</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15786,6 +15954,7 @@
      y="308.89603"
      id="tspan11662-5">of King Minos</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15798,6 +15967,7 @@
      y="395.38092"
      id="tspan12188-8">Milky Way</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15809,6 +15979,7 @@
      id="tspan11429-3-9"
      x="982.62744"
      y="616.73157">Kokain</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -15825,6 +15996,7 @@
      x="954.43488"
      y="384.26303"
      id="tspan9483-0">Chamber</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -15846,6 +16018,7 @@
      y="481.90207"
      id="tspan9418-5" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15862,6 +16035,7 @@
      y="452.59256"
      id="tspan25580-4">Grace</tspan></text>
 
+
 <text
    sodipodi:linespacing="89.999998%"
    id="text25582-5"
@@ -15877,6 +16051,7 @@
      x="1095.3037"
      sodipodi:role="line"
      id="tspan25590-7">Paradise</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15895,6 +16070,7 @@
      y="467.39227"
      id="tspan22963-4-4">神風</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-3-9"
@@ -15906,6 +16082,7 @@
      y="606.91815"
      sodipodi:role="line"
      id="tspan25415-3-2-7">Salvation</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15919,6 +16096,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-6-3">Penitence</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-7-1"
@@ -15930,6 +16108,7 @@
      y="628.52216"
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-6">Lost Miles</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15951,6 +16130,7 @@
      y="408.90723"
      id="tspan23011-2-4-0">Esoterica</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text97-0-6-2"
@@ -15962,6 +16142,7 @@
      y="568.64038"
      sodipodi:role="line"
      id="tspan26260-9-4">Yorkshire</tspan></text>
+
 
 <g
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -15977,6 +16158,7 @@
      x="171.14865"
      id="tspan11607-0-5"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -16001,6 +16183,7 @@
      x="171.14865"
      id="tspan11607-8-3"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -16028,6 +16211,7 @@
      sodipodi:role="line"
      id="tspan8387-6" /></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-7-7-66"
@@ -16039,6 +16223,7 @@
      y="703.68793"
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-9-3">Minestrone</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16052,6 +16237,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-1-31">Atlantis</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-7-71-4-3"
@@ -16064,6 +16250,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-1-3-9">Brezno Slapov</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-7-5-0"
@@ -16075,6 +16262,7 @@
      y="595.53125"
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-15-2">Galactica</tspan></text>
+
 
 <g
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16090,6 +16278,7 @@
      x="171.14865"
      id="tspan11607-0-7-5"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -16114,6 +16303,7 @@
      x="171.14865"
      id="tspan11607-0-9-1"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -16140,6 +16330,7 @@
      y="610.9093"
      id="tspan21824-1-9">Inlet</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16159,6 +16350,7 @@
      x="732.60657"
      y="635.11053"
      id="tspan21837-1-2" /></text>
+
 
 <text
    xml:space="preserve"
@@ -16180,6 +16372,7 @@
      y="637.15082"
      id="tspan21837-3-9-2-4" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16196,6 +16389,7 @@
      y="585.81927"
      id="tspan21837-3-5-5-1">Way </tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16207,6 +16401,7 @@
      x="754.16766"
      y="524.00952"
      id="tspan21951-5-0">Wonderstuff</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16220,6 +16415,7 @@
      y="493.89685"
      id="tspan21837-3-50-2-9">Elephant</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16231,6 +16427,7 @@
      x="794.56201"
      y="500.707"
      id="tspan21951-3-4-5">Waterloo</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16244,6 +16441,7 @@
      y="587.96497"
      id="tspan21837-3-50-0-8-3">Paradox</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16255,6 +16453,7 @@
      x="730.7771"
      y="541.2381"
      id="tspan21837-3-50-0-0-8-9">Teotihuacan</tspan></text>
+
 
 <path
    sodipodi:type="arc"
@@ -16279,6 +16478,7 @@
      x="171.14865"
      id="tspan11607-0-7-0-9"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -16305,6 +16505,7 @@
      y="618.78247"
      id="tspan8414-0">Rock</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text97-0-6-8-7"
@@ -16322,6 +16523,7 @@
      sodipodi:role="line"
      id="tspan8439-1">the Rain</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text97-0-6-7-0"
@@ -16333,6 +16535,7 @@
      y="624.5401"
      sodipodi:role="line"
      id="tspan26260-9-6-1">Straightjacket</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16351,6 +16554,7 @@
      sodipodi:role="line"
      id="tspan8483-8" /></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;text-anchor:start;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text97-0-6-7-9-2"
@@ -16368,6 +16572,7 @@
      sodipodi:role="line"
      id="tspan8494-6">Nest</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text97-0-6-7-7-7"
@@ -16380,6 +16585,7 @@
      sodipodi:role="line"
      id="tspan26260-9-6-9-4">Rural Underground</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-7-71-4-5-2"
@@ -16391,6 +16597,7 @@
      y="897.45221"
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-1-3-4-7">Lethe</tspan></text>
+
 
 <path
    id="path24-3-6"
@@ -16408,6 +16615,7 @@
      sodipodi:role="line"
      id="tspan26260-9-6-9-1-0">Hot Pants</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -16424,6 +16632,7 @@
      y="366.01596"
      id="tspan8367-3" /></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="text117-6-1-2-7-7-71-5-8"
@@ -16435,6 +16644,7 @@
      y="671.95941"
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-1-9-2" /></text>
+
 
 </g><g
        inkscape:groupmode="layer"
@@ -16459,6 +16669,7 @@
      y="527.96765"
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#d40000;font-family:Futura Md;-inkscape-font-specification:Futura Md">¶</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16470,6 +16681,7 @@
      x="506.81644"
      y="529.80359"
      id="tspan21742-4-8-7">Happy Monday</tspan></text>
+
 
 </g><g
            id="g68135-0"><text
@@ -16488,6 +16700,7 @@
      y="548.3158"
      id="tspan24552-1-0">§</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16499,6 +16712,7 @@
      x="506.81644"
      y="550.63165"
      id="tspan21666-1-8-7">Northern Line</tspan></text>
+
 
 </g><g
            transform="translate(0,2.3530902)"
@@ -16514,6 +16728,7 @@
      x="492.01825"
      y="509.01843">†</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16526,6 +16741,7 @@
      x="507.56155"
      y="510.92859"
      id="tspan21666-1-6-8-4">Zimmer</tspan></text>
+
 
 </g><rect
            y="494.90186"
@@ -16564,6 +16780,7 @@
      id="tspan9448-3-9-0-2-6-6-1-54-4-7-2-3"
      sodipodi:role="line" /></text>
 
+
 </g><text
    xml:space="preserve"
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16580,6 +16797,7 @@
      x="507.40433"
      y="596.11841"
      id="tspan9570-4-8" /></text>
+
 
 </g><rect
            y="568.88727"
@@ -16600,6 +16818,7 @@
      x="506.81644"
      y="604.31781"
      id="tspan21742-4-2-1-8">Hotel Tolminka</tspan></text>
+
 
 <g
    style="font-size:20.08332443px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#008000;display:inline;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16630,6 +16849,7 @@
      id="tspan9448-3-9-0-2-6-6-1-8-5-9"
      sodipodi:role="line" /></text>
 
+
 </g></g><g
            transform="translate(0,-2)"
            id="g68113-1"><text
@@ -16643,6 +16863,7 @@
      x="508.23148"
      y="625.33405"
      id="tspan9638-5-1">The Fridge</tspan></text>
+
 
 <g
    style="font-size:19.2898922px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;display:inline;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16672,6 +16893,7 @@
      x="-313.28476"
      id="tspan9448-3-9-0-2-6-6-1-5-6-3-9"
      sodipodi:role="line" /></text>
+
 
 </g></g></g><use
          style="display:inline;enable-background:new"
@@ -16738,6 +16960,7 @@
      y="773.13391"
      id="tspan21824-5">Inlet</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16749,6 +16972,7 @@
      x="97.712952"
      y="762.93201"
      id="tspan8350-6">FA999</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16770,6 +16994,7 @@
      y="802.46942"
      id="tspan21837-3-4" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16781,6 +17006,7 @@
      x="119.74944"
      y="678.96112"
      id="tspan21951-0">Hotel Tolminka</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16798,6 +17024,7 @@
      y="640.86938"
      id="tspan21837-3-2-5">Down</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16809,6 +17036,7 @@
      x="153.24471"
      y="663.26367"
      id="tspan21951-3-8">Waterloo</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16822,6 +17050,7 @@
      y="548.26367"
      id="tspan21951-3-5-2">Milky Way</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16834,6 +17063,7 @@
      y="738.26367"
      id="tspan21837-3-50-0-02">Rameses</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16845,6 +17075,7 @@
      x="84.731522"
      y="707.76367"
      id="tspan21837-3-50-0-0-4">Teotihuacan</tspan></text>
+
 
 <g
    style="font-size:13.65146923px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16885,6 +17116,7 @@
      y="613.75452"
      id="tspan11401-2-0-6-5" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16909,6 +17141,7 @@
      y="647.99786"
      id="tspan11401-2-00-6" /></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text97-0-6-8-5-69"
@@ -16920,6 +17153,7 @@
      y="731.95227"
      sodipodi:role="line"
      id="tspan26260-9-9-8-0">Yorkshire</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16937,6 +17171,7 @@
      y="781.9411"
      id="tspan8318-4">Rock</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16949,6 +17184,7 @@
      x="318.04623"
      y="719.92346">Blind Spot</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -16960,6 +17196,7 @@
      id="tspan11433-3-0-3-5"
      x="311.64676"
      y="675.70422">X-Ray</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -16976,6 +17213,7 @@
      x="195.30679"
      y="564.13373"
      id="tspan11401-2-4-4-6" /></text>
+
 
 <text
    xml:space="preserve"
@@ -17000,6 +17238,7 @@
      id="tspan11621-9-7"
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:89.99999762%;text-anchor:end;font-family:Futura Md;-inkscape-font-specification:Futura Md"> Road</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17012,6 +17251,7 @@
      y="571.75995"
      id="tspan11621-9-5-5"
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:89.99999762%;text-anchor:end;font-family:Futura Md;-inkscape-font-specification:Futura Md">Eso.</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17033,6 +17273,7 @@
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;font-family:Futura Md;-inkscape-font-specification:Futura Md"
      id="tspan22580-49">Drugi Svet</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17053,6 +17294,7 @@
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;font-family:Futura Md;-inkscape-font-specification:Futura Md"
      id="tspan22608-2">of King Minos</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17068,6 +17310,7 @@
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;font-family:Futura Md;-inkscape-font-specification:Futura Md"
      id="tspan22608-5-5">No More Potatoes</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text117-6-1-2-7-7-0-3"
@@ -17079,6 +17322,7 @@
      y="788.98993"
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-4-4">Lost Miles</tspan></text>
+
 
 <text
    sodipodi:linespacing="89.999998%"
@@ -17096,6 +17340,7 @@
      sodipodi:role="line"
      id="tspan25590-2-4">Paradise</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text117-6-1-3-8-5"
@@ -17107,6 +17352,7 @@
      y="770.52783"
      sodipodi:role="line"
      id="tspan25415-3-2-0-4">Salvation</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17120,6 +17366,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-6-4-3">Penitence</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text117-6-1-3-3-9-4"
@@ -17131,6 +17378,7 @@
      y="798.68256"
      sodipodi:role="line"
      id="tspan25415-3-2-8-3-6">Invictus</tspan></text>
+
 
 <text
    sodipodi:linespacing="89.999998%"
@@ -17144,6 +17392,7 @@
      sodipodi:role="line"
      id="tspan25590-2-1-9">Magic Dragon</tspan></text>
 
+
 <text
    sodipodi:linespacing="89.999998%"
    id="text25582-1-1-4-2"
@@ -17155,6 +17404,7 @@
      x="420.86948"
      sodipodi:role="line"
      id="tspan25590-2-1-3-9">Amazing Grace</tspan></text>
+
 
 <text
    sodipodi:linespacing="89.999998%"
@@ -17172,6 +17422,7 @@
      sodipodi:role="line"
      id="tspan23079-1">Baron</tspan></text>
 
+
 <text
    sodipodi:linespacing="89.999998%"
    id="text25582-1-1-0-3-8"
@@ -17183,6 +17434,7 @@
      x="406.02463"
      sodipodi:role="line"
      id="tspan23079-8-3">Peep Show</tspan></text>
+
 
 <text
    sodipodi:linespacing="89.999998%"
@@ -17199,6 +17451,7 @@
      x="386.64053"
      sodipodi:role="line"
      id="tspan23154-3">Squirrel</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17217,6 +17470,7 @@
      y="658.35419"
      id="tspan22963-4-3-6">神風</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17228,6 +17482,7 @@
      id="tspan11433-3-6-9-4"
      x="342.5549"
      y="707.15302">Roaring</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17242,6 +17497,7 @@
      y="692.29279"
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#d40000;font-family:Futura Md;-inkscape-font-specification:Futura Md">¶</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17253,6 +17509,7 @@
      id="tspan24546-2-8"
      x="299.26328"
      y="635.26202">†</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17266,6 +17523,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-9-0-3">Minestrone</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text97-0-6-8-5-1-5"
@@ -17277,6 +17535,7 @@
      y="775.91077"
      sodipodi:role="line"
      id="tspan8218-6">Straightjacket</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17290,6 +17549,7 @@
      sodipodi:role="line"
      id="tspan8314-1">Time Bandits</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text97-0-6-8-5-8-7"
@@ -17301,6 +17561,7 @@
      y="888.44196"
      sodipodi:role="line"
      id="tspan26260-9-9-8-45-5">We're Not Alone</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17319,6 +17580,7 @@
      sodipodi:role="line"
      id="tspan8254-6">of the Year</tspan></text>
 
+
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text97-0-6-8-5-11-7"
@@ -17330,6 +17592,7 @@
      y="464.86063"
      sodipodi:role="line"
      id="tspan8271-9">Rural Underground</tspan></text>
+
 
 <path
    id="path24-5"
@@ -17347,6 +17610,7 @@
      sodipodi:role="line"
      id="tspan25415-3-1-0-8-4-6-5">#</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17358,6 +17622,7 @@
      x="337.16214"
      y="781.26385"
      id="tspan8346-8">Kokain</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17375,6 +17640,7 @@
      y="669.3761"
      id="tspan24552-9-6-9">§</tspan></text>
 
+
 <text
    sodipodi:linespacing="89.999998%"
    id="text25582-1-1-0-31-3"
@@ -17390,6 +17656,7 @@
      x="332.31186"
      sodipodi:role="line"
      id="tspan8619-1">Room</tspan></text>
+
 
 <g
    style="font-size:34.24367523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#0000ff;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17420,6 +17687,7 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-09"
      sodipodi:role="line" /></text>
 
+
 </g><g
    style="font-size:34.24367523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#008000;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="g9450-1-0-5-8-8-1-3-2-1-7-3"
@@ -17448,6 +17716,7 @@
      x="-313.28476"
      id="tspan9448-3-9-0-2-6-6-1-7-2-6-4"
      sodipodi:role="line" /></text>
+
 
 </g><g
    style="font-size:34.24367523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
@@ -17478,6 +17747,7 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-0-1"
      sodipodi:role="line" /></text>
 
+
 </g><text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;display:inline;enable-background:new;font-family:Futura Md;-inkscape-font-specification:Futura Md"
    id="text97-0-6-8-5-6-3"
@@ -17489,6 +17759,7 @@
      y="708.14563"
      sodipodi:role="line"
      id="tspan10078-6">Labyrinth</tspan></text>
+
 
 <text
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;text-anchor:middle;opacity:0.98999999;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17506,6 +17777,7 @@
      y="698.45612"
      sodipodi:role="line"
      id="tspan8241-4-7">Junc.</tspan></text>
+
 
 <text
    sodipodi:linespacing="89.999998%"
@@ -17526,6 +17798,7 @@
      x="362.94507"
      sodipodi:role="line"
      id="tspan13028">Far</tspan></text>
+
 </g><g
        inkscape:groupmode="layer"
        id="layer18"
@@ -17547,6 +17820,7 @@
      y="139.66292"
      id="tspan9489-3-2">Jama</tspan></text>
 
+
 <g
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
    id="g11611-9-8-0"
@@ -17561,6 +17835,7 @@
      x="171.14865"
      id="tspan11607-8-5-6"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -17586,6 +17861,7 @@
      id="tspan11607-8-5-1-5"
      sodipodi:role="line">e</tspan></text>
 
+
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
    d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
@@ -17610,6 +17886,7 @@
      id="tspan11607-8-5-9-5"
      sodipodi:role="line">e</tspan></text>
 
+
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
    d="m 178.84897,307.46896 a 4.9521546,4.9521546 0 1 1 -9.9043,0 4.9521546,4.9521546 0 1 1 9.9043,0 z"
@@ -17633,6 +17910,7 @@
      x="171.14865"
      id="tspan11607-8-5-93-2"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -17659,6 +17937,7 @@
      y="177.51041"
      id="tspan21462-7">Jama</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17670,6 +17949,7 @@
      x="315.67358"
      y="156.6886"
      id="tspan9489-3-8-8">M18 Torn T-shirt</tspan></text>
+
 
 <g
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17685,6 +17965,7 @@
      x="171.14865"
      id="tspan11607-8-5-6-6-5"
      sodipodi:role="line">e</tspan></text>
+
 
 <path
    transform="matrix(0.78032084,0,0,0.78032084,38.209686,67.441405)"
@@ -17707,6 +17988,7 @@
      y="256.90891"
      id="tspan21462-9-6">M16</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17722,6 +18004,7 @@
      x="313.25937"
      y="120.08146"
      id="tspan9489-3-5-5">World</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17739,6 +18022,7 @@
      y="317.08151"
      id="tspan9489-3-89-08">Galactica</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17750,6 +18034,7 @@
      x="365.75937"
      y="266.48151"
      id="tspan9489-3-9-8">Goody Bag</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17763,6 +18048,7 @@
      y="235.98151"
      id="tspan9489-3-7-5">Bats-hit Passage</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17774,6 +18060,7 @@
      x="327.75937"
      y="204.98151"
      id="tspan9489-3-88-3">Lost City</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17787,6 +18074,7 @@
      y="232.69434"
      id="tspan9489-3-88-1-2">Hotline</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17798,6 +18086,7 @@
      x="186.29575"
      y="275.69434"
      id="tspan9489-3-88-7-3">Canberra</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17817,6 +18106,7 @@
      y="227.29434"
      id="tspan21643-6">Necessities</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17832,6 +18122,7 @@
      x="95.220024"
      y="267.02435"
      id="tspan21666-5">Line</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17849,6 +18140,7 @@
      y="172.19872"
      id="tspan21677-5">Carwash</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17860,6 +18152,7 @@
      x="98.696007"
      y="207.12447"
      id="tspan9489-3-88-7-5-9">Sajeta</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17873,6 +18166,7 @@
      y="116.79585"
      id="tspan9489-3-88-7-4-4">Dodge City</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17884,6 +18178,7 @@
      x="211.69092"
      y="153.78539"
      id="tspan9489-3-88-7-56-0">Club Mig</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17897,6 +18192,7 @@
      y="199.85706"
      id="tspan9489-3-88-7-1-3">Challenger</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17909,6 +18205,7 @@
      y="119.87868"
      id="tspan9489-3-88-7-87-4">Leki Pot</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17920,6 +18217,7 @@
      x="268.20645"
      y="202.24956"
      id="tspan9489-3-88-7-53-9">Concorde</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17937,6 +18235,7 @@
      y="295.38702"
      id="tspan21742-2">Monday</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17952,6 +18251,7 @@
      x="258.86429"
      y="114.99635"
      id="tspan21753-5">Kangaroo</tspan></text>
+
 
 <path
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:none;stroke:none;stroke-width:0.44999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17973,6 +18273,7 @@
      y="322.08643"
      id="tspan9489-3-89-0-9">Hidrant</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -17984,6 +18285,7 @@
      id="tspan24546-9"
      x="206.94785"
      y="224.26559">†</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -17997,6 +18299,7 @@
      x="229.79456"
      y="274.50571"
      style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#d40000;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">¶</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -18013,6 +18316,7 @@
      x="83.876984"
      y="246.56314"
      id="tspan24552-9-7">§</tspan></text>
+
 
 <g
    style="font-size:34.24367523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;display:inline;enable-background:new;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT"
@@ -18043,6 +18347,7 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-7-4-4"
      sodipodi:role="line" /></text>
 
+
 </g><g
    style="fill:#ff00ff;display:inline;enable-background:new"
    id="g9450-1-0-5-8-8-1-3-2-1-0"
@@ -18071,6 +18376,7 @@
      x="-313.28476"
      id="tspan9448-3-9-0-2-6-6-1-7-2-7"
      sodipodi:role="line">K</tspan></text>
+
 
 </g><g
    style="fill:#008000;display:inline;enable-background:new"
@@ -18101,6 +18407,7 @@
      id="tspan9448-3-9-0-2-6-6-1-7-2-3"
      sodipodi:role="line">K</tspan></text>
 
+
 </g></g></g><g
      inkscape:groupmode="layer"
      id="layer34"
@@ -18120,6 +18427,7 @@
      id="tspan7629-0"
      sodipodi:role="line"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">SISTEM MIGOVEC</tspan></text>
+
 
 <path
    id="path7639-2"
@@ -18167,6 +18475,7 @@
      sodipodi:role="line"
      id="tspan14423-1" /></text>
 
+
 <text
    y="218.3524"
    x="937.2608"
@@ -18177,6 +18486,7 @@
      y="218.3524"
      x="937.2608"
      style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">TLORIS</tspan></text>
+
 
 <text
    y="139.58115"
@@ -18189,6 +18499,7 @@
      x="521.37213"
      style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">NAD -575M</tspan></text>
 
+
 <text
    y="450.87518"
    x="522.40338"
@@ -18199,6 +18510,7 @@
      y="450.87518"
      x="522.40338"
      style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#1e1917;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Futura Md BT;-inkscape-font-specification:Futura Md BT">POD -575M</tspan></text>
+
 
 </g><g
        inkscape:groupmode="layer"
