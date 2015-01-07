@@ -1,13 +1,24 @@
 By NOAA American Webservice, with Lat + Long on M10/Bivi, calculated for 1st Aug of each year.
 2013: Now at: http://www.ngdc.noaa.gov/geomag-web/#declination
-46.25162 13.76265 M10 alt:0
+N 46.25162 E 013.76265 (M10, next to Bivi)
 
-#Calculated by Jarv 25-7-13, new service
+# Calculated by Jarv 7-1-15 using the above address
+These values are with the new WMM model (2014-2019.)
+2019-07-01	3.69° E  ± 0.34°  changing by  0.11° E per year
+2018-07-01	3.58° E  ± 0.34°  changing by  0.11° E per year
+2017-07-01	3.46° E  ± 0.34°  changing by  0.11° E per year
+2016-07-01	3.35° E  ± 0.34°  changing by  0.12° E per year
+2015-07-01	3.23° E  ± 0.34°  changing by  0.12° E per year
+
+All these values are with the IGRF model (2014 and prev.)
+2014-07-01	3.09° E  changing by  0.12° E per year
+
+#Calculated by Jarv 25-7-13, new service [I assume this was the IGRF model]
 2013    2.98 ° E changing by 0.12 ° E/year
 2012    2.87 E +0.12 E/year
 2011    2.75 E + 0.12 E/year
 2010    2.63 E +0.12 E/year
-2009    2.51 E +0.1 E/year (OK, this is decimalised, so consistent with below).
+2009    2.51 E +0.1 E/year (OK, this is already decimalised, so consistent with value below).
 
 #Calculated by Jarv ~2009
 http://www.ngdc.noaa.gov/geomagmodels/struts/calcDeclination
