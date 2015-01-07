@@ -4,7 +4,7 @@
 ;EXPO 2001:
 *date 2001
 *calibrate compass -1.72
-	*include friend		    ;09.08.2001-Tomaû Tivadar, James Hooper
+	*include friend		    ;09.08.2001-Toma≈æ Tivadar, James Hooper
 	*include fallsrd		;10.08.2001- Martin Mc Gowan, Dave Wilson
 ;2003:
 *date 2003
@@ -176,7 +176,7 @@
     *include apollo/apollo_traverse    ; 25/7/2013  - Gergely + Peter
 ;EXPO 2014
 *date 2014.07
-*calibrate compass -2.99
+*calibrate compass -3.09
         *include 2014/sicsempertyrannis      ; 19.07.2014 - Rhys + Tanguy
         *include 2014/gravity                ; 19.07.2014 - Sam + William
         *include 2014/hanginggardensdeep     ; 21.07.2014 - Clare + Tetley
