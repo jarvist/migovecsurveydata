@@ -15,8 +15,11 @@
 ;Data on 1 pages
 ;Page 1/1
 1	2	15	297	+26 	;	10	2	5	20
+*flags splay 
+; JMF 2015: doubt these measured - just guestimates!
 2	3	20	-	up  	;	10	10	20	20
 2	4	20	-	down
+*flags not splay
 5	1	24.9	285	+47
 
 ; L R U D at station 1 - 
