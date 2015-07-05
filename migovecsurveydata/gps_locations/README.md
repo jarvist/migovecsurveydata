@@ -3,8 +3,8 @@
 Summary of data by GPS. I also added in data from the Slovene Cave database (www.geopedia.si) for 
 Migovec (mainly area K).
 
-|                    file_name                    | waypoints | in_slovenia |
-|-------------------------------------------------+----------:+------------:|
+| File name                                       | Waypoints | In Slovenia |
+| ----------------------------------------------- + ---------:+ -----------:|
 | ICCC_2009_post_mig_club_GPS.gpx                 |       138 |         138 |
 | ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx |       156 |         156 |
 | ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx         |       135 |         135 |
