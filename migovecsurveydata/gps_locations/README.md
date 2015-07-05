@@ -36,3 +36,4 @@ I can probably calculate the size of the cocked hats (the area of uncertainty wh
 duplicate of the same point) - also at some later point.
 
 Peter Hambly, 5th July 2015.
+
