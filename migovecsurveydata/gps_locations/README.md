@@ -3,14 +3,14 @@
 Summary of data by GPS. I also added in data from the Slovene Cave database (www.geopedia.si) for 
 Migovec (mainly area K).
 
-                    file_name                    | waypoints | in_slovenia
--------------------------------------------------+-----------+-------------
- ICCC_2009_post_mig_club_GPS.gpx                 |       138 |         138
- ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx |       156 |         156
- ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx         |       135 |         135
- old ICCC gps.gpx                                |        79 |          37
- Peter H old gps.gpx                             |        54 |           9
- www.geopedia.si                                 |        11 |          11
+|                    file_name                    | waypoints | in_slovenia |
+|-------------------------------------------------+----------:+------------:|
+| ICCC_2009_post_mig_club_GPS.gpx                 |       138 |         138 |
+| ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx |       156 |         156 |
+| ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx         |       135 |         135 |
+| old ICCC gps.gpx                                |        79 |          37 |
+| Peter H old gps.gpx                             |        54 |           9 |
+| www.geopedia.si                                 |        11 |          11 |
 
 Total cleaned waypoints: 222. Some of these are not caves (e.g. Tetley's tent, various bivvies 
 etc).
