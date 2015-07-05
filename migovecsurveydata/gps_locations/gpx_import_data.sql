@@ -4,14 +4,1642 @@
 
 /*
 
-INSERT INTO gpx_import_data (file_name, xml_data)
-VALUES ('?.gpx', 
-	REPLACE('
-'::Text, E'\r', '')::XML);
- */
 
-INSERT INTO gpx_import_data (file_name, xml_data)
-VALUES ('ICCC_2009_post_mig_club_GPS.gpx', 
+INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+VALUES ('.gpx', 1 /- GPS only  or 2 - + GLONASS -/, 
+	REPLACE('
+'::Text, E'\r', '' -* Remove CR *-)::XML);
+
+ */
+ 
+--INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+--VALUES ('.gpx', 1 /* GPS only  or 2 - + GLONASS */, 
+--	REPLACE('
+--'::Text, E'\r', '' /* Remove CR */)::XML);
+
+INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+VALUES ('old ICCC gps.gpx', 1 /* GPS only */,
+	REPLACE('<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2004-06-24T16:19:00.887Z</time>
+<wpt lat="46.25152049" lon="13.76235277">
+<ele>1874.202</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>002</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>002</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25164605" lon="13.76222863">
+<ele>1823.012</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>003</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>003</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25172375" lon="13.76467598">
+<ele>1832.865</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>004</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>004</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25151705" lon="13.76235830">
+<ele>1866.992</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>005</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>005</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25151538" lon="13.76235821">
+<ele>1866.511</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>006</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>006</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03307406" lon="172.87686240">
+<ele>773.741</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>007</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>007</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03307280" lon="172.87685242">
+<ele>774.462</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>008</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>008</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03307456" lon="172.87684982">
+<ele>774.702</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>009</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>009</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03280869" lon="172.87835857">
+<ele>767.973</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>010</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>010</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94280121" lon="172.89165428">
+<ele>736.010</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>011</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>011</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.93858025" lon="172.90871246">
+<ele>758.600</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>012</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>012</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95613297" lon="172.88171787">
+<ele>757.879</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>013</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>013</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95803658" lon="172.88126759">
+<ele>764.128</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>014</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>014</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25061147" lon="13.76560159">
+<ele>1803.545</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>A1M</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>A1M</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25320274" lon="13.75932103">
+<ele>1851.130</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B10</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B10</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25459816" lon="13.75849215">
+<ele>1864.829</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B11</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B11</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25535588" lon="13.75944944">
+<ele>1873.961</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B12</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B12</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25464803" lon="13.75904049">
+<ele>1864.108</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B18</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B18</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25468709" lon="13.75844554">
+<ele>1863.387</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B19</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B19</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25254367" lon="13.76421279">
+<ele>1865.069</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B20</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B20</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25242783" lon="13.76465846">
+<ele>1841.998</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B88</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B88</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25172149" lon="13.76468671">
+<ele>1833.106</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B89</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B89</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25362368" lon="13.75967550">
+<ele>1863.387</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B91</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B91</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25055104" lon="13.76067471">
+<ele>1842.719</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B92</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B92</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25359409" lon="13.75939831">
+<ele>1859.782</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B93</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B93</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25453957" lon="13.75835267">
+<ele>1860.503</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B94</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B94</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25441116" lon="13.75923679">
+<ele>1877.086</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B95</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B95</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25454971" lon="13.75795998">
+<ele>1856.658</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B96</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B96</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25448173" lon="13.75817824">
+<ele>1860.503</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B97</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B97</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25373817" lon="13.75863489">
+<ele>1853.534</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B98</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B98</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25361504" lon="13.75794657">
+<ele>1848.727</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>B99</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B99</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25153323" lon="13.76260582">
+<ele>1869.395</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>BIVVY</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BIVVY</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94723767" lon="172.89914191">
+<ele>771.097</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>BL-HEL</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BL-HEL</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96659358" lon="172.89128623">
+<ele>760.042</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>BOLDER</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BOLDER</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94782650" lon="172.89951583">
+<ele>775.664</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>BT</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BT</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94290473" lon="172.89178269">
+<ele>738.413</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>CPHH</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CPHH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96574081" lon="172.89218871">
+<ele>740.335</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>DAMP</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DAMP</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96498484" lon="172.89233774">
+<ele>742.258</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>DEAD</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DEAD</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96144324" lon="172.89371086">
+<ele>817.000</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>DRAUGH</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DRAUGH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96110570" lon="172.89143786">
+<ele>736.971</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>DRIP</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>DRIP</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96277353" lon="172.89286244">
+<ele>756.678</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>FENCE</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>FENCE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25359937" lon="13.76479148">
+<ele>1798.979</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>GW</name>
+<sym>Danger Area</sym>
+<type>Cemetary</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GW</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96513144" lon="172.89578345">
+<ele>780.951</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>HD</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HD</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96475870" lon="172.89506588">
+<ele>773.981</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>HD2</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HD2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03291606" lon="172.87767594">
+<ele>773.020</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>HOLE1</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HOLE1</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03307976" lon="172.87687623">
+<ele>773.020</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>HUT</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>HUT</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25445516" lon="13.75816332">
+<ele>1860.022</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>JB</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JB</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25514457" lon="13.76090161">
+<ele>1885.978</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>JLH</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>JLH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95270368" lon="172.87927597">
+<ele>835.025</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>KHP</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>KHP</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25063000" lon="13.76565792">
+<ele>1804.507</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>KLF</name>
+<sym>Bank</sym>
+<type>Bank</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>KLF</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03307465" lon="172.87685075">
+<ele>774.462</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>L09</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>L09</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.24952350" lon="13.76644976">
+<ele>1780.474</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>L1JURD</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>L1JURD</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03280869" lon="172.87835857">
+<ele>767.973</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>LAIR</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LAIR</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-41.03282713" lon="172.87855311">
+<ele>761.725</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>LAIRY</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LAIRY</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94585197" lon="172.90123404">
+<ele>806.906</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>LOG</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LOG</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96529028" lon="172.88992719">
+<ele>758.120</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>LOOK</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LOOK</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94781602" lon="172.88874944">
+<ele>777.346</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>LR</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>LR</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25320450" lon="13.76370016">
+<ele>1845.843</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>M18</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>M18</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94654323" lon="172.90029317">
+<ele>750.189</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>MARBLE</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MARBLE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94859654" lon="172.89831160">
+<ele>772.059</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>MHBFB</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MHBFB</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96524460" lon="172.89517367">
+<ele>769.415</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>MUDBAG</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MUDBAG</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95525764" lon="172.87896005">
+<ele>778.547</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>N0GO</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>N0GO</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25326099" lon="13.75856331">
+<ele>1841.517</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>N1</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>N1</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95809584" lon="172.94070450">
+<ele>760.763</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>OJ</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>OJ</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25253537" lon="13.77087490">
+<ele>1627.385</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>P01</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P01</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25053067" lon="13.77094120">
+<ele>1569.707</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>P02</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P02</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25036588" lon="13.77139500">
+<ele>1568.986</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>P03</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P03</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94551226" lon="172.89677093">
+<ele>771.818</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>PISS</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PISS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94595189" lon="172.89753536">
+<ele>790.324</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>PIT</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PIT</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95560197" lon="172.87940035">
+<ele>791.766</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>PROTO</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>PROTO</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96440113" lon="172.89116662">
+<ele>755.957</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>RUST</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>RUST</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96022878" lon="172.89249993">
+<ele>773.501</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>SHEEP</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SHEEP</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.95801261" lon="172.88118067">
+<ele>765.810</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>STAGE</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>STAGE</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94507782" lon="172.89726085">
+<ele>768.454</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>STRAWS</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>STRAWS</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25120307" lon="13.76097780">
+<ele>1850.650</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>SUN</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SUN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.96611355" lon="172.89124809">
+<ele>758.841</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>THORN</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>THORN</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="-40.94729400" lon="172.89741021">
+<ele>785.036</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>TWIG</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TWIG</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25379333" lon="13.76521560">
+<ele>1771.582</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>VIL</name>
+<sym>Danger Area</sym>
+<type>Cemetary</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>VIL</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25419532" lon="13.76680775">
+<ele>1815.322</ele>
+<time>2015-06-24T16:19:01.147Z</time>
+<name>WHALE</name>
+<sym>Waypoint</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>WHALE</label_text>
+</label>
+</extensions>
+</wpt>
+</gpx>
+'::Text, E'\r', '')::XML);
+ 
+INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+VALUES ('Peter H old gps.gpx', 1 /* GPS only */,
+	REPLACE('<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2004-06-20T10:24:30.526Z</time>
+<wpt lat="50.90463354" lon="-0.40527164">
+<ele>56.363</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name> WASH</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text> WASH</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.07682275" lon="5.55906736">
+<ele>993.641</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>001</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>001</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.07681948" lon="5.55907407">
+<ele>997.967</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>002</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>002</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02983782" lon="5.57016182">
+<ele>1726.641</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>003</name>
+<sym>Residence</sym>
+<type>Residence</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>003</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02744495" lon="5.57257413">
+<ele>1754.278</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>004</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>004</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02663426" lon="5.57374793">
+<ele>1733.129</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>005</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>005</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02367502" lon="5.57473289">
+<ele>1738.417</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>006</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>006</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02292837" lon="5.57566445">
+<ele>1762.449</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>007</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>007</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02209445" lon="5.57643944">
+<ele>1776.869</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>008</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>008</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01955440" lon="5.57630693">
+<ele>1810.755</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>009</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>009</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01967686" lon="5.57637650">
+<ele>1859.302</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>010</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>010</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01812922" lon="5.57655905">
+<ele>1842.479</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>011</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>011</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01857221" lon="5.57644741">
+<ele>1848.487</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>012</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>012</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01841655" lon="5.57713791">
+<ele>1842.959</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>013</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>013</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01827213" lon="5.57736330">
+<ele>1846.083</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>014</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>014</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.02195967" lon="5.57677321">
+<ele>1813.159</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>015</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>015</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="50.93247780" lon="-0.28533147">
+<ele>17.910</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>016</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>016</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="51.05017674" lon="-0.13577024">
+<ele>71.984</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>017</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>017</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="50.97304194" lon="0.73061421">
+<ele>32.089</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>018</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>018</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="54.11948207" lon="-2.42901041">
+<ele>207.529</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>019</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>019</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="54.15695513" lon="-2.34141483">
+<ele>375.758</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>020</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>020</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="54.27039589" lon="-2.43458957">
+<ele>160.425</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>021</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>021</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="54.27039589" lon="-2.43458957">
+<ele>160.425</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>022</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>022</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.38965901" lon="5.81720098">
+<ele>1564.660</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>023</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>023</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="50.16617362" lon="-5.47742277">
+<ele>94.334</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>024</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>024</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25976015" lon="13.76620978">
+<ele>1921.306</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>025</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>025</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="51.23219043" lon="-0.39516357">
+<ele>175.085</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>999999</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>999999</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.20508581" lon="5.59282271">
+<ele>1621.137</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B01</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B01</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.20725706" lon="5.59584581">
+<ele>1588.693</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B02</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B02</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.20928045" lon="5.59792453">
+<ele>1567.063</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B03</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B03</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.21027756" lon="5.60148734">
+<ele>1552.162</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B04</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B04</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.21416660" lon="5.60448722">
+<ele>1526.928</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B05</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B05</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.21560912" lon="5.60437918">
+<ele>1503.376</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B06</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B06</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.21720353" lon="5.60509767">
+<ele>1494.724</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B07</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B07</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.21740570" lon="5.60418421">
+<ele>1455.551</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B08</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B08</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25171923" lon="13.76470221">
+<ele>1838.153</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B89</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B89</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25169567" lon="13.76458520">
+<ele>1838.874</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>B90</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>B90</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.21930085" lon="5.60467145">
+<ele>1465.645</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>BERGER</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>BERGER</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.32495290" lon="5.79690093">
+<ele>892.703</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>CAMPSI</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>CAMPSI</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25386985" lon="13.76429653">
+<ele>1811.717</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>GW2</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GW2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25407278" lon="13.76340327">
+<ele>1824.454</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>GW3</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>GW3</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25980198" lon="13.76624272">
+<ele>1920.345</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>K2</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>K2</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25880395" lon="13.76843291">
+<ele>1907.607</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>K22</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>K22</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25756778" lon="13.76327964">
+<ele>1866.992</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>K6</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>K6</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="46.25152309" lon="13.76260221">
+<ele>1868.434</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>MIGBIV</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MIGBIV</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.19814224" lon="5.59117030">
+<ele>1632.913</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>MOLIER</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>MOLIER</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="54.11961912" lon="-2.42913270">
+<ele>144.323</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>NPC</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>NPC</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.31243410" lon="5.85354315">
+<ele>1947.021</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>P40</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>P40</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="54.18317180" lon="-2.47810707">
+<ele>386.092</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>ROBCRU</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>ROBCRU</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.38965901" lon="5.81720098">
+<ele>1564.660</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>SCV35</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SCV35</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.01749329" lon="5.57641874">
+<ele>1852.092</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>SILENC</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>SILENC</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="45.31701926" lon="5.85166292">
+<ele>1687.708</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>TDEGLA</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TDEGLA</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="50.16625325" lon="-5.47746384">
+<ele>97.218</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>TREG</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>TREG</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="50.99239139" lon="-4.48354488">
+<ele>125.096</ele>
+<time>2015-06-20T10:24:30.804Z</time>
+<name>VALE</name>
+<sym>Flag</sym>
+<type>Waypoint</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>VALE</label_text>
+</label>
+</extensions>
+</wpt>
+</gpx>'::Text, E'\r', '')::XML);
+
+INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+VALUES ('ICCC_2009_post_mig_club_GPS.gpx', 1 /* GPS only */, 
 	REPLACE('<?xml version="1.0" encoding="UTF-8"?>
 <gpx
   version="1.0"
@@ -989,8 +2617,8 @@ VALUES ('ICCC_2009_post_mig_club_GPS.gpx',
 </wpt>
 </gpx>'::Text, E'\r', '' /* Remove CR */)::XML);
 
-INSERT INTO gpx_import_data (file_name, xml_data)
-VALUES ('ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx',
+INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+VALUES ('ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx', 2 /* GPS + GLONASS */,
 	REPLACE('<?xml version="1.0" encoding="UTF-8"?>
 <gpx
   version="1.0"
@@ -2094,13 +3722,8 @@ VALUES ('ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx',
 </wpt>
 </gpx>'::Text, E'\r', '' /* Remove CR */)::XML);
 
---INSERT INTO gpx_import_data (file_name, xml_data)
---VALUES ('.gpx', 
---	REPLACE('
---'::Text, E'\r', '' /* Remove CR */)::XML);
-
-INSERT INTO gpx_import_data (file_name, xml_data)
-VALUES ('ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx', 
+INSERT INTO gpx_import_data (file_name, gps_quality, xml_data)
+VALUES ('ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx', 1 /* GPS only */,
 	REPLACE('<?xml version="1.0" encoding="UTF-8"?>
 <gpx
   version="1.0"
