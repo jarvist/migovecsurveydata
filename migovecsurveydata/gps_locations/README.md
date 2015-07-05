@@ -5,24 +5,12 @@ Migovec (mainly area K).
 
 |  File name  | Waypoints | In Slovenia |
 | ------------- | ------------- | ------------- |
-| ICCC_2009_post_mig_club_GPS.gpxl  | 156  | 156 |
-| - |- | - |
-| - |- | - |
-
-| File name | Waypoints | In Slovenia |
-| ----------------------------------------------- + ---------:+ -----------:|
-
-|                  |       138 |         138 |
-
-| ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx |       156 |         156 |
-
-| ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx         |       135 |         135 |
-
-| old ICCC gps.gpx                                |        79 |          37 |
-
-| Peter H old gps.gpx                             |        54 |           9 |
-
-| www.geopedia.si                                 |        11 |          11 |
+| ICCC_2009_post_mig_club_GPS.gpxl  | 138  | 138 |
+| ICCC_eTrex_H_waypoints_area_n_recee_2009-12.gpx | 156 | 156 |
+| ICCC_JSPDT_Mig_GPS_points_2005-2008.gpx | 135 | 135 |
+| old ICCC gps.gpx | 79 | 37 |
+| Peter H old gps.gpx | 54 | 9 |
+| www.geopedia.si | 11 | 11 |
 
 
 Total cleaned waypoints: 222. Some of these are not caves (e.g. Tetley's tent, various bivvies 
