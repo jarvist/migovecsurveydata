@@ -145,7 +145,7 @@
 ;Lower system to the sumps
 *eswap system.coldfeet.wonder.61
 *eswap system.coldfeet.coldfeet.3
-*eswap system.pdox.marwood.20
+*eswap system.pdox.marwood.23 system.pdox.marwood.24
 
 *eswap system.pdox.pencil.23
 *eswap system.pdox.pencil.25
