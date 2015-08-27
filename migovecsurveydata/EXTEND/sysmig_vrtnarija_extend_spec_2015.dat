@@ -137,15 +137,16 @@
 *eswap garden.garden-low.dreamsforthesoul.2
 *eswap system.hotelt.waterloo.12
 
-*eswap system.hotelt.trunk.9
-
-;Folding back Colarado end of lower passage
-; *eswap garden.garden-low.miles.10
+;(2015 connectfix commented out)
+;*eswap system.hotelt.trunk.9
 
 ;Lower system to the sumps
-*eswap system.coldfeet.wonder.61
-*eswap system.coldfeet.coldfeet.3
-*eswap system.pdox.marwood.23 system.pdox.marwood.24
+;(2015 connectfix commented out)
+;*eswap system.coldfeet.wonder.61
+;(2015 connectfix changed to 9 from 3)
+*eswap system.coldfeet.coldfeet.9
+;(2015 connectfix commented out)
+;*eswap system.pdox.marwood.23 system.pdox.marwood.24
 
 *eswap system.pdox.pencil.23
 *eswap system.pdox.pencil.25
@@ -255,7 +256,8 @@
 *eleft garden.garden-low.eastlinks.23 garden.garden-low.eastlinks.22
 *eright garden.garden-low.stuckinparadise2.1 garden.garden-low.kneekiller.21
 
-;2015
+;#####################2015#######################################
+
 ;Break gravity/highway32 so that it comes off Big Rock and not gravity
 *break garden.garden-low.gravity.1 garden.garden-low.gravity.2
 
@@ -266,6 +268,9 @@
 *eleft system.hotelt.hotel.17
 *eright system.coldfeet.pinkp.18
 *eleft system.coldfeet.wonder.28
+
+;Flip Marwood Inlet so its in some nice empty space
+*eswap system.pdox.marwood.23 system.pdox.marwood.24
 
 ;Ensures that Jericho/JetStream apex nearly connects back with SicSemper
 ;Currently joined via Blast
@@ -281,3 +286,13 @@
 ;Compacting empty quarter
 *eswap garden.garden-low.emptyquarter.16
 
+;These adjustments are to try to stop the system overlapping with waterloo/connection area
+;Some lines adjusted above search for "2015 connectfix" to find them
+*eright system.hotelt.hotel.2
+*eswap system.coldfeet.wonder.66 system.coldfeet.wonder.67
+*eleft system.coldfeet.coldfeet.20
+*eswap system.coldfeet.glory.1
+*eswap system.coldfeet.wonder.66
+*eswap system.coldfeet.wonder.64
+*eswap system.hotelt.waterloo.10
+*eswap system.hotelt.elephant.1 system.hotelt.elephant.2
