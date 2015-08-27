@@ -1,0 +1,1558 @@
+<gpx version="1.0" creator="Peter Hambly - compatible with GPSBabel - http://www.gpsbabel.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+	<time>2015-07-05T12:06:48</time>
+	<bounds minlat="46.2313739127464" minlon="13.7338074253062" maxlat="46.284590615" maxlon="13.796208072534"/>
+	<wpt lat="46.251125867" lon="13.766198969">
+		<ele>1774.5</ele>
+		<name>001</name>
+		<cmt>001</cmt>
+		<desc>001: SLO(404868.8,404868.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251100888" lon="13.766184971">
+		<ele>1775.4</ele>
+		<name>002</name>
+		<cmt>002</cmt>
+		<desc>002: SLO(404867.7,404867.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25164605" lon="13.76222863">
+		<ele>1823.0</ele>
+		<name>003</name>
+		<cmt>003</cmt>
+		<desc>003</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.266457876" lon="13.756312933">
+		<ele>1782.4</ele>
+		<name>004</name>
+		<cmt>004</cmt>
+		<desc>004: SLO(404133.3,404133.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.266450835" lon="13.756316872">
+		<ele>1782.6</ele>
+		<name>005</name>
+		<cmt>005</cmt>
+		<desc>005: SLO(404133.6,404133.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25151538" lon="13.76235821">
+		<ele>1866.5</ele>
+		<name>006</name>
+		<cmt>006</cmt>
+		<desc>006</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25976015" lon="13.76620978">
+		<ele>1921.3</ele>
+		<name>025</name>
+		<cmt>025</cmt>
+		<desc>025</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251508836" lon="13.762387466">
+		<ele>1861.5</ele>
+		<name>608</name>
+		<cmt>608</cmt>
+		<desc>608: SLO(404575.6,404575.6)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.260493398" lon="13.762388891">
+		<ele>1861.5</ele>
+		<name>609</name>
+		<cmt>609</cmt>
+		<desc>609: SLO(404591.3,404591.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251714528" lon="13.764665248">
+		<ele>1834.5</ele>
+		<name>610</name>
+		<cmt>610</cmt>
+		<desc>610: SLO(404751.6,404751.6)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.252490189" lon="13.763151225">
+		<ele>1859.1</ele>
+		<name>A1</name>
+		<cmt>A1</cmt>
+		<desc>A1: SLO(404636.2,404636.2)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25061147" lon="13.76560159">
+		<ele>1803.5</ele>
+		<name>A1M</name>
+		<cmt>A1M</cmt>
+		<desc>A1M</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.252555735" lon="13.763333196">
+		<ele>1854.3</ele>
+		<name>A2</name>
+		<cmt>A2</cmt>
+		<desc>A2: SLO(404650.3,404650.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.252480131" lon="13.762884010">
+		<ele>1858.3</ele>
+		<name>A3</name>
+		<cmt>A3</cmt>
+		<desc>A3: SLO(404615.6,404615.6)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.252836864" lon="13.763162792">
+		<ele>1855.2</ele>
+		<name>A4</name>
+		<cmt>A4</cmt>
+		<desc>A4: SLO(404637.7,404637.7)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251065182" lon="13.766686292">
+		<ele>1725.9</ele>
+		<name>AJ01</name>
+		<cmt>AJ01</cmt>
+		<desc>AJ01: SLO(404906.3,404906.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251370870" lon="13.761730241">
+		<ele>1871.6</ele>
+		<name>ANDY</name>
+		<cmt>ANDY</cmt>
+		<desc>ANDY: SLO(404524.7,404524.7)</desc>
+		<sym>Campground</sym>
+	</wpt>
+	<wpt lat="46.25320274" lon="13.75932103">
+		<ele>1851.1</ele>
+		<name>B10</name>
+		<cmt>B10</cmt>
+		<desc>B10</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25459816" lon="13.75849215">
+		<ele>1864.8</ele>
+		<name>B11</name>
+		<cmt>B11</cmt>
+		<desc>B11</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25535588" lon="13.75944944">
+		<ele>1874.0</ele>
+		<name>B12</name>
+		<cmt>B12</cmt>
+		<desc>B12</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25464803" lon="13.75904049">
+		<ele>1864.1</ele>
+		<name>B18</name>
+		<cmt>B18</cmt>
+		<desc>B18</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25468709" lon="13.75844554">
+		<ele>1863.4</ele>
+		<name>B19</name>
+		<cmt>B19</cmt>
+		<desc>B19</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.252553305" lon="13.764146660">
+		<ele>1856.2</ele>
+		<name>B20</name>
+		<cmt>B20</cmt>
+		<desc>B20: SLO(404713.1,404713.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25242783" lon="13.76465846">
+		<ele>1842.0</ele>
+		<name>B88</name>
+		<cmt>B88</cmt>
+		<desc>B88</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25172149" lon="13.76468671">
+		<ele>1833.1</ele>
+		<name>B89</name>
+		<cmt>B89</cmt>
+		<desc>B89</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.252375944" lon="13.758146893">
+		<ele>0</ele>
+		<name>B9</name>
+		<cmt>B9</cmt>
+		<desc>B9: SLO(404250.2,404250.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252516000" lon="13.758155000">
+		<ele>1841.0</ele>
+		<name>B9 CAIRN</name>
+		<cmt>B9 CAIRN</cmt>
+		<desc>B9 CAIRN: SLO(404251.0,404251.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252515838" lon="13.758154940">
+		<ele>1841.0</ele>
+		<name>B9 CRN</name>
+		<cmt>B9 CRN</cmt>
+		<desc>B9 CRN: SLO(404251.0,404251.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25169567" lon="13.76458520">
+		<ele>1838.9</ele>
+		<name>B90</name>
+		<cmt>B90</cmt>
+		<desc>B90</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25362368" lon="13.75967550">
+		<ele>1863.4</ele>
+		<name>B91</name>
+		<cmt>B91</cmt>
+		<desc>B91</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25055104" lon="13.76067471">
+		<ele>1842.7</ele>
+		<name>B92</name>
+		<cmt>B92</cmt>
+		<desc>B92</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25359409" lon="13.75939831">
+		<ele>1859.8</ele>
+		<name>B93</name>
+		<cmt>B93</cmt>
+		<desc>B93</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25453957" lon="13.75835267">
+		<ele>1860.5</ele>
+		<name>B94</name>
+		<cmt>B94</cmt>
+		<desc>B94</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25441116" lon="13.75923679">
+		<ele>1877.1</ele>
+		<name>B95</name>
+		<cmt>B95</cmt>
+		<desc>B95</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25454971" lon="13.75795998">
+		<ele>1856.7</ele>
+		<name>B96</name>
+		<cmt>B96</cmt>
+		<desc>B96</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25448173" lon="13.75817824">
+		<ele>1860.5</ele>
+		<name>B97</name>
+		<cmt>B97</cmt>
+		<desc>B97</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25373817" lon="13.75863489">
+		<ele>1853.5</ele>
+		<name>B98</name>
+		<cmt>B98</cmt>
+		<desc>B98</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25361504" lon="13.75794657">
+		<ele>1848.7</ele>
+		<name>B99</name>
+		<cmt>B99</cmt>
+		<desc>B99</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251375983" lon="13.759256909">
+		<ele>0</ele>
+		<name>BCAIRN</name>
+		<cmt>BCAIRN</cmt>
+		<desc>BCAIRN: SLO(404334.0,404334.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251508836" lon="13.762387466">
+		<ele>1861.5</ele>
+		<name>BIVVI</name>
+		<cmt>BIVVI</cmt>
+		<desc>BIVVI: SLO(404575.6,404575.6)</desc>
+		<sym>Medical Facility</sym>
+	</wpt>
+	<wpt lat="46.25153323" lon="13.76260582">
+		<ele>1869.4</ele>
+		<name>BIVVY</name>
+		<cmt>BIVVY</cmt>
+		<desc>BIVVY</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.241785996" lon="13.769829841">
+		<ele>1439.9</ele>
+		<name>BLOHOL</name>
+		<cmt>BLOHOL</cmt>
+		<desc>BLOHOL: SLO(405132.7,405132.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251787283" lon="13.761318941">
+		<ele>1867.0</ele>
+		<name>BONE</name>
+		<cmt>BONE</cmt>
+		<desc>BONE: SLO(404493.7,404493.7)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.254224908" lon="13.758766903">
+		<ele>0</ele>
+		<name>BONECA</name>
+		<cmt>BONECA</cmt>
+		<desc>BONECA: SLO(404301.2,404301.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250145854" lon="13.759666868">
+		<ele>0</ele>
+		<name>BWAY</name>
+		<cmt>BWAY</cmt>
+		<desc>BWAY: SLO(404363.5,404363.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247359710" lon="13.767002542">
+		<ele>1746.1</ele>
+		<name>CHRIST</name>
+		<cmt>CHRIST</cmt>
+		<desc>CHRIST: SLO(404924.3,404924.3)</desc>
+		<sym>Park</sym>
+	</wpt>
+	<wpt lat="46.284590615" lon="13.773205150">
+		<ele>1544.0</ele>
+		<name>DKOMNA</name>
+		<cmt>DKOMNA</cmt>
+		<desc>DKOMNA: SLO(405466.6,405466.6)</desc>
+		<sym>Residence</sym>
+	</wpt>
+	<wpt lat="46.252509803" lon="13.770259917">
+		<ele>1857.1</ele>
+		<name>E01</name>
+		<cmt>E01</cmt>
+		<desc>E01: SLO(405184.3,405184.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251164842" lon="13.762261989">
+		<ele>1855.9</ele>
+		<name>E04</name>
+		<cmt>E04</cmt>
+		<desc>E04: SLO(404565.3,404565.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252149884" lon="13.765619947">
+		<ele>1805.2</ele>
+		<name>E1</name>
+		<cmt>E1</cmt>
+		<desc>E1: SLO(404826.0,404826.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252465881" lon="13.765174868">
+		<ele>1818.7</ele>
+		<name>E2</name>
+		<cmt>E2</cmt>
+		<desc>E2: SLO(404792.2,404792.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253128974" lon="13.766282871">
+		<ele>1771.1</ele>
+		<name>E5</name>
+		<cmt>E5</cmt>
+		<desc>E5: SLO(404878.8,404878.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251879903" lon="13.766762987">
+		<ele>1740.8</ele>
+		<name>E6</name>
+		<cmt>E6</cmt>
+		<desc>E6: SLO(404913.6,404913.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250598896" lon="13.767323988">
+		<ele>1731.9</ele>
+		<name>E7</name>
+		<cmt>E7</cmt>
+		<desc>E7: SLO(404954.7,404954.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.274329992" lon="13.755389918">
+		<ele>1570.4</ele>
+		<name>FOOT</name>
+		<cmt>FOOT</cmt>
+		<desc>FOOT: SLO(404075.9,404075.9)</desc>
+		<sym>Trail Head</sym>
+	</wpt>
+	<wpt lat="46.251020674" lon="13.764799694">
+		<ele>1862.9</ele>
+		<name>GDUIEW</name>
+		<cmt>GDUIEW</cmt>
+		<desc>GDUIEW: SLO(404760.8,404760.8)</desc>
+		<sym>Scenic Area</sym>
+	</wpt>
+	<wpt lat="46.276229918" lon="13.763099927">
+		<ele>1570.4</ele>
+		<name>GOVNJA</name>
+		<cmt>GOVNJA</cmt>
+		<desc>GOVNJA: SLO(404673.4,404673.4)</desc>
+		<sym>Residence</sym>
+	</wpt>
+	<wpt lat="46.25359937" lon="13.76479148">
+		<ele>1799.0</ele>
+		<name>GW</name>
+		<cmt>GW</cmt>
+		<desc>GW</desc>
+		<sym>Danger Area</sym>
+	</wpt>
+	<wpt lat="46.253635911" lon="13.764985856">
+		<ele>0</ele>
+		<name>GW1</name>
+		<cmt>GW1</cmt>
+		<desc>GW1: SLO(404779.6,404779.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25386985" lon="13.76429653">
+		<ele>1811.7</ele>
+		<name>GW2</name>
+		<cmt>GW2</cmt>
+		<desc>GW2</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25407278" lon="13.76340327">
+		<ele>1824.5</ele>
+		<name>GW3</name>
+		<cmt>GW3</cmt>
+		<desc>GW3</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251855846" lon="13.759966940">
+		<ele>0</ele>
+		<name>HARE</name>
+		<cmt>HARE</cmt>
+		<desc>HARE: SLO(404389.6,404389.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250795955" lon="13.758151839">
+		<ele>1839.1</ele>
+		<name>HAWK</name>
+		<cmt>HAWK</cmt>
+		<desc>HAWK: SLO(404247.8,404247.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251185127" lon="13.761745915">
+		<ele>1871.8</ele>
+		<name>JANET</name>
+		<cmt>JANET</cmt>
+		<desc>JANET: SLO(404525.6,404525.6)</desc>
+		<sym>Campground</sym>
+	</wpt>
+	<wpt lat="46.25445516" lon="13.75816332">
+		<ele>1860.0</ele>
+		<name>JB</name>
+		<cmt>JB</cmt>
+		<desc>JB</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.253113132" lon="13.761011912">
+		<ele>1850.6</ele>
+		<name>JCC</name>
+		<cmt>JCC</cmt>
+		<desc>JCC: SLO(404472.3,404472.3)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.252955887" lon="13.757686894">
+		<ele>0</ele>
+		<name>JJ1</name>
+		<cmt>JJ1</cmt>
+		<desc>JJ1: SLO(404215.7,404215.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.254394893" lon="13.758346885">
+		<ele>0</ele>
+		<name>JJ2</name>
+		<cmt>JJ2</cmt>
+		<desc>JJ2: SLO(404269.1,404269.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250985973" lon="13.758316878">
+		<ele>0</ele>
+		<name>JJ3BAD</name>
+		<cmt>JJ3BAD</cmt>
+		<desc>JJ3BAD: SLO(404260.8,404260.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251395848" lon="13.758706888">
+		<ele>0</ele>
+		<name>JJ3STA</name>
+		<cmt>JJ3STA</cmt>
+		<desc>JJ3STA: SLO(404291.6,404291.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.259484971" lon="13.756726999">
+		<ele>0</ele>
+		<name>JJ4</name>
+		<cmt>JJ4</cmt>
+		<desc>JJ4: SLO(404153.1,404153.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.259324877" lon="13.755636849">
+		<ele>0</ele>
+		<name>JJ5</name>
+		<cmt>JJ5</cmt>
+		<desc>JJ5: SLO(404068.7,404068.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.260044966" lon="13.755366867">
+		<ele>0</ele>
+		<name>JJ6</name>
+		<cmt>JJ6</cmt>
+		<desc>JJ6: SLO(404049.2,404049.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25514457" lon="13.76090161">
+		<ele>1886.0</ele>
+		<name>JLH</name>
+		<cmt>JLH</cmt>
+		<desc>JLH</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.259044837" lon="13.767684912">
+		<ele>0</ele>
+		<name>K10</name>
+		<cmt>K10</cmt>
+		<desc>K10: SLO(404997.1,404997.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.258364897" lon="13.768744972">
+		<ele>0</ele>
+		<name>K11</name>
+		<cmt>K11</cmt>
+		<desc>K11: SLO(405077.6,405077.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.258084942" lon="13.770544901">
+		<ele>0</ele>
+		<name>K12</name>
+		<cmt>K12</cmt>
+		<desc>K12: SLO(405215.9,405215.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.258084942" lon="13.770814883">
+		<ele>0</ele>
+		<name>K13</name>
+		<cmt>K13</cmt>
+		<desc>K13: SLO(405236.7,405236.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257594936" lon="13.768944964">
+		<ele>0</ele>
+		<name>K14</name>
+		<cmt>K14</cmt>
+		<desc>K14: SLO(405091.7,405091.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.256605955" lon="13.770544901">
+		<ele>0</ele>
+		<name>K15I</name>
+		<cmt>K15I</cmt>
+		<desc>K15I: SLO(405213.4,405213.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257285979" lon="13.774323883">
+		<ele>0</ele>
+		<name>K16</name>
+		<cmt>K16</cmt>
+		<desc>K16: SLO(405505.9,405505.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.261574915" lon="13.767864956">
+		<ele>0</ele>
+		<name>K17</name>
+		<cmt>K17</cmt>
+		<desc>K17: SLO(405015.3,405015.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.261634845" lon="13.767714920">
+		<ele>0</ele>
+		<name>K18</name>
+		<cmt>K18</cmt>
+		<desc>K18: SLO(405003.9,405003.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257595858" lon="13.771314947">
+		<ele>0</ele>
+		<name>K19</name>
+		<cmt>K19</cmt>
+		<desc>K19: SLO(405274.4,405274.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.259894930" lon="13.766124872">
+		<ele>1920.3</ele>
+		<name>K2</name>
+		<cmt>K2</cmt>
+		<desc>K2: SLO(404878.3,404878.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.256855903" lon="13.771424918">
+		<ele>0</ele>
+		<name>K20</name>
+		<cmt>K20</cmt>
+		<desc>K20: SLO(405281.6,405281.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25880395" lon="13.76843291">
+		<ele>1907.6</ele>
+		<name>K22</name>
+		<cmt>K22</cmt>
+		<desc>K22</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.257594936" lon="13.763285922">
+		<ele>1867.0</ele>
+		<name>K6</name>
+		<cmt>K6</cmt>
+		<desc>K6: SLO(404655.4,404655.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.259044837" lon="13.768394860">
+		<ele>0</ele>
+		<name>K7</name>
+		<cmt>K7</cmt>
+		<desc>K7: SLO(405051.8,405051.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.258844929" lon="13.768264856">
+		<ele>0</ele>
+		<name>K8</name>
+		<cmt>K8</cmt>
+		<desc>K8: SLO(405041.4,405041.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257944964" lon="13.768854858">
+		<ele>0</ele>
+		<name>K9</name>
+		<cmt>K9</cmt>
+		<desc>K9: SLO(405085.4,405085.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257923925" lon="13.770480193">
+		<ele>1847.5</ele>
+		<name>K99</name>
+		<cmt>K99</cmt>
+		<desc>K99: SLO(405210.6,405210.6)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.242596945" lon="13.755877996">
+		<ele>0</ele>
+		<name>KAL</name>
+		<cmt>KAL</cmt>
+		<desc>KAL: SLO(404058.2,404058.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25063000" lon="13.76565792">
+		<ele>1804.5</ele>
+		<name>KLF</name>
+		<cmt>KLF</cmt>
+		<desc>KLF</desc>
+		<sym>Bank</sym>
+	</wpt>
+	<wpt lat="46.260714848" lon="13.756955909">
+		<ele>0</ele>
+		<name>KUK</name>
+		<cmt>KUK</cmt>
+		<desc>KUK: SLO(404172.9,404172.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.260667155" lon="13.756897151">
+		<ele>2089.5</ele>
+		<name>KUKTRG</name>
+		<cmt>KUKTRG</cmt>
+		<desc>KUKTRG: SLO(404168.2,404168.2)</desc>
+		<sym>Golf Course</sym>
+	</wpt>
+	<wpt lat="46.24952350" lon="13.76644976">
+		<ele>1780.5</ele>
+		<name>L1JURD</name>
+		<cmt>L1JURD</cmt>
+		<desc>L1JURD</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.276699640" lon="13.759823190">
+		<ele>1447.9</ele>
+		<name>LAKE</name>
+		<cmt>LAKE</cmt>
+		<desc>LAKE: SLO(404421.7,404421.7)</desc>
+		<sym>Golf Course</sym>
+	</wpt>
+	<wpt lat="46.251963219" lon="13.763704766">
+		<ele>1858.6</ele>
+		<name>M1</name>
+		<cmt>M1</cmt>
+		<desc>M1: SLO(404678.0,404678.0)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.251615873" lon="13.762645964">
+		<ele>1862.4</ele>
+		<name>M10</name>
+		<cmt>M10</cmt>
+		<desc>M10: SLO(404595.7,404595.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251528868" lon="13.762658285">
+		<ele>1862.4</ele>
+		<name>M101</name>
+		<cmt>M101</cmt>
+		<desc>M101: SLO(404596.5,404596.5)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.252449956" lon="13.768759975">
+		<ele>1854.5</ele>
+		<name>M11_GK</name>
+		<cmt>M11C</cmt>
+		<desc>M11C - converted from 1994 Gausskruger coordinates: SLO(405068.6,405068.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252449956" lon="13.768759808">
+		<ele>1854.5</ele>
+		<name>M11GK</name>
+		<cmt>M11GK</cmt>
+		<desc>M11GK: SLO(405068.6,405068.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.249899929" lon="13.766089920">
+		<ele>1853.5</ele>
+		<name>M12_GK</name>
+		<cmt>M12C</cmt>
+		<desc>M12C - converted from 1994 Gausskruger coordinates: SLO(404858.3,404858.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.249899846" lon="13.766089920">
+		<ele>1853.5</ele>
+		<name>M12GK</name>
+		<cmt>M12GK</cmt>
+		<desc>M12GK: SLO(404858.3,404858.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.254559932" lon="13.764429968">
+		<ele>1855.9</ele>
+		<name>M13_GK</name>
+		<cmt>M13C</cmt>
+		<desc>M13C - converted from 1994 Gausskruger coordinates: SLO(404738.4,404738.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.254559765" lon="13.764429968">
+		<ele>1855.9</ele>
+		<name>M13GK</name>
+		<cmt>M13GK</cmt>
+		<desc>M13GK: SLO(404738.4,404738.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253019925" lon="13.762309933">
+		<ele>1853.1</ele>
+		<name>M14_GK</name>
+		<cmt>M14C</cmt>
+		<desc>M14C - converted from 1994 Gausskruger coordinates: SLO(404572.3,404572.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253019758" lon="13.762309765">
+		<ele>1853.1</ele>
+		<name>M14GK</name>
+		<cmt>M14GK</cmt>
+		<desc>M14GK: SLO(404572.2,404572.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253298121" lon="13.761565369">
+		<ele>1859.8</ele>
+		<name>M15</name>
+		<cmt>M15</cmt>
+		<desc>M15: SLO(404515.3,404515.3)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.252909955" lon="13.761349954">
+		<ele>1867.2</ele>
+		<name>M15_GK</name>
+		<cmt>M15C</cmt>
+		<desc>M15C - converted from 1994 Gausskruger coordinates: SLO(404498.0,404498.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252909955" lon="13.761349954">
+		<ele>1867.2</ele>
+		<name>M15GK</name>
+		<cmt>M15GK</cmt>
+		<desc>M15GK: SLO(404498.0,404498.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252033040" lon="13.763970137">
+		<ele>1855.2</ele>
+		<name>M16</name>
+		<cmt>M16</cmt>
+		<desc>M16: SLO(404698.5,404698.5)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.253486127" lon="13.760341695">
+		<ele>1855.0</ele>
+		<name>M17</name>
+		<cmt>M17</cmt>
+		<desc>M17: SLO(404421.3,404421.3)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.253222181" lon="13.763729241">
+		<ele>1850.2</ele>
+		<name>M18</name>
+		<cmt>M18</cmt>
+		<desc>M18: SLO(404682.0,404682.0)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.253199968" lon="13.762309933">
+		<ele>1853.1</ele>
+		<name>M18_GK</name>
+		<cmt>M18C</cmt>
+		<desc>M18C - converted from 1994 Gausskruger coordinates: SLO(404572.6,404572.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253199885" lon="13.762309765">
+		<ele>1853.1</ele>
+		<name>M18GK</name>
+		<cmt>M18GK</cmt>
+		<desc>M18GK: SLO(404572.6,404572.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253200304" lon="13.760603881">
+		<ele>1849.4</ele>
+		<name>M19</name>
+		<cmt>M19</cmt>
+		<desc>M19: SLO(404441.0,404441.0)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.252809959" lon="13.760319985">
+		<ele>1852.3</ele>
+		<name>M19_GK</name>
+		<cmt>M19C</cmt>
+		<desc>M19C - converted from 1994 Gausskruger coordinates: SLO(404418.5,404418.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252809959" lon="13.760319902">
+		<ele>1852.3</ele>
+		<name>M19GK</name>
+		<cmt>M19GK</cmt>
+		<desc>M19GK: SLO(404418.5,404418.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253122101" lon="13.763804846">
+		<ele>1855.9</ele>
+		<name>M2</name>
+		<cmt>M2</cmt>
+		<desc>M2: SLO(404687.7,404687.7)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.256909966" lon="13.777819974">
+		<ele>1856.4</ele>
+		<name>M20_GK</name>
+		<cmt>M20C</cmt>
+		<desc>M20C - converted from 1994 Gausskruger coordinates: SLO(405774.8,405774.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.256909883" lon="13.777819891">
+		<ele>1856.4</ele>
+		<name>M20GK</name>
+		<cmt>M20GK</cmt>
+		<desc>M20GK: SLO(405774.7,405774.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252869973" lon="13.757979926">
+		<ele>1856.7</ele>
+		<name>M21_GK</name>
+		<cmt>M21C</cmt>
+		<desc>M21C - converted from 1994 Gausskruger coordinates: SLO(404238.1,404238.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252869973" lon="13.757979926">
+		<ele>1856.7</ele>
+		<name>M21GK</name>
+		<cmt>M21GK</cmt>
+		<desc>M21GK: SLO(404238.1,404238.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257199980" lon="13.758789953">
+		<ele>1855.5</ele>
+		<name>M22_GK</name>
+		<cmt>M22C</cmt>
+		<desc>M22C - converted from 1994 Gausskruger coordinates: SLO(404308.1,404308.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257199813" lon="13.758789953">
+		<ele>1855.5</ele>
+		<name>M22GK</name>
+		<cmt>M22GK</cmt>
+		<desc>M22GK: SLO(404308.1,404308.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.246139975" lon="13.759169988">
+		<ele>1854.3</ele>
+		<name>M23_GK</name>
+		<cmt>M23C</cmt>
+		<desc>M23 - converted from 1994 Gausskruger coordinates: SLO(404318.2,404318.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.246139808" lon="13.759169905">
+		<ele>1854.3</ele>
+		<name>M23GK</name>
+		<cmt>M23GK</cmt>
+		<desc>M23GK: SLO(404318.2,404318.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.246806839" lon="13.766615381">
+		<ele>1717.7</ele>
+		<name>M24</name>
+		<cmt>M24</cmt>
+		<desc>M24: SLO(404893.5,404893.5)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.246659989" lon="13.766419999">
+		<ele>1854.7</ele>
+		<name>M24_GK</name>
+		<cmt>M24C</cmt>
+		<desc>M24C - converted from 1994 Gausskruger coordinates: SLO(404878.1,404878.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.246659989" lon="13.766419832">
+		<ele>1854.7</ele>
+		<name>M24GK</name>
+		<cmt>M24GK</cmt>
+		<desc>M24GK: SLO(404878.1,404878.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252758829" lon="13.762947964">
+		<ele>1860.5</ele>
+		<name>M4</name>
+		<cmt>M4</cmt>
+		<desc>M4: SLO(404621.0,404621.0)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.252379967" lon="13.762789965">
+		<ele>1855.2</ele>
+		<name>M4_GK</name>
+		<cmt>M4C</cmt>
+		<desc>M4C - converted from 1994 Gausskruger coordinates: SLO(404608.2,404608.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252379967" lon="13.762789965">
+		<ele>1855.2</ele>
+		<name>M4GK</name>
+		<cmt>M4GK</cmt>
+		<desc>M4GK: SLO(404608.2,404608.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247059973" lon="13.767309990">
+		<ele>1868.7</ele>
+		<name>M7C_GK</name>
+		<cmt>M7C</cmt>
+		<desc>M7C - converted from 1994 Gausskruger coordinates: SLO(404947.5,404947.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247059973" lon="13.767309990">
+		<ele>1868.7</ele>
+		<name>M7CGK</name>
+		<cmt>M7CGK</cmt>
+		<desc>M7CGK: SLO(404947.5,404947.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247409917" lon="13.767519956">
+		<ele>1859.1</ele>
+		<name>M8C_GK</name>
+		<cmt>M8C</cmt>
+		<desc>M8C - converted from 1994 Gausskruger coordinates: SLO(404964.3,404964.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247409834" lon="13.767519873">
+		<ele>1859.1</ele>
+		<name>M8CGK</name>
+		<cmt>M8CGK</cmt>
+		<desc>M8CGK: SLO(404964.3,404964.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247059973" lon="13.767619953">
+		<ele>1835.3</ele>
+		<name>M9C_GK</name>
+		<cmt>M9C</cmt>
+		<desc>M9C - converted from 1994 Gausskruger coordinates: SLO(404971.4,404971.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247059973" lon="13.767619953">
+		<ele>1835.3</ele>
+		<name>M9CGK</name>
+		<cmt>M9CGK</cmt>
+		<desc>M9CGK: SLO(404971.4,404971.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25152309" lon="13.76260221">
+		<ele>1868.4</ele>
+		<name>MIGBIV</name>
+		<cmt>MIGBIV</cmt>
+		<desc>MIGBIV</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.246146597" lon="13.762530964">
+		<ele>1879.5</ele>
+		<name>MIGCAN</name>
+		<cmt>MIGCAN</cmt>
+		<desc>MIGCAN: SLO(404577.4,404577.4)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.246158332" lon="13.762549153">
+		<ele>1880.9</ele>
+		<name>MIGROX</name>
+		<cmt>MIGROX</cmt>
+		<desc>MIGROX: SLO(404578.8,404578.8)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251135925" lon="13.762115976">
+		<ele>0</ele>
+		<name>MIGTEN</name>
+		<cmt>MIGTEN</cmt>
+		<desc>MIGTEN: SLO(404554.0,404554.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.255204920" lon="13.760875873">
+		<ele>1883.6</ele>
+		<name>MLC</name>
+		<cmt>MLC</cmt>
+		<desc>MLC: SLO(404465.5,404465.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.255186899" lon="13.760889033">
+		<ele>1883.6</ele>
+		<name>MLC1</name>
+		<cmt>MLC1</cmt>
+		<desc>MLC1: SLO(404466.5,404466.5)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.252470911" lon="13.757088846">
+		<ele>1743.2</ele>
+		<name>MONATI</name>
+		<cmt>MONATI</cmt>
+		<desc>MONATI: SLO(404168.7,404168.7)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251025870" lon="13.760456946">
+		<ele>0</ele>
+		<name>MOTH</name>
+		<cmt>MOTH</cmt>
+		<desc>MOTH: SLO(404425.9,404425.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.253675977" lon="13.760675965">
+		<ele>0</ele>
+		<name>MOUSE</name>
+		<cmt>MOUSE</cmt>
+		<desc>MOUSE: SLO(404447.4,404447.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.248765942" lon="13.759696959">
+		<ele>0</ele>
+		<name>MWAY</name>
+		<cmt>MWAY</cmt>
+		<desc>MWAY: SLO(404363.4,404363.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.265744912" lon="13.757475000">
+		<ele>1792.0</ele>
+		<name>N01</name>
+		<cmt>N01</cmt>
+		<desc>N01: SLO(404221.6,404221.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.266458966" lon="13.756310837">
+		<ele>1782.6</ele>
+		<name>N02</name>
+		<cmt>N02</cmt>
+		<desc>N02: SLO(404133.1,404133.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.266333992" lon="13.756585848">
+		<ele>1789.4</ele>
+		<name>N03</name>
+		<cmt>N03</cmt>
+		<desc>N03: SLO(404154.1,404154.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.265253900" lon="13.756665979">
+		<ele>1790.8</ele>
+		<name>N04</name>
+		<cmt>N04</cmt>
+		<desc>N04: SLO(404158.4,404158.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.264979895" lon="13.758744858">
+		<ele>1847.0</ele>
+		<name>N05</name>
+		<cmt>N05</cmt>
+		<desc>N05: SLO(404318.2,404318.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.272914959" lon="13.755777832">
+		<ele>1640.6</ele>
+		<name>N06</name>
+		<cmt>N06</cmt>
+		<desc>N06: SLO(404103.3,404103.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.269322727" lon="13.758773189">
+		<ele>1749.5</ele>
+		<name>N07</name>
+		<cmt>N07</cmt>
+		<desc>N07: SLO(404327.9,404327.9)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.268532900" lon="13.758329032">
+		<ele>1750.0</ele>
+		<name>N08</name>
+		<cmt>N08</cmt>
+		<desc>N08: SLO(404292.3,404292.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.268011210" lon="13.757593855">
+		<ele>1767.0</ele>
+		<name>N09</name>
+		<cmt>N09</cmt>
+		<desc>N09: SLO(404234.7,404234.7)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.253295857" lon="13.758696998">
+		<ele>1841.5</ele>
+		<name>N1</name>
+		<cmt>N1</cmt>
+		<desc>N1: SLO(404294.2,404294.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.266653007" lon="13.756588027">
+		<ele>1782.9</ele>
+		<name>N10</name>
+		<cmt>N10</cmt>
+		<desc>N10: SLO(404154.8,404154.8)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251722742" lon="13.764643623">
+		<ele>1832.6</ele>
+		<name>OBVCAV</name>
+		<cmt>OBVCAV</cmt>
+		<desc>OBVCAV: SLO(404749.9,404749.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252000770" lon="13.764458383">
+		<ele>1851.1</ele>
+		<name>OLDBIV</name>
+		<cmt>OLDBIV</cmt>
+		<desc>OLDBIV: SLO(404736.1,404736.1)</desc>
+		<sym>Campground</sym>
+	</wpt>
+	<wpt lat="46.269566556" lon="13.760004239">
+		<ele>1791.5</ele>
+		<name>P01</name>
+		<cmt>P01</cmt>
+		<desc>P01: SLO(404423.2,404423.2)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25053067" lon="13.77094120">
+		<ele>1569.7</ele>
+		<name>P02</name>
+		<cmt>P02</cmt>
+		<desc>P02</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25036588" lon="13.77139500">
+		<ele>1569.0</ele>
+		<name>P03</name>
+		<cmt>P03</cmt>
+		<desc>P03</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.260904865" lon="13.763554981">
+		<ele>0</ele>
+		<name>PEAK2</name>
+		<cmt>PEAK2</cmt>
+		<desc>PEAK2: SLO(404681.9,404681.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.248178706" lon="13.763577025">
+		<ele>1769.7</ele>
+		<name>PF10</name>
+		<cmt>PF10</cmt>
+		<desc>PF10: SLO(404661.6,404661.6)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.269975174" lon="13.758187545">
+		<ele>1702.8</ele>
+		<name>PWAY</name>
+		<cmt>PWAY</cmt>
+		<desc>PWAY: SLO(404283.9,404283.9)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.241773926" lon="13.767995965">
+		<ele>1455.1</ele>
+		<name>RAFORK</name>
+		<cmt>RAFORK</cmt>
+		<desc>RAFORK: SLO(404991.2,404991.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.254864614" lon="13.760848213">
+		<ele>1895.8</ele>
+		<name>RAIN G</name>
+		<cmt>RAIN G</cmt>
+		<desc>RAIN G: SLO(404462.8,404462.8)</desc>
+		<sym>Gas Station</sym>
+	</wpt>
+	<wpt lat="46.235868959" lon="13.792323936">
+		<ele>0</ele>
+		<name>RAZORP</name>
+		<cmt>RAZORP</cmt>
+		<desc>RAZORP: SLO(406857.3,406857.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.235518847" lon="13.787783962">
+		<ele>0</ele>
+		<name>RCAVE</name>
+		<cmt>RCAVE</cmt>
+		<desc>RCAVE: SLO(406506.6,406506.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251667840" lon="13.765221974">
+		<ele>1812.9</ele>
+		<name>S-A</name>
+		<cmt>S-A</cmt>
+		<desc>S-A: SLO(404794.4,404794.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251343964" lon="13.767261878">
+		<ele>1726.9</ele>
+		<name>S1</name>
+		<cmt>S1</cmt>
+		<desc>S1: SLO(404951.2,404951.2)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251118910" lon="13.766284967">
+		<ele>1775.9</ele>
+		<name>S10+11</name>
+		<cmt>S10+11</cmt>
+		<desc>S10+11: SLO(404875.4,404875.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251119000" lon="13.766285000">
+		<ele>1775.9</ele>
+		<name>S10+S11</name>
+		<cmt>S10+S11</cmt>
+		<desc>S10+S11: SLO(404875.4,404875.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251431974" lon="13.765832931">
+		<ele>1780.5</ele>
+		<name>S12</name>
+		<cmt>S12</cmt>
+		<desc>S12: SLO(404841.1,404841.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251465837" lon="13.767294902">
+		<ele>1720.6</ele>
+		<name>S2</name>
+		<cmt>S2</cmt>
+		<desc>S2: SLO(404953.9,404953.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251196861" lon="13.767325915">
+		<ele>1719.9</ele>
+		<name>S3</name>
+		<cmt>S3</cmt>
+		<desc>S3: SLO(404955.8,404955.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.251049927" lon="13.767518951">
+		<ele>1714.4</ele>
+		<name>S4</name>
+		<cmt>S4</cmt>
+		<desc>S4: SLO(404970.5,404970.5)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250762846" lon="13.767496906">
+		<ele>1717.7</ele>
+		<name>S5</name>
+		<cmt>S5</cmt>
+		<desc>S5: SLO(404968.3,404968.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250599986" lon="13.767076973">
+		<ele>1744.7</ele>
+		<name>S7</name>
+		<cmt>S7</cmt>
+		<desc>S7: SLO(404935.6,404935.6)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.249930859" lon="13.766916879">
+		<ele>1754.8</ele>
+		<name>S8</name>
+		<cmt>S8</cmt>
+		<desc>S8: SLO(404922.1,404922.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.247047819" lon="13.764696429">
+		<ele>1757.2</ele>
+		<name>SAMO_2</name>
+		<cmt>SAMO_2</cmt>
+		<desc>SAMO_2 - dig down on the plateau to the East of Mig: SLO(404745.9,404745.9)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.247945689" lon="13.764556032">
+		<ele>1761.0</ele>
+		<name>SAMO1</name>
+		<cmt>SAMO1</cmt>
+		<desc>SAMO1: SLO(404736.6,404736.6)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.247047652" lon="13.764696429">
+		<ele>1757.2</ele>
+		<name>SAMO2</name>
+		<cmt>SAMO2</cmt>
+		<desc>SAMO2: SLO(404745.9,404745.9)</desc>
+		<sym>Skull and Crossbones</sym>
+	</wpt>
+	<wpt lat="46.251878207597" lon="13.7835767594403">
+		<ele>1960</ele>
+		<name>SI2025</name>
+		<cmt>Jama pod grebenom Skrbine</cmt>
+		<desc>20m long, 4m deep: SLO(406210.0,406210.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2313739127464" lon="13.7929756673675">
+		<ele>1230</ele>
+		<name>SI4452</name>
+		<cmt>Resevnica/Jama v zlebu</cmt>
+		<desc>520m long, 56m deep: SLO(406900.0,406900.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.237706147355" lon="13.796208072534">
+		<ele>1480</ele>
+		<name>SI4466</name>
+		<cmt>Brezno pri Polju</cmt>
+		<desc>5m long, 5m deep: SLO(407160.0,407160.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2567460691669" lon="13.7676446374965">
+		<ele>2020</ele>
+		<name>SI4467</name>
+		<cmt>Brezno na Malem vrhu</cmt>
+		<desc>20m long, 20m deep: SLO(404990.0,404990.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2572787866135" lon="13.7669841515328">
+		<ele>1850</ele>
+		<name>SI4469</name>
+		<cmt>M-5</cmt>
+		<desc>29m long, 22m deep: SLO(404940.0,404940.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2537574226855" lon="13.7741966801251">
+		<ele>1820</ele>
+		<name>SI4470</name>
+		<cmt>Snezna jama pod Podrto goro</cmt>
+		<desc>30m long, 13m deep: SLO(405490.0,405490.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2541921012081" lon="13.7811909434064">
+		<ele>1830</ele>
+		<name>SI5091</name>
+		<cmt>Snezna jama za Skrbino</cmt>
+		<desc>96m long, 54m deep: SLO(406030.0,406030.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2412687104303" lon="13.7927586702496">
+		<ele>1660</ele>
+		<name>SI5092</name>
+		<cmt>Rusnati vrh</cmt>
+		<desc>14m long, 14m deep: SLO(406900.0,406900.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.245690803922" lon="13.7855291064467">
+		<ele>1720</ele>
+		<name>SI5093</name>
+		<cmt>Brezno pod Skrbino</cmt>
+		<desc>62m long, 36m deep: SLO(406350.0,406350.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2560163920265" lon="13.7338074253062">
+		<ele>705</ele>
+		<name>SI8278</name>
+		<cmt>Boka na Prodih</cmt>
+		<desc>6m long, 2m deep: SLO(402380.0,402380.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.2463290345278" lon="13.7446644801699">
+		<ele>785</ele>
+		<name>SI8281</name>
+		<cmt>Jama v Prod</cmt>
+		<desc>9m long, 1m deep: SLO(403200.0,403200.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25120307" lon="13.76097780">
+		<ele>1850.7</ele>
+		<name>SUN</name>
+		<cmt>SUN</cmt>
+		<desc>SUN</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.281942017" lon="13.773853071">
+		<ele>1459.9</ele>
+		<name>T01</name>
+		<cmt>T01</cmt>
+		<desc>T01: SLO(405512.0,405512.0)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.280344008" lon="13.769335980">
+		<ele>1538.7</ele>
+		<name>T02</name>
+		<cmt>T02</cmt>
+		<desc>T02: SLO(405161.1,405161.1)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.279362487" lon="13.766832808">
+		<ele>1514.0</ele>
+		<name>T03</name>
+		<cmt>T03</cmt>
+		<desc>T03: SLO(404966.5,404966.5)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.277272543" lon="13.764600288">
+		<ele>1485.8</ele>
+		<name>T04</name>
+		<cmt>T04</cmt>
+		<desc>T04: SLO(404790.8,404790.8)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.277027540" lon="13.756510746">
+		<ele>1439.2</ele>
+		<name>T05</name>
+		<cmt>T05</cmt>
+		<desc>T05: SLO(404167.0,404167.0)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.276270067" lon="13.753788304">
+		<ele>1530.5</ele>
+		<name>T06</name>
+		<cmt>T06</cmt>
+		<desc>T06: SLO(403955.8,403955.8)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.273503285" lon="13.755761236">
+		<ele>1636.3</ele>
+		<name>T07</name>
+		<cmt>T07</cmt>
+		<desc>T07: SLO(404103.1,404103.1)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.251229635" lon="13.762146570">
+		<ele>1866.3</ele>
+		<name>TETLEY</name>
+		<cmt>TETLEY</cmt>
+		<desc>TETLEY: SLO(404556.6,404556.6)</desc>
+		<sym>Campground</sym>
+	</wpt>
+	<wpt lat="46.251635905" lon="13.757756883">
+		<ele>0</ele>
+		<name>UBEND</name>
+		<cmt>UBEND</cmt>
+		<desc>UBEND: SLO(404218.8,404218.8)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252185926" lon="13.758406984">
+		<ele>0</ele>
+		<name>USTART</name>
+		<cmt>USTART</cmt>
+		<desc>USTART: SLO(404269.9,404269.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.249415874" lon="13.759586904">
+		<ele>0</ele>
+		<name>V1</name>
+		<cmt>V1</cmt>
+		<desc>V1: SLO(404356.0,404356.0)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.255314890" lon="13.758546878">
+		<ele>0</ele>
+		<name>V10</name>
+		<cmt>V10</cmt>
+		<desc>V10: SLO(404286.1,404286.1)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.257324871" lon="13.758265832">
+		<ele>0</ele>
+		<name>V11</name>
+		<cmt>V11</cmt>
+		<desc>V11: SLO(404267.9,404267.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.258514849" lon="13.756376971">
+		<ele>0</ele>
+		<name>V12</name>
+		<cmt>V12</cmt>
+		<desc>V12: SLO(404124.4,404124.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.250395887" lon="13.759256909">
+		<ele>0</ele>
+		<name>V3</name>
+		<cmt>V3</cmt>
+		<desc>V3: SLO(404332.3,404332.3)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.252555987" lon="13.758366834">
+		<ele>0</ele>
+		<name>V7</name>
+		<cmt>V7</cmt>
+		<desc>V7: SLO(404267.4,404267.4)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.25379333" lon="13.76521560">
+		<ele>1771.6</ele>
+		<name>VIL</name>
+		<cmt>VIL</cmt>
+		<desc>VIL</desc>
+		<sym>Danger Area</sym>
+	</wpt>
+	<wpt lat="46.253833557" lon="13.765090127">
+		<ele>1793.2</ele>
+		<name>VILA1</name>
+		<cmt>VILA1</cmt>
+		<desc>VILA1: SLO(404788.0,404788.0)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.253747307" lon="13.765288442">
+		<ele>1782.9</ele>
+		<name>VILA2</name>
+		<cmt>VILA2</cmt>
+		<desc>VILA2: SLO(404803.2,404803.2)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.241578963" lon="13.763521872">
+		<ele>1481.0</ele>
+		<name>VODA</name>
+		<cmt>VODA</cmt>
+		<desc>VODA: SLO(404645.9,404645.9)</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+	<wpt lat="46.255235095" lon="13.765296154">
+		<ele>1799.0</ele>
+		<name>WB1</name>
+		<cmt>WB1</cmt>
+		<desc>WB1: SLO(404806.3,404806.3)</desc>
+		<sym>Flag</sym>
+	</wpt>
+	<wpt lat="46.25419532" lon="13.76680775">
+		<ele>1815.3</ele>
+		<name>WHALE</name>
+		<cmt>WHALE</cmt>
+		<desc>WHALE</desc>
+		<sym>Waypoint</sym>
+	</wpt>
+</gpx>

@@ -1,0 +1,39 @@
+;####Plateau####:
+; ###Fiona's Survey of the Plateau###
+*date 2013.7.30 ; Expedition Za Mig Na Kuk 
+
+;Book + Tape: Fiona Hartley
+;Instruments: Fiona Hartley
+
+;Data entered by Rhys Tyers/Fiona Hartley on  2013/07/30
+
+;data normal bcra grade 4
+;from	to	tape	comp	clino; L R U D
+
+*begin Plateau
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 4
+;from   to      tape    comp    clino; L R U D
+
+;Data is on 1/1 pages
+;p1/1
+1	2	3.94	250	-04
+2	3	9.70	267	-01
+3	4	18.70	215	+08
+4	5	7.10	239	00
+5	6	11.89	145	+07
+6	7	12.78	081	+02
+7	8	1.10	339	-37
+8	9	13.93	055	-01
+9	10	8.88	011	-20
+10	11	13.23	346	-01
+
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end Plateau
+; NOTES
+
+; ### SURVEY TIE IN ###
+;*equate plateau.1 plateau.11

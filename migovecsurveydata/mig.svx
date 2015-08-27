@@ -38,6 +38,9 @@
 *include others/PF10
 *equate gps.pf10 PF10.1
 
+*include others/M10
+*equate gps.M101 M10.13
+
 *include others/M1
 *equate surf.96.s1.M1		M1.1
 *entrance M1.1
@@ -80,8 +83,8 @@
 *include monatip/s_monatip
 *equate surf.07.surf_prima_planika.6 s_monatip.monatip1.1
 
-;*include kukpot/s_kukpot
-;*fix kukpot.ent 404606.123 125626.115 1767.015625
+*include kukpot/s_kukpot
+*fix kukpot.ent 404606.123 125626.115 1767.015625
 ;7pt conversion from WGS84 with Cartographic Converter + data for GO region
 ;Checking against KUKTRG waypoint (2008) vs. registered location below, I get ~6m accuracy (mainly in Eastings).
 ;Waypoint from 2009 recce: <wpt lat="46.268011210" lon="13.757593855">  <ele>1767.015625</ele>
@@ -152,5 +155,6 @@
 ;*include DEM/east_west_lines.svx
 ;This is our largest DEM dataset
 ;*include DEM/2000m_circle.svx
-*include DEM/north_south_lines.svx
+;*include DEM/north_south_lines.svx
+*include DEM/1500m_circle_delta50.svx
 *end DEM

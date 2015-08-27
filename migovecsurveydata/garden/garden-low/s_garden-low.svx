@@ -194,6 +194,30 @@
         *include 2014/apuntoofar1            ; 06.08.2014 - Tanguy and Aileen
         *include 2014/apuntoofar2            ; 07.08.2014 - Tanguy and Aileen
         *include 2014/apuntoofar3            ; 08.08.2014 - Tanguy and Aileen
+
+;EXPO 2015
+*date 2015.05
+*calibrate compass -3.09
+	*include jetstream		     ; 21.07.2015 - James and Rhys
+	;*include shithole		     ; 22.07.2015 - Oli and Ben
+	*include void			     ; 23.07.2015 - Connor and Jarv; + Maffi climb
+	*include dinnerservice		     ; 23.07.2015 - Connor and Jarv
+	*include trueadventures		     ; 24.07.2015 - Jarv and Connor; beyond Colarado
+	*include firstdraft		     ; 25.07.2015 - Tanguy and Rhys
+	*include finaldraft		     ; 25.07.2015 - Tanguy and Rhys
+	*include meridianway		     ; 25.07.2015 - Tanguy and Rhys
+	*include pushyourluck		     ; 26.07.2015 - Tanguy and Rhys
+	*include agartha		     ; 28.07.2015 - Dave KP and Jim E
+	*include choke-a-bloke		     ; 28.07.2015 - Clare and Oli
+	*include emptyquarter 		     ; 28.07.2015 - Clare and Oli
+	*include blast			     ; 28.07.2015 - Clare and Oli
+	*include isdead			     ; 29.07.2015 - William and Tanguy
+	*include davyjoneslocker	     ; 29.07.2015 - Rhys and Ben
+	*include andreabocelli		     ; 01.08.2015 - Tjasha and Maffi
+	*include touchingthevoidsbottom	     ; 04.08.2015 - Rhys and Tanguy
+	*include atworldsend		     ; 04.08.2015 - Rhys and Tanguy
+	*include formative		     ; 05.08.2015 - Rhys and Tanguy
+	*include lazarus		     ; 05.08.2015 - Rhys amd Tanguy
 *end garden-low
 
 ;from email with Tet, Oct 2009 - "Yes - [Camp is] right at the junction with mushroom passage"
