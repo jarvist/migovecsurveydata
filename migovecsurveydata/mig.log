@@ -1,24 +1,897 @@
 Survex 1.1.12
-Copyright ¸ 1990-2007 Olly Betts
-cavern.exe: warning: Unused fixed point `viewpoints.paradiso'
-cavern.exe: warning: Unused fixed point `viewpoints.ravne'
+Copyright © 1990-2007 Olly Betts
+In file included from sysmig/sysmig.svx:30,
+                 from mig.svx:12:
+sysmig/torn-t/s_tornt.svx:32: warning: Date is in the future!
+In file included from sysmig/torn-t/s_tornt.svx:34,
+                 from sysmig/sysmig.svx:30,
+                 from mig.svx:12:
+sysmig/torn-t/plopzilla.svx:12: warning: Date is in the future!
+In file included from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/s_levl2.svx:21: warning: Date is in the future!
+In file included from sysmig/level2/s_levl2.svx:23,
+                 from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/toilet.svx:16: warning: Date is in the future!
+In file included from sysmig/level2/s_levl2.svx:38,
+                 from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/oratory.svx:19: warning: Date is in the future!
+In file included from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/s_levl2.svx:45: warning: Date is in the future!
+In file included from sysmig/level2/s_levl2.svx:47,
+                 from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/getafix.svx:14: warning: Date is in the future!
+In file included from sysmig/level2/s_levl2.svx:49,
+                 from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/gloworm.svx:14: warning: Date is in the future!
+In file included from sysmig/level2/s_levl2.svx:50,
+                 from sysmig/sysmig.svx:33,
+                 from mig.svx:12:
+sysmig/level2/penelope.svx:14: warning: Date is in the future!
+In file included from sysmig/sysmig.svx:36,
+                 from mig.svx:12:
+sysmig/m2/m2dataFeb2012.svx:162: warning: Date is in the future!
+In file included from mig.svx:15:
+garden/s_garden.svx:9: warning: Date is in the future!
+In file included from garden/s_garden.svx:10,
+                 from mig.svx:15:
+garden/garden-ent/s_garden-ent.svx:7: warning: Date is in the future!
+In file included from garden/garden-ent/s_garden-ent.svx:9,
+                 from garden/s_garden.svx:10,
+                 from mig.svx:15:
+garden/garden-ent/laurel.svx:4: warning: Date is in the future!
+In file included from garden/s_garden.svx:10,
+                 from mig.svx:15:
+garden/garden-ent/s_garden-ent.svx:22: warning: Date is in the future!
+garden/garden-ent/s_garden-ent.svx:34: warning: Date is in the future!
+In file included from mig.svx:15:
+garden/s_garden.svx:14: warning: Date is in the future!
+In file included from garden/vilinska/s_vilinska.svx:6,
+                 from garden/s_garden.svx:15,
+                 from mig.svx:15:
+garden/vilinska/vilinent.svx:3: warning: Date is in the future!
+In file included from mig.svx:15:
+garden/s_garden.svx:21: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:13,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/mudslump.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:14,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/kill_em_all.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:17,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/intravenus_de_milo.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:18,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/dark_tranquillity.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:19,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/dangermouse.svx:4: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:20,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/greenback.svx:5: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:21,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/cheesecake.svx:4: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:22,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/haemertight_crawl.svx:5: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:23,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/giblet_breakfast.svx:5: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:24,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/primula.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:27,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/mirage_canyon.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:28,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/wet_hammer.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:29,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/metal_aven.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:30,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/keti.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:31,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/walk_the_line.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:32,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/ride_the_lightning.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:33,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/walk_the_line_b.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:34,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/happy_monday.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:35,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/free_amalgamation.svx:3: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:36,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/fools_road.svx:3: warning: Date is in the future!
+In file included from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/s_garden-kangaroo.svx:38: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:42,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/roaring.svx:3: warning: Date is in the future!
+In file included from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/s_garden-kangaroo.svx:45: warning: Date is in the future!
+In file included from garden/garden-kangaroo/s_garden-kangaroo.svx:47,
+                 from garden/s_garden.svx:22,
+                 from mig.svx:15:
+garden/garden-kangaroo/worm.svx:2: warning: Date is in the future!
+In file included from mig.svx:15:
+garden/s_garden.svx:26: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:3: warning: Date is in the future!
+garden/garden-low/s_garden-low.svx:5: warning: Date is in the future!
+garden/garden-low/s_garden-low.svx:10: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:26,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/bigrock/thirdthoughts.svx:3: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:32: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:35,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/bigrock/smash.svx:2: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:47,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/bigrock/nevermore.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:48,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/bigrock/mad_cow.svx:92: warning: Suspicious compass reading
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:51: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:53,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/republica.svx:4: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:57: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:61,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/belowzimmer/korita.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:62,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/wonderland/wonderland.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:63,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/consort.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:64,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/serpentine.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:65,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/belowzimmer/blackknight.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:66,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/belowzimmer/sidewinder.svx:4: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:67,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/insomnia.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:68,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/minos.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:69,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/esoterica.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:70,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/wonderland/rolling.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:71,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/wonderland/surprise.svx:1: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:72,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/wonderland/mudstone.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:73,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/belowzimmer/crack_in_time.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:74,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/kamikaze.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:75,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/povodni_moz.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:76,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/losthopes.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:77,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/belowzimmer/whitebishop.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:78,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/belowzimmer/stalemate.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:79,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/itwillrain.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:80,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/povodni_moz2.svx:3: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:83: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:85,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/throneroom.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:86,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/redbaron.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:87,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/roundpond.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:88,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/longwater.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:89,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/rottenrow.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:90,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/serenade.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:91,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/amazinggrace.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:92,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/grace2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:93,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/magicdragon.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:94,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/daydreamers.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:95,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/duffersdrop.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:96,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/stuckinparadise.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:97,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/lowerpleasures.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:98,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/stuckinparadise2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:99,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/eastlinks.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:100,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/kneekiller.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:101,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/salvation.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:102,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/dream2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:103,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/penguinsegg.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:104,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/winterjourney.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:105,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/drinkyourown.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:106,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/2ndtimelucky.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:107,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/letnadrugisvet.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:108,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/krtkovadobradela.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:109,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/serpentine/herojtelemarkal.svx:3: warning: Date is in the future!
+garden/garden-low/serpentine/herojtelemarkal.svx:14: warning: Date is in the future!
+garden/garden-low/serpentine/herojtelemarkal.svx:41: warning: Date is in the future!
+garden/garden-low/serpentine/herojtelemarkal.svx:64: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:112: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:114,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/perfidia.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:115,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/watershipdown.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:116,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/bravenewworld.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:117,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/xanadu.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:118,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/hotpants.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:119,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/yorkshire.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:122,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/minestrone1.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:123,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/minestrone2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:124,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/atlantis.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:126,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/brezno_slapov.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:127,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/guillotine.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:128,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/guillotine2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:129,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/consort/razor.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:130,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/peepshow.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:131,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/undercover_squirrell.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:132,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/why_the_face.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:133,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/republica/watershipup.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:134,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/invictus.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:136,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/euphrates.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:137,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/euphrates2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:139,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/bigrock/stagger_lee.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:140,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/ingloriousbasterd.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:142,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/apollo/apollo.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:143,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/apollo/milkyway_percent.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:144,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/apollo/dreamsforthesoul.svx:3: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:147: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:149,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/hash.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:150,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/apollo/beetlejuice.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:151,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/hash2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:152,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/lethe.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:153,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/kamikaze/rural_underground.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:154,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/xanadont.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:155,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/cuckoos_nest.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:156,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/curiousandcuriouser.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:157,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/curiousandcuriouser2.svx:4: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:158,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/labyrinth.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:159,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/time_bandits.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:161,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/balamory/kokain_lab.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:162,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/balamory/kokain_rute.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:163,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/balamory/bingo_granny.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:164,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/balamory/clapton.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:166,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/hash3.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:167,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/RCC_passage.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:168,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/rejuvenation_rift.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:169,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/straightjacket.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:170,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/hydrophobia.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:171,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/stuckinparadise/were_not_alone.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:172,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/500m.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:173,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/xanadu/dwarf_pine.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:174,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/balamory/pick_your_poison.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:175,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/lowerpleasures/slinging.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:176,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/apollo/apollo_traverse.svx:3: warning: Date is in the future!
+In file included from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/s_garden-low.svx:178: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:180,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/sicsempertyrannis.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:181,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/gravity.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:182,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/hanginggardensdeep.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:183,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/rocksteadylove.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:184,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/jericho.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:185,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/pleasurepalace.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:186,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/yourmum.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:187,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/AJA.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:188,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/jericho2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:189,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/squidgygoodness.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:190,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/serrure.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:191,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/stupid.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:192,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/touchingthevoid.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:193,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/hipsdontlie.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:194,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/apuntoofar1.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:195,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/apuntoofar2.svx:3: warning: Date is in the future!
+In file included from garden/garden-low/s_garden-low.svx:196,
+                 from garden/s_garden.svx:28,
+                 from mig.svx:15:
+garden/garden-low/2014/apuntoofar3.svx:3: warning: Date is in the future!
+In file included from mig.svx:28:
+primadona/primadona.svx:8: warning: Date is in the future!
+In file included from primadona/primadona.svx:26,
+                 from mig.svx:28:
+primadona/smer1.svx:22: warning: Date is in the future!
+In file included from mig.svx:56:
+others/s1.svx:14: warning: Date is in the future!
+In file included from mig.svx:60:
+planika/s_planika.svx:6: warning: Date is in the future!
+In file included from planika/s_planika.svx:9,
+                 from mig.svx:60:
+planika/planika.svx:6: warning: Date is in the future!
+In file included from planika/s_planika.svx:11,
+                 from mig.svx:60:
+planika/snow_cold.svx:4: warning: Date is in the future!
+In file included from planika/s_planika.svx:13,
+                 from mig.svx:60:
+planika/echorift.svx:5: warning: Date is in the future!
+In file included from planika/s_planika.svx:16,
+                 from mig.svx:60:
+planika/boulderdash.svx:5: warning: Date is in the future!
+In file included from mig.svx:75:
+others/e1.svx:2: warning: Date is in the future!
+In file included from mig.svx:79:
+monatip/s_monatip.svx:4: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:11,
+                 from mig.svx:79:
+monatip/monatip1.svx:5: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:12,
+                 from mig.svx:79:
+monatip/monatip2.svx:4: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:13,
+                 from mig.svx:79:
+monatip/monatip3.svx:5: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:18,
+                 from mig.svx:79:
+monatip/monatip5.svx:5: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:19,
+                 from mig.svx:79:
+monatip/monatip6.svx:4: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:20,
+                 from mig.svx:79:
+monatip/monatip7.svx:4: warning: Date is in the future!
+In file included from monatip/s_monatip.svx:21,
+                 from mig.svx:79:
+monatip/monatip8.svx:4: warning: Date is in the future!
+In file included from mig.svx:88:
+surface/surface.svx:18: warning: Date is in the future!
+surface/surface.svx:36: warning: Date is in the future!
+surface/surface.svx:56: warning: Date is in the future!
+surface/surface.svx:70: warning: Date is in the future!
+surface/surface.svx:82: warning: Date is in the future!
 
-Survey contains 6568 survey stations, joined by 3765 legs.
-There are 28 loops.
-Survey has 2831 connected components.
-Total length of survey legs = 22879.84m (22881.00m adjusted)
-Total plan length of survey legs = 15285.42m
-Total vertical length of survey legs = 12095.84m
-Vertical range = 962.99m (from system.m2.izent1.16 at 1851.00m to system.coldfeet.sifon.1 at 888.01m)
-North-South range = 1313.56m (from garden.garden-low.hoover.1 at 124601.75m to prim.spodnji.8 at 123288.19m)
-East-West range = 843.79m (from s1.1 at 405257.64m to prim.milanova.2 at 404413.84m)
-cavern.exe: warning: Station `others.m17.29' referred to by *entrance or *export but never used
-2830 0-nodes.
- 237 1-nodes.
-3264 2-nodes.
- 200 3-nodes.
-  27 4-nodes.
-   7 5-nodes.
+Removing trailing traverses...
+
+Concatenating traverses between nodes...
+
+Simplifying network...
+
+Solving 10 simultaneous equations
+
+Solving to find x coordinates...
+
+Calculating network...
+
+Calculating traverses between nodes...
+
+Calculating trailing traverses...
+cavern: warning: Unused fixed point `peaks.migovec'
+cavern: warning: Unused fixed point `peaks.kuktrg'
+cavern: warning: Unused fixed point `gps.a1'
+cavern: warning: Unused fixed point `gps.a2'
+cavern: warning: Unused fixed point `gps.a3'
+cavern: warning: Unused fixed point `gps.a4'
+cavern: warning: Unused fixed point `gps.aj01'
+cavern: warning: Unused fixed point `gps.andy'
+cavern: warning: Unused fixed point `gps.b20'
+cavern: warning: Unused fixed point `gps.b9'
+cavern: warning: Unused fixed point `gps.bcairn'
+cavern: warning: Unused fixed point `gps.bivvi'
+cavern: warning: Unused fixed point `gps.blohol'
+cavern: warning: Unused fixed point `gps.bone'
+cavern: warning: Unused fixed point `gps.boneca'
+cavern: warning: Unused fixed point `gps.bway'
+cavern: warning: Unused fixed point `gps.christ'
+cavern: warning: Unused fixed point `gps.dkomna'
+cavern: warning: Unused fixed point `gps.e01'
+cavern: warning: Unused fixed point `gps.e04'
+cavern: warning: Unused fixed point `gps.e1'
+cavern: warning: Unused fixed point `gps.e2'
+cavern: warning: Unused fixed point `gps.e5'
+cavern: warning: Unused fixed point `gps.e6'
+cavern: warning: Unused fixed point `gps.e7'
+cavern: warning: Unused fixed point `gps.foot'
+cavern: warning: Unused fixed point `gps.gduiew'
+cavern: warning: Unused fixed point `gps.govnja'
+cavern: warning: Unused fixed point `gps.gw1'
+cavern: warning: Unused fixed point `gps.hare'
+cavern: warning: Unused fixed point `gps.janet'
+cavern: warning: Unused fixed point `gps.jcc'
+cavern: warning: Unused fixed point `gps.jj1'
+cavern: warning: Unused fixed point `gps.jj2'
+cavern: warning: Unused fixed point `gps.jj3bad'
+cavern: warning: Unused fixed point `gps.jj3sta'
+cavern: warning: Unused fixed point `gps.jj4'
+cavern: warning: Unused fixed point `gps.jj5'
+cavern: warning: Unused fixed point `gps.jj6'
+cavern: warning: Unused fixed point `gps.k10'
+cavern: warning: Unused fixed point `gps.k11'
+cavern: warning: Unused fixed point `gps.k12'
+cavern: warning: Unused fixed point `gps.k13'
+cavern: warning: Unused fixed point `gps.k14'
+cavern: warning: Unused fixed point `gps.k15i'
+cavern: warning: Unused fixed point `gps.k16'
+cavern: warning: Unused fixed point `gps.k17'
+cavern: warning: Unused fixed point `gps.k18'
+cavern: warning: Unused fixed point `gps.k19'
+cavern: warning: Unused fixed point `gps.k2'
+cavern: warning: Unused fixed point `gps.k20'
+cavern: warning: Unused fixed point `gps.k6'
+cavern: warning: Unused fixed point `gps.k7'
+cavern: warning: Unused fixed point `gps.k8'
+cavern: warning: Unused fixed point `gps.k9'
+cavern: warning: Unused fixed point `gps.k99'
+cavern: warning: Unused fixed point `gps.kal'
+cavern: warning: Unused fixed point `gps.kuk'
+cavern: warning: Unused fixed point `gps.kuktrg'
+cavern: warning: Unused fixed point `gps.lake'
+cavern: warning: Unused fixed point `gps.m1'
+cavern: warning: Unused fixed point `gps.m10'
+cavern: warning: Unused fixed point `gps.m101'
+cavern: warning: Unused fixed point `gps.m11gk'
+cavern: warning: Unused fixed point `gps.m12gk'
+cavern: warning: Unused fixed point `gps.m13gk'
+cavern: warning: Unused fixed point `gps.m14gk'
+cavern: warning: Unused fixed point `gps.m15'
+cavern: warning: Unused fixed point `gps.m15gk'
+cavern: warning: Unused fixed point `gps.m16'
+cavern: warning: Unused fixed point `gps.m17'
+cavern: warning: Unused fixed point `gps.m18'
+cavern: warning: Unused fixed point `gps.m18gk'
+cavern: warning: Unused fixed point `gps.m19'
+cavern: warning: Unused fixed point `gps.m19gk'
+cavern: warning: Unused fixed point `gps.m2'
+cavern: warning: Unused fixed point `gps.m20gk'
+cavern: warning: Unused fixed point `gps.m21gk'
+cavern: warning: Unused fixed point `gps.m22gk'
+cavern: warning: Unused fixed point `gps.m23gk'
+cavern: warning: Unused fixed point `gps.m24'
+cavern: warning: Unused fixed point `gps.m24gk'
+cavern: warning: Unused fixed point `gps.m4'
+cavern: warning: Unused fixed point `gps.m4gk'
+cavern: warning: Unused fixed point `gps.m7cgk'
+cavern: warning: Unused fixed point `gps.m8cgk'
+cavern: warning: Unused fixed point `gps.m9cgk'
+cavern: warning: Unused fixed point `gps.migcan'
+cavern: warning: Unused fixed point `gps.migrox'
+cavern: warning: Unused fixed point `gps.migten'
+cavern: warning: Unused fixed point `gps.mlc'
+cavern: warning: Unused fixed point `gps.mlc1'
+cavern: warning: Unused fixed point `gps.monati'
+cavern: warning: Unused fixed point `gps.moth'
+cavern: warning: Unused fixed point `gps.mouse'
+cavern: warning: Unused fixed point `gps.mway'
+cavern: warning: Unused fixed point `gps.n01'
+cavern: warning: Unused fixed point `gps.n02'
+cavern: warning: Unused fixed point `gps.n03'
+cavern: warning: Unused fixed point `gps.n04'
+cavern: warning: Unused fixed point `gps.n05'
+cavern: warning: Unused fixed point `gps.n06'
+cavern: warning: Unused fixed point `gps.n07'
+cavern: warning: Unused fixed point `gps.n08'
+cavern: warning: Unused fixed point `gps.n09'
+cavern: warning: Unused fixed point `gps.n1'
+cavern: warning: Unused fixed point `gps.n10'
+cavern: warning: Unused fixed point `gps.obvcav'
+cavern: warning: Unused fixed point `gps.oldbiv'
+cavern: warning: Unused fixed point `gps.p01'
+cavern: warning: Unused fixed point `gps.peak2'
+cavern: warning: Unused fixed point `gps.pway'
+cavern: warning: Unused fixed point `gps.rafork'
+cavern: warning: Unused fixed point `gps.razorp'
+cavern: warning: Unused fixed point `gps.rcave'
+cavern: warning: Unused fixed point `gps.s-a'
+cavern: warning: Unused fixed point `gps.s1'
+cavern: warning: Unused fixed point `gps.s1011'
+cavern: warning: Unused fixed point `gps.s12'
+cavern: warning: Unused fixed point `gps.s2'
+cavern: warning: Unused fixed point `gps.s3'
+cavern: warning: Unused fixed point `gps.s4'
+cavern: warning: Unused fixed point `gps.s5'
+cavern: warning: Unused fixed point `gps.s7'
+cavern: warning: Unused fixed point `gps.s8'
+cavern: warning: Unused fixed point `gps.samo1'
+cavern: warning: Unused fixed point `gps.samo2'
+cavern: warning: Unused fixed point `gps.t01'
+cavern: warning: Unused fixed point `gps.t02'
+cavern: warning: Unused fixed point `gps.t03'
+cavern: warning: Unused fixed point `gps.t04'
+cavern: warning: Unused fixed point `gps.t05'
+cavern: warning: Unused fixed point `gps.t06'
+cavern: warning: Unused fixed point `gps.t07'
+cavern: warning: Unused fixed point `gps.tetley'
+cavern: warning: Unused fixed point `gps.ubend'
+cavern: warning: Unused fixed point `gps.ustart'
+cavern: warning: Unused fixed point `gps.v1'
+cavern: warning: Unused fixed point `gps.v10'
+cavern: warning: Unused fixed point `gps.v11'
+cavern: warning: Unused fixed point `gps.v12'
+cavern: warning: Unused fixed point `gps.v3'
+cavern: warning: Unused fixed point `gps.v7'
+cavern: warning: Unused fixed point `gps.vila1'
+cavern: warning: Unused fixed point `gps.vila2'
+cavern: warning: Unused fixed point `gps.voda'
+cavern: warning: Unused fixed point `gps.wb1'
+cavern: warning: Unused fixed point `viewpoints.paradiso'
+cavern: warning: Unused fixed point `viewpoints.ravne'
+
+Calculating statistics...
+
+Survey contains 7055 survey stations, joined by 5816 legs.
+There are 41 loops.
+Survey has 1280 connected components.
+Total length of survey legs = 34334.20m (34328.79m adjusted)
+Total plan length of survey legs = 24595.26m
+Total vertical length of survey legs = 16615.64m
+Vertical range = 971.71m (from system.m2.izent1.16 at 1851.00m to garden.garden-low.watershipdown.sump at 879.29m)
+North-South range = 1535.75m (from garden.garden-low.hoover.1 at 124612.26m to garden.garden-low.squidgygoodness.1 at 123076.51m)
+East-West range = 1034.43m (from garden.garden-low.rcc_passage.4 at 405438.95m to prim.milanova.2 at 404404.52m)
+cavern: warning: Station `others.m17.29' referred to by *entrance or *export but never used
+1277 0-nodes.
+ 383 1-nodes.
+5014 2-nodes.
+ 324 3-nodes.
+  43 4-nodes.
+  11 5-nodes.
    2 6-nodes.
    1 10-node.
-There were 3 warning(s).
+CPU time used  3.14s
+Done.
+There were 346 warning(s).

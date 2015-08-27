@@ -54,6 +54,7 @@
  *entrance  GOVNJA
 *fix  GW1 405151.362 124019.974 0 
  *entrance  GW1
+*fix  C3 405151.362 122588.974 1300 
 *fix  HARE 404761.238 123828.173 0 
  *entrance  HARE
 *fix  HAWK 404619.071 123712.556 1839 

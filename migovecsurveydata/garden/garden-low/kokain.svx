@@ -1,0 +1,7 @@
+*begin kokain
+
+*include kokain_lab
+*include kokain_rute
+*include bingo_granny
+*include clapton
+*end kokain
