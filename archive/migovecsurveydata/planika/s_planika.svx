@@ -1,0 +1,10 @@
+;Planika:
+; Caves in bowl valley immediately below B9
+; Surface survey from ubend
+
+*begin planika
+
+*include planika
+*include snow_cold
+
+*end planika

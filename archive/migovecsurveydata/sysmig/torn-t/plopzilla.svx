@@ -1,0 +1,25 @@
+;plopzilla
+
+;Date:31/07/07
+;Instruments:Andrew Jurd
+;Book:Richard Venn
+
+*equate plopzilla.12 gallery.10
+
+;Data entered by Andrew Jurd 01/08/07
+
+*begin plopzilla
+
+2	1	5.85	347	-35
+3	2	3.95	354	-22
+3	4	12.10	155	-12
+4	5	11.30	-	up
+5	6	2.5	185	+67
+6	7	10.20	55	+68
+7	8	4.68	60	+38
+8	9	76.2	-	up
+10	9	3.22	90	+12
+11	10	8.97	69	+4
+11	12	3.55	85	+25
+
+*end plopzilla

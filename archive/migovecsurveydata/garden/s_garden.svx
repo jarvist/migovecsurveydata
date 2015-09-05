@@ -1,0 +1,62 @@
+;Gardener's World Cave (originally called BCL (or Ben's Crap Lead)) found in 2000
+
+;*include bclent (removed due to resurveying - bclent2 is replacement)
+
+*begin garden
+	*include laurel		;09.07.2000- Thomas Ayles, Pete Jurd
+	*include urinal		;20.07.2000- Pete Jurd, Ben Johnson
+	*include urinal2		;21.07.2000- Andrew Jurd, Pete Jurd
+	*include hardy		;21.07.2000- M. McGowan, B. Ogborne, J. Hooper
+	*include waffer		;23.07.2000- Pete Jurd, Shaggy
+	*include pico		;28.07.2000- Pete Jurd, Jan Evetts
+	*include pico2		;28.07.2000- Clewin Griffith, Andrew Jurd
+	*include tesselator		;31.07.2000- Clewin Griffith, Andrew Jurd
+	*include spaceodessey	;02.08.2000- Ben Johnson, James Hooper
+	*include concorde		;02.08.2000- Jim Evans, Pete Jurd
+	*include bclent2		;13.07.2000- Mark Evans, Pete Jurd, Ben Ogborne
+	*include alchemy		;02.08.2000- Bruce Drinkwater, Jan Evetts
+	*include banzai		;03.07.2001- Clewin Griffith, Ben Ogborne
+	*include pink		;01.08.2001- Dave Wilson, J. Hooper (Tetley)
+	*include chariot		;02.08.2001- Clewin Griffith, Helen Jones, Ed Austin
+	*include pink2		;06.08.2001- Clewin Griffith, Dave Wilson	
+	*include judge		;04.08.2001- Adrian Hooper, Martin Mc Gowan			
+	*include prisoners		;04.08.2001- Adrian Hooper, Martin Mc Gowan	
+	*include skynet		;05.08.2001- Andrew Jurd, James Hooper	
+	*include hunger		;05.08.2001- Adrian Hooper, Martin Mc Gowan		
+	*include zimmer		;08.08.2001-Mark Evans, Iain McKenna,	Jim Evans
+	*include friend		;09.08.2001-Tomaž Tivadar, James Hooper
+	*include fallsrd		;10.08.2001- Martin Mc Gowan, Dave Wilson
+	;*include lowerfallsrd	;29.07.2003- Colm Caroll, Martin McGowan	
+	*include highway32		;30.07.2003- James Roberts, James Hooper
+	*include candyMountain	;31.07.2003- Colm Carroll, Brian Cullen
+	*include leprachaun	;31.07.2003- Colm Carroll, Brian Cullen
+	*include cascade		;03- 04.08.2003- James Hooper, Dave Wilson
+	*include mushroom		;04.08.2003- James Hooper, Dave Wilson
+	*include postiga		;04.08.2003- Pete Jurd, J Hooper (Tetley)
+	*include weepeople		;04.08.2003- Martin Mc Gowan, Brian Cullen
+	*include gold		;07.08.2003-  Dave Wilson, Brian Cullen		
+	;*include madeupleg	;07.08.2003- J Hooper
+	*include nitro		;1.8.04 - Tom Ayles + J Hooper 
+	*include potato		;09.08.2003- Pete Jurd, J Hooper (Tetley)
+	*include doublethink	;06.08.2003- Jan Evetts, Tim Wright
+	*include soda		;26.7.2004 - James Hooper, Richard Venn
+	*include smash		;25.7.2004 - Tom Ayles, Dave Wilson, Pippa Crosby
+	*include cow		;26.7.2004 - Tim Comer, Martin McGowan
+	*include miles		;30.7.2004 - Pippa Crosby, Clewin Griffith
+	*include beyond		; 1.8.2004 - James Hooper, Thomas Ayles
+	*include blind		;30-31.7.2004 - James Hooper, Thomas Ayles
+	*include greed		;31.7.2004 - James Hooper, Thomas Ayles
+	*include balamory	;2.8.2004 - Jim Evens, Michael Rogerson
+	*include colarado	;2.8.2004 - Jan Evetts, Michael Rogerson
+	*include brownriceinlet	;3.8.2004 - Dave Wilson, Jim Evens, Mark Evens
+	*include envy		;3.8.2004 - Dave Wilson, Jim Evens, Mark Evens
+	*include hoover		;4.8.2004 - Dave Wilson, Jim Evens, Mark Evens
+	*include kangaroo01
+	*include zubafu
+	*include bonus
+	*include scrotty
+	*include olympicrift	;3.8.2005 - Marcin, Rik
+	*include mudslump	;2.8.2007 - Ben Banfield, Richard 'Rik' Venn
+	*include smashed_swede	;05.08.07 - Andrew Jurd, James Hugget
+	*include kill_em_all	;05.08.07 - Richard venn, Izzy Mojir
+*end garden

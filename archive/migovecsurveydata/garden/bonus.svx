@@ -1,0 +1,37 @@
+; Bonus - the continuation of captain kangaroo from Zubafu
+; Marcin Kowalski & Rik Venn 
+; 24/7/05
+
+*equate bonus.18 zubafu.10
+
+*begin bonus
+;from	to	tape	co	cl
+0	1	2.40	283	0
+1	2	6.30	-	up
+2	3	2.85	340	-22
+3	4	2.60	024	+11
+4	5	2.85	336	-23
+5	6	3.60	336	+1
+6	7	1.70	000	-7
+7	8	0.55	324	+16
+8	9	2.40	-	up
+9	10	3.25	328	+21
+10	11	5.50	030	+14
+11	12	3.00	029	-75
+12	13	13.1	-	up
+13	14	1.20	110	0
+14	15	9.10	156	-6
+15	16	7.90	126	-31
+16	17	3.00	-	up
+17	18	2.65	082	-12
+; stn bonus.0 is pss cairn at end of push
+; bonus.3 is pss cairn
+; bonus.12 is pss cairn
+; bonus.18 is Zubafu.10 pss cairn
+;	stn	l	r	u	d
+;	0	2	6	8	1
+;	1	0.5	0.5	1	6
+;	10	2	2	10	0
+;	11	3	3	10	0
+;	12	0.5	0.5	4	0
+*end bonus

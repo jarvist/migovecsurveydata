@@ -1,0 +1,30 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;extensions off batshit
+
+;Date:14/8/97
+;Instruments: m evans
+;Book: j hooper
+
+;Data entered by j hooper on 14/8/97
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+*equate mower.9 batshit2.7
+
+*begin mower
+
+1	2	8.00	-	down	;2 is a pss
+2	3	9.34	171	23	;3 is a pss
+3	4	7.70	181	11
+4	5	6.86	135	22
+5	6	8.71	163	-11
+6	7	8.32	102	-46
+7	8	4.30	-	down	;7 is a pss
+9	8	3.74	093	-05
+
+*end mower
+

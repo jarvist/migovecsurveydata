@@ -1,0 +1,36 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;System Mig - Level 2, Exhibition Road Section
+
+;*equate migconleft.6 hotline.7
+
+*begin level2
+
+*include level2s
+*include level2n
+*include migcon
+*include migcon2
+*include exhib
+*include rockroll
+*include boogywoo
+*include toilet
+*include carwash
+*include challenge
+*include polter
+*include waffles
+*include skalar
+*include ariane
+*include oratory
+*include paradiso
+*include skalar2
+*include paradiso2
+*include genghis
+*include obelix
+*include getafix
+*include below55
+*include gloworm
+*include penelope
+
+*end level2

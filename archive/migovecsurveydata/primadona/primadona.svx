@@ -1,0 +1,32 @@
+; System Migovec 
+; (c) 1994 - 1998 Imperial College Caving Club and Jamarska sekcija PD Tolmin
+; Surveyed to BCRA Grade 5b
+
+;PriMadoni
+*begin prim
+
+*include zima00
+*include TTT
+*include prima1
+*include prima2
+*include drugi
+*include risanke
+*include pov
+*include risa1
+*include podor
+*include risa2
+*include galerija
+*include galerija2
+*include spodnji
+*include milanova
+*include smer0
+*include smer1
+*include ajdovscina
+
+;*include berti
+
+;*include mulatera
+
+;*include poliB
+
+*end prim

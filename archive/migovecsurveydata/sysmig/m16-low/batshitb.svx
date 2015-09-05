@@ -1,0 +1,25 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;small section of batshit passage
+
+;Date:7/8/97
+;Instruments: j evans
+;Book: j hooper
+
+;Data entered by j hooper on 13/7/97
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+*equate batshit1.10 batshitb.16
+
+*begin batshitb
+
+14	13	9.75	133	-32	;13 is a pss
+14	15	4.66	249	10
+15	16	5.11	-	down	;16 is a pss
+
+*end batshitb
+

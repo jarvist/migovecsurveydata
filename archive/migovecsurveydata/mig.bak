@@ -1,0 +1,46 @@
+;Whole migovec plateau
+; Clewin Griffith, Imperial College Caving Club 2001
+;edded Primadona- Zdenko Rejec- 11.2003
+
+*copyright 2001 ICCC
+
+
+; CAVES
+
+;Sistem Migovec
+*include sysmig/sysmig.svx
+
+;Gardeners' World/Vrtnarija
+*include garden/s_garden
+
+;Pri Madoni and other smaller caves
+*include primadona/primadona
+
+*include others/freezer
+*include others/M17
+*include others/julie
+*include others/s_roystan
+*include others/s_ubend
+;*include others/eastpole
+
+;Surface Surveys
+*include surface/surface
+
+*equate surf.00.s1.M16       		system.m16ent.entrance.1
+*equate surf.01.sFR_GW.gw    	garden.bclent2.0  
+;*equate surf.00.s4.pm        		primadona.prima1.35
+
+*equate surf.01.sFR_GW.fr    	freezer.FR
+*equate surf.01.sM17_NSCa.M17       	m17.29 
+*equate surf.96.s1.M2  		system.m2.izent1.16
+
+*entrance system.m16ent.entrance.1
+*entrance garden.bclent2.0  
+;*entrance others.m17.29
+*entrance surf.01.sM17_NSCa.M17
+;*entrance surf.01.sM17_NSCb.nsc
+*entrance system.m2.izent1.16 
+*entrance system.m2.izent2.19
+
+*fix system.m2.izent1.16 		5405040		5123930		1861
+;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843

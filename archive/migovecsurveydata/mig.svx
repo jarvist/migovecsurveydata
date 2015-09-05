@@ -1,0 +1,74 @@
+;Whole migovec plateau
+; Clewin Griffith, Imperial College Caving Club 2001
+;edded Primadona- Zdenko Rejec- 11.2003
+
+*copyright 2001 ICCC
+
+
+; CAVES
+
+;Sistem Migovec
+*include sysmig/sysmig.svx
+
+;Gardeners' World/Vrtnarija
+*include garden/s_garden
+
+;Razor Cave (a long way away)
+;*include razor/s_razor
+
+;Pri Madoni and other smaller caves
+*include primadona/primadona
+*equate surf.07.surf_prima_planika.7 prim.prima1.35
+
+*include others/freezer
+*include others/M17
+*include others/M1
+*equate surf.96.s1.M1		M1.1
+
+*include others/M6
+*equate surf.07.surf_m6m16.0 M6.0
+
+*include others/s_roystan
+*equate roystan2.7 surf.01.sM10_RV_M17.RV
+
+*equate eastpole.13 surf.00.s5.15
+*include others/eastpole
+
+*include planika/s_planika
+*equate surf.07.surf_ubend_planika.15 planika.planika.1
+
+*include ubend/s_ubend
+*equate u-bend.ubend2.5 surf.07.surf_ubend_planika.1
+*equate u-bend.ubend2.5 surf.00.s4.UB
+
+*include others/julie
+*equate julie.17 surf.07.surf_ubend_planika.9
+
+*include others/monatip
+*equate surf.07.surf_prima_planika.6 monatip.1
+
+;Surface Surveys
+*include surface/surface
+
+*equate surf.00.s1.M16       		system.m16ent.entrance.1
+*equate surf.01.sFR_GW.gw    	garden.bclent2.0  
+;*equate surf.00.s4.pm        		primadona.prima1.35
+
+*equate surf.01.sFR_GW.fr    	freezer.FR
+*equate surf.01.sM17_NSCa.M17       	m17.29 
+*equate surf.96.s1.M2  		system.m2.izent1.16
+
+;*equate system.m2.izent1.16 surf.96.surf1.M2 ; jarv additions 13/8/07
+;*equate surf.00.s1.m10 surf.96.s1.M10
+
+*entrance system.m16ent.entrance.1
+*entrance garden.bclent2.0  
+;*entrance others.m17.29
+*entrance surf.01.sM17_NSCa.M17
+;*entrance surf.01.sM17_NSCb.nsc
+*entrance system.m2.izent1.16 
+*entrance system.m2.izent2.19
+
+*fix system.m2.izent1.16               5405040         5123930         1851
+;*fix system.m2.izent1.16 		5405040		5123930		1861
+;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843

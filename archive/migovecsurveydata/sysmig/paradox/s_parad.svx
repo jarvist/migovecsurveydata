@@ -1,0 +1,15 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;System Mig - Paradox and extensions off it
+
+*begin pdox
+ *include paradox
+ *include cowboys
+ *include pencil
+ *include fame
+ *include marwood
+ *include sump1
+ *include sump2
+*end pdox

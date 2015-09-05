@@ -1,0 +1,38 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;east side of galactica chamber
+
+;Date: 5/8/97
+;Instruments: m rogerson
+;Book: j hooper
+
+;Data entered by j hooper on 5/8/97
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+*equate galact3.1 galact2.1
+
+*begin galact3
+
+1	2	14.38	240	27
+3	2	16.19	006	-33
+3	4	21.12	187	38
+5	4	19.84	053	-45
+6	4	10.86	312	-12	
+6	7	30.65	113	-13
+8	7	21.18	224	26
+8	9	28.44	338	-16
+10	9	13.54	180	06
+10	11	5.14	351	-08
+12	11	26.55	153	24
+12	13	10.60	356	-39
+14	13	14.27	114	30
+15	13	18.14	050	-16
+15	16	17.33	191	29
+1	16	11.44	334	-33
+
+*end galact3
+

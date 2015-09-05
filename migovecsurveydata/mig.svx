@@ -10,7 +10,7 @@
 *calibrate compass -1.633   ;catch-all Yr2000 Compass Declination
 
 ;Sistem Migovec
-*include sysmig/sysmig.svx
+*include sysmig/sysmig.svx 
 
 ;Gardeners' World/Vrtnarija
 *include garden/s_garden
