@@ -18,6 +18,13 @@
 *equate gallery.0 shreddie.34
 *equate gallery.104 gallery.89
 
+; Jarv - 2015.12.29
+; Prima Dona is now connected to this part of the cave. 
+; I went back to the original notes, and found that station '301' is listed in
+; a set of data on a nice blue-inked made up survey notes. All the stations were
+; labelled in paper as 3XX, and correspond perfectly to data below. 
+; SO: if you find a PSS in NCB labelled 3XX, it corresponds to gallery.XX
+
 *begin gallery
 *date 1996.08.14
 0       1        5.9    245     +00     ;0 is rebelay bolt
@@ -28,6 +35,8 @@
 5       6       17.5    138     -09
 6       7       12.7    148     +14
 1       8       14.0    335     +09
+
+; Notes say for 301 'white bit on wall' - so I suspect the carbide mark itself isn't the PSS
 
 ;First Blind Pitch
 
