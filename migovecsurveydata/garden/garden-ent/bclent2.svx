@@ -32,3 +32,5 @@
 14	15	6.55	305	-21	;station 15 is pss at top of gardeners world or station 1 of bclent
 
 *end bclent2
+
+*entrance bclent2.0

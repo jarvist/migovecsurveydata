@@ -54,4 +54,4 @@
 
 ;added METAL CAMP Explicitly
 *equate kangaroo.metal_aven.9 METAL_CAMP
-*entrance METAL_CAMP
+

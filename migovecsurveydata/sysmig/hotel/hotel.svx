@@ -15,7 +15,7 @@
 
 *equate hotel.45 sajeta.20
 
-*entrance hotel.1 ; HOME SWEET HOME
+; *entrance hotel.1 ; HOME SWEET HOME
 
 *begin hotel
 *date 1997.07.30

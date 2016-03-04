@@ -13,7 +13,7 @@
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 
-;*entrance entrance.1
+*entrance entrance.1
 
 *begin entrance
 
