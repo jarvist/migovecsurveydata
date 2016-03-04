@@ -7,7 +7,9 @@
 *equate shreddie.8 turtle.8
 
 *begin shreddie
-
+*date 1995.07
+*data normal from to tape compass clino
+*sd tape 0.1 metres
 8       9        1.55   005     -65
 9      10        1.65   180     +00
 10     11        4.0    020     +45
@@ -43,4 +45,22 @@
 40     41        5.9     -      down
 41     42        3.3    120     +00
 
+*data passage station left right up down
+13	-	-	9.5	0
+14	0.5	0	8	0
+15	1	0	6	2
+16	0	0.5	0.5	6
+17	0	0.5	0.5	6
+18	0.5	0	0.5	6
+19	0	0.5	1	6
+20	1	0	-	1
+21	1.5	0	6	2
+22	1.0	0	-	3
+23	0.6	0	3	3
+24	0	0.5	3	3
+25	0.6	0	0.5	3
+26	0	0.5	2	3
+27	0	0.7	1	3
+28	0.2	0	1	3
+29	0.3	0	1	3
 *end shreddie
