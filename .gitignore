@@ -6,15 +6,15 @@
 *~
 
 ### vim ###
-.*.s[a-w][a-z]
+#  already covered by .* #   .*.s[a-w][a-z]
 *.un~
 Session.vim
 .netrwhist
-*~
 
 ### Survex ###
 *.err
 *.log
+*.3d
 
 ### Latex ###
 *.acn
@@ -33,7 +33,7 @@ Session.vim
 *.ind
 *.ist
 *.lof
-*.log
+#*.log
 *.lot
 *.maf
 *.mtc
