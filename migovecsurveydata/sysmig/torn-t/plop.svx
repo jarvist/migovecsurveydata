@@ -11,12 +11,21 @@
 ;Data entered by Mark 18/8/96
 
 ;data normal bcra grade 5
-;from	to	tape	comp	clino
 
 *equate plop.0 gallery.10
 
 *begin plop
 *date 1996.08.16
+*team "Peter Eland" 
+*team "Sarah Wingrove"
+;notes
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5SllHRVIzbjV5Wlk
+;diagrams
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5RHNCazM5cVlpYUU
+
+*flags duplicate ; This was resurveyed in 'plopzilla'
+
+*data normal from to tape compass clino
 0       1       3.90    -       down
 1       2       4.99    052     +28
 2       3       4.83    102     +16

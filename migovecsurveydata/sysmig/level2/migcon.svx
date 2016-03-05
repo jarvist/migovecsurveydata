@@ -41,13 +41,24 @@
 *equate migconleft.1 migcon.1
 
 *begin migconleft
-*date 1996.08.11
+*date 1996.08.10
+*team "Colm Carroll" book
+*team "Sarah Wingrove" instruments
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5NmNxeFJhZUhnVGc
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5RVF3MW1HcGNzZDQ
 
+*data normal from to tape compass clino
 2       1       10.87   345     -03
 2       3       20.23   049     -29
 3       4       7.53    066     +33
 4       5       11.53   021     +21
 5       6       20.33   049     +27
+
+*data passage station left right up down
+2   7   0   -   -
+3   0   7   5   -
+4   1   5   2   -
+5   1   12  5   -
 
 ;*equate migconleft.6 hotline.7
 
@@ -68,9 +79,21 @@
 
 *begin migcondown
 *date 1996.08.16
+*team "Iain McKenna" book tape
+*team "Mark Evans" compass clino
+*team "Jim Evans" moral support
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5VURNSHdBc1Bvd2M
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5SU11cnJLbWxPSnM
+
+*data normal from to tape compass clino
 0       1       7.50    125     -23
 2       3       28.99   250     +81
 3       4       31.00   285     +72
 4       1       1.62    305     +00
+
+*data passage station left right up down
+3   5   7   25   20
+4   7   2   10  20
+
 
 *end migcondown

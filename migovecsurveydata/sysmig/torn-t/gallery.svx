@@ -27,6 +27,13 @@
 
 *begin gallery
 *date 1995.07
+;notes
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5RlljR29PbGxTWnc
+;diagram
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5VnVGTWlaQ3ZPSjg
+
+*sd tape 0.1 metres
+
 0       1        5.9    245     +00     ;0 is rebelay bolt
 1       2       20.9    138     -05
 2       3        3.4    007     -40
@@ -46,6 +53,8 @@
 42      43      14.3     -      down
 
 ;First Traverse
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5VnVGTWlaQ3ZPSjg
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5TTZGSnV3U2ozSWs
 
 *data normal from to tape compass clino
 8       9       19.5    284     +06
@@ -79,6 +88,8 @@
 98	1	6	10	1
 
 ;Third Blind Pitch
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5Tmk1VjE2aFpBVW8
+
 *data normal from to tape compass clino
 15      80       7.3    288     +08
 80      81      12.5     -      down
@@ -102,6 +113,9 @@
 
 
 ;Second Traverse
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5U1JyalcyNEhRdFU
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZTQyZWdoSXJFSmc
+
 *data normal from to tape compass clino
 16      17       8.4    254     -18
 17      18      10.3    261     +03
@@ -124,6 +138,8 @@
 24	4	1	1	0
 
 ;Wet Pitch Near Bivvy
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5czQyWlhlY2NBaDg
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5QXdTQldITU9kbjA
 *data normal from to tape compass clino
 5       50      9.8     155     -15 
 50      51      2.0     034     +00

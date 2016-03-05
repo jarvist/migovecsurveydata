@@ -18,6 +18,12 @@
 *equate turtle.18 lowerrift.124
 
 *begin turtle
+*date 1995.07
+;notes
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5MlFjX2xEX05vME0
+;diagram
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5TGhCVTgtaWxnaFk
+
 *data normal from to tape compass clino
 *sd tape 0.1 metres
 1       2        4.3    192      0 

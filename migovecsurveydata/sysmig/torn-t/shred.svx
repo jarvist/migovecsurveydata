@@ -8,6 +8,11 @@
 
 *begin shreddie
 *date 1995.07
+
+;notes
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5VTlSMnZtQjRqek0
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5eEp1ZUhrS1VELVk
+
 *data normal from to tape compass clino
 *sd tape 0.1 metres
 8       9        1.55   005     -65
