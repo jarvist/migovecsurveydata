@@ -17,7 +17,10 @@
 
 *begin rockroll
 *date 1996.08.03
+*team "James Hooper" book
+*team "Andy Atkinson" tape compass clino
 
+*data normal from to tape compass clino
 1	2	9.50	280	-04.5	;Stn.1 is carbide mark on wall at bottom of Mig Country
 3	2	4.39	066.5	40.5
 3	4	2.95	037	-28
@@ -31,5 +34,20 @@
 11	12	7.19	045	-24	;Stn. 12 is a PSS on wall of choke
 
 1	0	20.32	339	39	;Stn.0 is cairn on rock on big ledge near base of Mig Country
+
+*data passage station left right up down
+2	1	2	1	0
+3	1	0	1	1
+4	4	1	1	2
+5	2	1	4	2
+6	0.5	0.5	0	4
+7	0.5	0.5	4	0
+8	1	1	0	0.5
+9	0.5	0.5	0	-
+10	0.4	0.4	5	0
+11	2	2	10	0
+12	4	1	4	2
+
+
 
 *end rockroll
