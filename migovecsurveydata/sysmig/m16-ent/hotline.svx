@@ -17,7 +17,12 @@
 *equate hotline.18 brezno.50
 
 *begin hotline
+*date 1996.08.08
+*team "Chris Roberts" instruments
+*team "Peter Eland" book
+*ref 
 
+*data normal from to tape compass clino
 1       2       16.90   112     +18
 3       2       20.49   326     +01
 3       4       20.45   135     +01
@@ -57,6 +62,17 @@
 17      18      3.85    286     +08
 
 ; hotline 18 in station 50in m16 (shortdrop 50)
+
+
+*data passage station left right up down
+1	4	5	4	0.5
+2	4	2	3	0.5
+3	1.5	4	4	1
+4	2	1.2	1	1
+
+*data passage station left right up down
+8	0	8	1	1
+9	0	5	3	0
 
 *end hotline
 
