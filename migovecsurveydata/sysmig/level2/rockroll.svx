@@ -19,7 +19,9 @@
 *date 1996.08.03
 *team "James Hooper" book
 *team "Andy Atkinson" tape compass clino
-
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5OHZrd2xNRmtEXzg
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5ekxhcUhaUE5HVHc
+*ref
 *data normal from to tape compass clino
 1	2	9.50	280	-04.5	;Stn.1 is carbide mark on wall at bottom of Mig Country
 3	2	4.39	066.5	40.5
@@ -29,6 +31,9 @@
 6	7	4.21	-	down
 8	7	2.50	274	-04
 8	9	1.22	093	-33
+
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZWFodVdod3JFdU0
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5Vk9SczlqM05sMk0
 9	10	5.02	-	down
 11	10	7.71	075	21
 11	12	7.19	045	-24	;Stn. 12 is a PSS on wall of choke
