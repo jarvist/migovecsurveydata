@@ -21,7 +21,7 @@
 *team "Andy Atkinson" tape compass clino
 *ref https://drive.google.com/open?id=0BxkZAUc06EK5OHZrd2xNRmtEXzg
 *ref https://drive.google.com/open?id=0BxkZAUc06EK5ekxhcUhaUE5HVHc
-*ref
+
 *data normal from to tape compass clino
 1	2	9.50	280	-04.5	;Stn.1 is carbide mark on wall at bottom of Mig Country
 3	2	4.39	066.5	40.5
