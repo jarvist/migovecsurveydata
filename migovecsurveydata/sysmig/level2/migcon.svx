@@ -10,14 +10,16 @@
 
 ;Data entered by J. Hooper 30/7/96
 
-;data normal bcra grade 5
-;from	to	tape	comp	clino
-
 *equate migcon.7 level2s.1
 
 *begin migcon
 *date 1996.07.28
+*team "Colm Carroll" instruments
+*team "James Hooper" book
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5alllamVHWHFxNXM
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5ak1zd0lXMWpySUE
 
+*data normal from to tape compass clino
 2	1	8.80	063	47	;Stn.1 is cairn at top of Mig Country
 3	2	21.08	111	17.5	
 4	3	7.88	122	-01	
@@ -25,6 +27,12 @@
 6	5	19.92	121	05	
 7	6	1.00	-	up	;Stn. 7 is cairn before Titanic (level2s.1)
 
+*data passage station left right up down
+1   3   3   10  1
+2   1   6   1   1.5
+3   8   3   4   1
+4   7   2   3   3
+5   8   8   -   -
 *end migcon
 
 ;M18 Mig Country to Cairn at Hotline
@@ -34,9 +42,6 @@
 ;Instruments: Sarah Wingrove
 
 ;Data entered by M.Evans 11/8/96
-
-;data normal bcra grade 5
-;from	to	tape	comp	clino
 
 *equate migconleft.1 migcon.1
 
