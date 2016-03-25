@@ -11,13 +11,16 @@
 
 ;Data entered by Shed on 3 August 1997
 
-;data normal bcra grade 5
-;from	to	tape	comp	clino
-
 *equate baddybag.14 goodbag.6 ;changed from \goodbag.6 by mje 6/9/97
 
 *begin baddybag
+*date 1997.08.02
+*team "Clewin Griffith" instruments
+*team "Alva Gosson" book
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5YzNFT01LbG15Y2s
+*ref https://drive.google.com/open?id=0BxkZAUc06EK5eEM0dFJfVWZxdm8
 
+*data normal from to tape compass clino
 1	2	2.90	17	5	;1 PSS on cairn 
 2	3	3.67	-	up
 3	4	2.20	20	13
