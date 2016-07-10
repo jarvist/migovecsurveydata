@@ -21,8 +21,8 @@
 *team "Sarah Wingrove" tape
 *team "Tim Wright" compass clino
 *team "James Hooper" book
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5LUFob3dyT0lNb3c
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZWEydlZqdFVzLTg
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5LUFob3dyT0lNb3c
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZWEydlZqdFVzLTg
 *data normal from to tape compass clino
 1	2	10.51	-	up	
 2	3	2.11	238	02	;Stn.2 is the bolt
@@ -30,8 +30,8 @@
 4	5	30.44	-	up	;Stn.4 is bottom of rope (p30)
 5	6	10.43	333	69	;Stn.5 is bolt at top of p30
 
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5OF8zS0lmMHVCRk0
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5clBPWU9abXNnUEE
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5OF8zS0lmMHVCRk0
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5clBPWU9abXNnUEE
 6	7	2.40	056	12
 7	8	3.80	324	10	;Stn. 7 is bolt nearest squeeze on NCB side
 8	9	1.60	041	20

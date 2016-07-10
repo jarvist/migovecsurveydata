@@ -20,8 +20,8 @@
 *date 1996.08.17
 *team "Iain McKenna" book tape
 *team "Mark Evans" compass clino
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5TkNOS092UVh1STA
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5Q0RFUk1Hbzl4WTQ
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5TkNOS092UVh1STA
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5Q0RFUk1Hbzl4WTQ
 *data normal from to tape compass clino
 1       2       7.27    030     +65
 2       3       7.02    340     +50

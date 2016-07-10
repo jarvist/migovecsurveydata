@@ -19,8 +19,8 @@
 *date 1996.08.04
 *team "Jim Evans" book
 *team "Sarah Wingrove" instruments
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5RlJIdU8zZ2RTcjQ
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5bUdtUzc3Rm1ZbUk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RlJIdU8zZ2RTcjQ
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5bUdtUzc3Rm1ZbUk
 *data normal from to tape compass clino
 31      32      2.85    132     -10.5	;Stn.31 is a carbide mark on wall of chamber
 32      33      1.86    175     -20	;Stn 32 is a cairn
@@ -36,8 +36,8 @@
 41      42      6.72    268     +1
 42      43      4.00    -       down
 
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5dDBrM19jWU1oXzg
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5TG1jZHFEQ3IwV0U
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5dDBrM19jWU1oXzg
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5TG1jZHFEQ3IwV0U
 41      44      8.05    306     -32
 44      45      7.62    022     -40	;Stn 45 is top bolt of pitch after below Brezno Stahov
 45      46      0.62    317     -21

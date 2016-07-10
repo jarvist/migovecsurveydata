@@ -16,8 +16,8 @@
 *date 1997.08.07
 *team "James Hooper" book
 *team "Jim Evans" instruments
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5RWhPaDQzcXltNms
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZGhESzI1SjVrMVE
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RWhPaDQzcXltNms
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZGhESzI1SjVrMVE
 
 *data normal from to tape compass clino
 1	2	9.75	341	-23

@@ -20,10 +20,10 @@
 *date 1996.08.14
 *team "Peter Eland" book
 *team "Sarah Wingrove" instruments
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5MTllRGtKS3h4ZmM
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5VVR2cGdzQVJrN1E
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5MEp1amQtTHB2dEU
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5V2hOQndPMm04V3c
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5MTllRGtKS3h4ZmM
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5VVR2cGdzQVJrN1E
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5MEp1amQtTHB2dEU
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5V2hOQndPMm04V3c
 *data normal from to tape compass clino
 0       1       4.07    109     +22
 1       2       5.07    347     -01

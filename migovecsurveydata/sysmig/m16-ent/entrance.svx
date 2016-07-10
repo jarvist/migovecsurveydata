@@ -19,8 +19,8 @@
 *date 1996.08.03
 *team "Sarah Wingrove" instruments
 *team "Colm Carroll" book
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5b3VDaUZJYk9rVDg
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5LWFqSDlqN3BOdXM
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5b3VDaUZJYk9rVDg
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5LWFqSDlqN3BOdXM
 
 *data normal from to tape compass clino
 1	2	4.79	032	-34	;Stn.1 is red paint mark in shakehole 
@@ -40,8 +40,8 @@
 15	16	9.70	-	down
 16	17	1.13	322	10
 
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5MGJVRkhhWW03Znc
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5bXBqSnBDMW5kU3c
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5MGJVRkhhWW03Znc
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5bXBqSnBDMW5kU3c
 17	18	16.21	-	down
 18	19	10.98	341	09		;Stn. 19 is a PSS carbide mark
 19	20	3.65	116	-23

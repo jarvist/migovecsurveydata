@@ -16,8 +16,8 @@
 *date 1997.08.14
 *team "Mark Evans" instruments
 *team "James Hooper" book
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5cUpTbFdEcWdJZ2s
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5VDUzeVFRRzhicmM
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5cUpTbFdEcWdJZ2s
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5VDUzeVFRRzhicmM
 
 *data normal from to tape compass clino
 1	2	8.00	-	down	;2 is a pss

@@ -19,8 +19,8 @@
 *date 1997.07.25
 *team "Alva Gosson" instruments
 *team "Jim Evans" book
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5V1BuWmg4cDZvcFU
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5bWpTdEJzMFhUaDQ
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5V1BuWmg4cDZvcFU
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5bWpTdEJzMFhUaDQ
 
 1	2	6.1	050	-02
 2	3	26.4	-	up

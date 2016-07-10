@@ -22,11 +22,11 @@
 *team "Iain McKenna" compass clino
 *team "Jim Evans" book
 ;notes
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5MjYxWFpxUnVETFk
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5NnFta2FWNERUbXM
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5MjYxWFpxUnVETFk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5NnFta2FWNERUbXM
 ;diagrams
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5Yy10d2JKb3lJUkk
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5UmtBUXdzVEt2Nkk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5Yy10d2JKb3lJUkk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5UmtBUXdzVEt2Nkk
 
 *data normal from to tape compass clino
 0	1	5.80	105	58	;Stn 0 is gallery.12

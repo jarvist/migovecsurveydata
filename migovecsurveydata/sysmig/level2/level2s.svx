@@ -21,9 +21,9 @@
 *team "James Hooper" book
 *team "Tim Wright" tape
 *team "Sarah Wingrove" compass clino
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5SENZa1U1U0JqZEE
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5d0x5VkQwZDF3Snc
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5RWVkSjVTUjkxMW8
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5SENZa1U1U0JqZEE
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5d0x5VkQwZDF3Snc
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RWVkSjVTUjkxMW8
 
 *data normal from to tape compass clino
 1	2	13.40	339	12	;Stn.1 is Cairn at top of Titanic

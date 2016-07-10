@@ -16,8 +16,8 @@
 *date 1996.07.28
 *team "Colm Carroll" instruments
 *team "James Hooper" book
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5alllamVHWHFxNXM
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5ak1zd0lXMWpySUE
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5alllamVHWHFxNXM
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5ak1zd0lXMWpySUE
 
 *data normal from to tape compass clino
 2	1	8.80	063	47	;Stn.1 is cairn at top of Mig Country
@@ -49,8 +49,8 @@
 *date 1996.08.10
 *team "Colm Carroll" book
 *team "Sarah Wingrove" instruments
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5NmNxeFJhZUhnVGc
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5RVF3MW1HcGNzZDQ
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5NmNxeFJhZUhnVGc
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RVF3MW1HcGNzZDQ
 
 *data normal from to tape compass clino
 2       1       10.87   345     -03
@@ -87,8 +87,8 @@
 *team "Iain McKenna" book tape
 *team "Mark Evans" compass clino
 *team "Jim Evans" moral support
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5VURNSHdBc1Bvd2M
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5SU11cnJLbWxPSnM
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5VURNSHdBc1Bvd2M
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5SU11cnJLbWxPSnM
 
 *data normal from to tape compass clino
 0       1       7.50    125     -23

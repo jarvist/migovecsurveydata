@@ -20,8 +20,8 @@
 *begin lowerrift                      
 *date 1995.07
 ;notes
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5a05MelhWYjFZaHc
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5emM3UEZ1N0ZjUFk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5a05MelhWYjFZaHc
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5emM3UEZ1N0ZjUFk
 
 *sd tape 0.1 metres
 *data normal from to tape compass clino

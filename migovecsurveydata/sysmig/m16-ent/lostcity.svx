@@ -19,9 +19,9 @@
 *date 1997.08.15
 *team "Tim Wright" book
 *team "Alva Gosson" instruments
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5RC1HdHllWG0yYTg
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5eENfWjJTUmlQdkk
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5dmsxajhyWkJkZW8
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RC1HdHllWG0yYTg
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5eENfWjJTUmlQdkk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5dmsxajhyWkJkZW8
 
 *data normal from to tape compass clino
 1	2	4.90	- 	down

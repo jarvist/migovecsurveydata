@@ -20,8 +20,8 @@
 *team "Jim Evans" instruments
 *team "Michael Playford" book
 *team "Hugh Penney"
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5NndMWnZqTTVRM3c
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5UldSQWJHdmpfOW8
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5NndMWnZqTTVRM3c
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5UldSQWJHdmpfOW8
 
 *data normal from to tape compass clino
 1	2	6.05	114	1     

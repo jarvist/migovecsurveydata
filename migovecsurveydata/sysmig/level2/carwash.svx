@@ -16,8 +16,8 @@
 *date 1996.08.20
 *team "Jim Evans" instruments
 *team "Iain McKenna" book
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZjFIQlNnRjQ3aG8
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5UGdSekpxVjFrVzg
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5ZjFIQlNnRjQ3aG8
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5UGdSekpxVjFrVzg
 
 *data normal from to tape compass clino
 1       2       5.08    346     26	;a pss on rock at top of xxx 

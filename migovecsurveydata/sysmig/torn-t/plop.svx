@@ -19,9 +19,9 @@
 *team "Peter Eland" 
 *team "Sarah Wingrove"
 ;notes
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5SllHRVIzbjV5Wlk
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5SllHRVIzbjV5Wlk
 ;diagrams
-*ref https://drive.google.com/open?id=0BxkZAUc06EK5RHNCazM5cVlpYUU
+;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RHNCazM5cVlpYUU
 
 *flags duplicate ; This was resurveyed in 'plopzilla'
 
