@@ -19,6 +19,13 @@
 ;2012 CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
 *equate garden.garden-low.dreamsforthesoul.1    system.hotelt.waterloo.13
 
+; 2015 CONNECTION BETWEEN MONATIP AND NCB, SYSTEM MIGOVEC
+; This connection makes the most sense from figuring out which PSS it should be
+;*equate s_monatip.monatip11.40   system.m18.gallery.1
+; This connection gives the smallest loop closure, and seems to attach at the
+; correct part of NCB for what the explorers remember!  
+;*equate s_monatip.monatip11.40   system.m18.gallery.7
+
 ;Vilinska Jama, new entrance to GW
 *equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
 
@@ -154,3 +161,4 @@
 ;*include DEM/2000m_circle.svx
 *include DEM/north_south_lines.svx
 *end DEM
+
