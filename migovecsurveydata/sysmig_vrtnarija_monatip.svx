@@ -32,6 +32,7 @@
 ;Pri Madoni and other smaller caves
 *include primadona/primadona
 *equate surf.07.surf_prima_planika.7 prim.prima1.35
+*equate prim.therock.14 s_monatip.alkatraz.7
 
 ;*include planika/s_planika
 ;*equate surf.07.surf_ubend_planika.15 planika.planika.1

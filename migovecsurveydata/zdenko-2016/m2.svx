@@ -1,0 +1,17 @@
+;Sysmig: M2
+
+*begin m2
+;M2
+;*fix  	izent1.16	405016		123850		1850		;uradna lokacija	
+*fix  	izent1.16	405058.715 	123963.608 	1855		;lokacija po GPS ICCC
+;*fix  	izent1.16	405016.12	123962.31	1835.64		;lokacija po Survexu
+
+*entrance izent1.16
+
+*include izent1
+*include jspdt
+
+
+*equate izent1.1	jspdt.1	
+
+*end m2

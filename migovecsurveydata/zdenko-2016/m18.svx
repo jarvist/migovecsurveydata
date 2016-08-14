@@ -1,0 +1,27 @@
+;Sysmig: M18
+
+*begin m18
+;*fix  	torn.26	405025		123980		1840	;uradna lokacija	
+;*fix  	torn.26 404943.976 	123974.289 	1853	;lokacija po GPS ICCC
+;*fix  	torn.26	405040		123930		1851	;lokacija po Survexu	
+*fix  	torn.26	405053.18		123972.77		1850.80	;lokacija po poligonu od M16
+
+*entrance torn.26
+;*fix  	torn.26	
+
+*include torn
+*include lowerrift
+*include turtle
+*include shreddie
+*include gallery
+*include silos
+*include void
+
+*equate torn.2	lowerrift.2
+*equate	lowerrift.124	turtle.18
+*equate	turtle.8		shreddie.8
+*equate	shreddie.34	gallery.0
+*equate	gallery.2		silos.1
+*equate void.17 	gallery.2
+
+*end m18

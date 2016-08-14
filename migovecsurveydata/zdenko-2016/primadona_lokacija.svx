@@ -1,0 +1,19 @@
+;lokacija Primadone in Mona tipa
+
+*date 2015.12.30
+;Merili: Rejec Z., Rejec N. 
+
+*fix primadona_lokacija.1 	404533	123865	1723	;greben pred Primadono po LIDAR
+
+;data normal bcra grade 5
+
+*begin primadona_lokacija
+*data normal from to tape compass clino	;komentar
+*set decimal (.)
+2	1		25.35	318.5	+8.8	;
+3	2		34.27	337.5	-10.8	;
+3	prima	12.79	183		+0.3	;
+12	1		9.00	104		+22.1	;
+12	monatip		50	58	+13			;
+
+*end primadona_lokacija

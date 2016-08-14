@@ -19,8 +19,9 @@
 *equate galerija.29	Risa2.12
 
 *begin galerija
-
+*flags SPLAY
 1	2	27.6	0	+90	;stn 1 Rokovo brezno
+*flags not SPLAY
 2	3	2.05	13	+39	;stn 3 PSS svedrovec vijola konec risticeve vizure
 3	4	5.15	23	36	
 ;4a	5	8.55	38	-18

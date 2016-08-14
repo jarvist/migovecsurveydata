@@ -1,0 +1,26 @@
+;System Migovec
+
+*begin povezava
+
+*include monatip
+*include M2
+*include M16
+*include M18
+
+
+;*include sM16_M4_M18
+
+;*include s1
+
+;povezava Mona tip z M18
+;*equate monatip.monatip11.40	m18.gallery.1	
+
+;povezava M2 z M18  
+;*equate m2.jspdt.24	m18.silos.8
+
+;povezava M16 z M18
+;*equate m16.level2s.14	m18.void.6		
+
+
+
+*end povezava

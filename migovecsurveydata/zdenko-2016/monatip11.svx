@@ -1,0 +1,113 @@
+;Mona tip
+;katasterska številka: 10180
+;Date: 12/12/15
+*date 2015.12.12
+;Merili:
+;od T1 do T24 merila Ristiè D., Maver N.
+;od T24 do konca merili Fratnik A., Ristiè D., Maver N.
+;ostali udelezenci: Maffi G.
+;Risali: 
+
+;Data entered by Zdenko Rejec 12/12/15
+
+;data normal bcra grade 5
+
+;navezava 
+;*equate 	monatip11.1     monatip10.15 	;
+;*equate 	monatip11.1     monatip10.8		;
+;*equate 	monatip11.11     monatip10.15	;
+*begin monatip11
+*data normal from to tape compass clino	;komentar
+*set decimal (.)
+
+1	2	3.7	108	2	;1- ta toèka je možic- "stožec iz kamna"
+2	3	3.6	240	-67	;
+3	4	4.7	141	6	;3- ožji rov je tudi zgoraj
+4	5	4.8	110	-4	;rov s kapniki 
+5	6	4.2	104	21	;
+6	7	3.8	127	-19	;
+7	8	4.4	110	15 ;
+8	9	10.5 138 0	;
+9	10	8.6 129 -4	;9- toèka je na fixu na zaèetku preèke
+10	11	4.8 170 -11	;
+;11	12	0 0 0 	;
+11	13	15.7 124 5 	;preèka, pod njo najmanj 30 m brezna.
+13	14	5.0 125 7 	;
+14	15	8.4 118 16	;
+15	16	6.9 121 -2;
+16	17	4.9 155 -17;
+17	18	6.6 108 18;
+;18	19	0 0 0 ;
+18	20	8.0 80 13  ;
+20	21	2.3 46 10  ;20- na levi je neznan kamin
+21	22	16.8 100 11 ;preèka, pod njo brezno
+22 	23 	3.2 65 20 ;23- tu se konèa rov 
+23	24	14.3 118 -53 ;Brezno pojoèe skalce 8m x 15m, globina cca 30m
+24 	24a	11.2 170 -2 ;merjeno v stranski del, kjer je možno nadaljevanje
+24	25	52.2 52 20 ;pri toèki 24 se konèa galerija "Vzporedni svet"
+25	26	7.0 10 20 ;med toèkama veèje brezno
+26	27	29 330 0 ;
+27	28	10.7 308 -8 ;27 do 30: "Kamnožer"- po tleh so skalni bloki in med njimi so možna nadaljevanja
+28	29	14.0 341 4 ;
+29	30	25.4 324 -2 ;
+30	31	20.0 7 8 ;
+31	32	6.6 25 50 ;
+32	33	19.3 13 13 ;	
+33	34	10.0 342 0 ;34 je zaèetek prekopanega podora. To je ožina z imenom "95-15". Ta povezuje Mona tip s sistemom Mig 
+34	35	6.7 338 17 ;
+35	36	3.2 349 19 ;razširitev v podoru, kjer kaplja voda
+36	37	6.2 332 12 ;ozek meander
+37	38	1.9 320 0 ;meander
+38	39	4.7 300 35 ;meander
+39	40	2.6 330 -20 ;40 je toèka izven ožinin- je na zaenkrat neznani toèki 301 ICCC
+
+;*data passage station left right up down
+;1 	1	1	1	0	
+;3	1.5	0	1.5	0	
+;4	1.5	0	1.5	0
+;5	1	1	0.7	0
+;6	2	2	3	0
+;7	3 	3	3	0
+;8	3	2	3	0
+;9	3	3	3	0
+;10	3	3	0	0
+;12	4	2	0.5	0
+;13	2	2	1	0
+;14	2	2	0.7	0	
+;15	2	2	3	0
+;16	1.5	1.5	1.5	0
+;17	2	2	3	0
+;18	2	2	3	0	
+;19	3	3	0	0	
+;20	1.5	1.5	1.5	0
+;21	1.5	1.5	1.5	0
+;22	3	1	1	0
+;23	brezno 8m x 15m- cca30m globine
+;24	5	5	5	0	
+;25	5	5	8	0
+;26	8	3	7	0
+;27	5	15	5	0
+;28	1	4	5	0
+;29	2	4	3	0
+;30	7	5	3	0
+;31	3	3	3	0
+;32	2	2	2	0
+;33	2	10	12	0
+;34	4	0.5	2	0
+;35	0.2	0.2	0.2	0
+;36	2	2	3	0
+;37	0.2	0.2	0.3	0
+;38	0.2	0.2	0.3	0
+;39 0.2	0.2	0.3	0
+;40 tudi toèka 301
+
+;merjenje globine in višine brezen z lasercem, ki pa se ne upoštevajo v statistiki
+;*flags splay
+*flags duplicate
+11	11a	30.0	0	-90
+23	23a	30		0	-90
+;*flags not splay
+*flags not duplicate
+
+
+*end monatip11

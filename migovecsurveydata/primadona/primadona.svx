@@ -8,6 +8,25 @@
 *date 2000
 ;Generic date, will get overridden if data present in individual files
 
+;2016
+*include karstaway
+*include dejavu
+*include therock
+*include memorylane
+*include quantum_state
+*include gamblers_ruin
+*include Cattle_Grid
+;*include Auld_Alliance
+*include tight_and_scrotty
+*include Galeria_Resurvey
+*include The_Stile
+*include Upside_Down_Chamber
+*include Colony
+*include hall_of_the_mountain_king
+*include mighty_fine_indeed
+*include terminus
+*include what_a_coincidence
+;2000
 *include zima00
 *include TTT
 *include prima1
@@ -25,6 +44,8 @@
 *include smer0
 *include smer1
 *include ajdovscina
+
+
 
 ;*include berti
 

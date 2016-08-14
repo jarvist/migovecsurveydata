@@ -18,10 +18,12 @@
 *include monatip5	;31.10.2012- Tjasa Rutar, Nejc Maver, Dejan Ristic, Grega Maffi
 *include monatip6	;23.06.2013- Tjasa Rutar, Nejc Maver, Dejan Ristic, Grega Maffi
 *include monatip7	;07.07.2013- Tjasa Rutar, Dejan Ristic, Grega Maffi...
-*include monatip8   ;11.08.2013- Clair, Fratnik A., Iv�ak A., Maffi G., Maver N., �ibej K.
-*include monatip09  ;22.08.2015- Risti� D., Tru�novc B., Maffi G., Fratnik A.
-*include monatip10  ;27.09.2015- Rejec Z., Tru�novc B., Maffi G, Fratnik A.
-*include monatip11  ;12.12.2015- Fratnik A., Risti� D., Maffi G., Maver N.
+*include monatip8   ;11.08.2013- Clair, Fratnik A., Iv?ak A., Maffi G., Maver N., ?ibej K.
+*include monatip09  ;22.08.2015- Risti? D., Tru?novc B., Maffi G., Fratnik A.
+*include monatip10  ;27.09.2015- Rejec Z., Tru?novc B., Maffi G, Fratnik A.
+*include monatip11  ;12.12.2015- Fratnik A., Risti? D., Maffi G., Maver N.
+*include cloacamaxima
+*include Auld_Alliance
 
 *equate 	monatip2.27	    monatip1.27
 *equate 	monatip3.37     monatip2.37

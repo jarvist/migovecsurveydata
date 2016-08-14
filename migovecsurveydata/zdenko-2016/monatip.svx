@@ -1,0 +1,31 @@
+;Mona tip:
+
+*begin monatip
+
+*entrance monatip01.1
+;*cs UTM33N
+;*cs out UTM33N
+;*fix  	monatip01.1		404561		123836		1734	;uradna lokacija
+;*fix  monatip01.1 		404540.248 	123899.441 	1743 	;GPS lokacija ICCC
+;*fix  	monatip01.1		404524.55	123863.69	1732.09 ;lokacija po Survexu
+;*fix  	monatip01.1 	46.25247	13.75709	1743 	;WGS84
+*fix  	monatip01.1 	404557	123885	1730	;lokacija po LIDAR in po poligonu z grebena
+;toèka na grebenu po LIDAR: 404532 123866 1723m
+
+*include monatip01
+*include monatip05	;31.10.2012- Tjasa Rutar, Nejc Maver, Dejan Ristic, Grega Maffi
+*include monatip06	;23.06.2013- Tjasa Rutar, Nejc Maver, Dejan Ristic, Grega Maffi
+*include monatip07	;07.07.2013- Tjasa Rutar, Dejan Ristic, Grega Maffi...
+*include monatip09	;22.08.2015- Ristiè D., Trušnovc B.,Maffi G, Fratnik A.
+*include monatip10	;27.09.2015- Rejec Z., Trušnovc B.,Maffi G, Fratnik A.
+*include monatip11	;12.12.2015- Fratnik A., Ristiè D., Maffi G, Maver N,
+
+*equate 	monatip01.27	monatip05.27 
+*equate 	monatip05.1		monatip06.16     
+*equate 	monatip06.8 	monatip07.20     
+*equate 	monatip06.9 	monatip09.8     	
+*equate 	monatip07.6		monatip10.1     
+;*equate 	monatip11.1     monatip10.15
+*equate 	monatip11.1     monatip10.8
+;*equate 	monatip11.11     monatip10.15
+*end monatip

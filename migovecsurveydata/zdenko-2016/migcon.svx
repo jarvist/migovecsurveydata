@@ -1,0 +1,52 @@
+; System Migovec 
+; (c) 1994 - 1997 Imperial College Caving Club
+; Surveyed to BCRA Grade 5b
+
+;M18 Mig Country to Cairn at Titanic
+
+;Date: 28/7/96
+;Instruments: Colm Carroll
+;Book: James "Tetley" Hooper
+
+;Data entered by J. Hooper 30/7/96
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+*begin migcon
+
+;*equate migconleft.1 migcon.1
+
+2	1	8.80	063	47	;Stn.1 is cairn at top of Mig Country
+3	2	21.08	111	17.5	
+4	3	7.88	122	-01	
+5	4	21.31	111	08	
+6	5	19.92	121	05	
+7	6	1.00	-	up	;Stn. 7 is cairn before Titanic (level2s.1)
+
+;M18 Mig Country to Cairn at Hotline
+
+;Date: 11/8/96
+;Book: Colm Carroll
+;Instruments: Sarah Wingrove
+
+;Data entered by M.Evans 11/8/96
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+
+
+
+12       1       10.87   345     -03
+12       13       20.23   049     -29
+13       14       7.53    066     +33
+14       15       11.53   021     +21
+15       16       20.33   049     +27
+
+
+
+;6 is permanent cairn hotline 7
+
+
+*end migcon

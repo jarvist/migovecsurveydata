@@ -1,0 +1,39 @@
+;Monatip:
+
+*begin
+
+*entrance monatip01.1
+;*cs utm60s
+*fix  	monatip01.1		404560.66	123835.66	1733.89
+
+*include monatip01
+*include monatip02
+*include monatip03
+*include monatip04       ; 7.8.2008 - Aljosa, Izi, Dan G
+*include doubletime     ; 7.8.2008 - Aljosa, Izi, Dan G
+*include broken_hammer  ; 8.8.2008 - Izi, Tet, Rutar S.
+*include alkatraz   ; 8.8.2008 - Izi, Tet
+*include monatip05	;31.10.2012- Rutar T., Maver N., Ristiè D., Maffi G.
+*include monatip06	;23.06.2013- Rutar T.,  Maver N., Ristiè D., Maffi G.
+*include monatip07	;07.07.2013- Rutar T., Ristiè D., Maffi G.
+*include monatip08	;11.08.2013- Clair, Fratnik A., Ivšak A., Maffi G., Maver N., Èibej K.
+*include monatip09	;22.08.2015- Ristiè D., Trušnovc B., Maffi G., Fratnik A.
+*include monatip10	;27.09.2015- Rejec Z., Trušnovc B., Maffi G, Fratnik A.
+*include monatip11	;12.12.2015- Fratnik A., Ristiè D., Maffi G., Maver N.
+
+*equate 	monatip02.27	monatip01.27
+*equate 	monatip03.37     monatip02.37
+*equate 	monatip04.1      broken_hammer.16
+*equate 	doubletime.20	monatip04.50
+*equate 	broken_hammer.1 monatip03.44
+*equate 	alkatraz.1 	monatip04.50
+*equate 	monatip05.27     monatip02.27
+*equate 	monatip06.16     monatip05.1 
+*equate 	monatip07.20     monatip06.8 
+*equate 	monatip08.8     	monatip07.1
+*equate 	monatip09.8     	monatip06.9 
+*equate 	monatip10.1     monatip07.6
+;*equate 	monatip11.1     monatip10.15
+*equate 	monatip11.1     monatip10.8
+
+*end

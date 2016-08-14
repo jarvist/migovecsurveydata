@@ -1,0 +1,24 @@
+;Sysmig: M16
+
+*begin m16
+;*fix  	entrance.1		405010 123850 1855 	;uradna lokacija
+;*fix  	entrance.1		405069.936 123842.259 1855 	;lokacija po GPS ICCC
+;*fix  	entrance.1		405033.5 123828.56 1839.08	;lokacija po Survexu
+;*fix  	entrance.1		405070 123842	1861 	;lokacija po ARSO, Atlas okolja
+*fix  	entrance.3		405070 123841	1850 	;lokacija točke 3 po LIDAR
+
+*entrance entrance.1
+
+*include entrance
+*include brezno	
+*include hotline
+*include migcon
+*include level2s
+
+
+*equate entrance.31	brezno.31	
+*equate brezno.48	hotline.15	  
+*equate hotline.7	migcon.16	    
+*equate migcon.7	 level2s.1
+
+*end m16
