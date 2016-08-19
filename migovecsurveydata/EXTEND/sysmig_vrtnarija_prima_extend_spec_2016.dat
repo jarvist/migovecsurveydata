@@ -144,7 +144,7 @@
 ;(2015 connectfix commented out)
 ;*eswap system.coldfeet.wonder.61
 ;(2015 connectfix changed to 9 from 3)
-*eswap system.coldfeet.coldfeet.9
+;*eswap system.coldfeet.coldfeet.9
 ;(2015 connectfix commented out)
 ;*eswap system.pdox.marwood.23 system.pdox.marwood.24
 
@@ -251,7 +251,7 @@
 *eswap system.hotelt.hotel.19
 
 ;Jacks fucking about
-;*eswap garden.garden-low.magicdragon.1
+*eswap garden.garden-low.magicdragon.1
 
 *eleft garden.garden-low.eastlinks.23 garden.garden-low.eastlinks.22
 *eright garden.garden-low.stuckinparadise2.1 garden.garden-low.kneekiller.21
@@ -262,12 +262,12 @@
 *break garden.garden-low.gravity.1 garden.garden-low.gravity.2
 
 ;Bend Colorado Sump and extensions to the left, leaving lazarus to the right
-*eleft garden.garden-low.miles.11
+;*eleft garden.garden-low.miles.11
 
 ;All of this to compact the old system into the left a bit
 *eleft system.hotelt.hotel.17
 *eright system.coldfeet.pinkp.18
-*eleft system.coldfeet.wonder.28
+*eright system.coldfeet.wonder.28
 
 ;Flip Marwood Inlet so its in some nice empty space
 *eswap system.pdox.marwood.23 system.pdox.marwood.24
@@ -296,3 +296,72 @@
 *eswap system.coldfeet.wonder.64
 *eswap system.hotelt.waterloo.10
 *eswap system.hotelt.elephant.1 system.hotelt.elephant.2
+
+
+;###################2016#################
+
+;PRIMADONA
+;Sorting main entrance of Primadona, Drugi Vhod and Ubend
+*eleft prim.prima1.35 prim.drugi.14
+*eright u-bend.ubend_drainpipe.2 u-bend.ubend_drainpipe.1
+*eleft u-bend.ubend_drainpipe.5 u-bend.ubend_drainpipe.6
+
+;POVEZAVA ROUTE
+*eleft prim.ttt.22
+
+
+;TWO PITCH SERIES CONNECTION
+;On new side of connection (Karstaway etc.)
+*eleft prim.karstaway.25
+*eright prim.karstaway.18
+*eleft prim.karstaway.18 prim.karstaway.19
+*eleft prim.colony.7
+*eright prim.what_a_coincidence.29 prim.hall_of_the_mountain_king.1
+
+;On old side of connection (TTT etc.)
+*eright prim.ttt.12 prim.ttt.13
+*eright prim.ttt.1
+*eright prim.zima00.12
+
+
+;BELOW CATTLE GRID
+*eleft prim.quantum_state.11
+*eright prim.galerija.16 prim.galerija.15
+*eleft prim.karstaway.39 prim.galeria_resurvey.2
+*eright prim.the_stile.11 prim.the_stile.12
+*eleft prim.cattle_grid.16 prim.cattle_grid.17
+
+
+
+;MONATIP
+;Connection NCB Monatip moved to the right. Gallery swapped to bring Lost City etc. to the left
+*eswap system.m18.gallery.8
+
+;getting Double time out of the way of Monatip rift
+*eswap s_monatip.doubletime.19
+
+;monatip6 passage out of the way of monatip rift
+*eleft s_monatip.monatip6.8 s_monatip.monatip6.7
+
+;minor edit to cloaca maxima - puts undescended pitch closer to reality
+*eleft s_monatip.cloacamaxima.23 s_monatip.cloacamaxima.24
+
+;CONNECTION PRIMA-MONATIP
+;all routes converge to Alkatraz
+*eright s_monatip.monatip4.1
+*eleft s_monatip.monatip3.43
+*eleft prim.memorylane.10 prim.memorylane.9
+*eleft s_monatip.cloacamaxima.53 s_monatip.cloacamaxima.52
+*eright s_monatip.cloacamaxima.44 s_monatip.cloacamaxima.43
+*eleft s_monatip.cloacamaxima.53 s_monatip.monatip2.28
+
+;Putting Sejna Soba next to Monatip connection (where is the survey data?)
+*eleft prim.podor.1 prim.prima2.29
+*eright prim.prima1.1 prim.prima1.2
+
+
+
+;SYSMIG
+;Messing around with old deep sysmig to clear up.
+*eswap system.coldfeet.wonder.42
+
