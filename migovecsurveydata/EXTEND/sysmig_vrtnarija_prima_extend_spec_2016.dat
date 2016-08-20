@@ -248,13 +248,14 @@
 
 ;Concertina Warriors for Mig/Hotel to take up less space
 *eswap system.hotelt.hotel.26
-*eswap system.hotelt.hotel.19
+;*eswap system.hotelt.hotel.19
 
 ;Jacks fucking about
 *eswap garden.garden-low.magicdragon.1
 
 *eleft garden.garden-low.eastlinks.23 garden.garden-low.eastlinks.22
 *eright garden.garden-low.stuckinparadise2.1 garden.garden-low.kneekiller.21
+*eswap garden.garden-low.apuntoofar1.4
 
 ;#####################2015#######################################
 
@@ -265,9 +266,9 @@
 ;*eleft garden.garden-low.miles.11
 
 ;All of this to compact the old system into the left a bit
-*eleft system.hotelt.hotel.17
+;*eleft system.hotelt.hotel.17
 *eright system.coldfeet.pinkp.18
-*eright system.coldfeet.wonder.28
+;*eright system.coldfeet.wonder.28
 
 ;Flip Marwood Inlet so its in some nice empty space
 *eswap system.pdox.marwood.23 system.pdox.marwood.24
@@ -290,10 +291,10 @@
 ;Some lines adjusted above search for "2015 connectfix" to find them
 *eright system.hotelt.hotel.2
 *eswap system.coldfeet.wonder.66 system.coldfeet.wonder.67
-*eleft system.coldfeet.coldfeet.20
-*eswap system.coldfeet.glory.1
-*eswap system.coldfeet.wonder.66
-*eswap system.coldfeet.wonder.64
+;*eleft system.coldfeet.coldfeet.20
+;*eswap system.coldfeet.glory.1
+;*eswap system.coldfeet.wonder.66
+;*eswap system.coldfeet.wonder.64
 *eswap system.hotelt.waterloo.10
 *eswap system.hotelt.elephant.1 system.hotelt.elephant.2
 
@@ -363,5 +364,11 @@
 
 ;SYSMIG
 ;Messing around with old deep sysmig to clear up.
-*eswap system.coldfeet.wonder.42
+*eright system.coldfeet.wonder.49
+*eright system.hotelt.hotel.26
+*eleft system.coldfeet.doh.18 system.coldfeet.pinkp.18
+*eright system.hotelt.elephant.1 system.hotelt.elephant.2
 
+
+;VRTNARIJA
+*eleft garden.garden-low.colarado.4
