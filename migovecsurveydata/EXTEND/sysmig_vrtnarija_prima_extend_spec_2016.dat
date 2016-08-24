@@ -299,7 +299,7 @@
 *eswap system.hotelt.elephant.1 system.hotelt.elephant.2
 
 
-;###################2016#################
+;###################2016###########################
 
 ;PRIMADONA
 ;Sorting main entrance of Primadona, Drugi Vhod and Ubend
@@ -308,7 +308,7 @@
 *eleft u-bend.ubend_drainpipe.5 u-bend.ubend_drainpipe.6
 
 ;POVEZAVA ROUTE
-*eleft prim.ttt.22
+*eleft prim.ttt.23
 
 
 ;TWO PITCH SERIES CONNECTION
@@ -351,14 +351,18 @@
 ;all routes converge to Alkatraz
 *eright s_monatip.monatip4.1
 *eleft s_monatip.monatip3.43
+*eright prim.therock.13 prim.therock.14
 *eleft prim.memorylane.10 prim.memorylane.9
 *eleft s_monatip.cloacamaxima.53 s_monatip.cloacamaxima.52
 *eright s_monatip.cloacamaxima.44 s_monatip.cloacamaxima.43
 *eleft s_monatip.cloacamaxima.53 s_monatip.monatip2.28
+*eleft s_monatip.cloacamaxima.12 s_monatip.cloacamaxima.11
 
 ;Putting Sejna Soba next to Monatip connection (where is the survey data?)
 *eleft prim.podor.1 prim.prima2.29
 *eright prim.prima1.1 prim.prima1.2
+*eleft prim.prima2.24 prim.prima2.25
+*eright prim.podor.1 prim.podor.2
 
 
 
