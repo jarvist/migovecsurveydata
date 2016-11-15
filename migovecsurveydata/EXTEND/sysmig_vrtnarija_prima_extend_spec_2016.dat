@@ -336,7 +336,12 @@
 
 ;MONATIP
 ;Connection NCB Monatip moved to the right. Gallery swapped to bring Lost City etc. to the left
-*eswap system.m18.gallery.8
+*eleft system.m18.gallery.8 system.m18.gallery.9
+;Unfolding NCB and bringing M2 further right.
+*eleft system.m18.gallery.1 system.m18.gallery.8
+*eleft system.m18.silos.1 system.m18.gallery.1
+*eswap system.m18.gallery.0
+*eswap system.m18.lowerrift.117
 
 ;getting Double time out of the way of Monatip rift
 *eswap s_monatip.doubletime.19
