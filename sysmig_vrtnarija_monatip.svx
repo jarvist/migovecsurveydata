@@ -1,0 +1,118 @@
+;Whole migovec plateau
+; Clewin Griffith, Imperial College Caving Club 2001
+;edded Primadona- Zdenko Rejec- 11.2003
+;Addition of DEM (has to go at the bottom of this file) - 6.2009 Jarvist Moore Frost
+
+*copyright 2001 ICCC
+
+; CAVES
+
+*calibrate compass -1.633   ;catch-all Yr2000 Compass Declination
+
+;Sistem Migovec
+*include sysmig/sysmig.svx 
+
+;Gardeners' World/Vrtnarija
+*include garden/s_garden
+*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
+
+;2012 CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
+*equate garden.garden-low.dreamsforthesoul.1    system.hotelt.waterloo.13
+
+; 2015 CONNECTION BETWEEN MONATIP AND NCB, SYSTEM MIGOVEC
+; This connection makes the most sense from figuring out which PSS it should be
+;*equate s_monatip.monatip11.40   system.m18.gallery.1
+; This connection gives the smallest loop closure, and seems to attach at the
+; correct part of NCB for what the explorers remember!  
+*equate s_monatip.monatip11.40   system.m18.gallery.7
+
+;Vilinska Jama, new entrance to GW
+*equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
+
+;Pri Madoni and other smaller caves
+*include primadona/primadona
+*equate surf.07.surf_prima_planika.7 prim.prima1.35
+*equate prim.therock.14 s_monatip.alkatraz.7
+
+;*include planika/s_planika
+;*equate surf.07.surf_ubend_planika.15 planika.planika.1
+;*entrance planika.planika.1
+
+*include ubend/s_ubend
+*equate u-bend.ubend2.5 surf.07.surf_ubend_planika.1
+*equate u-bend.ubend2.5 surf.00.s4.UB
+*equate u-bend.ubend_drainpipe.2 prim.drugi.4
+
+;*include others/b9
+;*equate B9.23 surf.07.surf_ubend_planika.9
+;*entrance B9.23 
+
+*include monatip/s_monatip
+*equate surf.07.surf_prima_planika.6 s_monatip.monatip1.1
+
+;Surface Surveys
+*include surface/surface
+
+*equate surf.00.s1.M16       		system.m16ent.entrance.1
+;*equate surf.00.s4.pm        		primadona.prima1.35
+
+*equate surf.96.s1.M2  		system.m2.izent2.19
+*equate surf.96.s1.M18		system.m18.torn.26
+
+;*equate surf.00.s1.m10 surf.96.s1.M10
+
+*entrance system.m16ent.entrance.1
+*entrance garden.garden-ent.bclent2.0  
+*entrance others.m17.29
+*entrance surf.01.sM17_NSCa.M17
+*entrance surf.01.sM17_NSCb.nsc
+*entrance system.m2.izent1.16 
+*entrance system.m2.izent2.19
+
+;Apparently this fix is from the 1:10'000 scale military ex-Yugoslavian maps
+*fix system.m2.izent1.16        405040         123930         1851
+;*fix system.m2.izent1.16 		5405040		5123930		1861
+;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843
+
+;Trig Point info, from Zdenko:
+;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points: 
+;
+;#352 Tolminski Migovec:     5405022,6         5123150,0
+;#20 Vrh nad Skrbino:          5406302,7         5124087,4 
+;#364 Grusnica:                    5403984,6         5122439,8
+;#120 Planina Razor:            5407087,3         5122035,1
+;#55 Tolminski Kuk:            5404539,7         5124804,8
+
+;From Fix with little yellow etrex ~2008:
+;KUKTRG <wpt lat="46.260667155" lon="13.756897151">  <ele>2089.535400</ele>
+
+*begin PEAKS
+*flags surface
+*fix MIGOVEC 405022.6 123150.0 1860
+*entrance MIGOVEC
+*fix KUKTRG 404539.7 124804.8 2049
+*entrance KUKTRG
+*end PEAKS
+
+*include gps.svx
+
+;These are accurate geographic viepoints for the view from Ravne & Tolmin, for generating the overlay photographs
+*begin VIEWPOINTS
+*flags surface
+*fix PARADISO 402199.939 116088.251 200
+*fix RAVNE    405167.010 121638.182 1000
+*entrance RAVNE
+*entrance PARADISO
+*end VIEWPOINTS
+
+;Include DEM data at end as not always properly formatted
+*begin DEM
+*flags surface
+;*include DEM/1800m_kuk.svx
+;*include DEM/north_south_strip.svx
+;*include DEM/east_west_lines.svx
+;This is our largest DEM dataset
+;*include DEM/2000m_circle.svx
+*include DEM/north_south_lines.svx
+*end DEM
+

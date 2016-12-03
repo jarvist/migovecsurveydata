@@ -1,0 +1,374 @@
+*start garden.garden-ent.bclent2.0
+*eleft garden.garden-ent.bclent2.0
+
+;break off CK - this puts main pitch series on far left
+*break garden.kangaroo.fools_road.4
+
+
+;bounce laurel to right
+*eswap garden.garden-ent.laurel.13
+
+;head bonus back to right
+*eswap garden.kangaroo.bonus.13
+*eswap garden.garden-ent.zimmer.2
+*eswap garden.garden-ent.banzai.11
+
+;*eswap garden.garden-ent.pico.10
+*eswap garden.kangaroo.kangaroo01.22
+
+
+
+;through olympic rift back towards main line
+;*eswap garden.kangaroo.scrotty.31
+
+*eswap garden.kangaroo.mudslump.27
+
+;send dangermouse away from mudslump
+*eswap garden.kangaroo.dangermouse.8
+*eswap  garden.kangaroo.greenback.5 garden.kangaroo.greenback.inlet
+*eswap  garden.kangaroo.greenback.2 garden.kangaroo.greenback.1
+
+;send DM towards kill'em on main pitch
+;*eswap garden.kangaroo.dangermouse.4
+
+;send climb above primula towards metal camp aven
+*eswap garden.kangaroo.keti.7
+
+;fire ride the lightning towards bottom of DM
+;*eswap garden.kangaroo.ride_the_lightning.6
+*eswap garden.kangaroo.kill_em_all.2
+*eswap garden.kangaroo.intravenus_de_milo.7
+
+*eswap garden.kangaroo.dark_tranquillity.3
+
+;get primula near the top of dark tranquility
+
+;bounce hanging garden towards fools road
+;*eswap garden.kangaroo.happy_monday.1
+
+;send Below Zimmer into blank space
+*eswap garden.garden-low.belowzimmer.1
+
+;bounce lower GW back
+*eswap garden.garden-low.candymountain.2
+
+;separate balamory
+*eswap garden.garden-low.cascade.11
+
+;Sep blind spot from balamory
+*eswap garden.garden-low.blind.9
+
+*eswap garden.garden-low.mushroom.15
+;count for weird loop
+*eswap garden.garden-low.greed.22
+;and other weird loop - Cactus Junct is a mess!
+
+; 2010
+
+*break garden.garden-low.crack_in_time.carbide
+;Now send korita back towards envy + tuck out of way from Leopard
+*eswap garden.garden-low.eggsplosive.7
+
+*eswap garden.garden-low.wonderland.12
+
+*eswap garden.garden-low.ouroboros.22
+
+*eswap garden.garden-low.kamikaze.28
+
+;Z-fold Wonderland underneath Korita and then back under Prince Consort
+*eswap garden.garden-low.wonderland.4
+
+*eswap garden.garden-low.wonderland.1
+*eswap garden.garden-low.palace.5
+
+*eswap garden.garden-low.republica.14
+
+*eswap garden.garden-low.fallsrd.6
+*eswap garden.kangaroo.roaring.8
+
+; 2011 ADDITIONS
+
+*eswap garden.garden-low.redbaron.2
+
+*eswap garden.garden-low.mad_cow.15
+
+*eswap garden.garden-low.eastlinks.23 
+
+;*eswap garden.garden-low.eastlinks.6 ;Now we want to keep on sending this to the left...
+
+*eswap garden.garden-low.krtkovadobradela.9
+
+*eswap garden.garden-low.krtekinorel.0
+*eswap garden.garden-low.herojtelemarkal1.1
+
+; 2012 - OH GOD, WHO CONNECTED THESE SYSTEMS?!
+
+*eswap system.hotelt.hotel.32
+;*eswap system.m16low.galact1.1
+*eswap system.level2.paradiso.10
+*eswap system.level2.paradiso2.3
+*eswap system.level2.paradiso.2
+*eswap system.level2.paradiso.7
+*eswap system.level2.gloworm.16
+*eswap system.level2.gloworm.11
+;*eswap system.whitestar.titanic.17
+*eswap system.m2.napsihiran_rov.1
+*eswap system.m2.jspdt.25
+*eswap system.m2.oct08.8
+*eswap system.m2.kinder_surprise.6
+
+;Reflect cascade / ballamory
+*eswap garden.garden-low.soda.25
+*eswap garden.garden-low.cascade.30
+*eswap garden.garden-low.stagger_lee.16
+
+;HOT PANTS
+*eswap garden.garden-low.hotpants.7
+*eswap garden.garden-low.peepshow.11
+*eswap garden.garden-low.peepshow.7
+*eswap garden.garden-low.peepshow.1
+*eswap garden.garden-low.why_the_face.13
+
+;Waterloo / BNW
+;*eswap garden.garden-low.bravenewworld.1
+
+*eswap garden.garden-low.milkyway.26
+*eswap garden.garden-low.dreamsforthesoul.4
+*eswap garden.garden-low.dreamsforthesoul.2
+*eswap system.hotelt.waterloo.12
+
+;(2015 connectfix commented out)
+;*eswap system.hotelt.trunk.9
+
+;Lower system to the sumps
+;(2015 connectfix commented out)
+;*eswap system.coldfeet.wonder.61
+;(2015 connectfix changed to 9 from 3)
+;*eswap system.coldfeet.coldfeet.9
+;(2015 connectfix commented out)
+;*eswap system.pdox.marwood.23 system.pdox.marwood.24
+
+*eswap system.pdox.pencil.23
+*eswap system.pdox.pencil.25
+*eswap system.coldfeet.god.30
+*eswap system.coldfeet.god.19
+;bounce M16 to right
+;*eswap system.level2.level2s.5
+*eswap system.level2.level2s.7
+
+;seperate M2 entrances
+*eswap system.m2.izent1.15
+
+*eswap system.m2.izent1.9
+*eswap system.m2.jspdt.3
+
+*eswap system.m18.torn.7
+*eswap system.m18.upperrift.1
+
+*eswap system.m16low.hydrant.3
+*eswap system.m16low.hydrant.14
+
+;fold up Galactica to look less ludicrous
+*eswap system.m16low.galact3.8
+*eswap system.m16low.tamoka.2
+
+;bend very entrance of M16 back to make it look like drawn survey (West-East Sysmig 2007)
+*eswap system.m16ent.entrance.8
+
+;Concertina Rock 'n' Roll below Mig County
+*eswap system.level2.rockroll.2
+*eswap system.level2.rockroll.11
+*eswap system.level2.boogywoo.5
+*eswap system.level2.toilet.7
+
+*eswap system.level2.polter.8
+*eswap system.level2.disillusion.7
+*eswap system.level2.waffles.7
+*eswap system.level2.obelix.1
+*eswap system.level2.obelix.9
+
+*eswap system.level2.exhib.21
+*eswap system.level2.exhib.20
+
+*eswap system.level2.oratory.8
+
+;Weird M16 entrance stuff
+*eswap system.m16low.batshita.2
+
+*eswap system.m16low.mower.7
+*eswap system.m16low.frogshit.9
+
+;2013 ADDITIONS
+
+;Fix Milky Way so that the passage looks like it drops into Queens bedchamber
+*eswap garden.garden-low.milkyway.12 garden.garden-low.milkyway.13
+
+;Kokain series
+*eswap garden.garden-low.balamory.7
+*eswap garden.garden-low.pick_your_poison.4 garden.garden-low.pick_your_poison.2
+
+;Brezno Slapov
+;*eswap garden.garden-low.lethe.24
+
+;Invictus 
+*eswap garden.garden-low.bravenewworld.4
+;*eswap garden.garden-low.bravenewworld.18
+
+;Xanadu/Cuckoo's Nest
+*eright garden.garden-low.rejuvenation_rift.27 garden.garden-low.cuckoos_nest.17
+*eswap garden.garden-low.500m.2 garden.garden-low.xanadont.11
+*eswap garden.garden-low.time_bandits.11
+*eswap garden.garden-low.rejuvenation_rift.16 garden.garden-low.rejuvenation_rift.12
+;fix Xanadu 2012
+*eright garden.garden-low.xanadu.12 garden.garden-low.xanadu.13
+*eleft garden.garden-low.xanadu.13
+*eright garden.garden-low.xanadu.7 garden.garden-low.xanadu.8
+*eswap garden.garden-low.euphrates.6
+*eswap garden.garden-low.euphrates.3
+*eleft garden.garden-low.500m.1 garden.garden-low.500m.2
+
+;Hash
+*eswap garden.garden-low.hash.19 garden.garden-low.eastlinks.24
+*eswap garden.garden-low.hash.10
+*eswap garden.garden-low.hash.8
+*eswap garden.garden-low.hash.7
+*eswap garden.garden-low.hash.6
+
+
+
+;Yorkshire
+;*eswap garden.garden-low.labyrinth.4	garden.garden-low.labyrinth.3
+;*eswap garden.garden-low.labyrinth.18
+;*eleft garden.garden-low.labyrinth.18 garden.garden-low.labyrinth.27
+;*eswap garden.garden-low.curiousandcuriouser.2
+;*eswap garden.garden-low.curiousandcuriouser.11
+*eswap garden.garden-low.labyrinth.8 garden.garden-low.labyrinth.7
+*eswap garden.garden-low.lowerpleasures.5
+*eswap garden.garden-low.2ndtimelucky.6
+
+;Concertina Warriors for Mig/Hotel to take up less space
+*eswap system.hotelt.hotel.26
+;*eswap system.hotelt.hotel.19
+
+;Jacks fucking about
+*eswap garden.garden-low.magicdragon.1
+
+*eleft garden.garden-low.eastlinks.23 garden.garden-low.eastlinks.22
+*eright garden.garden-low.stuckinparadise2.1 garden.garden-low.kneekiller.21
+*eswap garden.garden-low.apuntoofar1.4
+
+;#####################2015#######################################
+
+;Break gravity/highway32 so that it comes off Big Rock and not gravity
+*break garden.garden-low.gravity.1 garden.garden-low.gravity.2
+
+;Bend Colorado Sump and extensions to the left, leaving lazarus to the right
+;*eleft garden.garden-low.miles.11
+
+;All of this to compact the old system into the left a bit
+;*eleft system.hotelt.hotel.17
+*eright system.coldfeet.pinkp.18
+;*eright system.coldfeet.wonder.28
+
+;Flip Marwood Inlet so its in some nice empty space
+*eswap system.pdox.marwood.23 system.pdox.marwood.24
+
+;Ensures that Jericho/JetStream apex nearly connects back with SicSemper
+;Currently joined via Blast
+*eswap garden.garden-low.meridianway.16 garden.garden-low.meridianway.17
+
+;Getting shit out of the way of Helm's Deep Chamber
+*eswap garden.garden-low.blind.1
+*eswap garden.garden-low.soda.35
+
+;Ensuring that Gravity nearly connects with Highway32
+*eswap garden.garden-low.hydrophobia.10 garden.garden-low.hydrophobia.9
+
+;Compacting empty quarter
+*eswap garden.garden-low.emptyquarter.16
+
+;These adjustments are to try to stop the system overlapping with waterloo/connection area
+;Some lines adjusted above search for "2015 connectfix" to find them
+*eright system.hotelt.hotel.2
+*eswap system.coldfeet.wonder.66 system.coldfeet.wonder.67
+;*eleft system.coldfeet.coldfeet.20
+;*eswap system.coldfeet.glory.1
+;*eswap system.coldfeet.wonder.66
+;*eswap system.coldfeet.wonder.64
+*eswap system.hotelt.waterloo.10
+*eswap system.hotelt.elephant.1 system.hotelt.elephant.2
+
+
+;###################2016#################
+
+;PRIMADONA
+;Sorting main entrance of Primadona, Drugi Vhod and Ubend
+*eleft prim.prima1.35 prim.drugi.14
+*eright u-bend.ubend_drainpipe.2 u-bend.ubend_drainpipe.1
+*eleft u-bend.ubend_drainpipe.5 u-bend.ubend_drainpipe.6
+
+;POVEZAVA ROUTE
+*eleft prim.ttt.22
+
+
+;TWO PITCH SERIES CONNECTION
+;On new side of connection (Karstaway etc.)
+*eleft prim.karstaway.25
+*eright prim.karstaway.18
+*eleft prim.karstaway.18 prim.karstaway.19
+*eleft prim.colony.7
+*eright prim.what_a_coincidence.29 prim.hall_of_the_mountain_king.1
+
+;On old side of connection (TTT etc.)
+*eright prim.ttt.12 prim.ttt.13
+*eright prim.ttt.1
+*eright prim.zima00.12
+
+
+;BELOW CATTLE GRID
+*eleft prim.quantum_state.11
+*eright prim.galerija.16 prim.galerija.15
+*eleft prim.karstaway.39 prim.galeria_resurvey.2
+*eright prim.the_stile.11 prim.the_stile.12
+*eleft prim.cattle_grid.16 prim.cattle_grid.17
+
+
+
+;MONATIP
+;Connection NCB Monatip moved to the right. Gallery swapped to bring Lost City etc. to the left
+*eswap system.m18.gallery.8
+
+;getting Double time out of the way of Monatip rift
+*eswap s_monatip.doubletime.19
+
+;monatip6 passage out of the way of monatip rift
+*eleft s_monatip.monatip6.8 s_monatip.monatip6.7
+
+;minor edit to cloaca maxima - puts undescended pitch closer to reality
+*eleft s_monatip.cloacamaxima.23 s_monatip.cloacamaxima.24
+
+;CONNECTION PRIMA-MONATIP
+;all routes converge to Alkatraz
+*eright s_monatip.monatip4.1
+*eleft s_monatip.monatip3.43
+*eleft prim.memorylane.10 prim.memorylane.9
+*eleft s_monatip.cloacamaxima.53 s_monatip.cloacamaxima.52
+*eright s_monatip.cloacamaxima.44 s_monatip.cloacamaxima.43
+*eleft s_monatip.cloacamaxima.53 s_monatip.monatip2.28
+
+;Putting Sejna Soba next to Monatip connection (where is the survey data?)
+*eleft prim.podor.1 prim.prima2.29
+*eright prim.prima1.1 prim.prima1.2
+
+
+
+;SYSMIG
+;Messing around with old deep sysmig to clear up.
+*eright system.coldfeet.wonder.49
+*eright system.hotelt.hotel.26
+*eleft system.coldfeet.doh.18 system.coldfeet.pinkp.18
+*eright system.hotelt.elephant.1 system.hotelt.elephant.2
+
+
+;VRTNARIJA
+*eleft garden.garden-low.colarado.4
