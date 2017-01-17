@@ -120,6 +120,9 @@
 ;*fix system.m2.izent1.16 		5405040		5123930		1861
 ;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843
 
+; This fix is from a standard eTrex fix on M10; converted via Carto Converter, JMF ~2009
+;*fix surf.00.s1.m10     404967.453      123798.276          1862 ; see file gps.svx, height from nearby GPS fix
+
 ;Trig Point info, from Zdenko:
 ;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points: 
 ;
