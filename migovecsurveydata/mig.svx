@@ -91,8 +91,8 @@
 *include monatip/s_monatip
 *equate surf.07.surf_prima_planika.6 s_monatip.monatip1.1
 
-;*include kukpot/s_kukpot
-;*fix kukpot.ent 404606.123 125626.115 1767.015625
+*include kukpot/s_kukpot
+*fix kukpot.entrance 404606.123 125626.115 1767.015625
 ;7pt conversion from WGS84 with Cartographic Converter + data for GO region
 ;Checking against KUKTRG waypoint (2008) vs. registered location below, I get ~6m accuracy (mainly in Eastings).
 ;Waypoint from 2009 recce: <wpt lat="46.268011210" lon="13.757593855">  <ele>1767.015625</ele>
@@ -124,6 +124,9 @@
 *fix system.m2.izent1.16        405040         123930         1851
 ;*fix system.m2.izent1.16 		5405040		5123930		1861
 ;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843
+
+; This fix is from a standard eTrex fix on M10; converted via Carto Converter, JMF ~2009
+;*fix surf.00.s1.m10     404967.453      123798.276          1862 ; see file gps.svx, height from nearby GPS fix
 
 ;Trig Point info, from Zdenko:
 ;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points: 
