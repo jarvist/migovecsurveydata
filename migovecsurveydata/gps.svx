@@ -16,7 +16,7 @@
  *entrance  B20
 *fix  B9 404621.818 123888.160 10 
  *entrance  B9
-*fix  BCAIRN 404705.663 123775.680 0 
+*fix  BCAIRN 404705.663 123775.680 1864 
  *entrance  BCAIRN
 *fix  BIVVI 404947.216 123786.363 1861 
  *entrance  BIVVI

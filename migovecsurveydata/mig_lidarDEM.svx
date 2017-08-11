@@ -64,7 +64,7 @@
 ;*include razor/s_razor
 
 ;Pri Madoni and other smaller caves
-*include primadona/primadona
+*include primadona/primadona_2017
 *equate surf.07.surf_prima_planika.7 prim.prima1.35
 
 *include others/freezer

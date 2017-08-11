@@ -22,6 +22,10 @@
     *calibrate compass -1.30
 	*include spiny
 	*include dinsdale
+	
+	*date 2017.07
+	*calibrate compass +3.46
+	*include death_by_a_1000_blows
 *end m16ent
 
 

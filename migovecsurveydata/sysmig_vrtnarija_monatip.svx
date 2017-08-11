@@ -30,7 +30,7 @@
 *equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
 
 ;Pri Madoni and other smaller caves
-*include primadona/primadona
+*include primadona/primadona_2017
 *equate surf.07.surf_prima_planika.7 prim.prima1.35
 *equate prim.therock.14 s_monatip.alkatraz.7
 

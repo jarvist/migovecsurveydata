@@ -94,6 +94,14 @@
 	*equate 96.s2.M10 00.s1.M10
 	*equate 96.s2.M15 01.s0725.M15
 	*equate 96.s2.M17 01.sM10_RV_M17.M17
+
+	;2017 survey
+	*begin 17
+	*date 2010
+	*include 17/gondolin_surface
+	*end 17
+	
+	
 *end surf
 
 

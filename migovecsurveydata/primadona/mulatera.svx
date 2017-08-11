@@ -15,7 +15,7 @@
 *flags surface
 
 *begin mulatera
-
+*flags surface
 2	vogal	50,00	128	-18	;spodnji levi vogal jamarske koèe na Kalu
 kamn	kamn1	50,00	50	0	;kamen, ki naj bi bil kota
 kamn1	vogal	25,70	31	9
@@ -59,4 +59,5 @@ kamn1	vogal	25,70	31	9
 38	37	5,35	59	8
 kapelica	38	31,30	112	8	;kapelica Primadone, višina po žigu 1540 m
 
+*flags not surface
 *end mulatera

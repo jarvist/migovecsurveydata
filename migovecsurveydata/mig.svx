@@ -49,6 +49,10 @@
 *equate surf.96.s1.M1		M1.1
 *entrance M1.1
 
+*include others/gondolin
+*equate surf.17.gondolin_surface.24 gondolin.16
+*equate gps.bcairn surf.17.gondolin_surface.1
+
 *include others/M6
 *equate surf.07.surf_m6m16.0 M6.0
 
@@ -104,6 +108,7 @@
 
 *equate surf.96.s1.M2  		system.m2.izent2.19
 *equate surf.96.s1.M18		system.m18.torn.26
+
 
 ;*equate surf.00.s1.m10 surf.96.s1.M10
 
