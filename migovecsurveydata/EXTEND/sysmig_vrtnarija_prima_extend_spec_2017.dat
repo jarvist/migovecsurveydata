@@ -309,7 +309,7 @@
 
 ;POVEZAVA ROUTE
 ;*eright prim.ttt.23
-*eright prim.ttt.18
+
 
 ;TWO PITCH SERIES CONNECTION
 ;On new side of connection (Karstaway etc.)
@@ -354,9 +354,9 @@
 
 ;CONNECTION PRIMA-MONATIP
 ;all routes converge to Alkatraz
-*eleft s_monatip.monatip4.1
-*eright s_monatip.monatip3.43
-*eleft prim.therock.13 prim.therock.14
+;*eleft s_monatip.monatip4.1
+;*eright s_monatip.monatip3.43
+*eright prim.therock.25 prim.therock.24
 *eright prim.memorylane.10 prim.memorylane.9
 *eright s_monatip.cloacamaxima.53 s_monatip.cloacamaxima.52
 *eleft s_monatip.cloacamaxima.44 s_monatip.cloacamaxima.43
@@ -365,9 +365,10 @@
 
 ;Putting Sejna Soba next to Monatip connection (where is the survey data?)
 *eright prim.podor.1 prim.prima2.29
-*eleft prim.prima1.1 prim.prima1.2
+;*eleft prim.prima1.1 prim.prima1.2
+*eleft prim.prima2.26 prim.prima2.27
 *eright prim.prima2.24 prim.prima2.25
-*eleft prim.podor.1 prim.podor.2
+;*eleft prim.podor.1 prim.podor.2
 
 
 
@@ -383,74 +384,128 @@
 *eright garden.garden-low.colarado.4
 
 ;*********2017*************
+;Clearing the Sejna-Soba lower Monatip connection
+*eleft s_monatip.alkatraz.7 s_monatip.alkatraz.8
+*eleft prim.risa2.12
+*eleft prim.galerija.18
+*eright prim.popotresni.pop8 prim.popotresni.pop7 
+*eleft prim.ttt.14 prim.ttt.15
+*eright prim.therock.14
+*eleft prim.therock.13
+*eright prim.galerija.27 prim.popotresni.kak12
+*eright prim.risa2.12 prim.pov.28
+*eleft prim.therock.3
+*eleft prim.galerija.15 prim.galerija.16
+*eleft prim.galerija.16 prim.galerija.17
+*eright prim.prima1.8 prim.prima1.7
+*eright prim.brez_volje.pop22 prim.brez_volje.bv2
+*eright prim.brez_volje.pop22 prim.popotresni.pop21
+*eleft  prim.popotresni.pop14  prim.popotresni.pop15
+*eleft  prim.popotresni.pop8 
+*eright  prim.popotresni.pop25
 
-;Around Povezava branch
-*eright prim.pov.1 prim.pov.2
-;*eleft prim.pov.11 prim.pov.12
-;*eleft prim.apple_crumble.25 prim.apple_crumble.24
-*eleft prim.prima2.24 prim.prima2.25
-*eright prim.prima2.25 prim.prima2.26
+
+
+
+;Connecting Prima to Monatip near Alkatraz
+*eleft s_monatip.monatip4.1
+*eleft prim.therock.3 prim.prima1.9
+*eleft prim.testing_the_waters.20 prim.testing_the_waters.19
+
+*eleft prim.testing_the_waters.8 
+;Around Povezava aven
+*eleft prim.pov.2
+*eleft prim.pov.11 prim.pov.12
+
+*eleft prim.apple_crumble.25 prim.apple_crumble.24
+
+
 *eright prim.apple_crumble.22 prim.apple_crumble.21
 
-;Organising the TTT branch
-*eswap prim.mandare_resurvey.1
+;Around Batmere and Stara Jama
+*eleft prim.mandare_resurvey.1 prim.mandare_resurvey.2
+
+;Organising the TTT branch - Deja Vu junction moved out of the way.
 *eleft prim.dejavu.1 prim.dejavu.2
+
 *eswap prim.ajdovscina.2
+
 *eleft prim.ttt_resurvey.9 prim.ttt_resurvey.8
-*eright prim.ttt_resurvey.5 prim.ttt_resurvey.4
-*eright prim.buckwheat_resurvey.4 prim.what_a_coincidence.2
+
+*eleft prim.ttt_resurvey.47 prim.ttt_resurvey.46
+*eright prim.ttt.23
+
+*eleft prim.what_a_coincidence.1
+*eright prim.what_a_coincidence.3
 *eleft prim.buckwheat_resurvey.4 prim.zima00.8
-*eright prim.buckwheat_resurvey.2
+
+
 *eright prim.hammerhead2.17 prim.hammerhead2.21
+
 *eleft prim.high_and_dry.10 prim.high_and_dry.9
-*eright prim.ttt.16
 
 
-;Organising the Galerija Branch and reconnecting the loops
-*eright prim.hall_of_the_mountain_king.1 prim.hall_of_the_mountain_king.2
-*eleft prim.galerija.10 prim.galerija.9
-*eleft prim.galerija.16 prim.galerija.17
+
+;Organising the Galerija Branch
+;*eleft prim.galerija.10 prim.galerija.9
+;*eleft prim.galerija.16 prim.galerija.17
 *eleft prim.galeria_resurvey.6 prim.galeria_resurvey.5
-*eright prim.more_like_welding.14
-*eright prim.electric_dreams.5
-*eright prim.karstaway.25 prim.karstaway.24
-*eleft prim.stranglehold.33 prim.stranglehold.32
+*eleft prim.galerija.11 prim.galerija.10
+
 *eleft prim.quantum_state.14 prim.quantum_state.13
 *eright prim.quantum_state.7
+
 *eleft prim.terminus.15
 
+*eleft prim.upside_down_chamber.5 prim.upside_down_chamber.4
+
+;Connecting the loops on Hall of the Mountain King - Stranglehold
+
+;******Karstaway branch********
+*eright prim.hall_of_the_mountain_king.1 prim.hall_of_the_mountain_king.2
+
+
+*eleft prim.karstaway.18 prim.karstaway.17
+*eleft prim.karstaway.25
+
+*eright prim.entirely_my_fault.16 
+*eleft prim.entirely_my_fault.7 prim.entirely_my_fault.14
+
+;*****Stranglehold branch******
+*eleft prim.stranglehold.33 prim.stranglehold.32
 *eright prim.stranglehold.7 prim.stranglehold.16
 *eleft prim.stranglehold.5
 *eleft prim.stranglehold.14
-*eleft prim.more_like_welding.3 prim.more_like_welding.4
-*eleft prim.more_like_welding.5 prim.more_like_welding.6
-*eleft prim.karstaway.18 prim.karstaway.17
-*eleft prim.karstaway.22
-*eright prim.entirely_my_fault.16 
 
-*eleft prim.entirely_my_fault.7 prim.entirely_my_fault.14
-
-*eright prim.more_like_welding.6 prim.more_like_welding.13
 *eright prim.the_atrium.1 prim.the_atrium.5
+
+;******Electric dreams branch*******
+*eright prim.electric_dreams.5
+
+;*eright prim.more_like_welding.14
+*eleft prim.more_like_welding.3 prim.more_like_welding.4
+;*eleft prim.more_like_welding.5 prim.more_like_welding.6
+*eright prim.more_like_welding.6 prim.more_like_welding.13
 
 
 ;Redoing the Cattlegrid loop
 *eleft prim.cattle_grid.7 prim.cattle_grid.6
+*eright prim.cattle_grid.7 prim.cattle_grid.8
 *eright prim.cattle_grid.3 prim.cattle_grid.16
+*eleft prim.cattle_grid.22
+
 *eright prim.the_stile.1 prim.the_stile.2
 *eleft prim.the_stile.10 prim.the_stile.11
-*eright prim.cattle_grid.7 prim.cattle_grid.8
-*eleft prim.cattle_grid.22
 
 ;Organising Fenestrator branch
 *eleft prim.fenestrator.9 prim.fenestrator.8
 *eright prim.battery_flattery.10
 *eleft prim.alabaster.4 prim.alabaster.5
 
-;Connecting Prima to Monatip 
-*eleft prim.prima1.3 prim.prima1.2
+
 
 ;Organising SMER0
+;Jack of Hearts already extended in right direction
 *eright prim.smer0.57 prim.smer0.56
 
 
