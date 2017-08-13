@@ -366,8 +366,7 @@
 ;Putting Sejna Soba next to Monatip connection (where is the survey data?)
 *eright prim.podor.1 prim.prima2.29
 ;*eleft prim.prima1.1 prim.prima1.2
-*eleft prim.prima2.26 prim.prima2.27
-*eright prim.prima2.24 prim.prima2.25
+
 ;*eleft prim.podor.1 prim.podor.2
 
 
@@ -383,21 +382,43 @@
 ;VRTNARIJA
 *eright garden.garden-low.colarado.4
 
-;*********2017*************
-;Clearing the Sejna-Soba lower Monatip connection
-*eleft s_monatip.alkatraz.7 s_monatip.alkatraz.8
-*eleft prim.risa2.12
-*eleft prim.galerija.18
-*eright prim.popotresni.pop8 prim.popotresni.pop7 
-*eleft prim.ttt.14 prim.ttt.15
+;*********2017************* Most stuff from 2016 commented out due to new loops created rendering previous specs obsolete
+
+;Clearing the Sejna-Soba-Monatip, Alkatraz Prima connections.
+;For reference: Alkatraz -> Prima2 (Stara Jama) is via Testing_the_waters and The Rock
+;		Alkatraz-> Prima1 (Spiral Climb) is via The Rock
+
+
+*eleft s_monatip.alkatraz.7 s_monatip.alkatraz.8 ; puts far end of Alkatraz to the left
+*eleft s_monatip.monatip4.1 ;extends monatip rift towards Primadona
+
+*eleft prim.testing_the_waters.20 prim.testing_the_waters.19 ; All these shenanigans reconnect the double loops + resurveys
+*eleft prim.testing_the_waters.8 
+*eleft prim.therock.3
 *eright prim.therock.14
 *eleft prim.therock.13
+
+;Sorting out the entrance series - Survex Loop goes through TTT branch->Mandare-> Stara Jama-> Entrance Series of Primadona
+*eright prim.prima1.8 prim.prima1.9  
+*eleft prim.prima1.10 prim.prima1.11
+*eright prim.prima1.8 prim.prima1.7
+*eleft prim.prima2.26 prim.prima2.27
+*eright prim.prima2.24 prim.prima2.25
+
+
 *eright prim.galerija.27 prim.popotresni.kak12
+
+;The bit of cave near Mary’s café - including Sejna Soba. Survex Loop extended from TTT branch -> What a Coincidence -> Karstaway -> SmerO.
+
+*eleft prim.risa2.12
 *eright prim.risa2.12 prim.pov.28
-*eleft prim.therock.3
+
 *eleft prim.galerija.15 prim.galerija.16
 *eleft prim.galerija.16 prim.galerija.17
-*eright prim.prima1.8 prim.prima1.7
+
+
+;Extensions near Sejna Soba, including some rediscovered data (Brez Volje branch or Free Will)
+*eright prim.popotresni.pop8 prim.popotresni.pop7 
 *eright prim.brez_volje.pop22 prim.brez_volje.bv2
 *eright prim.brez_volje.pop22 prim.popotresni.pop21
 *eleft  prim.popotresni.pop14  prim.popotresni.pop15
@@ -405,60 +426,50 @@
 *eright  prim.popotresni.pop25
 
 
-
-
-;Connecting Prima to Monatip near Alkatraz
-*eleft s_monatip.monatip4.1
-*eleft prim.therock.3 prim.prima1.9
-*eleft prim.testing_the_waters.20 prim.testing_the_waters.19
-
-*eleft prim.testing_the_waters.8 
-;Around Povezava aven
+;Around Povezava aven (high TTT branch)
 *eleft prim.pov.2
 *eleft prim.pov.11 prim.pov.12
 
-*eleft prim.apple_crumble.25 prim.apple_crumble.24
+*eright prim.apple_crumble.26 prim.apple_crumble.25
+*eright prim.apple_crumble.2 prim.apple_crumble.3
+*eleft prim.apple_crumble.22 prim.apple_crumble.21
 
-
-*eright prim.apple_crumble.22 prim.apple_crumble.21
-
-;Around Batmere and Stara Jama
+;Around Batmere and Stara Jama (Mandare connection)
 *eleft prim.mandare_resurvey.1 prim.mandare_resurvey.2
 
-;Organising the TTT branch - Deja Vu junction moved out of the way.
+;Organising the lower TTT branch - Deja Vu junction moved out of the way.
 *eleft prim.dejavu.1 prim.dejavu.2
-
-*eswap prim.ajdovscina.2
-
-*eleft prim.ttt_resurvey.9 prim.ttt_resurvey.8
-
-*eleft prim.ttt_resurvey.47 prim.ttt_resurvey.46
+*eleft prim.ttt.14 prim.ttt.15
 *eright prim.ttt.23
 
+*eleft prim.ttt_resurvey.9 prim.ttt_resurvey.8
+*eleft prim.ttt_resurvey.47 prim.ttt_resurvey.46
+
+;Getting the connection between TTT and karstaway right
 *eleft prim.what_a_coincidence.1
 *eright prim.what_a_coincidence.3
 *eleft prim.buckwheat_resurvey.4 prim.zima00.8
 
 
+;Cleaning the Deja Vu branch
 *eright prim.hammerhead2.17 prim.hammerhead2.21
-
 *eleft prim.high_and_dry.10 prim.high_and_dry.9
 
 
 
-;Organising the Galerija Branch
+;Organising the Galerija Branch (resurveys and loops)
 ;*eleft prim.galerija.10 prim.galerija.9
 ;*eleft prim.galerija.16 prim.galerija.17
 *eleft prim.galeria_resurvey.6 prim.galeria_resurvey.5
 *eleft prim.galerija.11 prim.galerija.10
+*eleft prim.galerija.18
 
+
+;Galerija extensions cleaned up for clarity
+;Quantum State (2016)
 *eleft prim.quantum_state.14 prim.quantum_state.13
 *eright prim.quantum_state.7
-
 *eleft prim.terminus.15
-
-*eleft prim.upside_down_chamber.5 prim.upside_down_chamber.4
-
 ;Connecting the loops on Hall of the Mountain King - Stranglehold
 
 ;******Karstaway branch********
@@ -487,7 +498,7 @@
 ;*eleft prim.more_like_welding.5 prim.more_like_welding.6
 *eright prim.more_like_welding.6 prim.more_like_welding.13
 
-
+ 
 ;Redoing the Cattlegrid loop
 *eleft prim.cattle_grid.7 prim.cattle_grid.6
 *eright prim.cattle_grid.7 prim.cattle_grid.8
@@ -507,5 +518,8 @@
 ;Organising SMER0
 ;Jack of Hearts already extended in right direction
 *eright prim.smer0.57 prim.smer0.56
+
+;Upside Down Chamber
+*eleft prim.upside_down_chamber.5 prim.upside_down_chamber.4
 
 
