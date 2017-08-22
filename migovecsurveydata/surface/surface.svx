@@ -99,8 +99,10 @@
 	*begin 17
 	*date 2010
 	*include 17/gondolin_surface
+	
 	*end 17
 	
+  	*equate 17.gondolin_surface.bcairn 00.s1.5
 	
 *end surf
 

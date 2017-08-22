@@ -406,6 +406,7 @@
 *eright prim.prima2.24 prim.prima2.25
 
 
+
 *eright prim.galerija.27 prim.popotresni.kak12
 
 ;The bit of cave near Mary’s café - including Sejna Soba. Survex Loop extended from TTT branch -> What a Coincidence -> Karstaway -> SmerO.
@@ -477,7 +478,8 @@
 
 
 *eleft prim.karstaway.18 prim.karstaway.17
-*eleft prim.karstaway.25
+*eright prim.karstaway.25
+*eleft prim.karstaway.21
 
 *eright prim.entirely_my_fault.16 
 *eleft prim.entirely_my_fault.7 prim.entirely_my_fault.14

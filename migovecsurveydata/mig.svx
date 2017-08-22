@@ -51,7 +51,7 @@
 
 *include others/gondolin
 *equate surf.17.gondolin_surface.24 gondolin.16
-*equate gps.bcairn surf.17.gondolin_surface.1
+*entrance gondolin.16
 
 *include others/M6
 *equate surf.07.surf_m6m16.0 M6.0

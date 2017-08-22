@@ -10,6 +10,7 @@
 *begin gondolin_surface
 *flags surface
 ;PAGE 1
+1	bcairn	39.27	230	-10.54 ;leg to tie in to surface survey
 1	2	28.40	343	+00
 2	3	30.16	332	+01
 3	4	26.63	038	-10
@@ -45,4 +46,3 @@
 ;Stn 25 (24) is cairn at Gondolin entrance
 *end gondolin_surface
 
-*equate gondolin_surface.1 gps.bcairn

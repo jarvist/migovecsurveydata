@@ -64,7 +64,7 @@
 ;*include razor/s_razor
 
 ;Pri Madoni and other smaller caves
-*include primadona/primadona_2017
+*include primadona/primadona
 *equate surf.07.surf_prima_planika.7 prim.prima1.35
 
 *include others/freezer
@@ -114,6 +114,10 @@
 *include others/E1
 *equate E1.bolt surf.08.surf_m2e1.bolt
 *entrance E1.bolt
+
+*include others/gondolin
+*equate surf.17.gondolin_surface.24 gondolin.16
+*entrance gondolin.16
 
 *include monatip/s_monatip
 *equate surf.07.surf_prima_planika.6 s_monatip.monatip1.1
