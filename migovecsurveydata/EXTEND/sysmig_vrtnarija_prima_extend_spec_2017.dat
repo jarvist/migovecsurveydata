@@ -92,7 +92,7 @@
 
 *eswap garden.garden-low.mad_cow.15
 
-*eswap garden.garden-low.eastlinks.23 
+*eswap garden.garden-low.eastlinks.23
 
 ;*eswap garden.garden-low.eastlinks.6 ;Now we want to keep on sending this to the right...
 
@@ -210,7 +210,7 @@
 ;Brezno Slapov
 ;*eswap garden.garden-low.lethe.24
 
-;Invictus 
+;Invictus
 *eswap garden.garden-low.bravenewworld.4
 ;*eswap garden.garden-low.bravenewworld.18
 
@@ -393,13 +393,13 @@
 *eleft s_monatip.monatip4.1 ;extends monatip rift towards Primadona
 
 *eleft prim.testing_the_waters.20 prim.testing_the_waters.19 ; All these shenanigans reconnect the double loops + resurveys
-*eleft prim.testing_the_waters.8 
+*eleft prim.testing_the_waters.8
 *eleft prim.therock.3
 *eright prim.therock.14
 *eleft prim.therock.13
 
 ;Sorting out the entrance series - Survex Loop goes through TTT branch->Mandare-> Stara Jama-> Entrance Series of Primadona
-*eright prim.prima1.8 prim.prima1.9  
+*eright prim.prima1.8 prim.prima1.9
 *eleft prim.prima1.10 prim.prima1.11
 *eright prim.prima1.8 prim.prima1.7
 *eleft prim.prima2.26 prim.prima2.27
@@ -419,11 +419,11 @@
 
 
 ;Extensions near Sejna Soba, including some rediscovered data (Brez Volje branch or Free Will)
-*eright prim.popotresni.pop8 prim.popotresni.pop7 
+*eright prim.popotresni.pop8 prim.popotresni.pop7
 *eright prim.brez_volje.pop22 prim.brez_volje.bv2
 *eright prim.brez_volje.pop22 prim.popotresni.pop21
 *eleft  prim.popotresni.pop14  prim.popotresni.pop15
-*eleft  prim.popotresni.pop8 
+*eleft  prim.popotresni.pop8
 *eright  prim.popotresni.pop25
 
 
@@ -479,9 +479,11 @@
 
 *eleft prim.karstaway.18 prim.karstaway.17
 *eright prim.karstaway.25
-*eleft prim.karstaway.21
+*eleft prim.karstaway.22
+*eright prim.karstaway.20
 
-*eright prim.entirely_my_fault.16 
+
+*eright prim.entirely_my_fault.16
 *eleft prim.entirely_my_fault.7 prim.entirely_my_fault.14
 
 ;*****Stranglehold branch******
@@ -500,7 +502,7 @@
 ;*eleft prim.more_like_welding.5 prim.more_like_welding.6
 *eright prim.more_like_welding.6 prim.more_like_welding.13
 
- 
+
 ;Redoing the Cattlegrid loop
 *eleft prim.cattle_grid.7 prim.cattle_grid.6
 *eright prim.cattle_grid.7 prim.cattle_grid.8
@@ -523,5 +525,3 @@
 
 ;Upside Down Chamber
 *eleft prim.upside_down_chamber.5 prim.upside_down_chamber.4
-
-
