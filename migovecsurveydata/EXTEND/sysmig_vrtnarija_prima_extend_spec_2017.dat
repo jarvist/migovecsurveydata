@@ -469,8 +469,8 @@
 ;Galerija extensions cleaned up for clarity
 ;Quantum State (2016)
 *eleft prim.quantum_state.14 prim.quantum_state.13
-*eright prim.quantum_state.7
-*eleft prim.terminus.15
+;*eright prim.quantum_state.7
+;*eleft prim.terminus.15
 ;Connecting the loops on Hall of the Mountain King - Stranglehold
 
 ;******Karstaway branch********
@@ -511,10 +511,12 @@
 *eleft prim.the_stile.10 prim.the_stile.11
 
 ;Organising Fenestrator branch
-*eleft prim.fenestrator.9 prim.fenestrator.8
+*eright prim.fenestrator.9 prim.fenestrator.8
+*eleft prim.battery_flattery.1
 *eright prim.battery_flattery.10
 *eleft prim.alabaster.4 prim.alabaster.5
-
+*eleft prim.sweet_baby_jesus.24
+*eright prim.sweet_baby_jesus.22
 
 
 ;Organising SMER0
