@@ -454,7 +454,7 @@
 
 ;Cleaning the Deja Vu branch
 *eright prim.hammerhead2.17 prim.hammerhead2.21
-*eleft prim.high_and_dry.10 prim.high_and_dry.9
+*eleft prim.dogfish.3 
 
 
 
@@ -469,8 +469,8 @@
 ;Galerija extensions cleaned up for clarity
 ;Quantum State (2016)
 *eleft prim.quantum_state.14 prim.quantum_state.13
-;*eright prim.quantum_state.7
-;*eleft prim.terminus.15
+*eright prim.quantum_state.7
+*eleft prim.terminus.15
 ;Connecting the loops on Hall of the Mountain King - Stranglehold
 
 ;******Karstaway branch********
