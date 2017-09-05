@@ -13,9 +13,7 @@ dem=open("migovec_ascii_xyz.dat",'r')
 dofinterest=[]
 
 for point in dem:
-    x=eval(point.split()[0])
-    y=eval(point.split()[1])
-    z=eval(point.split()[2])  #Python gods will kill me for this, I'm missing something fairly fundamental...
+    x, y, z = map (float, point.split()[0:3])
     dist2=(x-origx)**2 + (y-origy)**2    #pythag
     if (dist2<maxdist**2):
 #        print "fix %d%d %g %g %g" % (x,y,x,y,z)
