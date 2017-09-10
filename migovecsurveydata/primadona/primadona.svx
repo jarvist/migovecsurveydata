@@ -4,7 +4,7 @@
 ;PriMadoni
 *begin prim
 ;2017
-*calibrate compass +3.46
+*calibrate compass -3.46
 *include 2017/TTT_resurvey
 *include 2017/hammerhead
 *include 2017/fenestrator
@@ -31,7 +31,7 @@
 *include 2017/the_atrium
 *include 2017/more_like_welding
 ;2016
-*calibrate compass +3.35
+*calibrate compass -3.35
 *include 2016/karstaway
 *include 2016/dejavu
 *include 2016/therock
@@ -50,14 +50,14 @@
 *include 2016/what_a_coincidence
 ;2000
 *date 2000
-*calibrate compass +1.63
+*calibrate compass -1.63
 *include 2000/zima00
 *include 2000/TTT
 *include 2000/prima1
 *include 2000/prima2
 ;2001
 *date 2001
-*calibrate compass +1.72
+*calibrate compass -1.72
 *include 2001/drugi
 *include 2001/galerija
 *include 2001/galerija2
@@ -68,14 +68,14 @@
 *include 2001/risa2
 ;2002
 *date 2002
-*calibrate compass +1.82
+*calibrate compass -1.82
 *include 2002/spodnji
 *include 2002/milanova
 *include 2002/smer0
 *include 2002/ajdovscina
 ;2004
 *date 2004
-*calibrate compass +2.00
+*calibrate compass -2.00
 *include 2004/popotresni
 ;2005
 *date 2005
@@ -83,7 +83,7 @@
 *include 2005/brez_volje
 ;2006
 *date 2006
-*calibrate compass +2.20
+*calibrate compass -2.20
 *include 2006/smer1
 ;*include berti
 ;*include mulatera
