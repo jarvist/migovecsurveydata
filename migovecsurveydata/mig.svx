@@ -30,7 +30,7 @@
 *equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
 
 ;Razor Cave (a long way away)
-;*include razor/s_razor
+*include razor/s_razor
 
 ;Pri Madoni and other smaller caves
 *include primadona/primadona

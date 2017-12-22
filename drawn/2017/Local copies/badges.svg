@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="badges.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4462">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4464" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4466" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4450"
+       inkscape:collect="always">
+      <stop
+         id="stop4452"
+         offset="0"
+         style="stop-color:#ffd542;stop-opacity:1" />
+      <stop
+         id="stop4454"
+         offset="1"
+         style="stop-color:#feba00;stop-opacity:0.91525424" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5903"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:0.33333333;fill:#000000;fill-opacity:1"
+         id="path5905" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5857"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:0.33333333;fill:#feba00;fill-opacity:1"
+         id="path5859" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5719"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5721"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:0.33333333;fill:#feba00;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5588"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:0.33333333;fill:#feba00;fill-opacity:1"
+         id="path5590" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5582">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5584" />
+      <stop
+         style="stop-color:#fed35d;stop-opacity:1"
+         offset="1"
+         id="stop5586" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5576">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5578" />
+      <stop
+         style="stop-color:#fcc73f;stop-opacity:1"
+         offset="1"
+         id="stop5580" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5464">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5466" />
+      <stop
+         style="stop-color:#feba00;stop-opacity:0.91525424"
+         offset="1"
+         id="stop5468" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4389"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:0.33333333;fill:#feba00;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4383"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:0.33333333;fill:#000000;fill-opacity:0.7118644"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient4292"
+       inkscape:collect="always">
+      <stop
+         id="stop4294"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1" />
+      <stop
+         id="stop4296"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.71186441" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4286"
+       inkscape:collect="always">
+      <stop
+         id="stop4288"
+         offset="0"
+         style="stop-color:#ffbf00;stop-opacity:1" />
+      <stop
+         id="stop4290"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.64406782" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4280"
+       inkscape:collect="always">
+      <stop
+         id="stop4282"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4284"
+         offset="1"
+         style="stop-color:#feba00;stop-opacity:0.6836158" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4266"
+       inkscape:collect="always">
+      <stop
+         id="stop4268"
+         offset="0"
+         style="stop-color:#5b5858;stop-opacity:1" />
+      <stop
+         id="stop4270"
+         offset="1"
+         style="stop-color:#9b9b9b;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4206">
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:1;"
+         offset="0"
+         id="stop4208" />
+      <stop
+         style="stop-color:#9b9b9b;stop-opacity:0;"
+         offset="1"
+         id="stop4210" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4172">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4174" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop4176" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4142">
+      <stop
+         style="stop-color:#ffbf00;stop-opacity:1"
+         offset="0"
+         id="stop4144" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4146" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient4148"
+       x1="94.347975"
+       y1="275.93292"
+       x2="482.79387"
+       y2="275.93292"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98671996,0,0,1.0001218,-90.560522,-487.34344)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5582"
+       id="radialGradient4156"
+       cx="381.85022"
+       cy="206.02831"
+       fx="381.85022"
+       fy="206.02831"
+       r="205.66048"
+       gradientTransform="matrix(1.1837012,1.3244254,-1.0023443,0.88306259,-161.43836,-958.14716)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4178"
+       x1="-354.93671"
+       y1="195.93362"
+       x2="-229.34898"
+       y2="290.21933"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-31.428572,-127.14285)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4184"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-38.571434,65.714291)"
+       x1="-354.93671"
+       y1="195.93362"
+       x2="-229.34898"
+       y2="290.21933" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4202"
+       x="-0.010725761"
+       width="1.0214515"
+       y="-0.010875273"
+       height="1.0217505">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8575641"
+         id="feGaussianBlur4204" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient4214"
+       cx="409.14288"
+       cy="323.7196"
+       fx="409.14288"
+       fy="323.7196"
+       r="212.28273"
+       gradientTransform="matrix(0.5307465,-1.0834899,1.3140075,0.64366529,-304.80681,798.01156)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4286"
+       id="radialGradient4236"
+       cx="319.77707"
+       cy="536.17657"
+       fx="319.77707"
+       fy="536.17657"
+       r="85.346786"
+       gradientTransform="matrix(1.7653669,-1.9022444,4.2239222,3.9199864,-2520.0036,-1646.126)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4266"
+       id="radialGradient4246"
+       cx="-354.43701"
+       cy="733.2796"
+       fx="-354.43701"
+       fy="733.2796"
+       r="84.85281"
+       gradientTransform="matrix(1.1176441,-2.6771991,0.92252089,0.38512265,-33.320403,-1410.0084)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient4278"
+       x1="118.87168"
+       y1="503.55173"
+       x2="285.48593"
+       y2="457.08472"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.203051,-727.30983)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient4310"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5307465,-1.0834899,1.3140075,0.64366529,-304.80681,798.01156)"
+       cx="409.14288"
+       cy="323.7196"
+       fx="409.14288"
+       fy="323.7196"
+       r="212.28273" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5576"
+       id="radialGradient4314"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1837012,1.3244254,-1.0023443,0.88306259,325.45517,-968.24869)"
+       cx="381.85022"
+       cy="206.02831"
+       fx="381.85022"
+       fy="206.02831"
+       r="205.66048" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient4318"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98671996,0,0,1.0001218,396.33301,-497.44497)"
+       x1="94.347975"
+       y1="275.93292"
+       x2="482.79387"
+       y2="275.93292" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4266"
+       id="radialGradient4322"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1176441,-2.6771991,0.92252089,0.38512265,310.20474,-292.80012)"
+       cx="-354.43701"
+       cy="733.2796"
+       fx="-354.43701"
+       fy="733.2796"
+       r="84.85281" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4286"
+       id="radialGradient4326"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7653669,-1.9022444,4.2239222,3.9199864,-2352.907,-537.48911)"
+       cx="319.77707"
+       cy="536.17657"
+       fx="319.77707"
+       fy="536.17657"
+       r="85.346786" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient4328"
+       gradientUnits="userSpaceOnUse"
+       x1="118.87168"
+       y1="503.55173"
+       x2="285.48593"
+       y2="457.08472"
+       gradientTransform="translate(146.89353,381.32705)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4280"
+       id="radialGradient4862"
+       cx="192.46486"
+       cy="944.48077"
+       fx="192.46486"
+       fy="944.48077"
+       r="51.962254"
+       gradientTransform="matrix(0.86253786,0.38489154,-0.54350383,1.2179864,999.03425,-1385.4575)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="radialGradient4864"
+       cx="129.01768"
+       cy="859.14722"
+       fx="129.01768"
+       fy="859.14722"
+       r="141.81874"
+       gradientTransform="matrix(-0.0838654,0.91907571,-1.7954942,-0.1638383,2117.637,-291.23892)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient4884"
+       x1="111.91666"
+       y1="1020.5809"
+       x2="156.73607"
+       y2="1040.5807"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(539.79695,-1181.5955)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4886"
+       x1="29.67531"
+       y1="944.22888"
+       x2="355.40585"
+       y2="785.40839"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(522.65409,-1127.3098)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5502"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.203051,-727.30983)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5504"
+       x1="651.65576"
+       y1="600.65491"
+       x2="752.94885"
+       y2="600.65491"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.203051,-727.30983)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient5512"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.203051,-727.30983)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient5514"
+       x1="651.65576"
+       y1="600.65491"
+       x2="752.94885"
+       y2="600.65491"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-20.203051,-727.30983)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4286"
+       id="radialGradient5520"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7653669,-1.9022444,4.2239222,3.9199864,-2520.0036,-1646.126)"
+       cx="319.77707"
+       cy="536.17657"
+       fx="319.77707"
+       fy="536.17657"
+       r="85.346786" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5522"
+       gradientUnits="userSpaceOnUse"
+       x1="118.87168"
+       y1="503.55173"
+       x2="285.48593"
+       y2="457.08472"
+       gradientTransform="translate(-20.203051,-727.30983)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient5670"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5307465,-1.0834899,1.3140075,0.64366529,-304.80681,798.01156)"
+       cx="409.14288"
+       cy="323.7196"
+       fx="409.14288"
+       fy="323.7196"
+       r="212.28273" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5576"
+       id="radialGradient5672"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1837012,1.3244254,-1.0023443,0.88306259,785.45517,-968.24869)"
+       cx="381.85022"
+       cy="206.02831"
+       fx="381.85022"
+       fy="206.02831"
+       r="205.66048" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient5674"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98671996,0,0,1.0001218,856.33301,-497.44497)"
+       x1="94.347975"
+       y1="275.93292"
+       x2="482.79387"
+       y2="275.93292" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient5676"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(439.79695,-727.30983)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5678"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(439.79695,-727.30983)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="radialGradient5680"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.0838654,0.91907571,-1.7954942,-0.1638383,2577.637,-291.23892)"
+       cx="129.01768"
+       cy="859.14722"
+       fx="129.01768"
+       fy="859.14722"
+       r="141.81874" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient5682"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(982.6541,-1127.3098)"
+       x1="29.67531"
+       y1="944.22888"
+       x2="355.40585"
+       y2="785.40839" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient5684"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(439.79695,-727.30983)"
+       x1="651.65576"
+       y1="600.65491"
+       x2="752.94885"
+       y2="600.65491" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5686"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(439.79695,-727.30983)"
+       x1="651.65576"
+       y1="600.65491"
+       x2="752.94885"
+       y2="600.65491" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4280"
+       id="radialGradient5688"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86253786,0.38489154,-0.54350383,1.2179864,1459.0343,-1385.4575)"
+       cx="192.46486"
+       cy="944.48077"
+       fx="192.46486"
+       fy="944.48077"
+       r="51.962254" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5690"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(999.797,-1181.5955)"
+       x1="111.91666"
+       y1="1020.5809"
+       x2="156.73607"
+       y2="1040.5807" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4286"
+       id="radialGradient5715"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7653669,-1.9022444,4.2239222,3.9199864,-2754.9477,-606.17948)"
+       cx="319.77707"
+       cy="536.17657"
+       fx="319.77707"
+       fy="536.17657"
+       r="85.346786" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient5717"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-255.14718,312.63668)"
+       x1="118.87168"
+       y1="503.55173"
+       x2="285.48593"
+       y2="457.08472" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="radialGradient5801"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5307465,-1.0834899,1.3140075,0.64366529,-304.80681,798.01156)"
+       cx="409.14288"
+       cy="323.7196"
+       fx="409.14288"
+       fy="323.7196"
+       r="212.28273" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5576"
+       id="radialGradient5819"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1837012,1.3244254,-1.0023443,0.88306259,1225.4552,-968.24869)"
+       cx="381.85022"
+       cy="206.02831"
+       fx="381.85022"
+       fy="206.02831"
+       r="205.66048" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient5823"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98671996,0,0,1.0001218,1296.333,-497.44497)"
+       x1="94.347975"
+       y1="275.93292"
+       x2="482.79387"
+       y2="275.93292" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient5831"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(979.79695,-667.30983)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="radialGradient5841"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.08041228,0.66512053,-1.296727,-0.15677272,2680.9133,-210.64256)"
+       cx="105.44328"
+       cy="874.87604"
+       fx="105.44328"
+       fy="874.87604"
+       r="141.81874" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4266"
+       id="linearGradient6161"
+       x1="1608.0012"
+       y1="-227.67982"
+       x2="1516.1285"
+       y2="-229.70013"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4266"
+       id="linearGradient6163"
+       x1="1541.2905"
+       y1="-211.558"
+       x2="1638.3164"
+       y2="-211.558"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5576"
+       id="radialGradient6205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1837012,1.3244254,-1.0023443,0.88306259,781.41456,-374.27899)"
+       cx="381.85022"
+       cy="206.02831"
+       fx="381.85022"
+       fy="206.02831"
+       r="205.66048" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4142"
+       id="linearGradient6207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98671996,0,0,1.0001218,852.2924,96.524726)"
+       x1="94.347975"
+       y1="275.93292"
+       x2="482.79387"
+       y2="275.93292" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient6209"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(435.75634,-133.34013)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient6211"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(435.75634,-133.34013)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="radialGradient6213"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.0838654,0.91907571,-1.7954942,-0.1638383,2573.5964,302.73078)"
+       cx="129.01768"
+       cy="859.14722"
+       fx="129.01768"
+       fy="859.14722"
+       r="141.81874" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient6215"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(978.61349,-533.3401)"
+       x1="29.67531"
+       y1="944.22888"
+       x2="355.40585"
+       y2="785.40839" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient6217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(435.75634,-133.34013)"
+       x1="651.65576"
+       y1="600.65491"
+       x2="752.94885"
+       y2="600.65491" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient6219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(435.75634,-133.34013)"
+       x1="651.65576"
+       y1="600.65491"
+       x2="752.94885"
+       y2="600.65491" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4280"
+       id="radialGradient6221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86253786,0.38489154,-0.54350383,1.2179864,1454.9937,-791.4878)"
+       cx="192.46486"
+       cy="944.48077"
+       fx="192.46486"
+       fy="944.48077"
+       r="51.962254" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient6223"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(995.75639,-587.6258)"
+       x1="111.91666"
+       y1="1020.5809"
+       x2="156.73607"
+       y2="1040.5807" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4450"
+       id="radialGradient4406"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.0838654,0.91907571,-1.7954942,-0.1638383,2573.5964,302.73078)"
+       cx="129.01768"
+       cy="859.14722"
+       fx="129.01768"
+       fy="859.14722"
+       r="141.81874" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4408"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(978.61349,-533.3401)"
+       x1="29.67531"
+       y1="944.22888"
+       x2="355.40585"
+       y2="785.40839" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4206"
+       id="linearGradient4422"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(435.75634,-133.34013)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient4424"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(435.75634,-133.34013)"
+       x1="789.74805"
+       y1="578.60095"
+       x2="750.68005"
+       y2="421.4581" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4430"
+       x="-0.0086781927"
+       width="1.0173564"
+       y="-0.019441901"
+       height="1.0388838">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5767265"
+         id="feGaussianBlur4432" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4462"
+       id="linearGradient4468"
+       x1="1139.3632"
+       y1="309.01624"
+       x2="1138.1481"
+       y2="251.778"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4172"
+       id="linearGradient4478"
+       x1="1136.053"
+       y1="144.58562"
+       x2="1142.6469"
+       y2="296.10849"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="832.61083"
+     inkscape:cy="150.84979"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="771"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(0.98671996,0,0,1.0001218,466.813,-737.4742)"
+       style="opacity:1;fill:url(#radialGradient4310);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.36711144;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4202)"
+       id="use4298"
+       sodipodi:type="arc"
+       sodipodi:cx="229.14287"
+       sodipodi:cy="515.93365"
+       sodipodi:rx="207.82458"
+       sodipodi:ry="204.96744"
+       sodipodi:start="0"
+       sodipodi:end="6.2730936"
+       sodipodi:open="true"
+       d="M 436.96745,515.93365 A 207.82458,204.96744 0 0 1 229.66719,720.90044 207.82458,204.96744 0 0 1 21.320929,516.96789 207.82458,204.96744 0 0 1 227.5699,310.97209 207.82458,204.96744 0 0 1 436.95687,513.86522"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="use5548"
+       d="m 597.38219,-507.27271 161.62441,0 0,74.75128 -21.33947,19.19662 c -41.31786,-14.6455 -84.88414,-10.24119 -119.78602,1.78572 l -21.06713,-21.42428 z"
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       ry="2.1465743"
+       rx="2.1465743"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5550"
+       width="26.651098"
+       height="90.277588"
+       x="630.48804"
+       y="-506.34918"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-507.77777"
+       x="627.14105"
+       height="94.954338"
+       width="28.031733"
+       id="use5552"
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       ry="2.2728431"
+       rx="2.2728431"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5554"
+       width="28.031738"
+       height="91.418808"
+       x="702.48804"
+       y="-506.34918"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       ry="1.8940361"
+       rx="1.8940361"
+       y="-506.34918"
+       x="666.48804"
+       height="85.357895"
+       width="28.031738"
+       id="use5556"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#aa0000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5558"
+       width="28.031738"
+       height="85.357895"
+       x="664.13092"
+       y="-507.77777"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-507.77777"
+       x="700.13092"
+       height="91.418808"
+       width="28.031738"
+       id="use5560"
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       d="m 109.09647,-497.27271 161.62441,0 0,74.75128 -21.33947,19.19662 c -41.31786,-14.6455 -84.88414,-10.24119 -119.78602,1.78572 l -21.06713,-21.42428 z"
+       id="path5524"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-496.34918"
+       x="142.20236"
+       height="90.277588"
+       width="26.651098"
+       id="use5536"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       rx="2.1465743"
+       ry="2.1465743"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect5526"
+       width="28.031733"
+       height="94.954338"
+       x="138.85536"
+       y="-497.77777"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-496.34918"
+       x="214.20236"
+       height="91.418808"
+       width="28.031738"
+       id="use5540"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       rx="2.2728431"
+       ry="2.2728431"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5538"
+       width="28.031738"
+       height="85.357895"
+       x="178.20236"
+       y="-496.34918"
+       rx="1.8940361"
+       ry="1.8940361"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-497.77777"
+       x="175.84521"
+       height="85.357895"
+       width="28.031738"
+       id="use5528"
+       style="opacity:1;fill:#aa0000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5532"
+       width="28.031738"
+       height="91.418808"
+       x="211.84521"
+       y="-497.77777"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="218.07649"
+       x="-399.99997"
+       height="190"
+       width="132.85715"
+       id="use4180"
+       style="opacity:1;fill:url(#linearGradient4184);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.30200005;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 436.96745,515.93365 A 207.82458,204.96744 0 0 1 229.66719,720.90044 207.82458,204.96744 0 0 1 21.320929,516.96789 207.82458,204.96744 0 0 1 227.5699,310.97209 207.82458,204.96744 0 0 1 436.95687,513.86522"
+       sodipodi:open="true"
+       sodipodi:end="6.2730936"
+       sodipodi:start="0"
+       sodipodi:ry="204.96744"
+       sodipodi:rx="207.82458"
+       sodipodi:cy="515.93365"
+       sodipodi:cx="229.14287"
+       sodipodi:type="arc"
+       id="path4186"
+       style="opacity:1;fill:url(#radialGradient4214);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.36711144;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4202)"
+       transform="matrix(0.98671996,0,0,1.0001218,-20.080525,-727.37268)"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       style="opacity:1;fill:url(#radialGradient4156);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.97359324;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       id="path3336"
+       sodipodi:type="arc"
+       sodipodi:cx="194.17868"
+       sodipodi:cy="-211.37617"
+       sodipodi:rx="205.06467"
+       sodipodi:ry="204.9924"
+       sodipodi:start="0"
+       sodipodi:end="6.2810342"
+       sodipodi:open="true"
+       d="M 399.24335,-211.37617 A 205.06467,204.9924 0 0 1 194.28896,-6.3838034 205.06467,204.9924 0 0 1 -10.885868,-211.15569 205.06467,204.9924 0 0 1 193.84784,-416.36831 205.06467,204.9924 0 0 1 399.24287,-211.81714"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       d="M 368.24028,-211.37691 A 174.06212,176.42627 0 0 1 194.75043,-34.951591 174.06212,176.42627 0 0 1 20.119806,-210.21683 174.06212,176.42627 0 0 1 192.46138,-387.7946 174.06212,176.42627 0 0 1 368.22523,-213.69701"
+       sodipodi:end="6.2700344"
+       sodipodi:start="0"
+       sodipodi:ry="176.42627"
+       sodipodi:rx="174.06212"
+       sodipodi:cy="-211.37691"
+       sodipodi:cx="194.17816"
+       sodipodi:type="arc"
+       id="use4138"
+       style="opacity:0.47300002;fill:url(#linearGradient4148);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.57399988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:open="true"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4178);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.30200005;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4170"
+       width="132.85715"
+       height="190"
+       x="-392.85712"
+       y="25.219351" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4246);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60236222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 280.43517,-362.6367 -55.20903,95.62485 42.07705,0 c -51.52482,39.70191 -79.33455,66.81323 -87.54801,87.54801 l 59.26374,0 c -45.9949,38.12941 -81.53918,77.56515 -117.01007,117.010068 l 22.88117,-85.393698 -34.16047,0 74.56466,-74.56466 -38.19917,0 88.07408,-152.54878"
+       id="path4216"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use4218"
+       d="m 274.37425,-367.68746 -55.20903,95.62485 42.07705,0 c -34.81923,28.43113 -79.3664,55.5652 -87.54801,87.54801 l 59.26374,0 c -45.85362,35.57823 -81.72783,76.14616 -117.01007,117.010068 l 22.88117,-85.393698 -40.160471,0 c 20.308221,-31.10822 34.559781,-61.66583 74.564661,-94.56466 l -32.19917,0 88.07408,-132.54878"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4236);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4278);stroke-width:1.20200002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       d="M 886.13687,-221.47771 A 205.06467,204.9924 0 0 1 681.18248,-16.485335 205.06467,204.9924 0 0 1 476.00766,-221.25723 205.06467,204.9924 0 0 1 680.74137,-426.46984 205.06467,204.9924 0 0 1 886.1364,-221.91867"
+       sodipodi:open="true"
+       sodipodi:end="6.2810342"
+       sodipodi:start="0"
+       sodipodi:ry="204.9924"
+       sodipodi:rx="205.06467"
+       sodipodi:cy="-221.47771"
+       sodipodi:cx="681.0722"
+       sodipodi:type="arc"
+       id="use4300"
+       style="opacity:1;fill:url(#radialGradient4314);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.97359324;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       sodipodi:open="true"
+       style="opacity:0.47300002;fill:url(#linearGradient4318);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.57399988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use4302"
+       sodipodi:type="arc"
+       sodipodi:cx="681.07166"
+       sodipodi:cy="-221.47844"
+       sodipodi:rx="174.06212"
+       sodipodi:ry="176.42627"
+       sodipodi:start="0"
+       sodipodi:end="6.2700344"
+       d="M 855.13377,-221.47844 A 174.06212,176.42627 0 0 1 681.64392,-45.053123 174.06212,176.42627 0 0 1 507.0133,-220.31836 174.06212,176.42627 0 0 1 679.35488,-397.89613 174.06212,176.42627 0 0 1 855.11872,-223.79854"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="use4304"
+       d="m 623.96032,754.5716 -55.20903,95.62485 42.07705,0 c -51.52482,39.70191 -79.33455,66.81323 -87.54801,87.54801 l 59.26374,0 c -45.9949,38.12941 -81.53918,77.56514 -117.01007,117.01004 l 22.88117,-85.39367 -34.16047,0 74.56466,-74.56466 -38.19917,0 88.07408,-152.54878"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4322);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60236222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4326);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4328);stroke-width:1.20200002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 504.28571,742.3622 -62.81488,-1.41279 -55.20903,95.62485 42.07705,0 c -34.81923,28.43113 -79.3664,55.5652 -87.54801,87.54801 l 59.26374,0 c -45.85362,35.57823 -81.72783,76.14613 -117.01007,117.01003 l 22.88117,-85.39366 -40.16047,0 c 20.30822,-31.10822 34.55978,-61.66583 74.56466,-94.56466 l -32.19917,0 88.07408,-132.54878 18.08093,-33.40585"
+       id="use4306"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="use5476"
+       y="-205.94765"
+       x="526.65405"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#linearGradient5512);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5502);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient5512);fill-opacity:1;stroke:url(#linearGradient5502);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         y="-205.94765"
+         x="526.65405"
+         id="tspan5482"
+         sodipodi:role="line"><tspan
+           id="tspan5484"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient5512);fill-opacity:1;stroke:url(#linearGradient5502);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none">-972m</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient4864);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4886);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       x="522.65405"
+       y="-209.94765"
+       id="text4350"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8"><tspan
+         sodipodi:role="line"
+         id="tspan4352"
+         x="522.65405"
+         y="-209.94765"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient4864);fill-opacity:1;stroke:url(#linearGradient4886);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient4864);fill-opacity:1;stroke:url(#linearGradient4886);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+           id="tspan4354">-972m</tspan></tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="use5478"
+       d="m 683.198,-141.60904 1.42857,53.662198"
+       style="opacity:0.68399999;fill:url(#linearGradient5514);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5504);stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;marker-end:url(#Arrow2Mend)"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       style="opacity:0.68399999;fill:url(#radialGradient4862);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4884);stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;marker-end:url(#marker5588)"
+       d="m 679.198,-145.60904 1.42857,53.662198"
+       id="path4356"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient5520);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5522);stroke-width:1.20200002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 274.37425,-367.68746 -55.20903,95.62485 42.07705,0 c -34.81923,28.43113 -79.3664,55.5652 -87.54801,87.54801 l 59.26374,0 c -45.85362,35.57823 -81.72783,76.14616 -117.01007,117.010068 l 22.88117,-85.393698 -40.160471,0 c 20.308221,-31.10822 34.559781,-61.66583 74.564661,-94.56466 l -32.19917,0 88.07408,-132.54878"
+       id="use5516"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       d="M 436.96745,515.93365 A 207.82458,204.96744 0 0 1 229.66719,720.90044 207.82458,204.96744 0 0 1 21.320929,516.96789 207.82458,204.96744 0 0 1 227.5699,310.97209 207.82458,204.96744 0 0 1 436.95687,513.86522"
+       sodipodi:open="true"
+       sodipodi:end="6.2730936"
+       sodipodi:start="0"
+       sodipodi:ry="204.96744"
+       sodipodi:rx="207.82458"
+       sodipodi:cy="515.93365"
+       sodipodi:cx="229.14287"
+       sodipodi:type="arc"
+       id="path5634"
+       style="opacity:1;fill:url(#radialGradient5670);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.36711144;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4202)"
+       transform="matrix(0.98671996,0,0,1.0001218,926.813,-737.4742)"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       d="m 1057.3822,-507.27271 161.6244,0 0,74.75128 -21.3395,19.19662 c -41.3178,-14.6455 -84.8841,-10.24119 -119.786,1.78572 l -21.0671,-21.42428 z"
+       id="path5636"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-506.34918"
+       x="1090.488"
+       height="90.277588"
+       width="26.651098"
+       id="rect5638"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       rx="2.1465743"
+       ry="2.1465743"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect5640"
+       width="28.031733"
+       height="94.954338"
+       x="1087.1411"
+       y="-507.77777"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-506.34918"
+       x="1162.488"
+       height="91.418808"
+       width="28.031738"
+       id="rect5642"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       rx="2.2728431"
+       ry="2.2728431"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect5644"
+       width="28.031738"
+       height="85.357895"
+       x="1126.488"
+       y="-506.34918"
+       rx="1.8940361"
+       ry="1.8940361"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       y="-507.77777"
+       x="1124.1309"
+       height="85.357895"
+       width="28.031738"
+       id="rect5646"
+       style="opacity:1;fill:#aa0000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect5648"
+       width="28.031738"
+       height="91.418808"
+       x="1160.1309"
+       y="-507.77777"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       style="opacity:1;fill:url(#radialGradient5672);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.97359324;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       id="path5650"
+       sodipodi:type="arc"
+       sodipodi:cx="1141.0723"
+       sodipodi:cy="-221.47771"
+       sodipodi:rx="205.06467"
+       sodipodi:ry="204.9924"
+       sodipodi:start="0"
+       sodipodi:end="6.2810342"
+       sodipodi:open="true"
+       d="M 1346.1369,-221.47771 A 205.06467,204.9924 0 0 1 1141.1825,-16.485335 205.06467,204.9924 0 0 1 936.00772,-221.25723 205.06467,204.9924 0 0 1 1140.7414,-426.46984 205.06467,204.9924 0 0 1 1346.1365,-221.91867"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       d="M 1315.1339,-221.47844 A 174.06212,176.42627 0 0 1 1141.644,-45.053123 174.06212,176.42627 0 0 1 967.01342,-220.31836 174.06212,176.42627 0 0 1 1139.355,-397.89613 a 174.06212,176.42627 0 0 1 175.7638,174.09759"
+       sodipodi:end="6.2700344"
+       sodipodi:start="0"
+       sodipodi:ry="176.42627"
+       sodipodi:rx="174.06212"
+       sodipodi:cy="-221.47844"
+       sodipodi:cx="1141.0718"
+       sodipodi:type="arc"
+       id="path5652"
+       style="opacity:0.47300002;fill:url(#linearGradient5674);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.57399988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:open="true"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#linearGradient5676);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5678);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       x="986.65411"
+       y="-205.94765"
+       id="text5654"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8"><tspan
+         sodipodi:role="line"
+         id="tspan5656"
+         x="986.65411"
+         y="-205.94765"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient5676);fill-opacity:1;stroke:url(#linearGradient5678);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient5676);fill-opacity:1;stroke:url(#linearGradient5678);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+           id="tspan5658">-500m</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5660"
+       y="-209.94765"
+       x="982.65411"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient5680);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5682);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient5680);fill-opacity:1;stroke:url(#linearGradient5682);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         y="-209.94765"
+         x="982.65411"
+         id="tspan5662"
+         sodipodi:role="line"><tspan
+           id="tspan5664"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient5680);fill-opacity:1;stroke:url(#linearGradient5682);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none">-500m</tspan></tspan></text>
+    <path
+       style="opacity:0.68399999;fill:url(#linearGradient5684);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5686);stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;marker-end:url(#Arrow2Mend)"
+       d="m 1143.198,-141.60904 1.4286,53.662198"
+       id="path5666"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path5668"
+       d="m 1139.198,-145.60904 1.4286,53.662198"
+       style="opacity:0.68399999;fill:url(#radialGradient5688);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5690);stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;marker-end:url(#marker5719)"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8" />
+    <path
+       inkscape:connector-curvature="0"
+       id="use5711"
+       d="m 102.245,673.67183 -62.814883,-1.41279 -55.20903,95.62485 42.07705,0 c -34.8192298,28.43113 -79.3664,55.5652 -87.54801,87.54801 l 59.2637402,0 C -47.839753,891.01013 -83.713963,931.57803 -118.9962,972.44193 l 22.881167,-85.39366 -40.160467,0 c 20.30822,-31.10822 34.55978,-61.66583 74.564657,-94.56466 l -32.19917,0 88.0740802,-132.54878 18.0809298,-33.40585"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient5715);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient5717);stroke-width:1.20200002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       transform="matrix(0.98671996,0,0,1.0001218,1366.813,-737.4742)"
+       style="opacity:1;fill:url(#radialGradient5801);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.36711144;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4202)"
+       id="use5771"
+       sodipodi:type="arc"
+       sodipodi:cx="229.14287"
+       sodipodi:cy="515.93365"
+       sodipodi:rx="207.82458"
+       sodipodi:ry="204.96744"
+       sodipodi:start="0"
+       sodipodi:end="6.2730936"
+       sodipodi:open="true"
+       d="M 436.96745,515.93365 A 207.82458,204.96744 0 0 1 229.66719,720.90044 207.82458,204.96744 0 0 1 21.320929,516.96789 207.82458,204.96744 0 0 1 227.5699,310.97209 207.82458,204.96744 0 0 1 436.95687,513.86522" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="use5773"
+       d="m 1497.3822,-507.27271 161.6244,0 0,74.75128 -21.3395,19.19662 c -41.3178,-14.6455 -84.8841,-10.24119 -119.786,1.78572 l -21.0671,-21.42428 z"
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       ry="2.1465743"
+       rx="2.1465743"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5775"
+       width="26.651098"
+       height="90.277588"
+       x="1530.488"
+       y="-506.34918" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       y="-507.77777"
+       x="1527.1411"
+       height="94.954338"
+       width="28.031733"
+       id="use5777"
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       ry="2.2728431"
+       rx="2.2728431"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5779"
+       width="28.031738"
+       height="91.418808"
+       x="1602.488"
+       y="-506.34918" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       ry="1.8940361"
+       rx="1.8940361"
+       y="-506.34918"
+       x="1566.488"
+       height="85.357895"
+       width="28.031738"
+       id="use5781"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       style="opacity:1;fill:#aa0000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="use5783"
+       width="28.031738"
+       height="85.357895"
+       x="1564.1309"
+       y="-507.77777" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       y="-507.77777"
+       x="1600.1309"
+       height="91.418808"
+       width="28.031738"
+       id="use5785"
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       d="m 1786.1369,-221.47771 a 205.06467,204.9924 0 0 1 -204.9544,204.992375 205.06467,204.9924 0 0 1 -205.1748,-204.771895 205.06467,204.9924 0 0 1 204.7337,-205.21261 205.06467,204.9924 0 0 1 205.3951,204.55117"
+       sodipodi:open="true"
+       sodipodi:end="6.2810342"
+       sodipodi:start="0"
+       sodipodi:ry="204.9924"
+       sodipodi:rx="205.06467"
+       sodipodi:cy="-221.47771"
+       sodipodi:cx="1581.0723"
+       sodipodi:type="arc"
+       id="use5787"
+       style="opacity:1;fill:url(#radialGradient5819);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.97359324;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:open="true"
+       style="opacity:0.47300002;fill:url(#linearGradient5823);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.57399988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="use5789"
+       sodipodi:type="arc"
+       sodipodi:cx="1581.0718"
+       sodipodi:cy="-221.47844"
+       sodipodi:rx="174.06212"
+       sodipodi:ry="176.42627"
+       sodipodi:start="0"
+       sodipodi:end="6.2700344"
+       d="M 1755.1339,-221.47844 A 174.06212,176.42627 0 0 1 1581.644,-45.053123 174.06212,176.42627 0 0 1 1407.0134,-220.31836 174.06212,176.42627 0 0 1 1579.355,-397.89613 174.06212,176.42627 0 0 1 1755.1188,-223.79854" />
+    <text
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:linespacing="125%"
+       id="use5791"
+       y="-145.94765"
+       x="1526.6541"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#linearGradient5831);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6163);stroke-width:3.774;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:225px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient5831);fill-opacity:1;stroke:url(#linearGradient6163);stroke-width:3.774;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:0.91525424"
+         y="-145.94765"
+         x="1526.6541"
+         id="tspan5827"
+         sodipodi:role="line">L</tspan></text>
+    <text
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient5841);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6161);stroke-width:3.77399993;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       x="1522.6541"
+       y="-149.94765"
+       id="use5793"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5837"
+         x="1522.6541"
+         y="-149.94765"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:225px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient5841);fill-opacity:1;stroke:url(#linearGradient6161);stroke-width:3.77399993;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-opacity:0.91525424">L</tspan></text>
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path6171"
+       d="m 1053.3416,86.696986 161.6244,0 0,74.751284 -21.3395,19.19662 c -41.3178,-14.6455 -84.8841,-10.24119 -119.786,1.78572 l -21.0671,-21.42428 z"
+       style="opacity:1;fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       ry="2.1465743"
+       rx="2.1465743"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect6173"
+       width="26.651098"
+       height="90.277588"
+       x="1086.4474"
+       y="87.620514" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       y="86.191925"
+       x="1083.1005"
+       height="94.954338"
+       width="28.031733"
+       id="rect6175"
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       ry="2.2728431"
+       rx="2.2728431"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect6177"
+       width="28.031738"
+       height="91.418808"
+       x="1158.4474"
+       y="87.620514" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       ry="1.8940361"
+       rx="1.8940361"
+       y="87.620514"
+       x="1122.4474"
+       height="85.357895"
+       width="28.031738"
+       id="rect6179"
+       style="opacity:1;fill:#000000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       style="opacity:1;fill:#aa0000;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424"
+       id="rect6181"
+       width="28.031738"
+       height="85.357895"
+       x="1120.0902"
+       y="86.191925" />
+    <rect
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       y="86.191925"
+       x="1156.0902"
+       height="91.418808"
+       width="28.031738"
+       id="rect6183"
+       style="opacity:1;fill:#ececec;fill-opacity:0.50282485;fill-rule:nonzero;stroke:none;stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.91525424" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       d="M 1342.0963,372.49197 A 205.06467,204.9924 0 0 1 1137.1419,577.48435 205.06467,204.9924 0 0 1 931.96707,372.71245 205.06467,204.9924 0 0 1 1136.7008,167.49984 205.06467,204.9924 0 0 1 1342.0958,372.05101"
+       sodipodi:open="true"
+       sodipodi:end="6.2810342"
+       sodipodi:start="0"
+       sodipodi:ry="204.9924"
+       sodipodi:rx="205.06467"
+       sodipodi:cy="372.49197"
+       sodipodi:cx="1137.0316"
+       sodipodi:type="arc"
+       id="path6185"
+       style="opacity:1;fill:url(#radialGradient6205);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.97359324;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:open="true"
+       style="opacity:0.47300002;fill:url(#linearGradient6207);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4468);stroke-width:3.57399988;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6187"
+       sodipodi:type="arc"
+       sodipodi:cx="1137.0311"
+       sodipodi:cy="372.49124"
+       sodipodi:rx="174.06212"
+       sodipodi:ry="176.42627"
+       sodipodi:start="3.6630886"
+       sodipodi:end="3.6628635"
+       d="m 986.10623,284.59959 a 174.06212,176.42627 0 0 1 237.63027,-65.08808 174.06212,176.42627 0 0 1 64.2293,240.85416 174.06212,176.42627 0 0 1 -237.6231,65.1152 174.06212,176.42627 0 0 1 -64.25598,-240.84684" />
+    <text
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:linespacing="125%"
+       id="text6189"
+       y="388.02203"
+       x="982.61353"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#linearGradient6209);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6211);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient6209);fill-opacity:1;stroke:url(#linearGradient6211);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+         y="388.02203"
+         x="982.61353"
+         id="tspan6191"
+         sodipodi:role="line"><tspan
+           id="tspan6193"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient6209);fill-opacity:1;stroke:url(#linearGradient6211);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none">-500m</tspan></tspan></text>
+    <text
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient6213);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6215);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333"
+       id="text6195"
+       sodipodi:linespacing="125%"
+       y="384.02203"
+       x="978.61353"><tspan
+         sodipodi:role="line"
+         id="tspan6197"
+         x="978.61353"
+         y="384.02203"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient6213);fill-opacity:1;stroke:url(#linearGradient6215);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:90px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient6213);fill-opacity:1;stroke:url(#linearGradient6215);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none"
+           id="tspan6199">-500m</tspan></tspan></text>
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6201"
+       d="m 1139.1574,452.36066 1.4286,53.66219"
+       style="opacity:0.68399999;fill:url(#linearGradient6217);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6219);stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;marker-end:url(#Arrow2Mend)" />
+    <path
+       inkscape:export-ydpi="249.8"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       style="opacity:0.68399999;fill:url(#radialGradient6221);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient6223);stroke-width:19.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;marker-end:url(#marker5719)"
+       d="m 1135.1574,448.36066 1.4286,53.66219"
+       id="path6203"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4396"
+       sodipodi:type="arc"
+       sodipodi:cx="1137.8579"
+       sodipodi:cy="373.07681"
+       sodipodi:rx="169.32195"
+       sodipodi:ry="169.32195"
+       sodipodi:start="3.6852981"
+       sodipodi:end="5.7734866"
+       d="m 992.95258,285.48477 a 169.32195,169.32195 0 0 1 147.78422,-81.70543 169.32195,169.32195 0 0 1 144.9208,86.68288"
+       sodipodi:open="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#linearGradient4422);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4424);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;filter:url(#filter4430);"
+       id="use4414"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8"><textPath
+         xlink:href="#path4396"
+         id="textPath4426"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#linearGradient4422);fill-opacity:1;stroke:url(#linearGradient4424);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none;">For Evans' sake</textPath></text>
+    <path
+       sodipodi:open="true"
+       d="m 990.95258,281.48477 a 169.32195,169.32195 0 0 1 147.78422,-81.70543 169.32195,169.32195 0 0 1 144.9208,86.68288"
+       sodipodi:end="5.7734866"
+       sodipodi:start="3.6852981"
+       sodipodi:ry="169.32195"
+       sodipodi:rx="169.32195"
+       sodipodi:cy="369.07681"
+       sodipodi:cx="1135.8579"
+       sodipodi:type="arc"
+       id="use4456"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="use4398"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#radialGradient4406);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4408);stroke-width:3.97399998;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.33333333;"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/AchilleTalon/Desktop/badges_website.png"
+       inkscape:export-xdpi="249.8"
+       inkscape:export-ydpi="249.8"
+       transform="translate(-2,-2)"><textPath
+         xlink:href="#path4396"
+         id="textPath4410"
+         style="fill:url(#radialGradient4406);stroke:url(#linearGradient4408);font-size:40px;"><tspan
+           id="tspan4402"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:url(#radialGradient4406);fill-opacity:1;stroke:url(#linearGradient4408);stroke-width:3.97399998;stroke-miterlimit:4.21362352;stroke-dasharray:none;">For Evans' sake</tspan></textPath></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4478);stroke-width:4;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4.21362352;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 987.55038,279.72178 14.30992,8.26184 c 89.2734,-99.99061 181.3219,-97.99517 275.9827,0 l 8.0812,-5.86273"
+       id="path4470"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
