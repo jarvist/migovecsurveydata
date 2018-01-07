@@ -16,6 +16,14 @@ Session.vim
 *.log
 *.3d
 
+### Compiled files ###
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+
 ### Latex ###
 *.acn
 *.acr
