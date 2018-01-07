@@ -41,6 +41,7 @@
 *include ubend/s_ubend
 *equate u-bend.ubend2.5 surf.07.surf_ubend_planika.1
 *equate u-bend.ubend2.5 surf.00.s4.UB
+;*equate u-bend.ubend_drainpipe.2 prim.drugi.4
 
 ;*include others/b9
 ;*equate B9.23 surf.07.surf_ubend_planika.9
