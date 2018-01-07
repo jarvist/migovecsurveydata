@@ -1,3 +1,5 @@
+# Survey data
+
 These files are the survey data resulting from explorations of the
 caves on the Migovec Plateau, Slovenia by JSPDT and Imperial 
 College Caving club over the years 1994-2007.
@@ -14,18 +16,19 @@ located on a 1:10,000 map. The rest were taken from the survex .pos
 file, and are therefore consistent with the underground survey.
 
 
-#Running 
-cavern mig.svx
-will compile the whole survey. Individual caves can be compiled by
-running 'cavern' on their respective files.
+## Running 
 
-mig.svx -> all caves on mig  
-system_migovec.svx -> all caves connected into System Migovec (M2, M16, M18, Vrtnarija, Primadonna, Monatip)  
+`cavern mig.svx`
+will compile the whole survey. Individual caves can be compiled by
+running `cavern` on their respective files.
+
+`mig.svx`: all caves on mig  
+`system_migovec.svx`: all caves connected into System Migovec (M2, M16, M18, Vrtnarija, Primadonna, Monatip)  
 
 Others are just the entrances listed seperated by an underscore.
 
 
-#2008 Notes:
+## 2008 Notes:
 The survey is still tied into the above 1:10'000 IAS coordinates.
 Though GPS should today offer more accuracy, the alignment of GPS
 Latitude and Longtitude with the local grid is still unclear and 
