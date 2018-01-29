@@ -24,7 +24,12 @@
 ;Stn 5 is Karstaway Stn 1
 
 ;LRUD Data as below - introduce a new *data line if there's breaks in the survey
-;*data passage station left right up down ignoreall
+*data passage station left right up down ignoreall
+1	0	2	10	23
+2	0	0	9	1
+3	1	1	19	10
+4	1	4	15	4
+
 
 *end mighty_fine_indeed
 

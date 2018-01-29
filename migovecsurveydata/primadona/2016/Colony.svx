@@ -31,6 +31,18 @@
 ;Stn 17 is Cattle_Grid 15
 ;Done using laser disto but a bit dodgy
 ;LRUD Data as below - introduce a new *data line if there's breaks in the survey
-;*data passage station left right up down ignoreall
+*data passage station left right up down ignoreall
+1	2	1	2	1
+2	0	3	4	1
+3	0	3	0	2
+4	2	1	1	1
+5	0	1	2	2
+6	2	0	0	1
+7	0	1	1	1
+8	0	1	3	2
+
+*data passage station left right up down ignoreall
+10	9	9	0	46
+
 
 *end Colony

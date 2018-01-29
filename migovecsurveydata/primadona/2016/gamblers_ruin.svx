@@ -29,7 +29,15 @@
 ;Stn 9 is Upside Down Chamber Stn 5
 
 ;LRUD Data as below - introduce a new *data line if there's breaks in the survey
-;*data passage station left right up down ignoreall
+*data passage station left right up down ignoreall
+1	0.5	0.5	8	0.5
+2	0	0.5	2	8
+3	1	0	4	1.5
+4	0	0.5	10	2
+5	1	0	5	10
+6	1	1	25	0.5
+7	1.5	3	25	0.5
+8	7	5	20	0
 
 *end gamblers_ruin
 

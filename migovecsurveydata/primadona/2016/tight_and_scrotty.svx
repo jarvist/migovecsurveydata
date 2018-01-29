@@ -29,7 +29,15 @@
 ;Stn 9 is Blue Danube Stn 1 (actually colony stn 10  there is no blue danube file)
 
 ;LRUD Data as below - introduce a new *data line if there's breaks in the survey
-;*data passage station left right up down ignoreall
+*data passage station left right up down ignoreall
+1	0.5	3	10	1
+2	0.5	0	1	14
+3	0	8	5	5
+4	4	0.5	2	10
+5	2	1	5	2
+6	2	1	5	1
+7	0.5	0	0.5	5
+8	2	1	25	0.5
 
 *end tight_and_scrotty
 

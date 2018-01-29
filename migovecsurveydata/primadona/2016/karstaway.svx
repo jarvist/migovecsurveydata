@@ -69,7 +69,47 @@
 ;Stn 39 is PSS 11 in VSCANA ZOERA KRAGELJ TIVADAR
 
 ;LRUD Data as below - introduce a new *data line if there's breaks in the survey
-;*data passage station left right up down ignoreall
+*data passage station left right up down ignoreall
+1	0	1	3	1
+2	0	0	3	3
+3	2	1	6.5	3
+4	3	0	4	1
+5	0	10	2	1
+6	10	0	1	2
+7	2	0	0	3
+8	0	4	1	2
+9	1	1	0	2
+10	0	3	1	1
+11	2	2	21	1	
+12	0	1	1	1
+13	0	1	0	4
+14	0	0	1	2
+15	0	0	3	2
+16	9	3	1	2
+17	0	1	4	2
+18	2	2	9	2
+19	4	4	12	0
+
+*data passage station left right up down ignoreall
+20	2	0	4	1
+21	2	4	1	2
+22	0	1	12	1
+23	0	2	1	3
+24	0	3	11	2
+25	9	9	30	0
+26	9	9	0	30
+27	1	0	3	35
+28	0	2	3	2
+29	1	0	4	1
+30	0	1	4	2
+31	1	0	4	2
+32	0	1	8	2
+33	3	2	10	0
+34	3	1	3	1
+35	0	0	1	1
+36	1	1	2	2
+37	0	0	1	1
+38	0	0	10	2
 
 *end karstaway
 
