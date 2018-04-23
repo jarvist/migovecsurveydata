@@ -14,7 +14,7 @@
 
 ;Gardeners' World/Vrtnarija
 *include garden/s_garden
-*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
+*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0
 
 ;CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
 *equate garden.garden-low.dreamsforthesoul.1	system.hotelt.waterloo.13
@@ -24,7 +24,7 @@
 
 ;;Jailbreak, new cave in blowing holes
 ;*include jailbreak/jailbreak
-;*fix jailbreak.ent 
+;*fix jailbreak.ent
 ;unable to convert gps coords correctly :(
 
 ;*include kukpot/s_kukpot
@@ -40,7 +40,7 @@
 ;*equate surf.00.s4.pm        		primadona.prima1.35
 
 *equate surf.01.sFR_GW.fr    	freezer.FR
-*equate surf.01.sM17_NSCa.M17       	m17.29 
+*equate surf.01.sM17_NSCa.M17       	m17.29
 
 *equate surf.96.s1.M2  		system.m2.izent2.19
 *equate surf.96.s1.M18		system.m18.torn.26
@@ -48,11 +48,11 @@
 ;*equate surf.00.s1.m10 surf.96.s1.M10
 
 *entrance system.m16ent.entrance.1
-*entrance garden.garden-ent.bclent2.0  
+*entrance garden.garden-ent.bclent2.0
 *entrance others.m17.29
 *entrance surf.01.sM17_NSCa.M17
 *entrance surf.01.sM17_NSCb.nsc
-*entrance system.m2.izent1.16 
+*entrance system.m2.izent1.16
 *entrance system.m2.izent2.19
 
 ;Apparently this fix is from the 1:10'000 scale military ex-Yugoslavian maps
@@ -61,10 +61,10 @@
 ;*fix system.m16ent.entrance.1 	5405030 		5123770 		1843
 
 ;Trig Point info, from Zdenko:
-;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points: 
+;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points:
 ;
 ;#352 Tolminski Migovec:     5405022,6         5123150,0
-;#20 Vrh nad Skrbino:          5406302,7         5124087,4 
+;#20 Vrh nad Skrbino:          5406302,7         5124087,4
 ;#364 Grusnica:                    5403984,6         5122439,8
 ;#120 Planina Razor:            5407087,3         5122035,1
 ;#55 Tolminski Kuk:            5404539,7         5124804,8
@@ -75,9 +75,7 @@
 *begin PEAKS
 *flags surface
 *fix MIGOVEC 405022.6 123150.0 1860
-*entrance MIGOVEC
 *fix KUKTRG 404539.7 124804.8 2049
-*entrance KUKTRG
 *end PEAKS
 
 *include gps.svx
@@ -87,8 +85,6 @@
 *flags surface
 *fix PARADISO 402199.939 116088.251 200
 *fix RAVNE    405167.010 121638.182 1000
-*entrance RAVNE
-*entrance PARADISO
 *end VIEWPOINTS
 
 ;Include DEM data at end as not always properly formatted

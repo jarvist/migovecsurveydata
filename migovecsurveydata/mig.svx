@@ -10,11 +10,11 @@
 *calibrate compass -1.633   ;catch-all Yr2000 Compass Declination
 
 ;Sistem Migovec
-*include sysmig/sysmig.svx 
+*include sysmig/sysmig.svx
 
 ;Gardeners' World/Vrtnarija
 *include garden/s_garden
-*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0  
+*equate surf.01.sFR_GW.gw    	garden.garden-ent.bclent2.0
 
 ;2012 CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
 *equate garden.garden-low.dreamsforthesoul.1    system.hotelt.waterloo.13
@@ -23,7 +23,7 @@
 ; This connection makes the most sense from figuring out which PSS it should be
 ;*equate s_monatip.monatip11.40   system.m18.gallery.1
 ; This connection gives the smallest loop closure, and seems to attach at the
-; correct part of NCB for what the explorers remember!  
+; correct part of NCB for what the explorers remember!
 ;*equate s_monatip.monatip11.40   system.m18.gallery.7
 
 ;Vilinska Jama, new entrance to GW
@@ -79,7 +79,7 @@
 
 *include others/b9
 *equate B9.23 surf.07.surf_ubend_planika.9
-*entrance B9.23 
+*entrance B9.23
 
 *include others/hawk
 *equate hawk.1 gps.HAWK
@@ -104,7 +104,7 @@
 ;*equate surf.00.s4.pm        		primadona.prima1.35
 
 *equate surf.01.sFR_GW.fr    	freezer.FR
-*equate surf.01.sM17_NSCa.M17       	m17.29 
+*equate surf.01.sM17_NSCa.M17       	m17.29
 
 *equate surf.96.s1.M2  		system.m2.izent2.19
 *equate surf.96.s1.M18		system.m18.torn.26
@@ -113,11 +113,11 @@
 ;*equate surf.00.s1.m10 surf.96.s1.M10
 
 *entrance system.m16ent.entrance.1
-*entrance garden.garden-ent.bclent2.0  
+*entrance garden.garden-ent.bclent2.0
 *entrance others.m17.29
 *entrance surf.01.sM17_NSCa.M17
 *entrance surf.01.sM17_NSCb.nsc
-*entrance system.m2.izent1.16 
+*entrance system.m2.izent1.16
 *entrance system.m2.izent2.19
 
 ;Apparently this fix is from the 1:10'000 scale military ex-Yugoslavian maps
@@ -129,10 +129,10 @@
 ;*fix surf.00.s1.m10     404967.453      123798.276          1862 ; see file gps.svx, height from nearby GPS fix
 
 ;Trig Point info, from Zdenko:
-;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points: 
+;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points:
 ;
 ;#352 Tolminski Migovec:     5405022,6         5123150,0
-;#20 Vrh nad Skrbino:          5406302,7         5124087,4 
+;#20 Vrh nad Skrbino:          5406302,7         5124087,4
 ;#364 Grusnica:                    5403984,6         5122439,8
 ;#120 Planina Razor:            5407087,3         5122035,1
 ;#55 Tolminski Kuk:            5404539,7         5124804,8
@@ -143,9 +143,7 @@
 *begin PEAKS
 *flags surface
 *fix MIGOVEC 405022.6 123150.0 1860
-*entrance MIGOVEC
 *fix KUKTRG 404539.7 124804.8 2049
-*entrance KUKTRG
 *end PEAKS
 
 *include gps.svx
@@ -155,8 +153,6 @@
 *flags surface
 *fix PARADISO 402199.939 116088.251 200
 *fix RAVNE    405167.010 121638.182 1000
-*entrance RAVNE
-*entrance PARADISO
 *end VIEWPOINTS
 
 ;Include DEM data at end as not always properly formatted
