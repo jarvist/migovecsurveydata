@@ -161,7 +161,6 @@
 
 *entrance system.m16ent.entrance.1
 *entrance garden.garden-ent.bclent2.0
-*entrance others.m17.29
 *entrance surf.01.sM17_NSCa.M17
 *entrance surf.01.sM17_NSCb.nsc
 *entrance system.m2.izent1.16
@@ -203,13 +202,13 @@
 *end VIEWPOINTS
 
 ;Include DEM data at end as not always properly formatted
-*begin DEM
-*flags surface
+;*begin DEM
+;*flags surface
 ;*include DEM/1800m_kuk.svx
 ;*include DEM/north_south_strip.svx
 ;*include DEM/east_west_lines.svx
 ;This is our largest DEM dataset
 ;*include DEM/2000m_circle.svx
-*include DEM/north_south_lines.svx
-*end DEM
+;*include DEM/north_south_lines.svx
+;*end DEM
 

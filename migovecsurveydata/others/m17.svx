@@ -1,5 +1,6 @@
 ; > M17 Frigidare
 
+*entrance m17.29
 *begin m17
 ;*fix \m17.29 300 970 1850
 ;*FIX \M17.29 -257.10 43.22 -5.25;DATA FROMSURFACE SURVEY

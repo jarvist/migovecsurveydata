@@ -35,6 +35,7 @@ s17	s16	13.29	157	-38
 s17	s18	2.15	056	+09 ; 18 is PSS: Cairn in entrance of cave
 *end srazor
 
+*entrance razor1.1
 *begin razor1
 ;second page of data: Razor Jama Entrance
 
