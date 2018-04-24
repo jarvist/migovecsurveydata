@@ -3,7 +3,54 @@
 ;edded Primadona- Zdenko Rejec- 11.2003
 ;Addition of DEM (has to go at the bottom of this file) - 6.2009 Jarvist Moore Frost
 
-*copyright 2001 ICCC
+*copyright 2018 ICCC
+
+; ********************  Coordinate system specification ******************** ;
+;     Description
+;     ===========
+;
+; See https://survex.com/docs/manual/datafile.htm for a better explanation.
+; Otherwise read on.
+;
+; To specify input coordinate system, i.e. what is in .svx files:
+; *cs [...]
+;
+; To Specify output coordinate system, i.e. what is in .3d files and what
+; Aven sees):
+; *cs out [...]
+;
+; Where [...] is the coordinate system you want
+;
+;     Useful coordinate systems
+;     =========================
+;
+; proj.4 parameters for MGI 1901 from:
+; http://spatial-analyst.net/wiki/index.php?title=MGI_/_Balkans_coordinate_systems
+;
+;  - Yugoslavian MGI 1901:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=5500000 +y_0=0 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;
+;  - Slovenian D48/GK or D48GK - same as MGI 1901 but with different offsets to
+;    remove superfluous initial digit in coordinates:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;
+;  - Slovenian D96/TM or D96TM:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs"
+;
+;  - UTM for Slovenia:
+;      UTM33N
+;
+; *************************************************************************** ;
+;     Set input and output coordinate systems
+;     =======================================
+;
+; These should generally be left commented out in the repo as the version of 
+; survex on the OLPC doesn't accept them. They are here for reference and in
+; case anyone is importing DEM data. Input CS is D48GK.
+;
+;*cs CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;*cs out CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+; *************************************************************************** ;
 
 ; CAVES
 
