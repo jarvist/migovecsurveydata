@@ -1,0 +1,24 @@
+; This file contains fixes locating mountain peaks in the vicinity of the system
+; Please indicate where they have come from when adding entries!
+; Alex Seaton, 04/2018
+
+*begin PEAKS
+*flags surface
+*fix MIGOVEC  405022.6 123150.0 1860   ; kremen.arso.gov.si/NVatlas (Zdenko)
+*fix KUKTRG   404539.7 124804.8 2049   ; kremen.arso.gov.si/NVatlas (Zdenko)
+*fix SKRBINA  406302.7 124087.4 0      ; kremen.arso.gov.si/NVatlas (Zdenko)
+*fix GRUSNICA 403984.6 122439.8 0      ; kremen.arso.gov.si/NVatlas (Zdenko)
+*end PEAKS
+
+;From Fix with little yellow etrex ~2008:
+;KUKTRG <wpt lat="46.260667155" lon="13.756897151">  <ele>2089.535400</ele>
+
+;Trig Point info, from Zdenko:
+;On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration)
+;I find GK coordinates of Trig Points:
+;
+;#352 Tolminski Migovec:     5405022,6         5123150,0
+;#20 Vrh nad Skrbino:        5406302,7         5124087,4
+;#364 Grusnica:              5403984,6         5122439,8
+;#120 Planina Razor:         5407087,3         5122035,1
+;#55 Tolminski Kuk:          5404539,7         5124804,8

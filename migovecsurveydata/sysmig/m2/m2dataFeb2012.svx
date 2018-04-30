@@ -20,8 +20,8 @@
 ;That is, magnetic north is 0.5 degrees counter-clockwise of true
 *calibrate compass +0.5
 
-;*entrance izent1.16
-;*entrance izent2.19
+*entrance izent1.16
+*entrance izent2.19
 
 *begin JSPDT				
 

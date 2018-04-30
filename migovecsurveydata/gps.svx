@@ -114,7 +114,7 @@
  *entrance  LAKE
 *fix  M1 405048.998 123834.804 1858
  *entrance  M1
-*fix  M10 404967.453 123798.276 0
+*fix  M10 404967.453 123798.276 1862 ; Height taken from M101
  *entrance  M10
 *fix  M101 404968.068 123788.261 1862
  *entrance  M101

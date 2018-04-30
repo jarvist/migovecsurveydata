@@ -9,6 +9,7 @@
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 
+*entrance M1.1
 *begin M1
 1	2	2.83	329	-04	;	0 4 1 1	; .1 is red spot by M1
 3	2	16.15	063	+39	;	3 1 2 1

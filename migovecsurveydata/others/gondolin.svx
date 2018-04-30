@@ -7,6 +7,7 @@
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 
+*entrance gondolin.16
 *begin gondolin
 ;PAGE 1
 2	1	11.70	123	-11

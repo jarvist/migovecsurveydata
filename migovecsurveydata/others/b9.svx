@@ -5,6 +5,7 @@
 ;*prefix \Jacko
 ;*fix \Jacko.23 116 889 1840
 
+*entrance B9.23
 *begin B9
 
 1       2        8.2     -      up
