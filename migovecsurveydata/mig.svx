@@ -36,19 +36,19 @@
 ; |----------------------------------------------------------------------------|
 ; | Section # | Survex command | Purpose                                       |
 ; |-----------+----------------+-----------------------------------------------|
-; |    I      | *include       | Import surveys of individual caves            |
-; |    II     | *include       | Import surveys of the surface                 |
-; |    III    | *include       | Import fixed reference points defined using a |
+; |    I      | *cs            | Indicate which coordinate system is used in   |
+; |           |                | section IV                                    |
+; |    II     | *include       | Import surveys of individual caves            |
+; |    III    | *include       | Import surveys of the surface                 |
+; |    IV     | *include       | Import fixed reference points defined using a |
 ; |           |                | common coordinate system                      |
-; |    IV     | *equate        | Link fixed reference points on the surface to |
+; |    V      | *equate        | Link fixed reference points on the surface to |
 ; |           |                | parts of the surface survey                   |
-; |    V      | *equate        | Make major connections between disparate      |
+; |    VI     | *equate        | Make major connections between disparate      |
 ; |           |                | parts of the system (e.g. SysMig <->          |
 ; |           |                | Vrynarija)                                    |
-; |    VI     | *equate        | Link cave entrances to locations on the       |
+; |    VII    | *equate        | Link cave entrances to locations on the       |
 ; |           |                | surface survey or fixed points                |
-; |    VII    | *cs            | Indicate which coordinate system is used in   |
-; |           |                | Section III                                   |
 ; |----------------------------------------------------------------------------|
 ;
 ;                                                     Alex Seaton, 04/2018
@@ -59,7 +59,52 @@
 *calibrate compass -1.633   ;catch-all Yr2000 Compass Declination
 
 
-; *************** SECTION I: Include .svx files for all caves **************** ;
+; **************** SECTION I: Coordinate system specification **************** ;
+;     Description
+;     ===========
+;
+; See https://survex.com/docs/manual/datafile.htm for a better explanation.
+; Otherwise read on.
+;
+; To specify input coordinate system, i.e. what is in .svx files:
+; *cs [...]
+;
+; To Specify output coordinate system, i.e. what is in .3d files and what
+; Aven sees):
+; *cs out [...]
+;
+; Where [...] is the coordinate system you want
+;
+;     Useful coordinate systems
+;     =========================
+;
+; proj.4 parameters for MGI 1901 from:
+; http://spatial-analyst.net/wiki/index.php?title=MGI_/_Balkans_coordinate_systems
+;
+;  - Yugoslavian MGI 1901:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=5500000 +y_0=0 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;
+;  - Slovenian D48/GK or D48GK - same as MGI 1901 but with different offsets to
+;    remove superfluous initial digit in coordinates:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;
+;  - Slovenian D96/TM or D96TM:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs"
+;
+;  - UTM for Slovenia:
+;      UTM33N
+;
+;     Set input and output coordinate systems
+;     =======================================
+;
+; These should generally be left commented out in the repo as the version of
+; survex on the OLPC doesn't accept them. They are here for reference and in
+; case anyone is importing DEM data. Input CS is D48GK.
+;
+;*cs CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;*cs out CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+
+; ************** SECTION II: Include .svx files for all caves **************** ;
 ;
 ; Put all necessary *include statements below, ideally with comments explaining
 ; what they are. Only data on individual caves goes here, surface tie-ins and
@@ -95,7 +140,7 @@
 *include others/E1
 *include kukpot/s_kukpot
 
-; ************ SECTION II: Include .svx files for surface surveys ************ ;
+; *********** SECTION III: Include .svx files for surface surveys ************ ;
 ;
 ; Put all *include statements here for surface surveys.
 
@@ -112,7 +157,7 @@
 ;*include DEM/north_south_lines.svx
 ;*end DEM
 
-; ************ SECTION III: Include .svx files for surface fixes ************* ;
+; ************* SECTION IV: Include .svx files for surface fixes ************* ;
 ;
 ; Put all surface fixes in here.
 
@@ -137,7 +182,7 @@
 ;*fix system.m2.izent1.16        5405040        5123930        1861
 ;*fix system.m16ent.entrance.1   5405030        5123770        1843
 
-; ********* SECTION IV: Connect surface survey to fixed references *********** ;
+; ********** SECTION V: Connect surface survey to fixed references *********** ;
 
 ; Surface survey near M10           <-> GPS fix
 *equate surf.00.s1.m10                  M10
@@ -145,7 +190,7 @@
 ; Surface survey near M10           <-> ???
 ;*equate surf.00.s1.m10                 surf.96.s1.M10
 
-; ******************* SECTION V: Underground connections ********************* ;
+; ******************* SECTION VI: Underground connections ******************** ;
 
 ; 2012 CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
 *equate garden.garden-low.dreamsforthesoul.1    system.hotelt.waterloo.13
@@ -157,7 +202,7 @@
 ; correct part of NCB for what the explorers remember!
 ;*equate s_monatip.monatip11.40   system.m18.gallery.7
 
-; ********* SECTION VI: Connect entrances to points on the surface *********** ;
+; ********* SECTION VII: Connect entrances to points on the surface ********** ;
 ;
 ; Tie in all caves to locations on the surface. Document these with comments!
 ; Please put the actual fixes in the 'surface data section above'.
@@ -234,50 +279,3 @@
 
 ; Freezer                           <-> surface survey
 *equate surf.01.sFR_GW.fr               freezer.FR
-
-; *************** SECTION VII: Coordinate system specification *************** ;
-;     Description
-;     ===========
-;
-; See https://survex.com/docs/manual/datafile.htm for a better explanation.
-; Otherwise read on.
-;
-; To specify input coordinate system, i.e. what is in .svx files:
-; *cs [...]
-;
-; To Specify output coordinate system, i.e. what is in .3d files and what
-; Aven sees):
-; *cs out [...]
-;
-; Where [...] is the coordinate system you want
-;
-;     Useful coordinate systems
-;     =========================
-;
-; proj.4 parameters for MGI 1901 from:
-; http://spatial-analyst.net/wiki/index.php?title=MGI_/_Balkans_coordinate_systems
-;
-;  - Yugoslavian MGI 1901:
-;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=5500000 +y_0=0 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
-;
-;  - Slovenian D48/GK or D48GK - same as MGI 1901 but with different offsets to
-;    remove superfluous initial digit in coordinates:
-;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
-;
-;  - Slovenian D96/TM or D96TM:
-;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs"
-;
-;  - UTM for Slovenia:
-;      UTM33N
-;
-; **************************************************************************** ;
-;     Set input and output coordinate systems
-;     =======================================
-;
-; These should generally be left commented out in the repo as the version of
-; survex on the OLPC doesn't accept them. They are here for reference and in
-; case anyone is importing DEM data. Input CS is D48GK.
-;
-;*cs CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
-;*cs out CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
-; *************************************************************************** ;
