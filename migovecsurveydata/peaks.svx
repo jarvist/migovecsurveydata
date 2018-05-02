@@ -3,12 +3,25 @@
 ; Alex Seaton, 04/2018
 
 *begin PEAKS
-*flags surface
-*fix MIGOVEC  405022.6 123150.0 1860   ; kremen.arso.gov.si/NVatlas (Zdenko)
-*fix KUKTRG   404539.7 124804.8 2049   ; kremen.arso.gov.si/NVatlas (Zdenko)
-*fix SKRBINA  406302.7 124087.4 0      ; kremen.arso.gov.si/NVatlas (Zdenko)
-*fix GRUSNICA 403984.6 122439.8 0      ; kremen.arso.gov.si/NVatlas (Zdenko)
+	*flags surface
+	
+	; These are taken from LIDAR data simply by choosing highest point in the
+	; dataset.
+	*fix MIGOVEC  404950.09 123192.87 1882 ; On what looks like the cairn
+	*fix KUK      404538.92 124807.27 2085
+	*fix SKRBINA  406304.53 124091.12 1955
+	*fix GRUSNICA 403985.78 122440.66 1570
 *end PEAKS
+
+*begin TRIGPOINTS
+	*flags surface
+	
+	; These are taken from Zdenko's trig point data
+	*fix MIGOVEC  405022.6 123150.0 1860
+	*fix KUK      404539.7 124804.8 2049
+	*fix SKRBINA  406302.7 124087.4 0
+	*fix GRUSNICA 403984.6 122439.8 0
+*end TRIGPOINTS
 
 ;From Fix with little yellow etrex ~2008:
 ;KUKTRG <wpt lat="46.260667155" lon="13.756897151">  <ele>2089.535400</ele>
