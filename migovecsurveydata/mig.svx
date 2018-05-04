@@ -167,13 +167,7 @@
 *include fixes/gps.svx                       ; GPS fixes
 *include fixes/mapFixes.svx                  ; Fixes from maps
 *include fixes/peaks.svx                     ; Locations of mountain peaks
-
-;These are accurate geographic viepoints for the view from Ravne & Tolmin, for generating the overlay photographs
-*begin VIEWPOINTS
-*flags surface
-*fix PARADISO 402199.939 116088.251 200
-*fix RAVNE    405167.010 121638.182 1000
-*end VIEWPOINTS
+*include fixes/viewpoints.svx                ; Locations of viewpoints
 
 ; ********** SECTION V: Connect surface survey to fixed references *********** ;
 ;
@@ -207,7 +201,7 @@
 ; ********* SECTION VII: Connect entrances to points on the surface ********** ;
 ;
 ; Tie in all caves to locations on the surface. Document these with comments!
-; Please put the actual fixes in the 'surface data section above'.
+; Actual fixes go in the fixes section above.
 
 ;     Caves that are part of the system
 ;     =================================

@@ -1,0 +1,9 @@
+; These are accurate geographic viepoints for the view from Ravne & Tolmin, for
+; generating the overlay photographs
+
+*begin VIEWPOINTS
+	*flags surface
+
+	*fix PARADISO 402199.939 116088.251 200
+	*fix RAVNE    405167.010 121638.182 1000
+*end VIEWPOINTS
