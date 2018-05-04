@@ -1,0 +1,13 @@
+; This file contains all fixes derived from maps
+;
+; Please specify which map you have used to get the fix along with other useful
+; information that will otherwise be lost in 20 years' time!
+;
+; Alex Seaton, May 2018
+
+*begin mapFixes
+	;Apparently this fix is from the 1:10'000 scale military ex-Yugoslavian maps
+	*fix M2     405040         123930         1851
+	;*fix M2    5405040        5123930        1861
+	;*fix M16   5405030        5123770        1843
+*end mapFixes

@@ -70,7 +70,7 @@
 ; *cs [...]
 ;
 ; To Specify output coordinate system, i.e. what is in .3d files and what
-; Aven sees):
+; Aven sees:
 ; *cs out [...]
 ;
 ; Where [...] is the coordinate system you want
@@ -160,9 +160,13 @@
 ; ************* SECTION IV: Include .svx files for surface fixes ************* ;
 ;
 ; Put all surface fixes in here.
+;
+; TODO: Reorganize this. Would be nice to have files with names specifying the
+; type of object rather than the type of fix. E.g. "peaks.svx" vs. "gps.svx".
 
-*include gps.svx                       ; GPS fixes
-*include peaks.svx                     ; Locations of mountain peaks
+*include fixes/gps.svx                       ; GPS fixes
+*include fixes/mapFixes.svx                  ; Fixes from maps
+*include fixes/peaks.svx                     ; Locations of mountain peaks
 
 ;These are accurate geographic viepoints for the view from Ravne & Tolmin, for generating the overlay photographs
 *begin VIEWPOINTS
@@ -171,24 +175,22 @@
 *fix RAVNE    405167.010 121638.182 1000
 *end VIEWPOINTS
 
-; Surface tie-in for Kukpot
-*fix kukpot.entrance 404606.123 125626.115 1767.015625
-;7pt conversion from WGS84 with Cartographic Converter + data for GO region
-;Checking against KUKTRG waypoint (2008) vs. registered location below, I get ~6m accuracy (mainly in Eastings).
-;Waypoint from 2009 recce: <wpt lat="46.268011210" lon="13.757593855">  <ele>1767.015625</ele>
-
-;Apparently this fix is from the 1:10'000 scale military ex-Yugoslavian maps
-*fix system.m2.izent1.16        405040         123930         1851
-;*fix system.m2.izent1.16        5405040        5123930        1861
-;*fix system.m16ent.entrance.1   5405030        5123770        1843
-
 ; ********** SECTION V: Connect surface survey to fixed references *********** ;
+;
+; As of 05/2018, the survey as a whole is fixed to a single point on the
+; plateau. Pick your favourite from the options below...
 
 ; Surface survey near M10           <-> GPS fix
-*equate surf.00.s1.m10                  M10
+*equate surf.00.s1.m10                  GPS.M10
 
 ; Surface survey near M10           <-> ???
-;*equate surf.00.s1.m10                 surf.96.s1.M10
+;*equate surf.00.s1.m10                  surf.96.s1.M10
+
+; Entrance to M2                    <-> Map fix..
+;*equate system.m2.izent1.1              mapFixes.M2
+
+; Entrance to M16                   <-> Map fix..
+;*equate system.m16ent.entrance.1        mapFixes.M16
 
 ; ******************* SECTION VI: Underground connections ******************** ;
 
@@ -264,6 +266,9 @@
 ; S1/Eastpole                       <-> surface survey
 ;*equate eastpole.13                    surf.00.s5.15
 *equate s1.1                            surf.00.s5.15
+
+; Kukpot                            <-> GPS fix
+*equate kukpot.entrance                 GPS.N09
 
 ; PF10                              <-> GPS fix
 *equate gps.pf10                        PF10.1
