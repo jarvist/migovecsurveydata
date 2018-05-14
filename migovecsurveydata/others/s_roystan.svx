@@ -4,6 +4,3 @@
 
 *include roystan1.svx
 *include roystan2.svx
-
-*include roystan1.svx
-*include roystan2.svx
