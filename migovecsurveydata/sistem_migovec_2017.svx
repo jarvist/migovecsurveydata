@@ -1,0 +1,223 @@
+;Just the actual sistem migovec
+; Clewin Griffith, Imperial College Caving Club 2001
+;edded Primadona- Zdenko Rejec- 11.2003
+
+*copyright 2018 ICCC
+
+; ****************************** Introduction ******************************** ;
+;
+;    How is our survey data organized?
+;    =================================
+;
+; 1.  The survey is composed of a large number of .svx files. These are text
+;   files, each containing data describing the relative distances and bearings
+;   ('legs') between points within the cave ('stations' or 'nodes').
+;
+; 2.  Each cave (or surface survey) may be described by multiple files, meaning
+;   that the sections of cave described in each file have to be connected. This
+;   is done with *equate statements. These tell survex that two previously
+;   defined nodes are actually the same survey station.
+;
+; 3.  The cave and surface survey is referenced to the rest of the world by
+;   linking it to known points in an absolute coordinate system. These points
+;   are defined using *fix statements, and are linked to the survey by *equate
+;   statements.
+;
+;  For more details on how this all works see the Survex docs:
+;  https://survex.com/docs/manual/index.htm
+;
+;    What is in this file?
+;    =====================
+;
+;    The purpose of this file is to draw together the various components of the
+;  cave survey and relate it to the rest of the world. To keep the file clear
+;  and organized it has been split into several distinct sections:
+;
+; |----------------------------------------------------------------------------|
+; | Section # | Survex command | Purpose                                       |
+; |-----------+----------------+-----------------------------------------------|
+; |    I      | *cs            | Indicate which coordinate system is used in   |
+; |           |                | section IV                                    |
+; |    II     | *include       | Import surveys of individual caves            |
+; |    III    | *include       | Import surveys of the surface                 |
+; |    IV     | *include       | Import fixed reference points defined using a |
+; |           |                | common coordinate system                      |
+; |    V      | *equate        | Link fixed reference points on the surface to |
+; |           |                | parts of the surface survey                   |
+; |    VI     | *equate        | Make major connections between disparate      |
+; |           |                | parts of the system (e.g. SysMig <->          |
+; |           |                | Vrynarija)                                    |
+; |    VII    | *equate        | Link cave entrances to locations on the       |
+; |           |                | surface survey or fixed points                |
+; |----------------------------------------------------------------------------|
+;
+;                                                     Alex Seaton, 04/2018
+;
+; **************************************************************************** ;
+
+
+*calibrate compass -1.633   ;catch-all Yr2000 Compass Declination
+
+
+; **************** SECTION I: Coordinate system specification **************** ;
+;     Description
+;     ===========
+;
+; See https://survex.com/docs/manual/datafile.htm for a better explanation.
+; Otherwise read on.
+;
+; To specify input coordinate system, i.e. what is in .svx files:
+; *cs [...]
+;
+; To Specify output coordinate system, i.e. what is in .3d files and what
+; Aven sees:
+; *cs out [...]
+;
+; Where [...] is the coordinate system you want
+;
+;     Useful coordinate systems
+;     =========================
+;
+; proj.4 parameters for MGI 1901 from:
+; http://spatial-analyst.net/wiki/index.php?title=MGI_/_Balkans_coordinate_systems
+;
+;  - Yugoslavian MGI 1901:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=5500000 +y_0=0 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;
+;  - Slovenian D48/GK or D48GK - same as MGI 1901 but with different offsets to
+;    remove superfluous initial digit in coordinates:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;
+;  - Slovenian D96/TM or D96TM:
+;      CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs"
+;
+;  - UTM for Slovenia:
+;      UTM33N
+;
+;     Set input and output coordinate systems
+;     =======================================
+;
+; These should generally be left commented out in the repo as the version of
+; survex on the OLPC doesn't accept them. They are here for reference and in
+; case anyone is importing DEM data. Input CS is D48GK.
+;
+;*cs CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+;*cs out CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
+
+; ************** SECTION II: Include .svx files for all caves **************** ;
+;
+; Put all necessary *include statements below, ideally with comments explaining
+; what they are. Only data on individual caves goes here, surface tie-ins and
+; connections within the system come later!
+
+;     Caves that are part of the system
+;     =================================
+
+*include sysmig/sysmig.svx             ; Sistem Migovec (M2 & M16)
+*include garden/s_garden               ; Gardeners' World/Vrtnarija
+*include primadona/primadona           ; Pri Madoni
+*include ubend/s_ubend                 ; U-Bend571
+*include monatip/s_monatip             ; Monatip
+
+
+
+; *********** SECTION III: Include .svx files for surface surveys ************ ;
+;
+; Put all *include statements here for surface surveys.
+
+*include surface/surface               ; Surface Surveys
+
+;Addition of DEM - 6.2009 Jarvist Moore Frost
+;*begin DEM
+;*flags surface
+;*include DEM/1800m_kuk.svx
+;*include DEM/north_south_strip.svx
+;*include DEM/east_west_lines.svx
+;This is our largest DEM dataset
+;*include DEM/2000m_circle.svx
+;*include DEM/north_south_lines.svx
+;*end DEM
+
+; ************* SECTION IV: Include .svx files for surface fixes ************* ;
+;
+; Put all surface fixes in here.
+;
+; TODO: Reorganize this. Would be nice to have files with names specifying the
+; type of object rather than the type of fix. E.g. "peaks.svx" vs. "gps.svx".
+
+*include fixes/gps.svx                       ; GPS fixes
+*include fixes/mapFixes.svx                  ; Fixes from maps
+*include fixes/peaks.svx                     ; Locations of mountain peaks
+*include fixes/viewpoints.svx                ; Locations of viewpoints
+
+; ********** SECTION V: Connect surface survey to fixed references *********** ;
+;
+; As of 05/2018, the survey as a whole is fixed to a single point on the
+; plateau. Pick your favourite from the options below...
+
+; Surface survey near M10           <-> GPS fix
+*equate surf.00.s1.m10                  GPS.M10
+
+; Surface survey near M10           <-> ???
+;*equate surf.00.s1.m10                  surf.96.s1.M10
+
+; Entrance to M2                    <-> Map fix..
+;*equate system.m2.izent1.1              mapFixes.M2
+
+; Entrance to M16                   <-> Map fix..
+;*equate system.m16ent.entrance.1        mapFixes.M16
+
+; ******************* SECTION VI: Underground connections ******************** ;
+
+; 2012 CONNECTION BETWEEN VRTNARIJA AND SYSTEM MIGOVEC
+*equate garden.garden-low.dreamsforthesoul.1    system.hotelt.waterloo.13
+
+; 2015 CONNECTION BETWEEN MONATIP AND NCB, SYSTEM MIGOVEC
+; This connection makes the most sense from figuring out which PSS it should be
+;*equate s_monatip.monatip11.40   system.m18.gallery.1
+; This connection gives the smallest loop closure, and seems to attach at the
+; correct part of NCB for what the explorers remember!
+*equate s_monatip.monatip11.40   system.m18.gallery.7
+
+;2008 CONNECTION BETWEEN PRIMADONA AND MONATIP
+;connection made in Alktatraz 07.2016
+*equate prim.therock.14			s_monatip.alkatraz.7
+;original 2OO8 connection above Sejna Soba.
+*equate prim.popotresni.pop11 	s_monatip.doubletime.1
+
+; ********* SECTION VII: Connect entrances to points on the surface ********** ;
+;
+; Tie in all caves to locations on the surface. Document these with comments!
+; Actual fixes go in the fixes section above.
+
+;     Caves that are part of the system
+;     =================================
+
+; Primadona                         <-> surface survey
+*equate surf.07.surf_prima_planika.7    prim.prima1.35
+;*equate surf.00.s4.pm                  primadona.prima1.35
+
+; Vilinska Jama                     <-> surface survey
+*equate surf.08.surf_gardenvilinska.8   garden.vilinska.vilinent.1
+
+; Vrtnarija                         <-> surface survey
+*equate surf.01.sFR_GW.gw               garden.garden-ent.bclent2.0
+
+; Planika                           <-> surface survey
+*equate surf.07.surf_ubend_planika.15   planika.planika.1
+
+; U-Bend                            <-> surface survey
+; Why are there two of these?
+*equate u-bend.ubend2.5                 surf.07.surf_ubend_planika.1
+*equate u-bend.ubend2.5                 surf.00.s4.UB
+
+; Monatip                           <-> surface survey
+*equate surf.07.surf_prima_planika.6    s_monatip.monatip1.1
+
+; M2                                <-> surface survey
+*equate surf.96.s1.M2                   system.m2.izent2.19
+
+; M16                               <-> surface survey
+*equate surf.00.s1.M16                  system.m16ent.entrance.1
+
+
