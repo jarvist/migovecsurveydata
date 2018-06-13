@@ -93,7 +93,7 @@
 *entrance KUKTRG
 *end PEAKS
 
-*include gps.svx
+*include gps_locations/gps.svx
 
 ;These are accurate geographic viepoints for the view from Ravne & Tolmin, for generating the overlay photographs
 *begin VIEWPOINTS
