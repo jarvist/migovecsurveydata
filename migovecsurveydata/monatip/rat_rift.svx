@@ -1,0 +1,46 @@
+;####Rat Rift####:
+;###Continuation of Well Hung, multi level rifty streamway ###
+*date 2018.07.16 ; Expedition Klic Globin
+
+;Disto: David II Wilson
+;PDA: Arun Paul
+;Data entered by Tanguy Racine on 27/07/2018
+
+*begin rat_rift
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on 1 page
+
+;Page 1
+0	1	4.35	310	2
+1	2	1.07	266	-20
+2	3	4.89	309	+19
+3	4	2.32	263	-16
+4	5	4.82	9	+43
+5	6	3.42	348	-23
+6	7	2.54	313	3
+7	8	2.45	344	+7
+8	9	3.98	285	11
+9	10	6.96	358	17
+10	11	6.67	161	14
+11	12	9.11	136	7
+12	13	4.3	188	-21
+13	14	4.38	111	2
+14	15	3.04	135	10
+15	16	4.66	125	0
+16	16a	5.11	142	-2
+16a	17	2.63	146	-25
+17	18	2.06	11	+7
+18	19	1.81	36	-9
+19	20	5.02	72	-41
+
+;NOTES 
+; STN 0, 11 20 are PSS
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end rat_rift
+
+*equate rat_rift.11 well_hung.0 

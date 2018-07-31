@@ -1,0 +1,41 @@
+;Monatip
+; New cave to north of Primadona & below B9.
+
+;Date: 27/07/2018
+;People: Arun Paul David Wilson
+
+;Data entered by Tanguy Racine 27/07/2018
+
+;data normal bcra grade 5
+;from	to	tape	comp	clino
+
+*begin cloaca_resurvey
+;PAGE 1
+
+0	1	32.41	58	+33
+
+
+1	2	29.64	54	88
+2	3	6.45	121	83
+3	4	2.72	103	+18
+
+*flags duplicate
+4	5	4.57	55	46
+5	6	2.92	102	5
+6	7	5.05	24	7
+7	8	2.69	338	7
+8	9	7.84	79	13
+9	10	4.96	333	23
+10	11	3.17	96	-2
+11	12	6.88	62	7
+*flags not duplicate 
+
+
+; 0 is big cairn
+;7 is Stn.50 in monatip4
+
+*end cloaca_resurvey 
+
+*equate alk_disto_resurvey.0 cloaca_resurvey.0
+*equate cloacamaxima.1 cloaca_resurvey.4
+*equate cloacamaxima.12 cloaca_resurvey.12

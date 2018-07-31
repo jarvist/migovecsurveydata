@@ -12,8 +12,6 @@
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 
-*entrance planika.1
-
 *begin planika
 ;from	to	tape	comp	clino
 

@@ -1,0 +1,41 @@
+;####Well Hung####:
+;###Continuation of Cloaca Maxima###
+*date 2018.07.16 ; Expedition Klic Globin
+
+;Disto: David II Wilson
+;PDA: Arun Paul
+;Data entered by Tanguy Racine on 27/07/2018
+
+*begin well_hung
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on 1 page
+
+;Page 1
+0	1	5.66	359	-4
+1	2	25.87	229	83
+2	3	1.48	178	70
+3	4	4.46	261	-2
+4	5	4.64	139	+3
+5	6	1.07	111	-47
+6	7	3.64	131	-4
+7	8	16.24	139	+73
+8	9	0.42	149	7	
+
+;NOTES 
+
+;STN2 is L point bolt of hang
+;STN 4 is second bolt of hang
+; TN 9 is cloaca maxima stn 25
+;STN 0is rat rift stn 11
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end well_hung
+
+*equate well_hung.9	cloacamaxima.25
+
+
+

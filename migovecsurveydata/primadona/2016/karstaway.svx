@@ -55,8 +55,8 @@
 36	37	5.63	026	-06
 37	38	6.62	010	+04
 38	39	2.17	342	+18
-*flags not duplicate
 
+*flags not duplicate
 ;NOTES 
 ;Stn 6 is start of sandy climb
 ;Stn 9 is pile of black pebbles

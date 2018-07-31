@@ -17,7 +17,7 @@
 *equate galerija2.14	galerija.3	
 
 *begin galerija2
-*flags duplicate
+
 2	1	7.6	150	60	;zadnja toèka zmerjena v galeriji2 - svedrovec
 3	2	9.0	160	-20
 4	3	3.5	190	-15
@@ -31,6 +31,6 @@
 12	11	6.5	232	15
 13	12	8.0	215	20
 14	13	7.9	030	35	;svedrovec pri Rokovem breznu
-*flags not duplicate
+
 *end galerija2
 		

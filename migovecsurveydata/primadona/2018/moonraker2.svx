@@ -1,0 +1,35 @@
+;####Klic Globin####:
+;###Continuation of Moonraker###
+*date 2018.07.29 ; Expedition Klic Globin
+
+;Disto: Clare Tan
+;Book: Tanguy Racine
+;Data entered by Tanguy Racine 30/07/2018
+
+*begin moonraker2
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on disto
+
+0	1	8.86	183.1	0.0
+1	2	2.95	190.9	-5.0
+2	3	8.01	182.5	-7.4
+3	4	4.27	182.6	5.8
+4	5	3.41	173.3	50.3
+5	6	6.64	280.7	-50.3
+5	7	5.75	164.6	7.2
+7	8	7.07	183.7	-5.5
+8	9	1.65	283.1	19.2
+
+;NOTES 
+; stn 0 is PSS
+;STN 5 is PSS
+;STN 9 is moonraker stn 9
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end moonraker2
+
+*equate moonraker2.9 moonraker.9 
+

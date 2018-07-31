@@ -2,7 +2,6 @@
 
 ; Data believed to be from 94-96 ? Rediscovered from Jim's computer files + tied into main survex data JMF 2010-07-14
 
-*entrance M19.28
 *begin M19
 ;*prefix \M19
 ;*fix \m19.28 260 960 1850;gps position

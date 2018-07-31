@@ -1,0 +1,55 @@
+;####Bath####:
+;###Continuation of pit in purgatory###
+*date 2018.07.24 ; Expedition Klic Globin
+
+;Disto: Chris Bradley
+;PDA: Jennifer Ryder
+;Data entered by David Kirkpatrick on 25/07/2018
+
+*begin bath
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on 1 page
+
+;Page 1
+0	1	2.68	300	-17
+1	2	5.95	37	-57
+2	3	3.97	97	-8
+3	4	3.79	154	1
+4	5	3.61	74	-42
+5	6	4.8	185	-8
+6	7	2.13	131	10
+7	8	3.12	70	-13
+8	9	2.56	160	-43
+9	10	4.03	302	-3
+9	11	3.78	198	1
+11	11A	14.29	167	-62
+11A	12	2.84	169	7
+12	13	5.64	81	-56
+13	14	12.79	156	-53
+14	15	6.50	303	2
+15	16	2.86	232	-19
+16	16A	7.00	147	4
+16A	17	5.82	146	8
+17	18	3.23	303	-6
+18	19	3.74	290	-39
+19	20	1.46	284	-75
+
+
+;NOTES 
+;STN0 is Purgatory STN6
+;STN1 is bolt of small pitch
+;STN11 is Cairn
+;This is called the bath series
+;STN14 is PSS
+;Window above STN14 unclimbed
+
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end bath
+
+*equate bath.0 purgatory.6
+
