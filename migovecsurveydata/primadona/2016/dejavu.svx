@@ -1,13 +1,15 @@
 ;Primadona
 ;Passage below TTT
 
-;Date: 27/07/16
-;Instruments / Book: clare Tan Tanguy Racine
+;Date: 27/07/2016
+;Instruments / Book: Clare Tan Tanguy Racine
 
 ;Data entered by Kenneth Tan 05/08/16
 
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
+
+*entrance dejavu.1 ; highlight 2018 camp "The Manger" as a green dot in survex.
 
 *begin dejavu
 ;PAGE 1
@@ -25,10 +27,11 @@
 11	13	17.26	210	-21
 
 ;NOTES
-;Stn1 is PSS
+;Stn1 is PSS, in main TTT route
 ;Stn8 is PSS at bottom of aven
 ;Stn11 is PSS in chamber with pitch and climb
-;Stn12 is start if climb
+;Stn12 is start of climb
 ;Stn13 is PSS at pitch head
 
 *end dejavu
+
