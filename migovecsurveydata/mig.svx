@@ -281,4 +281,4 @@
 *equate surf.01.sFR_GW.fr               freezer.FR
 
 ; Venus                             <-> GPS fix
-+*equate venus.18                       gps.M22GK
+*equate venus.18                        gps.M22GK

@@ -1,6 +1,6 @@
 ; > Venus 
 
-*begin Venus
+*begin venus
 *entrance 18
 ;*fix 18 158 1388 1915
 
@@ -22,3 +22,4 @@
 14      17       8.1     -      up
 17      18       2.0    310     +30
 
+*end venus
