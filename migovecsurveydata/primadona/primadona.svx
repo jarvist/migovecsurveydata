@@ -6,6 +6,7 @@
 ;2018
 *calibrate compass -3.46
 
+*include 2018/the_aqueduct
 *include 2018/mouseleum
 *include 2018/moonraker2
 *include 2018/klic_globin

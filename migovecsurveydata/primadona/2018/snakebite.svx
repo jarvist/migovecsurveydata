@@ -60,6 +60,6 @@
 
 *end snakebite
 
-*equate snakebite.1 pivnica_resurvey.12 
-;pivnica_resurvey.12 not a pss but is top of down leg. snakebite.1 is bolt at top of last pivnica hang 
+*equate snakebite.16 pivnica_resurvey.12 
+;pivnica_resurvey.12 not a pss but is top of down leg. snakebite.16 is bolt at top of last pivnica hang 
 
