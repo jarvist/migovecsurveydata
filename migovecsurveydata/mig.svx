@@ -97,9 +97,7 @@
 ;     Set input and output coordinate systems
 ;     =======================================
 ;
-; These should generally be left commented out in the repo as the version of
-; survex on the OLPC doesn't accept them. They are here for reference and in
-; case anyone is importing DEM data. Input CS is D48GK.
+; Input CS is D48GK.
 ;
 ;*cs CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
 ;*cs out CUSTOM "+proj=tmerc +lat_0=0 +lon_0=15 +k=0.9999 +x_0=500000 +y_0=-5000000 +ellps=bessel +towgs84=550.499,164.116,475.142,5.80967,2.07902,-11.62386,0.99999445824 +units=m"
@@ -116,7 +114,6 @@
 *include sysmig/sysmig.svx             ; Sistem Migovec (M2 & M16)
 *include garden/s_garden               ; Gardeners' World/Vrtnarija
 *include primadona/primadona           ; Pri Madoni
-*include planika/s_planika             ; Planika
 *include ubend/s_ubend                 ; U-Bend
 *include monatip/s_monatip             ; Monatip
 
@@ -128,6 +125,7 @@
 *include others/freezer
 *include others/M17
 *include others/M19
+*include planika/s_planika             ; Planika
 *include others/PF10
 *include others/gondolin
 *include others/s_roystan
@@ -217,9 +215,6 @@
 ; Vrtnarija                         <-> surface survey
 *equate surf.01.sFR_GW.gw               garden.garden-ent.bclent2.0
 
-; Planika                           <-> surface survey
-*equate surf.07.surf_ubend_planika.15   planika.planika.1
-
 ; U-Bend                            <-> surface survey
 ; Why are there two of these?
 *equate u-bend.ubend2.5                 surf.07.surf_ubend_planika.1
@@ -254,6 +249,9 @@
 
 ; M19                               <-> surface survey
 *equate surf.96.s2.m19                  M19.28
+
+; Planika                           <-> surface survey
+*equate surf.07.surf_ubend_planika.15   planika.planika.1
 
 ; Roystan                           <-> surface survey
 *equate roystan2.7                      surf.01.sM10_RV_M17.RV
