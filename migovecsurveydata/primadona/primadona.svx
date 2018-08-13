@@ -6,6 +6,10 @@
 ;2018
 *calibrate compass -3.46
 
+*include 2018/testify
+*include 2018/damp_squib
+*include 2018/diagonalley
+*include 2018/lumos
 *include 2018/the_aqueduct
 *include 2018/mouseleum
 *include 2018/moonraker2
@@ -30,6 +34,9 @@
 *include 2018/deeper_than_most
 *include 2018/canticle_for_migovec
 *include 2018/rokovo_brezno_resurvey
+*include 2018/mouseleum_2
+*include 2018/chocolate_river
+*include 2018/the_aqueduct
 
 ;2017
 *calibrate compass -3.46
