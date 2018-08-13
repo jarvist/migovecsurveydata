@@ -11,7 +11,7 @@
 ;from	to	tape	comp	clino
 
 ;*fix  monatip1.1	5404560.66	5123835.66	1733.89
-*entrance monatip1.1
+;*entrance monatip1.1
 
 *begin monatip1
 *data normal from to tape compass clino	

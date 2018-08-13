@@ -1,0 +1,25 @@
+;####Hell's Teeth####
+;###Continuation of Coincidence Cave###
+*date 2018.07.19; Expedition Klic Globin
+
+;PDA + Disto: Rhys Tyers 
+;Data entered by Rhys Tyers on 28/07/2018
+
+*begin hells_teeth_3
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on 1 page
+
+;Page 1
+1	2	3.77	177.5	+23.2
+2	3	2.15	140.3	+22.5
+3	4	2.83	159.6	-10.3
+
+;NOTES 
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end hells_teeth_3
+

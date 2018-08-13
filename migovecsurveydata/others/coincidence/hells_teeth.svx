@@ -1,0 +1,39 @@
+;####Hell's Teeth####
+;###Initial passage of Coincidence Cave###
+*date 2018.07.19; Expedition Klic Globin
+
+;Instruments: Rhys Tyers + Ben Richards 
+;Book: Jack Hare
+;Data entered by Rhys Tyers on 23/07/2018
+
+*begin hells_teeth
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on 1 page
+
+;Page 1
+1	2	3.50	155	+32
+2	3	4.08	-	up
+3	4	6.60	-	up
+4	5	3.27	118	+64
+5	6	3.96	157	+57
+6	7	2.46	-	up
+7	8	1.67	282	+50
+8	9	6.40	153	+20
+9	10	8.82	167	+31
+10	11	3.91	162	-32
+11	12	6.93	166	00
+12	13	7.40	175	-29
+
+;NOTES 
+;STN1 is PSS
+;STN8 is PSS
+;STN10 is breakthrough point
+;STN12 is entrance
+;STN13 is GPS rock
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end hells_teeth

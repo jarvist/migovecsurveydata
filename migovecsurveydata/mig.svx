@@ -139,6 +139,7 @@
 *include others/hawk
 *include others/E1
 *include kukpot/s_kukpot
+*include others/venus
 
 ; *********** SECTION III: Include .svx files for surface surveys ************ ;
 ;
@@ -278,3 +279,6 @@
 
 ; Freezer                           <-> surface survey
 *equate surf.01.sFR_GW.fr               freezer.FR
+
+; Venus                             <-> GPS fix
++*equate venus.18                       gps.M22GK

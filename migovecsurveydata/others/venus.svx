@@ -1,7 +1,8 @@
 ; > Venus 
 
-*prefix \Venus
-*fix \Venus.18 158 1388 1915
+*begin Venus
+*entrance 18
+;*fix 18 158 1388 1915
 
 1       2       10.6    320     +00
 2       3        1.9    280     -30

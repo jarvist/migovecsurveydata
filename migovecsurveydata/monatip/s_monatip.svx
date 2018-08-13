@@ -24,6 +24,11 @@
 *include monatip11  ;12.12.2015- Fratnik A., Risti? D., Maffi G., Maver N.
 *include cloacamaxima
 *include Auld_Alliance
+*include aleksandrija
+*include well_hung
+*include rat_rift
+*include alk_disto_resurvey
+*include cloaca_resurvey
 
 *equate 	monatip2.27	    monatip1.27
 *equate 	monatip3.37     monatip2.37

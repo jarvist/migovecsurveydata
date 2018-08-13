@@ -1,0 +1,38 @@
+;####Purgatory####:
+;###Continuation of Alabaster###
+*date 2018.07.16 ; Expedition Klic Globin
+
+;Disto: Rebecca Diss
+;Book: Jennifer Ryder
+;Data entered by David Kirkpatrick on 24/07/2018
+
+*begin purgatory
+*data normal from to tape compass clino ignoreall
+;data normal bcra grade 5
+;from   to      tape    comp    clino; L R U D
+;Data on 1 page
+
+;Page 1
+1	2	6.80	195	+24
+2	3	5.22	302	+5
+5	4	10.00	173	-3
+5	6	6.20	0	+90
+6	7	2.70	0	+1
+
+
+
+;NOTES 
+;STN3 is PSS
+;STN4 is PSS
+;STN5 is STN1
+;STN7 is Alabaster STN1
+
+
+;LRUD Data as below - introduce a new *data line if there's breaks in the survey
+;*data passage station left right up down ignoreall
+
+*end purgatory
+
+*equate purgatory.5 purgatory.1
+*equate purgatory.7 alabaster.1
+

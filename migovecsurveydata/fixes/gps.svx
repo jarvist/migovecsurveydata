@@ -148,7 +148,7 @@
  *entrance  M20GK
 *fix  M21GK 404609.562 123942.824 1856
  *entrance  M21GK
-*fix  M22GK 404679.535 124423.092 1855
+*fix  M22GK 404679.535 124423.092 1940 ;edited jdh 24.7.18 to correct altitude based on satellite data (original 1855)
  *entrance  M22GK
 *fix  M23GK 404689.624 123193.406 1854
  *entrance  M23GK
@@ -281,5 +281,8 @@
  *entrance  VODA
 *fix  WB1 405178.027 124197.430 1798
  *entrance  WB1
+*fix  COINCIDENCE 405205 122578 1300
+;derived by offset from VODA in UTM 33T jdh 24.7.18
+ *entrance  COINCIDENCE
 
 *end GPS

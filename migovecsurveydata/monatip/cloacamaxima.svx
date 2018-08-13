@@ -12,7 +12,9 @@
 *begin cloacamaxima
 ;PAGE 1
 1	2	1.20	288	+03
+*flags splay
 2	3	30.10	-	down
+*flags not splay
 4	1	5.34	220	-45
 4	5	4.06	085	+09
 6	5	4.38	214	-09
@@ -40,7 +42,9 @@
 25	24	4.72	123	-10
 
 ;PAGE 3
+*flags splay
 25	26	16.75	-	down
+*flags not splay
 27	23	2.84	275	-07
 27	28	3.00	357	+08
 29	28	5.38	229	-20
