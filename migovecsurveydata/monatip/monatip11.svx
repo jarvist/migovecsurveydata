@@ -1,10 +1,10 @@
 ;Mona tip
-;katasterska številka: 10180
+;katasterska Âštevilka: 10180
 ;Date: 12/12/15
 *date 2015.12.12
 ;Merili:
-;od T1 do T24 merila Ristiè D., Maver N.
-;od T24 do konca merili Fratnik A., Ristiè D., Maver N.
+;od T1 do T24 merila RistiÃ¨ D., Maver N.
+;od T24 do konca merili Fratnik A., RistiÃ¨ D., Maver N.
 ;ostali udelezenci: Maffi G.
 ;Risali: 
 
@@ -13,7 +13,7 @@
 ;data normal bcra grade 5
 
 ;navezava 
-; ker moica na toèki monatip10.15 niso dobili, je navezava na naslednjo sigurno toèko: monatip10.8
+; ker moÂica na toÃ¨ki monatip10.15 niso dobili, je navezava na naslednjo sigurno toÃ¨ko: monatip10.8
 ;*equate 	monatip11.1     monatip10.15 	;
 ;*equate 	monatip11.1     monatip10.8		
 
@@ -99,25 +99,25 @@
 ;37	0.2	0.2	0.3	0
 ;38	0.2	0.2	0.3	0
 ;39 0.2	0.2	0.3	0
-;40 tudi toèka 301
+;40 tudi toÃ¨ka 301
 ;OPOMBE:	
-;1- ta toèka je moic- "stoec iz kamna"
-;3- oji rov je tudi zgoraj
+;1- ta toÃ¨ka je moÂic- "stoÂec iz kamna"
+;3- oÂji rov je tudi zgoraj
 ;4 do 5: kapniki v rovu
-;9- toèka je na fixu na zaèetku preèke
-;12 do 13: preèka, pod njo najmanj 30 m brezna.
+;9- toÃ¨ka je na fixu na zaÃ¨etku preÃ¨ke
+;12 do 13: preÃ¨ka, pod njo najmanj 30 m brezna.
 ;20- na levi je neznan kamin
-;21 do 22: preèka, pod njo brezno
-;23- tu se konèa rov in pride v "Brezno pojoèe skalce"
-;23 do 24: Brezno pojoèe skalce 8m x 15m, globina cca 30m
-;pri toèki 24 se konèa galerija "Vzporedni svet"
+;21 do 22: preÃ¨ka, pod njo brezno
+;23- tu se konÃ¨a rov in pride v "Brezno pojoÃ¨e skalce"
+;23 do 24: Brezno pojoÃ¨e skalce 8m x 15m, globina cca 30m
+;pri toÃ¨ki 24 se konÃ¨a galerija "Vzporedni svet"
 ;24 do 24a: merjeno v stranski del
-;25 do 26: med toèkama veèje brezno
-;27 do 30: "Kamnoer"- po tleh so skalni bloki in med njimi so mona nadaljevanja
-;34 je zaèetek prekopanega podora. To je oina, ki povezuje Mona tip s sistemom Mig z imenom "95-15"
-;35 do 36: razširitev v podoru, kjer kaplja voda
+;25 do 26: med toÃ¨kama veÃ¨je brezno
+;27 do 30: "KamnoÂer"- po tleh so skalni bloki in med njimi so moÂna nadaljevanja
+;34 je zaÃ¨etek prekopanega podora. To je oÂina, ki povezuje Mona tip s sistemom Mig z imenom "95-15"
+;35 do 36: razÂširitev v podoru, kjer kaplja voda
 ;36 do 37: ozek meander
 ;37 do 39: meander
-;40je toèka izvenoinin ja na toèki 301 ICCC
+;40je toÃ¨ka izvenoÂinin ja na toÃ¨ki 301 ICCC
 
 *end monatip11

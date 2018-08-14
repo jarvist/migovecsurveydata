@@ -7,7 +7,7 @@
 ; akcija potekala 11 ur
 ;Date: 07/12/and 08/12/02
 
-;Instruments:Rok stopar, Ristiè Dejan
+;Instruments:Rok stopar, RistiÃ¨ Dejan
 ;Book: Matteo Rivadossi
 
 ;Data entered by Tivadar on 08/12/02
@@ -79,4 +79,3 @@
 57	56	5.3	32	47 ; point 57 end of rope in gallery second pitch
 
 *end smer0
-		

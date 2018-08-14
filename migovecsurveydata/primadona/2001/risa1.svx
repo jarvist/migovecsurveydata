@@ -4,7 +4,7 @@
 ; drugi vhod
 ;akcija potekala 10 ur
 ;Date: 18/07/01
-;Instruments: Tivadar,Beguš
+;Instruments: Tivadar,BeguÂš
 ;Book: Tivadar
 
 ;Data entered by Tivadar on 19/07/01

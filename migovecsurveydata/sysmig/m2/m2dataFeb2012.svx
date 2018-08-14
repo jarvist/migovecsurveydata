@@ -16,7 +16,7 @@
 *date 1990 ;LIE to make colour scale more sensible
 
 ;by NOAA webservice, declination is
-;1976    0° 30' W changing by 0° 6' E/year
+;1976    0Â° 30' W changing by 0Â° 6' E/year
 ;That is, magnetic north is 0.5 degrees counter-clockwise of true
 *calibrate compass +0.5
 

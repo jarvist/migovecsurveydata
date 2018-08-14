@@ -4,7 +4,7 @@
 *date 2013.07.07
 ;Merili: Dejan R. 
 ;Risala: Tjasa R.
-;ostali udelezenci: Rejec Z, Jarc S, Maffi, Bonèina E, Fratnik A.
+;ostali udelezenci: Rejec Z, Jarc S, Maffi, BonÃ¨ina E, Fratnik A.
 ;Data entered by Zdenko Rejec 09/07/13
 
 ;data normal bcra grade 5
@@ -15,7 +15,7 @@
 *begin monatip07
 *data normal from to tape compass clino	;komentar
 *set decimal (.)
-1	2	23.0	100		85	;možic
+1	2	23.0	100		85	;moÂžic
 2	3	11.0	125		84	;
 3	4	10.5	72		62	;
 4	5	2.5		291		70	;
@@ -36,7 +36,7 @@
 19	20	11.5	202		-11	;tocka na dnu brezna
 
 *data passage station left right up down
-;tocka 1 je možic
+;tocka 1 je moÂžic
 2	5	0	30	1	;svedrovc
 3	2	2	15	30	;svedrovc
 4	0	1.5	1	15	;
@@ -45,7 +45,7 @@
 7	1.5	3	0	2	;
 8	1.5	2.5	0.5	1	;odcep, PSS
 9	0	3	0.5	1	;
-10	1	1	1.5	1	;možic, nepregledano brezno v smeri 325
+10	1	1	1.5	1	;moÂžic, nepregledano brezno v smeri 325
 11	1	1.5	15	0	;
 12	1	0	1	15	;
 13	1.5	1.5	20	1	;

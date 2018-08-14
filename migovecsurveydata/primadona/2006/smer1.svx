@@ -1,12 +1,12 @@
 
-;Jamarska sekcija Planinskega društva Tolmin
-;Primadona- kat. št.:8383
+;Jamarska sekcija Planinskega druÂštva Tolmin
+;Primadona- kat. Âšt.:8383
 
 ; meander "smer 1"
 
 ; akcija potekala 12 ur
-;Udeleženci JSPDT: A.Fratnik,D.Ristic,Z.Rejec,S.Jarc,G.Lipušcek,  Aljoša ?, Erik ?, Iztok ?
-;Udeleženci ICCC: J.Hooper, J. Frost
+;UdeleÂženci JSPDT: A.Fratnik,D.Ristic,Z.Rejec,S.Jarc,G.LipuÂšcek,  AljoÂša ?, Erik ?, Iztok ?
+;UdeleÂženci ICCC: J.Hooper, J. Frost
 ; Daum akcije: 21.10.2006
 ; Merili: A.Fratnik,D.Ristic,
 ; Risal:

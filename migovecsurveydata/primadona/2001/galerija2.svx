@@ -6,7 +6,7 @@
  
 ;Date: avgust/01
 
-;Instruments: Ristiè, Fratnik
+;Instruments: RistiÃ¨, Fratnik
 
 ;Data entered by Kragelj,Tivadar on 26/12/01
 
@@ -18,7 +18,7 @@
 
 *begin galerija2
 
-2	1	7.6	150	60	;zadnja toèka zmerjena v galeriji2 - svedrovec
+2	1	7.6	150	60	;zadnja toÃ¨ka zmerjena v galeriji2 - svedrovec
 3	2	9.0	160	-20
 4	3	3.5	190	-15
 5	4	12.0	228	-15
@@ -33,4 +33,3 @@
 14	13	7.9	030	35	;svedrovec pri Rokovem breznu
 
 *end galerija2
-		

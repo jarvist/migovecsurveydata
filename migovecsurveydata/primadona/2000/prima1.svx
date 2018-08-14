@@ -56,4 +56,3 @@
 35	34	3.93	081	-1	;stn 35 is top left of painted T at entrance, 
 
 *end prima1
-		

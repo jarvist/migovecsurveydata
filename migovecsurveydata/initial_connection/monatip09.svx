@@ -1,9 +1,9 @@
 ;Monatip
-;preèka na vrhu Luzerja
+;preÃ¨ka na vrhu Luzerja
 ;Date: 22/08/15
 *date 2015.08.22
-;Merili: Ristiè D., Trušnovc B. 
-;Risala: Ristiè D.
+;Merili: RistiÃ¨ D., TruÂšnovc B. 
+;Risala: RistiÃ¨ D.
 ;ostali udelezenci: Maffi G., Fratnik A.  
 ;Data entered by Zdenko Rejec 14/08/13
 
@@ -21,7 +21,7 @@
 3	4	3.9		75		46	;
 4	5	2.3		238		17	;
 5	6	5.7		160		-15	;
-6	7	7.4		193		-39	;preèka v Luzerju
-7	8	7.3		290		7	;preèka na svedrovec v Luzerju
+6	7	7.4		193		-39	;preÃ¨ka v Luzerju
+7	8	7.3		290		7	;preÃ¨ka na svedrovec v Luzerju
 
 *end monatip09

@@ -1,5 +1,5 @@
 ;Monatip
-; vodoravni deli med toèkami od monatip05.2 do monatip05.21 se klièe "Ne tiè ne miš" 
+; vodoravni deli med toÃ¨kami od monatip05.2 do monatip05.21 se kliÃ¨e "Ne tiÃ¨ ne miÂš" 
 
 ;Date: 31/10/12
 *date 2012.10.31
@@ -20,7 +20,7 @@
 101	102	9.8	140	-43	
 102	103	9.9	130	-35
 103	104	7.4	182	0
-104	105	36.3	0	90 	;brezno Povezava ni naš problem"
+104	105	36.3	0	90 	;brezno Povezava ni naÂš problem"
 105	1	6.8	250	62	;zgornje okno v breznu
 1	2	7.3	295	41
 2	3	3.6	250	9

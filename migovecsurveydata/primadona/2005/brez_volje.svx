@@ -1,9 +1,9 @@
-;JDDR Ajdovšèina in Jamarska sekcija Planinskega društva Tolmin
-;Primadona -kat. št.:8383
+;JDDR AjdovÂšÃ¨ina in Jamarska sekcija Planinskega druÂštva Tolmin
+;Primadona -kat. Âšt.:8383
 
 ;Popotresni rovi
 ;akcija 15.10.2005
-;udelezenci: Bogomir Remškar in Beguš Tadej
+;udelezenci: Bogomir RemÂškar in BeguÂš Tadej
 ;Instruments: Ista
 
 ;data normal bcra grade 5

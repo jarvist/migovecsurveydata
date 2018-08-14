@@ -28,4 +28,4 @@
 ;.7 is PSS
 ;.1 is Stn.50 in monatip04
 
-*end alkatraz 
+*end alkatraz

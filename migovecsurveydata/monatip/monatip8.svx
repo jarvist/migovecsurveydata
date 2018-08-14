@@ -2,9 +2,9 @@
 
 ;Date: 11/08/13
 *date 2013.08.11
-;Merili: Clair, Fratnik A, Ivšak A, 
+;Merili: Clair, Fratnik A, IvÂšak A, 
 ;Risala: Clair
-;ostali udelezenci: Maffi G, Maver N, Èibej   
+;ostali udelezenci: Maffi G, Maver N, Ãˆibej   
 ;Data entered by Zdenko Rejec 14/08/13
 
 ;data normal bcra grade 5

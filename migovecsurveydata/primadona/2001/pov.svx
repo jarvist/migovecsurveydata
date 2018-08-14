@@ -3,7 +3,7 @@
 ; Surveyed to BCRA Grade 5b
 ; povezava sejne sobe za dvorano mangiare
 
-;Date: 26÷27/07/01
+;Date: 26Ã·27/07/01
 ;Instruments: Tivadar Tomaz
 ;Book: Kragelj Tomaz
 

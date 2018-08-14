@@ -12,7 +12,7 @@
 
 *begin berti
 
-1	2	15	0	-90	;mera je izmišljena
+1	2	15	0	-90	;mera je izmiÂšljena
 2	3	10	90	0
 3	4	10	0	0
 *end berti

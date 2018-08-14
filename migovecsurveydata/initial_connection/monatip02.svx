@@ -28,7 +28,7 @@
 ; stn 27 is JH/IM stn. 27 PSS in chamber
 ; stn 37 is a PSS
 ; stn 35 is top of free climb pitch down
-; stn 36 plošèica in stem / first bolt
+; stn 36 ploÂšÃ¨ica in stem / first bolt
 
 *data passage station left right up down
 

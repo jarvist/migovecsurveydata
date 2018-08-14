@@ -1,8 +1,8 @@
 ;Mona tip
-;katasterska številka: 10180
+;katasterska Âštevilka: 10180
 ;Date: 27/09/15
 *date 2015.09.27
-;Merili:  Rejec Z, Trušnovec B
+;Merili:  Rejec Z, TruÂšnovec B
 ;Risal: Zdenko Rejec
 ;ostali udelezenci: Fratnik A, Maffi G, 
 ;Data entered by Zdenko Rejec 27/09/15
@@ -31,7 +31,7 @@
 ;14	13	6.90	327		-13.1	;podvojena meritev v meritvah "monatip11"
 ;15	14	13.54	312		+1.0	;podvojena meritev v meritvah "monatip11"
 
-;merjenje globine in višine brezen z lasercem, ki pa se ne upoštevajo v statistiki
+;merjenje globine in viÂšine brezen z lasercem, ki pa se ne upoÂštevajo v statistiki
 ;*flags splay
 *flags duplicate
 2	2a	16.9	0	-90
@@ -48,21 +48,21 @@
 *flags not duplicate
 
 ;*data passage station left right up down
-;zaèetna toèka 1 je svedrovec na skali vrh brezna premera 6.5m
+;zaÃ¨etna toÃ¨ka 1 je svedrovec na skali vrh brezna premera 6.5m
 ;2 svedrovec vrh brezna premera 1.8m in globine 16.9m
 ;3 prehod skozi luknjo v sredino vzporednega brezna premera 5.2m in globine 7.5m
-;4 prehod po krajšem rovu doline 2.6m v sredino naslednjega brezna
-;5 zaèetek naslednjega brezna elipsaste oblike doline 7.8 in širine 2.8m
-;6 zaèetek rova širine 1,2m in višine 0,5m do 1.5m
-;7 moic: 
-;8 kriišèe:levo naprej je potrebno pregledat brezence z monostjo nadaljevanja
+;4 prehod po krajÂšem rovu dolÂine 2.6m v sredino naslednjega brezna
+;5 zaÃ¨etek naslednjega brezna elipsaste oblike dolÂine 7.8 in Âširine 2.8m
+;6 zaÃ¨etek rova Âširine 1,2m in viÂšine 0,5m do 1.5m
+;7 moÂic: 
+;8 kriÂiÂšÃ¨e:levo naprej je potrebno pregledat brezence z moÂnostjo nadaljevanja
 ;9 spust na dno meandra
-;10 zaèetek rova po dnu meandra
+;10 zaÃ¨etek rova po dnu meandra
 ;11
 ;12
-;13 zaèetek naslednjega brezna globine cca 4m
-;14 preènica, zaèetek naslednjega brezna globine cca 30m
-;15 moic pri glineni skulpturi, zaèetek stropa brezna pod nami (globine cca 30m)
+;13 zaÃ¨etek naslednjega brezna globine cca 4m
+;14 preÃ¨nica, zaÃ¨etek naslednjega brezna globine cca 30m
+;15 moÂic pri glineni skulpturi, zaÃ¨etek stropa brezna pod nami (globine cca 30m)
 
 
 *end monatip10
