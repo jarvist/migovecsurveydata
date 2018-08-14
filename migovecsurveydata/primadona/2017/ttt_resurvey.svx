@@ -13,13 +13,16 @@
 ;from   to      tape    comp    clino; L R U D
 ;Data on 4 pages
 ;Page 1/4
+*flags duplicate
 1	2	4.59	115	+09
 2	3	16.70	-	UP
+*flags not duplicate
 3	4	5.03	-	UP
 4	5	7.26	252	+04
 5	6	8.97	152	+74
 6	7	7.55	195	+18
 7	8	6.50	307	-19
+*flags duplicate
 8	9	13.02	-	UP
 9	10	4.40	012	-07
 10	11	5.63	057	+00
@@ -64,7 +67,7 @@
 43	45	3.89	-	UP
 45	46	16.32	034	+06
 46	47	4.62	047	-15
-
+*flags not duplicate
 
 ;NOTES 
 ;Stn 1 is Cairn in Ajdovcina pitch
