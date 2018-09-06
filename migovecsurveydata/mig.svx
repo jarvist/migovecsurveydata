@@ -138,6 +138,7 @@
 *include others/E1
 *include kukpot/s_kukpot
 *include others/venus
+*include others/coincidence/s_coincidence
 
 ; *********** SECTION III: Include .svx files for surface surveys ************ ;
 ;
@@ -280,3 +281,6 @@
 
 ; Venus                             <-> GPS fix
 *equate venus.18                        gps.M22GK
+
+; Coincidence                       <-> GPS fix
+*equate coincidence.entrance            gps.COINCIDENCE

@@ -1,0 +1,21 @@
+; System Migovec
+; (c) 1994 - 1998 Imperial College Caving Club and Jamarska sekcija PD Tolmin
+; Surveyed to BCRA Grade 5b
+; Coincidence Cave
+*begin coincidence
+; Set entrance
+entrance nothing 0  -  down
+
+; Data
+;2018
+*calibrate compass -3.46
+*include hells_teeth
+*include hells_teeth_2
+*include hells_teeth_3
+
+*equate hells_teeth.13 entrance
+
+*end coincidence
+
+*entrance coincidence.entrance
+
