@@ -1,0 +1,2 @@
+extend --specfile=EXTEND/sysmig_vrtnarija_prima_extend_spec_2018.dat system_migovec.3d system_migovec_extend.3d
+aven system_migovec_extend.3d
