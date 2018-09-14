@@ -396,13 +396,15 @@
 *eleft prim.testing_the_waters.8
 *eleft prim.therock.3
 *eright prim.therock.14
-*eleft prim.therock.13
+*eleft 	prim.therock.13
+*eright prim.therock.12
+*eleft prim.therock.11
 
 ;Sorting out the entrance series - Survex Loop goes through TTT branch->Mandare-> Stara Jama-> Entrance Series of Primadona
-*eright prim.prima1.8 prim.prima1.9
-*eleft prim.prima1.10 prim.prima1.11
+;*eright prim.prima1.8 prim.prima1.9
+;*eleft prim.prima1.10 prim.prima1.11
 *eright prim.prima1.8 prim.prima1.7
-*eleft prim.prima2.26 prim.prima2.27
+
 *eright prim.prima2.24 prim.prima2.25
 
 
@@ -411,8 +413,8 @@
 
 ;The bit of cave near Mary’s café - including Sejna Soba. Survex Loop extended from TTT branch -> What a Coincidence -> Karstaway -> SmerO.
 
+
 *eleft prim.risa2.12
-*eright prim.risa2.12 prim.pov.28
 
 *eleft prim.galerija.15 prim.galerija.16
 *eleft prim.galerija.16 prim.galerija.17
@@ -443,12 +445,12 @@
 *eleft prim.ttt.14 prim.ttt.15
 *eright prim.ttt.23
 
-*eleft prim.ttt_resurvey.9 prim.ttt_resurvey.8
+
 *eleft prim.ttt_resurvey.47 prim.ttt_resurvey.46
 
 ;Getting the connection between TTT and karstaway right
 *eleft prim.what_a_coincidence.1
-*eright prim.what_a_coincidence.3
+*eright prim.what_a_coincidence.4
 *eleft prim.buckwheat_resurvey.4 prim.zima00.8
 
 
@@ -509,7 +511,7 @@
 *eright 	prim.cattle_grid.3 			prim.cattle_grid.16
 *eleft 		prim.cattle_grid.22
 
-*eright 	prim.the_stile.1 			prim.the_stile.2
+
 *eleft 		prim.the_stile.10 			prim.the_stile.11
 
 ;Organising Fenestrator branch
@@ -541,33 +543,68 @@
 *eright 	prim.testify.45				prim.testify.46
 
 ;Reorienting the Alkatraz-CloacaMaxima connection
-*eright 	s_monatip.cloaca_resurvey.0 s_monatip.cloaca_resurvey.1
-*eleft 		s_monatip.cloacamaxima.12 	s_monatip.cloacamaxima.11
-*eleft		s_monatip.cloacamaxima.12 	s_monatip.cloacamaxima.16
-;*eleft 	s_monatip.cloacamaxima.12	s_monatip.cloacamaxima.17
-*eleft 		s_monatip.cloacamaxima.39 	s_monatip.cloacamaxima.40
-*eright 	s_monatip.aleksandrija.0	s_monatip.aleksandrija.1
-*eleft 		s_monatip.aleksandrija.13b	s_monatip.aleksandrija.14
-*eright 	s_monatip.cloacamaxima.29 	s_monatip.cloacamaxima.30
-*eleft 		s_monatip.cloacamaxima.23 	s_monatip.cloacamaxima.27
+*eright 	s_monatip.cloaca_resurvey.0 	s_monatip.cloaca_resurvey.1
+*eleft 		s_monatip.cloacamaxima.12 		s_monatip.cloacamaxima.11
+*eleft		s_monatip.cloacamaxima.12 		s_monatip.cloacamaxima.16
+;*eleft 	s_monatip.cloacamaxima.12		s_monatip.cloacamaxima.17
+*eleft 		s_monatip.cloacamaxima.39 		s_monatip.cloacamaxima.40
+*eright 	s_monatip.aleksandrija.0		s_monatip.aleksandrija.1
+*eleft 		s_monatip.aleksandrija.13b		s_monatip.aleksandrija.14
+*eright 	s_monatip.cloacamaxima.29 		s_monatip.cloacamaxima.30
+*eleft 		s_monatip.cloacamaxima.23 		s_monatip.cloacamaxima.27
 
 ;Orienting Rat Rift and Well_hung
-*eleft 		s_monatip.well_hung.0 		s_monatip.well_hung.1
+*eleft 		s_monatip.well_hung.0 			s_monatip.well_hung.1
 
 
 ;Extensions below Deeper than Most
 ;Coiling the Mouseleum to reflect the pitches bouncing off the two walls.
-*eright 	prim.mouseleum.19 			prim.mouseleum.18
-*eleft 		prim.mouseleum.18 			prim.mouseleum.17
-*eright 	prim.mouseleum.12			prim.mouseleum.11
-*eleft 		prim.mouseleum.11			prim.mouseleum.10
-*eright  	prim.mouseleum_2.7 			prim.mouseleum_2.6
-*eleft 		prim.mouseleum_2.5 			prim.mouseleum_2.4
+*eright 	prim.mouseleum.19 				prim.mouseleum.18
+*eleft 		prim.mouseleum.18 				prim.mouseleum.17
+*eright 	prim.mouseleum.12				prim.mouseleum.11
+*eleft 		prim.mouseleum.11				prim.mouseleum.10
+*eright  	prim.mouseleum_2.7 				prim.mouseleum_2.6
+*eleft 		prim.mouseleum_2.5 				prim.mouseleum_2.4
 
 ;Showing the overhang in Klic Globin pitch
-*eright 	prim.klic_globin.13 		prim.klic_globin.12
-*eleft 		prim.klic_globin.7 			prim.klic_globin.0
-*eright 	prim.klic_globin.2 			prim.klic_globin.3
+*eright 	prim.klic_globin.13 			prim.klic_globin.12
+*eleft 		prim.klic_globin.7 				prim.klic_globin.0
+*eright 	prim.klic_globin.2 				prim.klic_globin.3
 
 ;Folding Moonraker 2 so it goes back towards Klic Globin pitch
-*eright 	prim.moonraker2.9			prim.moonraker2.8
+*eright 	prim.moonraker2.9				prim.moonraker2.8
+
+;Attacking the Ave Maria connection
+*eleft 		prim.ave_maria.1 				prim.ave_maria.2
+*eright 	prim.ave_maria.2				prim.ave_maria.3
+*eright 	prim.zima00.3 					prim.zima00.2
+*eright 	prim.pivnica_2_resurvey.16		prim.pivnica_2_resurvey.15
+*eleft 		prim.pivnica_2_resurvey.14		prim.pivnica_2_resurvey.13
+
+*eright 	prim.buckwheat_resurvey.1		prim.buckwheat_resurvey.2
+*eright 	prim.buckwheat_resurvey.4		prim.buckwheat_resurvey.5
+
+*eleft 		prim.pivnica_resurvey.2			prim.pivnica_resurvey.1
+
+
+*eleft 		prim.ttt_resurvey.4				prim.ttt_resurvey.5
+*eright 	prim.ttt_resurvey.8		
+
+*eleft 		prim.rokovo_brezno_resurvey.7	prim.rokovo_brezno_resurvey.6	
+
+*eleft 		prim.spodnji.1					prim.spodnji.2
+
+*eright 	prim.mandare_resurvey.1 		prim.mandare_resurvey.2
+*eleft 		prim.mandare_resurvey.3			prim.mandare_resurvey.4
+
+*eright 	prim.cattle_grid.7				prim.cattle_grid.9
+
+*eright 	prim.prima2.26
+
+*eleft 		prim.bath.0
+
+*eleft 		prim.mighty_fine_indeed.3		prim.mighty_fine_indeed.4
+
+
+*eright prim.dysentry.O prim.dysentry.1
+*eleft prim.dysentry.4 prim.dysentry.5
