@@ -111,7 +111,7 @@
 ;*include DEM/north_south_strip.svx
 ;*include DEM/east_west_lines.svx
 ;This is our largest DEM dataset
-;*include DEM/2000m_circle.svx
-*include DEM/north_south_lines.svx
+*include DEM/2000m_circle.svx
+;*include DEM/north_south_lines.svx
 *end DEM
 
