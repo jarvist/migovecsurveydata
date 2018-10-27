@@ -1,4 +1,4 @@
-;Just the actual sistem migovec
+PLAN_2017.svg;Just the actual sistem migovec
 ; Clewin Griffith, Imperial College Caving Club 2001
 ;edded Primadona- Zdenko Rejec- 11.2003
 

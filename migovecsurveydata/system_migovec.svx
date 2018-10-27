@@ -33,6 +33,8 @@
 *include primadona/primadona
 *equate surf.07.surf_prima_planika.7 prim.prima1.35
 *equate prim.therock.14 s_monatip.alkatraz.7
+;original 2OO8 connection above Sejna Soba.
+*equate prim.popotresni.pop11 	s_monatip.doubletime.1
 
 ;*include planika/s_planika
 ;*equate surf.07.surf_ubend_planika.15 planika.planika.1
