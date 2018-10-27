@@ -15,7 +15,7 @@
   *units tape meters
   *units compass degrees
   *units clino degrees
-  *calibrate declination 0.00
+  ;*calibrate declination 0.00
   *alias station - ..
   *flags not splay
   *data normal from to tape compass clino

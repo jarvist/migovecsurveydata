@@ -1,0 +1,28 @@
+*begin deep_branch
+	*include 2018/snakebite
+	*include 2018/snakebitetwo
+	*include 2018/ave_maria
+	*include 2018/penny_falls
+	*include 2018/penny_falls_2
+	*include 2018/tiger_tiger
+	*include 2018/lost_in_a_dream_2
+	*include 2018/lost_in_a_dream
+	*include 2018/deeper_than_most
+	*include 2018/klic_globin
+	*include 2018/mouseleum
+	*include 2018/mouseleum_2
+	*include 2018/moonraker
+	*include 2018/moonraker2
+	*include 2018/chocolate_river
+	*include 2018/the_aqueduct
+	
+
+	*include 2018/pivnica_resurvey
+	*include 2017/buckwheat_resurvey
+	*include 2017/ttt_resurvey
+	*include 2002/ajdovscina
+	*include 2000/zima00
+	*include 2002/spodnji
+	*include 2002/milanova
+
+*end deep_branch

@@ -1,0 +1,19 @@
+*begin alabaster_branch
+
+*include 2018/testify
+*include 2018/canticle_for_migovec
+*include 2018/bath
+*include 2018/purgatory
+*include 2018/holy_moley
+*include 2017/alabaster
+*include 2017/sweet_baby_jesus
+*include 2017/hallelujah
+*include 2017/plumbers_paradise
+*include 2017/fenestrator
+*include 2017/union_passage_of_the_year_nominee
+*include 2018/mud_moses
+*include 2016/cattle_grid
+*include 2016/galeria_resurvey
+*include 2001/galerija
+
+*end alabaster_branch

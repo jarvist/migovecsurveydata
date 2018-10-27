@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,8 +14,7 @@
    height="1052.3622"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docbase="/home/acrelane/Desktop/slov07"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="planika_2008_kataster.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -162,7 +162,7 @@
         <path
            id="path18360"
            transform="matrix(0,-1.109517,1.109517,0,25.96648,19.71619)"
-           d="M 16.779951 -28.685045 A 0.60731727 0.60731727 0 1 0 15.565317,-28.685045 A 0.60731727 0.60731727 0 1 0 16.779951 -28.685045 z"
+           d="m 16.779951,-28.685045 a 0.60731727,0.60731727 0 0 1 -0.607317,0.607317 0.60731727,0.60731727 0 0 1 -0.607317,-0.607317 0.60731727,0.60731727 0 0 1 0.607317,-0.607318 0.60731727,0.60731727 0 0 1 0.607317,0.607318 z"
            sodipodi:ry="0.60731727"
            sodipodi:rx="0.60731727"
            sodipodi:cy="-28.685045"
@@ -172,7 +172,7 @@
         <path
            id="path18362"
            transform="matrix(0,-1.109517,1.109517,0,26.82450,16.99126)"
-           d="M 16.779951 -28.685045 A 0.60731727 0.60731727 0 1 0 15.565317,-28.685045 A 0.60731727 0.60731727 0 1 0 16.779951 -28.685045 z"
+           d="m 16.779951,-28.685045 a 0.60731727,0.60731727 0 0 1 -0.607317,0.607317 0.60731727,0.60731727 0 0 1 -0.607317,-0.607317 0.60731727,0.60731727 0 0 1 0.607317,-0.607318 0.60731727,0.60731727 0 0 1 0.607317,0.607318 z"
            sodipodi:ry="0.60731727"
            sodipodi:rx="0.60731727"
            sodipodi:cy="-28.685045"
@@ -243,19 +243,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67942388"
-     inkscape:cx="158.63113"
-     inkscape:cy="502.2014"
+     inkscape:cx="246.94124"
+     inkscape:cy="973.18867"
      inkscape:document-units="px"
      inkscape:current-layer="layer14"
-     inkscape:window-width="1279"
-     inkscape:window-height="943"
-     inkscape:window-x="1"
-     inkscape:window-y="55"
+     inkscape:window-width="1440"
+     inkscape:window-height="765"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      width="744.09449px"
      height="1052.3622px"
      showgrid="false"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -451,7 +452,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot30191"
-       style="font-size:32px"
+       style="line-height:0.01%"
        transform="matrix(0.726791,0,0,0.7381406,8.5430133,851.46281)"><flowRegion
          id="flowRegion30193"><rect
            id="rect30195"
@@ -461,7 +462,7 @@
            y="11.510847"
            style="font-size:32px" /></flowRegion><flowPara
          id="flowPara30201"
-         style="font-size:56px">Jama Planika</flowPara></flowRoot>    <g
+         style="font-size:56px;line-height:1.25">Jama Planika</flowPara></flowRoot>    <g
        id="g22485"
        transform="matrix(0.6822017,0,0,0.6822017,26.340078,842.25624)">
       <rect
@@ -473,24 +474,32 @@
          style="font-size:14px;font-weight:bold;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.02312803;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
          transform="translate(0.5217062,26.832975)"
-         style="font-size:14px;font-weight:bold"
+         style="font-weight:bold;line-height:0.01%"
          id="flowRoot12436"
          xml:space="preserve"><flowRegion
            id="flowRegion12438"><rect
-             style="font-size:14px;font-weight:bold"
+             style="font-weight:bold;font-size:14px"
              y="99.293053"
              x="43.65202"
              height="158.23857"
              width="232.81078"
              id="rect12440" /></flowRegion><flowPara
-           id="flowPara12442">Tolmin, Julian Alps, Slovenia</flowPara><flowPara
-           id="flowPara12444">Altitude 1817m</flowPara><flowPara
-           id="flowPara12446">Depth 39m, Length 167m</flowPara><flowPara
-           id="flowPara12448">Location 540458 / 512382</flowPara><flowPara
-           id="flowPara12450" /><flowPara
-           id="flowPara12452">Drawn by ICCC / JSPDT 2007</flowPara><flowPara
-           id="flowPara12454">Surveyed to BCRA Grade 4B</flowPara><flowPara
-           id="flowPara12456">Exploration 2007</flowPara></flowRoot>    </g>
+           id="flowPara12442"
+           style="font-size:14px;line-height:1.25">Tolmin, Julian Alps, Slovenia</flowPara><flowPara
+           id="flowPara12444"
+           style="font-size:14px;line-height:1.25">Altitude 1817m</flowPara><flowPara
+           id="flowPara12446"
+           style="font-size:14px;line-height:1.25">Depth 39m, Length 167m</flowPara><flowPara
+           id="flowPara12448"
+           style="font-size:14px;line-height:1.25">Location 540458 / 512382</flowPara><flowPara
+           id="flowPara12450"
+           style="font-size:14px;line-height:1.25"> </flowPara><flowPara
+           id="flowPara12452"
+           style="font-size:14px;line-height:1.25">Drawn by ICCC / JSPDT 2007</flowPara><flowPara
+           id="flowPara12454"
+           style="font-size:14px;line-height:1.25">Surveyed to BCRA Grade 4B</flowPara><flowPara
+           id="flowPara12456"
+           style="font-size:14px;line-height:1.25">Exploration 2007</flowPara></flowRoot>    </g>
     <g
        id="g2414"
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
@@ -676,9 +685,10 @@
            id="g2518">
           <text
              transform="matrix(1,0,0,-1,339.6,141.8)"
-             id="text2520">
+             id="text2520"
+             style="line-height:0%">
             <tspan
-               style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+               style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                x="0 3.3 6.0999999 7.5 10.3 12.8 14.1 15.8 18.299999 20.799999 23.6"
                y="0"
                sodipodi:role="line"
@@ -686,18 +696,20 @@
           </text>
           <text
              transform="matrix(1,0,0,-1,364.6,141.8)"
-             id="text2524">
+             id="text2524"
+             style="line-height:0%">
             <tspan
-               style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+               style="font-variant:normal;font-size:5px;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                x="0"
                y="0"
                id="tspan2526">š</tspan>
           </text>
           <text
              transform="matrix(1,0,0,-1,367.1,141.8)"
-             id="text2528">
+             id="text2528"
+             style="line-height:0%">
             <tspan
-               style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+               style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                x="0 1.4 2.8"
                y="0"
                sodipodi:role="line"
@@ -716,9 +728,10 @@
            id="g2540">
           <text
              transform="matrix(1,0,0,-1,379.3,141.8)"
-             id="text2542">
+             id="text2542"
+             style="line-height:0%">
             <tspan
-               style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+               style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                x="0 1.3 5.5 8.3000002 9.6999998 10.8 13.6 17.799999 20.5"
                y="0"
                sodipodi:role="line"
@@ -732,9 +745,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,321.9,121.3)"
-         id="text2548">
+         id="text2548"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 4.0999999 6.9000001 8.6000004 9.6999998 10.8 11.9"
            y="0"
            sodipodi:role="line"
@@ -746,9 +760,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,511.3,121.3)"
-         id="text2554">
+         id="text2554"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 3.5999999 6.4000001 7.6999998 10.5 14.7 16.1 18.9 21.4 23.9 26.4 29.1 30.799999 33.299999 34.400002 35.5 38.299999"
            y="0"
            sodipodi:role="line"
@@ -760,9 +775,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,321.9,100.3)"
-         id="text2560">
+         id="text2560"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 3.5999999 4.6999998 7.1999998 10 11.1 12.2"
            y="0"
            sodipodi:role="line"
@@ -774,9 +790,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,511.3,100.3)"
-         id="text2566">
+         id="text2566"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 3.5999999 6.4000001 7.6999998 10.5 14.7 16.1 18.9"
            y="0"
            sodipodi:role="line"
@@ -784,18 +801,20 @@
       </text>
       <text
          transform="matrix(1,0,0,-1,533,100.3)"
-         id="text2570">
+         id="text2570"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0"
            y="0"
            id="tspan2572">č</tspan>
       </text>
       <text
          transform="matrix(1,0,0,-1,535.4,100.3)"
-         id="text2574">
+         id="text2574"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 1.7 3.0999999 5.9000001"
            y="0"
            sodipodi:role="line"
@@ -807,9 +826,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,321.9,79.3)"
-         id="text2580">
+         id="text2580"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 3.8 5.5 8.3000002 11.1 13.9 15 17.5 20.299999 22.799999 23.9 25 27.799999"
            y="0"
            sodipodi:role="line"
@@ -821,9 +841,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,449.5,79.3)"
-         id="text2586">
+         id="text2586"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 4.0999999 6.9000001 8.6000004 9.6999998 10.8 13.6"
            y="0"
            sodipodi:role="line"
@@ -835,9 +856,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,511.3,79.3)"
-         id="text2592">
+         id="text2592"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 3.5999999 6.4000001 7.6999998 10.5"
            y="0"
            sodipodi:role="line"
@@ -845,18 +867,20 @@
       </text>
       <text
          transform="matrix(1,0,0,-1,524.6,79.3)"
-         id="text2596">
+         id="text2596"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0"
            y="0"
            id="tspan2598">č</tspan>
       </text>
       <text
          transform="matrix(1,0,0,-1,527.1,79.3)"
-         id="text2600">
+         id="text2600"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 2.8 5.5999999 8.1000004 9.5"
            y="0"
            sodipodi:role="line"
@@ -868,18 +892,20 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,321.9,58.3)"
-         id="text2606">
+         id="text2606"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0"
            y="0"
            id="tspan2608">Š</tspan>
       </text>
       <text
          transform="matrix(1,0,0,-1,325.2,58.3)"
-         id="text2610">
+         id="text2610"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 1.4 4.1999998 6.6999998 7.8000002 8.8999996 11.4 14.2 15.6 18.1 20.799999 23.6 24.700001 27.200001 30 31.1 33.599998 36.400002"
            y="0"
            sodipodi:role="line"
@@ -891,9 +917,10 @@
        transform="matrix(1.25,0,0,-1.25,11.601924,1073.991)">
       <text
          transform="matrix(1,0,0,-1,449.5,58.3)"
-         id="text2616">
+         id="text2616"
+         style="line-height:0%">
         <tspan
-           style="font-size:5px;font-variant:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu"
+           style="font-variant:normal;font-size:5px;line-height:1.25;font-family:NimbusSanL;-inkscape-font-specification:NimbusSanL-Regu;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            x="0 3.9000001 6.4000001 9.1000004 11.9 14.4 17.200001 18.6 21.4 24.200001 26.700001 29.4 33.599998 36.400002 39.200001 40.599998 43.400002 44.799999 46.400002 47.5 50 52.799999 55.599998 56.700001 59.5 60.599998 62 65.300003 68.099998 69.5 72.300003 74.800003 76.199997 78.900002 80.599998"
            y="0"
            sodipodi:role="line"
@@ -941,7 +968,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot8344"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(14.675871,-0.2995076)"><flowRegion
          id="flowRegion8346"><rect
            id="rect8348"
@@ -950,10 +977,10 @@
            x="521.74219"
            y="893.02417" /></flowRegion><flowPara
          id="flowPara8350"
-         style="font-size:14px">Jama Planika</flowPara></flowRoot>    <flowRoot
+         style="font-size:14px;line-height:1.25">Jama Planika</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8352"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(1.4975378,2.6955681)"><flowRegion
          id="flowRegion8354"><rect
            id="rect8356"
@@ -962,10 +989,11 @@
            x="435.78351"
            y="919.68036"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8358">Jana Čarga (JSPDT), Jarvist Frost(ICCC)</flowPara></flowRoot>    <flowRoot
+         id="flowPara8358"
+         style="font-size:10px;line-height:1.25">Jana Čarga (JSPDT), Jarvist Frost(ICCC)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8362"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(1.1980302,2.096553)"><flowRegion
          id="flowRegion8364"><rect
            id="rect8366"
@@ -974,30 +1002,33 @@
            x="435.48401"
            y="946.63599"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8368">Jarvist Frost (ICCC)</flowPara></flowRoot>    <flowRoot
+         id="flowPara8368"
+         style="font-size:10px;line-height:1.25">Jarvist Frost (ICCC)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8370"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion8372"><rect
            id="rect8374"
            width="141.96658"
            height="12.27981"
            x="416.61502"
            y="978.68335" /></flowRegion><flowPara
-         id="flowPara8376">JSPDT</flowPara></flowRoot>    <text
+         id="flowPara8376"
+         style="font-size:12px;line-height:1.25">JSPDT</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="468.42981"
        y="986.77002"
        id="text8378"><tspan
          sodipodi:role="line"
          id="tspan8380"
          x="468.42981"
-         y="986.77002">JSPDT / ICCC</tspan></text>
+         y="986.77002"
+         style="font-size:12px;line-height:1.25">JSPDT / ICCC</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot8382"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4.1931059,-1.4975378)"><flowRegion
          id="flowRegion8384"><rect
            id="rect8386"
@@ -1006,10 +1037,11 @@
            x="577.15106"
            y="977.48529"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8388">1:300 (A4)</flowPara></flowRoot>    <flowRoot
+         id="flowPara8388"
+         style="font-size:10px;line-height:1.25">1:300 (A4)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8390"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(2.9950757,-1.1980303)"><flowRegion
          id="flowRegion8392"><rect
            id="rect8394"
@@ -1018,10 +1050,11 @@
            x="651.72845"
            y="978.08429"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8396">BCRA  4B</flowPara></flowRoot>    <flowRoot
+         id="flowPara8396"
+         style="font-size:10px;line-height:1.25">BCRA  4B</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8398"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4.7921211,-0.5990151)"><flowRegion
          id="flowRegion8400"><rect
            id="rect8402"
@@ -1030,10 +1063,11 @@
            x="650.53046"
            y="925.37097"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8404">Avg 2007</flowPara></flowRoot>    <flowRoot
+         id="flowPara8404"
+         style="font-size:10px;line-height:1.25">Avg 2007</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8406"
-       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3.5940908,-0.5990151)"><flowRegion
          id="flowRegion8408"><rect
            id="rect8410"
@@ -1042,7 +1076,8 @@
            x="650.82996"
            y="951.72766"
            style="font-size:10px" /></flowRegion><flowPara
-         id="flowPara8412">Sept 2007</flowPara></flowRoot>  </g>
+         id="flowPara8412"
+         style="font-size:10px;line-height:1.25">Sept 2007</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
@@ -1125,26 +1160,28 @@
        id="g2873">
       <flowRoot
          transform="translate(-308.59947,-166.90832)"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowRoot22427"
          xml:space="preserve"><flowRegion
            id="flowRegion22429"><rect
-             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
              y="183.63092"
              x="335.71851"
              height="68.731262"
              width="124.28149"
              id="rect22431" /></flowRegion><flowPara
-           id="flowPara22437">N</flowPara></flowRoot>      <text
+           id="flowPara22437"
+           style="font-size:32px;line-height:1">N</flowPara></flowRoot>      <text
          id="text22439"
          y="45.20507"
          x="50.928802"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="45.20507"
            x="50.928802"
            id="tspan22441"
-           sodipodi:role="line">mag</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12px;line-height:1.25">mag</tspan></text>
     </g>
   </g>
   <g
@@ -1246,7 +1283,7 @@
      sodipodi:nodetypes="ccscc" />
   <text
      xml:space="preserve"
-     style="font-size:16.31796074px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="500.55099"
      y="337.62372"
      id="text30211"><tspan
@@ -1254,7 +1291,7 @@
        id="tspan30213"
        x="500.55099"
        y="337.62372"
-       style="stroke-width:1.07105064">e</tspan></text>
+       style="font-size:16.31796074px;line-height:1.25;stroke-width:1.07105064">e</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67081267px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
      d="M 610.31361,54.513587 C 610.31361,54.513587 596.83767,103.6574 591.86245,104.77098 C 585.91713,106.10168 584.03446,105.38177 585.31084,101.688 C 590.80682,85.783159 599.60488,49.438178 583.55212,53.625857 C 560.65145,59.599943 568.38433,82.208441 568.38433,82.208441 L 578.23899,108.41387 C 589.76993,109.68255 580.55132,130.01959 596.04205,119.40892 C 605.13086,116.23021 627.24434,112.57099 634.49939,121.49569 L 640.83438,121.62866 C 640.83438,121.62866 653.59982,135.58569 633.4811,142.81501 C 613.22423,150.09397 610.26556,144.22375 595.37115,144.23094 C 577.80043,144.23942 536.40334,120.98893 532.42062,125.96734 C 528.4379,130.94575 460.78332,159.55623 459.68482,148.84247 C 458.7317,139.5466 469.49347,138.70218 489.95809,123.32355 C 506.81656,110.65483 495.52058,109.81659 491.39338,98.244223 C 486.17079,83.600464 476.76032,79.40698 516.19483,92.593638 C 526.90045,96.173529 537.52673,103.90912 537.52673,86.982543 C 537.52673,70.055957 527.51884,39.076448 555.3979,38.080778 C 583.27698,37.085097 637.31891,-14.080463 622.38368,22.759751 C 607.44847,59.599943 610.48659,54.218705 610.48659,54.218705"
@@ -2056,7 +2093,7 @@
      transform="matrix(6.9915148e-2,6.5049666e-2,-6.6904584e-2,0.2168054,532.92139,167.0524)" />
   <text
      xml:space="preserve"
-     style="font-size:16.09950638px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="587.80707"
      y="40.335068"
      id="text17432"><tspan
@@ -2064,10 +2101,10 @@
        id="tspan17434"
        x="587.80707"
        y="40.335068"
-       style="stroke-width:1.07105064">P5</tspan></text>
+       style="font-size:16.09950638px;line-height:1.25;stroke-width:1.07105064">P5</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.09950638px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="427.93414"
      y="82.891212"
      id="text17436"><tspan
@@ -2075,11 +2112,11 @@
        id="tspan17438"
        x="427.93414"
        y="82.891212"
-       style="stroke-width:1.07105064">C3</tspan></text>
+       style="font-size:16.09950638px;line-height:1.25;stroke-width:1.07105064">C3</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot17456"
-     style="font-size:24px;stroke:#000000;stroke-opacity:1;display:inline"
+     style="line-height:0.01%;display:inline;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.6708128,0,0,0.6708128,32.887484,-129.08135)"><flowRegion
        id="flowRegion17458"><rect
          id="rect17460"
@@ -2088,9 +2125,10 @@
          x="434.12466"
          y="350.27783"
          style="font-size:24px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara17462">C4</flowPara></flowRoot>  <text
+       id="flowPara17462"
+       style="font-size:24px;line-height:1.25">C4</flowPara></flowRoot>  <text
      xml:space="preserve"
-     style="font-size:16.09950638px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="163.0652"
      y="123.2275"
      id="text17464"><tspan
@@ -2098,11 +2136,11 @@
        id="tspan17466"
        x="163.0652"
        y="123.2275"
-       style="stroke-width:1.07105064">P31</tspan></text>
+       style="font-size:16.09950638px;line-height:1.25;stroke-width:1.07105064">P31</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot12478"
-     style="font-size:24px;stroke:#000000;stroke-opacity:1;display:inline"
+     style="line-height:0.01%;display:inline;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.6708128,0,0,0.6708128,337.91907,-146.74777)"><flowRegion
        id="flowRegion12480"><rect
          id="rect12482"
@@ -2111,9 +2149,10 @@
          x="434.12466"
          y="350.27783"
          style="font-size:24px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara12484">C4</flowPara></flowRoot>  <text
+       id="flowPara12484"
+       style="font-size:24px;line-height:1.25">C4</flowPara></flowRoot>  <text
      xml:space="preserve"
-     style="font-size:13.416255px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="167.65579"
      y="187.75406"
      id="text30203"><tspan
@@ -2121,10 +2160,10 @@
        id="tspan30205"
        x="167.65579"
        y="187.75406"
-       style="stroke-width:1.07105064">e</tspan></text>
+       style="font-size:13.416255px;line-height:1.25;stroke-width:1.07105064">e</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:14.75788021px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.07105064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="405.10809"
      y="316.9819"
      id="text30207"><tspan
@@ -2132,10 +2171,10 @@
        id="tspan30209"
        x="405.10809"
        y="316.9819"
-       style="stroke-width:1.07105064">e</tspan></text>
+       style="font-size:14.75788021px;line-height:1.25;stroke-width:1.07105064">e</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:39.0817337px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.80054712px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.80054712px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="554.18597"
      y="225.47899"
      id="text21935"><tspan
@@ -2143,10 +2182,10 @@
        id="tspan21937"
        x="554.18597"
        y="225.47899"
-       style="stroke-width:1.80054712">TLORIS</tspan></text>
+       style="font-size:39.0817337px;line-height:1.25;stroke-width:1.80054712">TLORIS</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:34.75434113px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.49496043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.49496043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="97.429871"
      y="760.99677"
      id="text21931"><tspan
@@ -2154,7 +2193,7 @@
        id="tspan21933"
        x="97.429871"
        y="760.99677"
-       style="stroke-width:1.49496043">SEVER-JUG PROJEKCIJA</tspan></text>
+       style="font-size:34.75434113px;line-height:1.25;stroke-width:1.49496043">SEVER-JUG PROJEKCIJA</tspan></text>
   <g
      id="g24527"
      transform="matrix(0,-0.9686528,0.9686528,0,-357.59828,889.16949)"
@@ -2233,48 +2272,52 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:16.09950638000000112px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="65.387695"
      y="409.72528"
      id="text7564"><tspan
        sodipodi:role="line"
        id="tspan7566"
        x="65.387695"
-       y="409.72528">P31</tspan></text>
+       y="409.72528"
+       style="font-size:16.09950638px;line-height:1.25">P31</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.09950638000000112px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="531.77069"
      y="540.1626"
      id="text7568"><tspan
        sodipodi:role="line"
        id="tspan7570"
        x="531.77069"
-       y="540.1626">P5</tspan></text>
+       y="540.1626"
+       style="font-size:16.09950638px;line-height:1.25">P5</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.09950638000000112px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="108.85861"
      y="280.07526"
      id="text8543"><tspan
        sodipodi:role="line"
        id="tspan8545"
        x="108.85861"
-       y="280.07526">e</tspan></text>
+       y="280.07526"
+       style="font-size:16.09950638px;line-height:1.25">e</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.09950638000000112px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="330.86261"
      y="565.52814"
      id="text12458"><tspan
        sodipodi:role="line"
        id="tspan12460"
        x="330.86261"
-       y="565.52814">C3</tspan></text>
+       y="565.52814"
+       style="font-size:16.09950638px;line-height:1.25">C3</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot12462"
-     style="font-size:24px;display:inline;stroke:#000000;stroke-opacity:1"
+     style="line-height:0.01%;display:inline;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.6708128,0,0,0.6708128,-22.370392,360.51619)"><flowRegion
        id="flowRegion12464"><rect
          id="rect12466"
@@ -2283,10 +2326,11 @@
          x="434.12466"
          y="350.27783"
          style="font-size:24px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara12468">C4</flowPara></flowRoot>  <flowRoot
+       id="flowPara12468"
+       style="font-size:24px;line-height:1.25">C4</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot12470"
-     style="font-size:24px;display:inline;stroke:#000000;stroke-opacity:1"
+     style="line-height:0.01%;display:inline;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.6708128,0,0,0.6708128,223.48237,514.81282)"><flowRegion
        id="flowRegion12472"><rect
          id="rect12474"
@@ -2295,16 +2339,18 @@
          x="434.12466"
          y="350.27783"
          style="font-size:24px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara12476">C4</flowPara></flowRoot>  <text
+       id="flowPara12476"
+       style="font-size:24px;line-height:1.25">C4</flowPara></flowRoot>  <text
      xml:space="preserve"
-     style="font-size:14.75788020999999972px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="320.78702"
      y="347.00732"
      id="text9518"><tspan
        sodipodi:role="line"
        id="tspan9520"
        x="320.78702"
-       y="347.00732">e</tspan></text>
+       y="347.00732"
+       style="font-size:14.75788021px;line-height:1.25">e</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96865277999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
      d="M 90.45691,267.62669 L 116.91621,303.99942 C 116.91621,303.99942 113.89346,311.82335 143.94483,301.30537 C 173.99621,290.78739 190.52447,310.32077 190.52447,310.32077 C 190.52447,310.32077 229.70575,306.34472 226.58611,394.46462 C 223.11058,494.31084 244.61693,472.59819 244.61693,472.59819 C 244.61693,472.59819 275.01869,452.4072 303.21711,404.9826 L 336.27362,349.38756"
@@ -2933,7 +2979,7 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot24485"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,-1.9189878,-122.52562)"><flowRegion
        id="flowRegion24487"><rect
          id="rect24489"
@@ -2941,11 +2987,12 @@
          height="19.546307"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24491">0m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24491"
+       style="font-size:16px;line-height:1.25">0m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24501"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,3.148205,108.14136)"><flowRegion
        id="flowRegion24503"><rect
          id="rect24505"
@@ -2953,11 +3000,12 @@
          height="25.560555"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24507">20m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24507"
+       style="font-size:16px;line-height:1.25">20m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24517"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,0.9635602,340.4419)"><flowRegion
        id="flowRegion24519"><rect
          id="rect24521"
@@ -2965,11 +3013,12 @@
          height="29.31946"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24523">40m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24523"
+       style="font-size:16px;line-height:1.25">40m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24551"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,11.408614,408.30301)"><flowRegion
        id="flowRegion24553"><rect
          id="rect24555"
@@ -2977,11 +3026,12 @@
          height="19.546307"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24557">0m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24557"
+       style="font-size:16px;line-height:1.25">0m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24559"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,238.55769,408.30301)"><flowRegion
        id="flowRegion24561"><rect
          id="rect24563"
@@ -2989,11 +3039,12 @@
          height="25.560555"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24565">20m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24565"
+       style="font-size:16px;line-height:1.25">20m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24567"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,471.5641,408.30301)"><flowRegion
        id="flowRegion24569"><rect
          id="rect24571"
@@ -3001,11 +3052,12 @@
          height="29.31946"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24573">40m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24573"
+       style="font-size:16px;line-height:1.25">40m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24575"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,122.31936,408.30301)"><flowRegion
        id="flowRegion24577"><rect
          id="rect24579"
@@ -3013,11 +3065,12 @@
          height="25.560555"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24581">10m</flowPara></flowRoot>  <flowRoot
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24581"
+       style="font-size:16px;line-height:1.25">10m</flowPara></flowRoot>  <flowRoot
      xml:space="preserve"
      id="flowRoot24583"
-     style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1"
+     style="font-weight:bold;line-height:0.01%;stroke:#000000;stroke-opacity:1"
      transform="matrix(0.9686528,0,0,0.9686528,354.79603,408.30301)"><flowRegion
        id="flowRegion24585"><rect
          id="rect24587"
@@ -3025,8 +3078,9 @@
          height="25.560555"
          x="29.319462"
          y="412.5965"
-         style="font-size:16px;font-weight:bold;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-       id="flowPara24589">30m</flowPara></flowRoot>  <path
+         style="font-weight:bold;font-size:16px;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+       id="flowPara24589"
+       style="font-size:16px;line-height:1.25">30m</flowPara></flowRoot>  <path
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96865277999999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
      d="M 336.44733,349.52622 C 371.73408,360.88267 368.47851,430.3668 368.47851,430.3668 C 363.87602,452.58221 257.33638,465.94393 264.21977,455.37673"
      id="path8547"
