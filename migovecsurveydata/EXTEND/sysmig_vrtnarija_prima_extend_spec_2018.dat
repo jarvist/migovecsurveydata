@@ -621,3 +621,8 @@
 
 *eright prim.spodnji.7
 *eright prim.tiger_tiger.12
+
+*eright prim.lumos.1
+*eleft prim.lumos.8 
+*eright prim.lumos.5 prim.lumos.27
+*eleft prim.lumos.17 prim.lumos.18
