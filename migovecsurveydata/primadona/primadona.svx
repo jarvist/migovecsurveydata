@@ -37,6 +37,8 @@
 *include 2018/tiger_tiger
 *include 2018/upper_escape
 *include 2018/pivnica_2_resurvey
+*include 2018/come_up_smiling
+*include 2018/come_up_smiling_2
 
 ;2017
 *calibrate compass -3.46
