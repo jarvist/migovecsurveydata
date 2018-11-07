@@ -123,8 +123,10 @@
 *include others/M1
 *include others/M6
 *include others/freezer
-*include others/M17
-*include others/M19
+*include others/m17
+*include others/M17_resurvey  					; M17 (frigidare) - the ice cave
+*include others/m19 
+*include others/M19_resurvey					; M19 or Bulshit pot
 *include planika/s_planika             ; Planika
 *include others/PF10
 *include others/gondolin
