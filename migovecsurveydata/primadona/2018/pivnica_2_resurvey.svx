@@ -12,6 +12,7 @@
   *alias station - ..
   *flags not splay
   *data normal from to tape compass clino
+  *flags duplicate
   0 - 0.48 103.4 -4.0
   0 - 0.62 31.9 8.5
   0 - 1.04 358.9 2.9
@@ -234,7 +235,7 @@
     16 17   5.11 28.2 51.6
     17 18   3.12 286.6 -4.2
   *flags not splay
-
+  *flags not duplicate
   ;NOTES
   ;stn 0 is Pss.
 	;stn 2 is bolt below tight pitch head.
