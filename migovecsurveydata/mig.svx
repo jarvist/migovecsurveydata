@@ -46,7 +46,7 @@
 ; |           |                | parts of the surface survey                   |
 ; |    VI     | *equate        | Make major connections between disparate      |
 ; |           |                | parts of the system (e.g. SysMig <->          |
-; |           |                | Vrynarija)                                    |
+; |           |                | Vrtnarija)                                    |
 ; |    VII    | *equate        | Link cave entrances to locations on the       |
 ; |           |                | surface survey or fixed points                |
 ; |----------------------------------------------------------------------------|
@@ -124,7 +124,7 @@
 *include others/M6
 *include others/freezer
 *include others/m17
-*include others/M17_resurvey  					; M17 (frigidare) - the ice cave
+;*include others/M17_resurvey  					; M17 (frigidare) - the ice cave
 *include others/m19 
 *include others/M19_resurvey					; M19 or Bulshit pot
 *include planika/s_planika             ; Planika
