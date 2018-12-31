@@ -16,7 +16,7 @@
 *equate judge.10 vilcon.6
 
 *begin judge
-
+*date 2001.08.04
 2	1	4.00	287	27
 2	3	3.42	334	29
 4	3	3.97	208	02		;stn4 is pps on top of big boulder in Hall of Justice

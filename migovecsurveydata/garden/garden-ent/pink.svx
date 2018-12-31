@@ -12,7 +12,7 @@
 *equate pink.18	banzai.12
 
 *begin pink
-
+*date 2001.08.01
 1	2	5.28	282	36		;stn1 is pss on top of boulder
 3	2	10.65	032	26
 3	4	3.07	258	-11

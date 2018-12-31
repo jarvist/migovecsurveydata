@@ -1,6 +1,6 @@
 ;dark_tranquillity:Dark tranquillity 
 ; Further down from Intravenus, leads to significant (?) vertical development
-*date 2008.07.29
+
  
 ;Instruments / Book: James Kirkpatrick, Izy
 
@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin dark_tranquillity
+*date 2008.07.29
 ;PAGE 1
 1	2	9.85	331	-37	;stn_1 1 1 2 .5
 2	3	9.25	343	-5	;stn_2 3 2.5 10.8 0.5 

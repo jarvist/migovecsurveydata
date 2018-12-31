@@ -1,6 +1,6 @@
 ;####Push Your Luck####:
 ;###Upstream at the end of Cuckoo's Nest###
-*date 2015.7.26 ; Expedition
+; Expedition
 
 ;Instruments: Rhys Tyers
 ;Book: Tanguy Racine
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / Tanguy Racine  on 2015.7.27
 
 *begin pushyourluck
+*date 2015.07.26
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

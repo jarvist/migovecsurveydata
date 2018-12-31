@@ -11,7 +11,7 @@
 *equate leprachaun.18 weepeople.26
 
 *begin weepeople
-
+*date 2003.08.04
 2	1	20.52	110	10
 3	2	9.09	122	01
 3	4	10.08	283	-35

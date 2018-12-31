@@ -1,6 +1,6 @@
 ;####A Pun Too Far 1####:
 ;###Pitches and rift offKamikaze###
-*date 2014.8.6 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Instruments + Tape: Tanguy Racine
 ;Book: Aileen Brown
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / Tanguy Racine on 2014.8.09
 
 *begin apuntoofar1
+*date 2014.08.06
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

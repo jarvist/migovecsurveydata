@@ -1,6 +1,6 @@
 ;Fools Road
 ; - Survey tie in of Free Amalgamation to Falls Rd / Prima Junction
-*date 2009.8.17 ; 17/08/14
+; 17/08/14
  
 ;Book + Tape: Jarvist Frost
 ;Instruments: Dan Greenwald
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino
 
 *begin fools_road
+*date 2009.8.17
 ;Data is on one page (along with single Happy Monday PSS Leg)
 1	2	5.01	032	-40
 2	3	6.66	-	down

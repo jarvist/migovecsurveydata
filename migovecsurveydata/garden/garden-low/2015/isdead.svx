@@ -1,6 +1,6 @@
 ;####Your Mum####:
 ;###Twatty continuation of Esoterica###
-*date 2015.7.29 ; Expedition Pivo Moz
+; Expedition Pivo Moz
 
 ;Instruments: William French
 ;Book: Tanguy Racine
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / William French  on 2015.8.07
 
 *begin isdead
+*date 2015.07.29
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

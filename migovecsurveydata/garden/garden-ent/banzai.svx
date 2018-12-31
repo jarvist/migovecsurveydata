@@ -12,7 +12,7 @@
 *equate banzai.14 alchemy.1
 
 *begin banzai
-
+*date 2001.07.03
 2	1	3.89	300	-20
 3	2	2.27	246	-18
 4	3	4.09	155	01

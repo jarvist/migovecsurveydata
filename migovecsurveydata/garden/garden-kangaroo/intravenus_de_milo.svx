@@ -1,6 +1,6 @@
 ;intravenus_de_milo: Intravenus de milo
 ; Further down from Kill'em all, leads to significant (?) vertical development
-*date 2008.07.29
+
  
 ;Instruments / Book: James Kirkpatrick, Clewin Griffith
 
@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin intravenus_de_milo
+*date 2008.07.29
 ;PAGE 1
 1	2	6.70	351	-08	;.1 2 1 4 1
 2	3	3.21	242	-17	;.2 S*C*R*O*T

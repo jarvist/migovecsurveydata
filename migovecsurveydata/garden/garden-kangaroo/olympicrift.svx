@@ -5,7 +5,7 @@
 *equate scrotty.37 olympicrift.24
 
 *begin olympicrift
-
+*date 2005.08.04
 ;from	to	tape	co	cl	
 1	0	2.00	120	-4
 1	2	4.35	156	+46

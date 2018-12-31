@@ -1,6 +1,6 @@
 ;####Apollo Traverse####:
 ; ### Traverse over the Apollo Climb ###
-*date 2013.7.14 ; Expedition Za Mig Na Kuk 
+; Expedition Za Mig Na Kuk
 
 ;Book + Tape: Peter Adamko
 ;Instruments: Gergely Ambrus
@@ -10,7 +10,8 @@
 ;data normal bcra grade 4
 ;from	to	tape	comp	clino; L R U D
 
-*begin apollo_traverse 
+*begin apollo_traverse
+*date 2013.07.14
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

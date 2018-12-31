@@ -11,7 +11,7 @@
 *equate greed.23 cascade.22
 
 *begin greed
-
+*date 2004.07.31
 ;page one
 2	1	7.00	260	-27
 2	3	8.50	013	33	;station 3 is PSS in chamber (base of avon - carbide 'S')

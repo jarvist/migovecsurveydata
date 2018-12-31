@@ -1,7 +1,7 @@
 ;####Touching the Void's Bottom####:
 ;###Upstream in small water chamber below Helm's Deep. Is bottom of Touching###
 ;###The Void waterfall pitch (not dropped, approached from bothe ends)###
-*date 2015.8.4 ; Expedition Pivo Moz
+; Expedition Pivo Moz
 
 ;Instruments: Rhys Tyers
 ;Book: Tanguy Racine
@@ -9,6 +9,7 @@
 ;Data entered by Rhys Tyers / William French  on 2015.8.7
 
 *begin touchingthevoidsbottom
+*date 2015.08.04
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

@@ -5,6 +5,7 @@
 *equate zubafu.1 kangaroo01.0
 
 *begin zubafu
+*date 2005.07.23
 ;from	to	tape	co	cl
 1	2	5.24	266	+28
 3	2	1.40	022	+34

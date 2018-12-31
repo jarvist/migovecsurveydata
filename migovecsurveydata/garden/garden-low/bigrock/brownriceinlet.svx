@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin brownriceinlet
-
+*date 2004.08.03
 ;page one
 1	2	5.52	184	-18
 2	3	12.18	171	-28

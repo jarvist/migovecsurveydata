@@ -12,7 +12,7 @@
 *equate pink.7	pink2.13
 
 *begin pink2
-
+*date 2001.08.04
 2	1	4.97	190	-22;	stn 1 is mark with carbide S
 3	2	5.32	195	-04
 3	4	5.63	-	up

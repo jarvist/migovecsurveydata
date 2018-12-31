@@ -1,6 +1,6 @@
 ;Walk the Line B:
 ; Below Walk the line b 
-*date 2009.08.09 ; 09/08/09
+; 09/08/09
  
 ;Book + Tape: Jana Carga
 ;Instruments: Dan Greenwald
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino
 
 *begin walk_the_line_b
+*date 2009.08.09
 ;Data on one muddy page, notes on back of half page in front
 1	2	2.31	031	+22	;.5	.5	4.02	1.0	
 2	3	4.28	321	+10	;.7	0	1.	3.

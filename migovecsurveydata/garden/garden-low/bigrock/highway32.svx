@@ -9,6 +9,7 @@
 ;from	to	tape	comp	clino
 
 *begin highway32
+*date 2003.07.30
 1	2	10.49	162	-12
 3	2	1.31	070	+02
 3	4	2.05	131	+3

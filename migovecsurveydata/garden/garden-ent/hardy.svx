@@ -9,7 +9,7 @@
 *equate bclent2.15	hardy.1
 
 *begin hardy
-
+*date 2000.07.21
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 

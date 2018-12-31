@@ -1,6 +1,6 @@
 ;####KORITA####:
 ; ###Tolminska Korita - below EGGSPLOSIVE###
-*date 2010.7.24 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Tape / Instruments: Myles Denton 
 ;Book: James 'Tetley' Hooper
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin korita
+*date 2010.07.24
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

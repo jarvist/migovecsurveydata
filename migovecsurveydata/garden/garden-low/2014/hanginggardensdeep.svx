@@ -1,6 +1,6 @@
 ;####Hanging Gardens Deep####:
 ; ###Continuation of Pick your poison###
-*date 2014.07.21
+
 
 ;Tape + Instruments: James Hooper
 ;Book: Clare Tan
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin hanginggardensdeep
+*date 2014.07.21
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

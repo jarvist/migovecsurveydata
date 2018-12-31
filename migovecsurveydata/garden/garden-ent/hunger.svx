@@ -15,6 +15,7 @@
 *equate Hunger.6       judge.17
 
 *begin Hunger
+*date 2001.08.05
 1	2	3.91	200	5
 2	3	3.49	175	-67
 4	3	7.39	043	28

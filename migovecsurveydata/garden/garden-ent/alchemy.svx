@@ -12,7 +12,7 @@
 *equate concorde.1 alchemy.8
 
 *begin alchemy
-
+*date 2000.08.02
 1	2	12.22	-	up	;pss 1 cairn at bottom of pitch
 3	2	5.25	254	-24
 4	3	7.2	247	-21

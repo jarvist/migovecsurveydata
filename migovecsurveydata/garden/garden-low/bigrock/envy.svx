@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin envy
-
+*date 2004.08.03
 ;page one
 2	1	0.9	270	0
 2	3	14.6	-	up

@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin hoover
-
+*date 2004.08.04
 ;page one
 2	1	15.3	349	+30
 2	3	12.75	175	-7

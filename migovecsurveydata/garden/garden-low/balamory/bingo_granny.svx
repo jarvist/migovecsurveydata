@@ -1,6 +1,6 @@
 ;#### Bingo Granny ####:
 ; ### Continuation of Kokain Rute, beyond Balamory ###
-*date 2013.08.02 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Instruments + Book + Tape: James Hooper
 ;Tape: Oliver Myerscough
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2013.08.03
 
 *begin bingo_granny
+*date 2013.08.02
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

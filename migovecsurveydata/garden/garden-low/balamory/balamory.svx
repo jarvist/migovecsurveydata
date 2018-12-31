@@ -11,7 +11,7 @@
 *equate balamory.11 doublethink.15
 
 *begin balamory
-
+*date 2004.08.02
 ;page one
 2	1	8.2-down
 2	3	2.3	330	-10	;station 2 is a spit

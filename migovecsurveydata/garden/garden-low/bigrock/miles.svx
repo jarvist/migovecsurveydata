@@ -10,7 +10,7 @@
 
 
 *begin miles
-
+*date 2004.07.30
 2	1	11.09	081	41 ;stn 1 PSS cairn at bottom of pitch
 3	2	10.56	119	32
 4	3	2.27	053	50

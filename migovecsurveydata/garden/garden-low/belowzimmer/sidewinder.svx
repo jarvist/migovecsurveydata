@@ -1,7 +1,7 @@
 ;#### Sidewinder ####:
 ; ### Continuation of black knight, duck bypass, rift streamway which formed a floor. 
 ;	Ends at dead chamber, 5m back there is small chamber with dry pith. ###
-*date 2010.7.28 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Instruments + Tape: Myles Denton
 ;Book: James 'Tetley' Hooper
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin sidewinder
+*date 2010.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

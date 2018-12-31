@@ -11,7 +11,7 @@
 *equate nitro.9 potato.25
 
 *begin potato
-
+*date 2003.08.09
 1	2	9.17	151	-16; STN 1 IS PSS CAIRN
 3	2	10.33	349	17
 3	4	14.18	179	-04; stn 4 is pss cairn

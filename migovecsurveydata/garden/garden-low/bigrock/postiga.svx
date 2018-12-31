@@ -12,7 +12,7 @@
 *equate leprachaun.26 postiga.5
 
 *begin postiga
-
+*date 2003.08.09
 1	2	7.57	122	03	;	stn 1 is pss
 2	3	6.80	127	-13
 4	3	5.82	285	-16

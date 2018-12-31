@@ -1,6 +1,6 @@
 ;####Serrure####:
 ;###Continuation of Esoterica###
-*date 2014.7.30 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Instruments: William French
 ;Book: Tanguy Racine
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / Dan Greenwald on 2014.8.5
 
 *begin serrure
+*date 2014.07.30
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

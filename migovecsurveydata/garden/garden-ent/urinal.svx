@@ -12,7 +12,7 @@
 *equate laurel.1 urinal.9
 
 *begin urinal
-
+*date 2000.07.20
 1	2	6.50	091	+03	;Station 1 is cairn near pitch
 2	3	6.90	-	up
 3	4	4.05	048	+53

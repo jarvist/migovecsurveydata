@@ -1,6 +1,6 @@
 ;####Stagger Lee####:
 ;####Parallel shaft off big Rock####
-*date 2011.8.8 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Book and laser: Tim "Timmahh" Osborne
 ;Instruments: Tharatorn Supasiti
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin stagger_lee
+*date 2011.08.08
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D S

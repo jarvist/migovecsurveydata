@@ -1,6 +1,6 @@
 ; Andrea Bocelli
 ; Continuation at top of Strap On The Nitro aven
-*date 2015.8.01 ; Expedition Pivo Moz
+; Expedition Pivo Moz
 
 ;Book + Tape: Maffi
 ;Instruments: Tjasha
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin andreabocelli
+*date 2015.08.01
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

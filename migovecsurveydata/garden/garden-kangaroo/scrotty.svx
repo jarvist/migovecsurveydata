@@ -5,6 +5,7 @@
 *equate scrotty.1 bonus.0
 
 *begin scrotty
+*date 2005.07.27
 ;from	to	tape	co	cl
 1	2	3.38	201	0
 2	3	3.18	114	-58

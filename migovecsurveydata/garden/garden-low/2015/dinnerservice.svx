@@ -1,13 +1,14 @@
 ;####Void####
 ;##Bolt climb up Nitro aven, Void##:
-*date 2015.7.23 ; Expedition Pivo Moz 
+; Expedition Pivo Moz
 
 ;Tape: Connor Roe 
 ;Book + Instruments: Jarvist Moore Frost
 
 ;Data entered by Jarvist Moore Frost 31-7-15 
 
-*begin dinnerservice 
+*begin dinnerservice
+*date 2015.07.23
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

@@ -9,6 +9,7 @@
 ;data normal bcra grade 4
 ;from	to	tape	comp	clino
 *begin belowzimmer
+*date 2009.08.15
 1	2	8.21	292	-24	;	10	0	60	1.5
 1	3	5.23	139	0	;	10	0	60	1.5	
 3	4	2.30	-	down	;	10	0	60	1.5	this was measured to end of rope and correcte to fit friend.svx

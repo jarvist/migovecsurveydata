@@ -1,5 +1,5 @@
 ;Smash - Large boulder strewn passage at end of No More Potatoes
-*date 2004.07.26 ; 25/07/04 
+; 25/07/04
 ;Instruments: Pippa Crosby
 ;Book: Tom Ayles, Dave Wilson
 
@@ -10,7 +10,7 @@
 
 
 *begin smash
-
+*date 2004.07.25
 2	1	8.52	293	-38
 2	3	6.75	096 +33
 4	3	3.55	025	0
