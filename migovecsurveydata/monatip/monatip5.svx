@@ -2,7 +2,7 @@
 ; New cave to north of Primadona & below B9.
 
 ;Date: 31/10/12
-*date 2012.10.31
+
 ;Merili: Nejc M., Dejan R. 
 ;Risala: Tjasa R.
 ; ostali udelezenci: Maffi
@@ -13,6 +13,7 @@
 ;*equate monatip5.27     monatip2.27 
 
 *begin monatip5
+*date 2012.10.31
 *data normal from to tape compass clino	
 *set decimal (.)
 

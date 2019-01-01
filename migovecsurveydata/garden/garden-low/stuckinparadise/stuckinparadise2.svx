@@ -1,6 +1,6 @@
 ;#### Stuck in paradise 2 ####:
 ; ### Second half of pitch from bottom of magic dragon. ###
-*date 2011.8.03 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Laser + Instruments: Izi
 ;Book: Gergely
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin stuckinparadise2
+*date 2011.08.03
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

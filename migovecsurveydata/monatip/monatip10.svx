@@ -1,7 +1,7 @@
 ;Mona tip
 ;katasterska tevilka: 10180
 ;Date: 27/09/15
-*date 2015.09.27
+
 ;Merili:  Rejec Z, Trunovec B
 ;Risal: Zdenko Rejec
 ;ostali udelezenci: Fratnik A, Maffi G, 
@@ -14,6 +14,7 @@
 
 
 *begin monatip10
+*date 2015.09.27
 *data normal from to tape compass clino	;komentar
 *set decimal (.)
 1	2	3.66	55		-74.2	; 

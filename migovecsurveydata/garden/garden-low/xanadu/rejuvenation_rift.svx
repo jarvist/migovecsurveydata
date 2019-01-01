@@ -1,6 +1,6 @@
 ;#### Rejuvenation Rift ####:
 ; ### Continuation of Cuckoo's Nest, right passage at stn 17 junction ###
-*date 2013.08.02 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Book: Clare Tan
 ;Tape + Instruments: Rhys Tyers
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2013.08.03
 
 *begin rejuvenation_rift
+*date 2013.08.02
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

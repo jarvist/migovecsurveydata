@@ -1,6 +1,6 @@
 ;####Xanadont####:
 ; ###Connects Big Rock to Cuckoos Nest (traverse)###
-*date 2013.7.14 ; Expedition Za Mig Na Kuk 
+; Expedition Za Mig Na Kuk
 
 ;Book + Tape: Rhys Tyers
 ;Instruments: Dave Kirkpatrick
@@ -10,7 +10,8 @@
 ;data normal bcra grade 4
 ;from	to	tape	comp	clino; L R U D
 
-*begin xanadont 
+*begin xanadont
+*date 2013.07.14
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

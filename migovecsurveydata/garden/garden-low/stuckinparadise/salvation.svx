@@ -1,6 +1,6 @@
 ;#### Salvation ####:
 ; ### Continuation from Kneekiller/Penitence passage below Stuck in Paradise. ###
-*date 2011.8.05 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Instruments + Book: James Hooper
 ;Tape: Clare Tan
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin salvation
+*date 2011.08.05
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

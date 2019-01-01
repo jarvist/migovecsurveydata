@@ -4,7 +4,7 @@
 ;DOUBLETIME, 2nd survey sesh of the evening...
 
 ;Date: 7/8/08
-*date 2008.08.07
+
 ;Meril: Aljosa 
 ;Pisu: Izi
 ;Metr: Dan Greenwald
@@ -16,7 +16,8 @@
 
 *equate doubletime.20	monatip04.50 
 
-*begin doubletime 
+*begin doubletime
+*date 2008.08.07
 *data normal from to tape compass clino	
 *set decimal (.)
 ;PAGE 1

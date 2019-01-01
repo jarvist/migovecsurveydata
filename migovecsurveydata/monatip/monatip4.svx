@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin monatip4
+*date 2008.08.07
 ;PAGE 1
 1	2	5.97	249	+03	; .1 2 3 25 -
 2	3	2.97	230	-40	; .2 0 1 7 17

@@ -15,7 +15,7 @@
 *equate	roystan2.1	roystan1.6
 
 *begin roystan2
-
+*date 2001.08.01
 2	1	5.56	234	-36	;stn1 is knot at top of 2nd pitch
 3	2	3.05	185	-25
 4	3	3.55	171	-10

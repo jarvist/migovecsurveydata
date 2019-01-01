@@ -1,6 +1,6 @@
 ;#### Kneekiller (this has been renamed Penitence passage - 7.8.11) ####:
 ; ### Continuation from bottom of lost in paradise. ###
-*date 2011.8.03 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Laser + Instruments: Izi
 ;Book: Gergely
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin kneekiller
+*date 2011.08.03
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

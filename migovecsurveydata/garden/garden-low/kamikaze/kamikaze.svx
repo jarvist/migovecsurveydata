@@ -1,6 +1,6 @@
 ;####Kamikaze####:
 ; ###pitch and bedding below the traverse at end of hidden surprise###
-*date 2010.8.4 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book : Dave Wilson ###
 ;Instruments: James Kirkpatrick###
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin kamikaze
+*date 2010.08.04
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

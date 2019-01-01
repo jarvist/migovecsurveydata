@@ -1,6 +1,6 @@
 ;####NAME####:
 ; ###LOCATION/DESCRIPTION###
-*date 2013.7.14 ; Expedition Za Mig Na Kuk 
+; Expedition ##EXPO NAME eg. Za Mig Na Kuk##
 
 ;Book + Tape: ###
 ;Instruments: ###
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin ###NAME###
+*date ##yyyy.mm.dd##
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

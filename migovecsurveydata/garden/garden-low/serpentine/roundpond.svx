@@ -1,6 +1,6 @@
 ;####Round Pond####:
 ; ###Pitches below serpentine###
-*date 2011.7.21 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Book + Tape: JMF
 ;Instruments: Jan Evetts
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin roundpond
+*date 2011.07.21
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

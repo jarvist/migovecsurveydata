@@ -1,6 +1,6 @@
 ;####Perfidia####:
 ; ###Attempt to bypass Mad Cow sump, accidentally bypass Republica###
-*date 2012.7.20 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Tape: Clare Tan
 ;Book + Instruments: Jarvist Frost
@@ -8,6 +8,7 @@
 ;Data entered by Jarvist Frost on 2012.7.23
 
 *begin perfidia
+*date 2012.07.20
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

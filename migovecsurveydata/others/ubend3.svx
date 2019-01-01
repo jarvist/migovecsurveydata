@@ -11,7 +11,7 @@
 
 *equate ubend3.1	Ubend.1
 *begin ubend3
-
+*date 2000.08.02
 
 1	2	2.4	110	38
 2	3	3.45	184	14

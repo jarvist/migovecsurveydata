@@ -1,6 +1,6 @@
 ;####Grace 2####:
 ; ###continuation of amazing grace passage beyond throne room - kamikaze extensions###
-*date 2011.7.29 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Tape: Clare Tan
 ;Book + Instruments: James Hooper
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin grace2
+*date 2011.07.29
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

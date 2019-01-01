@@ -1,11 +1,12 @@
 ;#### KUK POT ####:
 ; Also known as N9, discovered on winter blowing hole recce 2009.
-*date 2012.07.30 
+
 *calibrate compass -2.62  ;2010 calibration
 
 ; Pushing trip 2012; Niko + Sam did the surveying; I think Kate + Gergely also there for pushing? Jarv's memory 2016
 
 *begin gingerbreadexpress
+*date 2012.07.30
 ;data normal bcra grade 4
 ;from   to      	tape    comp    clino; L R U D
 

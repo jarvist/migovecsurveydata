@@ -1,6 +1,6 @@
 ;####2nd Time Lucky####:
 ; ###pitch below lower pleasures - friendship gallery dig###
-*date 2011.08.05 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Instruments: Ariadne Whitby
 ;Book + Tape: Mike Foley
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin 2ndtimelucky
+*date 2011.08.05
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

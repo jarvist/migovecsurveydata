@@ -1,6 +1,6 @@
 ;####aleksandrija####:
 ;###Offshoot of Monatip below Big Chamber###
-*date 2018.07.21 ; Expedition Klic Globin
+; Expedition Klic Globin
 
 ;Disto: Chris Bradley
 ;Book: Zdenko
@@ -8,6 +8,7 @@
 ;Data entered by Tanguy Racine on 25/07/2018
 
 *begin aleksandrija
+*date 2018.07.21
 *team "Chris Bradley Stane" 
   *units tape meters
   *units compass degrees

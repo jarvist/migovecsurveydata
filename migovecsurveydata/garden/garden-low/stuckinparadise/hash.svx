@@ -1,6 +1,6 @@
 ;####Hash####:
 ;###Climb up vertical zig zagging tube off lost miles###
-*date 2013.7.19 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Tape + Instruments: Rhys Tyers
 ;Book: Clare Tan
@@ -8,6 +8,7 @@
 ;Data entered by Dave Kirkpatrick/ Clare Tan / Rhys Tyers on 2012.8.12
 
 *begin hash
+*date 2013.07.19
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

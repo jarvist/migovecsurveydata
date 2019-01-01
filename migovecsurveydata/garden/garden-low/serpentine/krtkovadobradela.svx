@@ -1,6 +1,6 @@
 ;####KRTKOVA DOBRA DELA####:
 ;###Continuation after let na drugi svet, below first Serpentine pitch###
-*date 2011.08.02 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Instruments + Book: Tjasa
 ;Tape: Grega 
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 11.08.2011 
 
 *begin krtkovadobradela
+*date 2011.08.02
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino

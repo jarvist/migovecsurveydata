@@ -8,10 +8,11 @@
 ;Data entered by Jarvist Frost on 12.08.2011 
 
 *begin herojtelemarkal1
+*date 2011.08.05
+
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 
-*date 2011.08.5
 
 ;Data for herojtelemarkal1 is on first page of three
 ;page 1/3

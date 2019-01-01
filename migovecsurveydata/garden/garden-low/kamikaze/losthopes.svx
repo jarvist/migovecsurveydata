@@ -1,6 +1,6 @@
 ;#### Lost Hopes ####:
 ; ### Off Kamikaze / bottom of Mudstone traverse ###
-*date 2010.8.5 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book + Tape: Nicolas Kral
 ;Instruments: Tharatorn Supasiti
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin losthopes
+*date 2010.08.05
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 

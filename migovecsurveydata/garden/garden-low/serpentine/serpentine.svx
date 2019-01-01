@@ -1,6 +1,6 @@
 ;####SERPENTINE####:
 ;###Serpentine is streamway off Prince Consort Road###
-*date 2010.7.26 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Instruments: JMF (laser tape)
 ;Book: Mike Foley, Kate Smith
@@ -8,6 +8,7 @@
 ;Data entered by APSJ on 27.7.2010 
 
 *begin serpentine
+*date 2010.07.26
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino

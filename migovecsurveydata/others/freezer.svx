@@ -14,7 +14,7 @@
 
 *entrance freezer.FR
 *begin freezer
-
+*date 2001.08.05
 2	1	8.60	210	-33	;stn1 is start of boulder choke
 3	2	5.10	245	-38
 4	3	1.70	290	-60	;stn4 is maillon from thread

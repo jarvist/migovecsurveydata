@@ -1,6 +1,6 @@
 ;#### Time Bandits ####:
 ; ### Rift off stn 17 junction at Cuckoo's Nest ###
-*date 2013.07.31 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Instruments + Book: James Hooper
 ;Tape: Oliver Myerscough
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2013.08.03
 
 *begin time_bandits
+*date 2013.07.31
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

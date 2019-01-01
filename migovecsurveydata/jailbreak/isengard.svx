@@ -1,6 +1,6 @@
 ;####Isengard####:
 ;###First pitch of B97 "Jailbreak"###
-*date 2013.7.22 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Tape + Instruments: Dave Kirkpatrick
 ;Book: Rhys Tyers
@@ -8,6 +8,7 @@
 ;Data entered by David Kirkpatrick / Rhys Tyers on 2013.07.24
 
 *begin isengard
+*date 2013.07.22
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

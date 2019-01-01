@@ -12,7 +12,7 @@
 ;THIS EQUATE MOVED TO HIGHER LEVEL FILE, JARV 31-7-08
 
 *begin friend
-
+*date 2001.08.09
 1	2	2.68	188	23	;stn 1 is zimmer 3 (mark on boulder on ledge)
 3	2	5.55	080	70	;stn2 is bolt
 3	3b	18.50	-	down	;stn 3 is bolt, stn 3b is 0.5 metres above bottom of rope

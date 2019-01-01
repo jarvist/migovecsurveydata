@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin broken_hammer
+*date 2008.08.08
 ;PAGE 1
 1	2	3.20	192	-11	; .1 0.3 0 3 3
 2	3	2.00	236	-30	; .2 0 9.4 3 5

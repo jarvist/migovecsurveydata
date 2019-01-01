@@ -1,6 +1,6 @@
 ;####Minestrone####:
 ; ###Continuation of Lost Miles###
-*date 2012.7.27 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Tape: Kate Smith
 ;Book + Instruments: Clare Tan
@@ -8,6 +8,7 @@
 ;Data entered by Gergley / Rhys on 2012.7.29
 
 *begin minestrone1
+*date 2012.07.27
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

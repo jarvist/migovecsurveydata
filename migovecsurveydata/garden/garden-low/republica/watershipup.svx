@@ -1,6 +1,6 @@
 ;####Watership Up####:
 ; ###climb above sumps of Watership Down###
-*date 2012.8.3 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Tape: Oliver Myerscourgh
 ;Book + Instruments: Jarvist Frost
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin watershipup
+*date 2012.08.03
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

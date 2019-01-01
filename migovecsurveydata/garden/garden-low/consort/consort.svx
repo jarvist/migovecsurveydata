@@ -1,6 +1,6 @@
 ;####PRINCE CONSORT ROAD####:
 ;###Prince Consort Road is the passage starting from Wonderland###
-*date 2010.7.14 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Instruments + Tape: Andy Jurd (laser)
 ;Book: Gergely Ambrus 
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin consort
+*date 2010.07.14
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

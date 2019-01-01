@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin the_rock
-
+*date 2016.07.18
 ;PAGE 1 of 2
 
 1	2	6,03	034	-38

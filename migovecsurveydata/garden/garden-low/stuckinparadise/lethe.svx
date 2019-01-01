@@ -1,6 +1,6 @@
 ;####Lethe####:
 ;###passage beyond brezno slapov###
-*date 2013.7.25 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Tape + Instruments: Iztok Mozir
 ;Book: Clare Tan
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2013.7.27
 
 *begin lethe
+*date 2013.07.25
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

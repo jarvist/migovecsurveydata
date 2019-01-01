@@ -14,7 +14,7 @@
 ; Instrument: DistoX2 3939 - CUBOT KING KONG
 
 *begin cloaca_resurvey 
-
+  *date 2018.07.27
   *team "Arun Paul David P Wilson" 
   *units tape meters
   *units compass degrees

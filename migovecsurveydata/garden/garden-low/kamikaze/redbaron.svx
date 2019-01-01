@@ -1,6 +1,6 @@
 ;#### Red Baron ####:
 ; ### Pasage going in the other direction from Kamikaze. ###
-*date 2011.7.23 ; Expedition Izgubljeni Raj
+; Expedition Izgubljeni Raj
 
 ;Tape Worm & Instruments: Johnny Hardman
 ;Book: James 'Tetley' Hooper
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin redbaron
+*date 2011.07.23
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

@@ -9,6 +9,7 @@
 ;from	to	tape	comp	clino
 
 *begin hawk
+*date 2007.08.05
 1	2	0.98	253	-36	; n/a n/a n/a n/a .1 is GPS bolt on cliff
 2	3	7.00	290	-78	; n/a n/a n/a n/a
 3	4	8.52	-	down	; n/a n/a n/a n/a .3 is rebelay bolt
