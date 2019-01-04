@@ -1,7 +1,7 @@
 ;Dangermouse:
 ; New big pitch off Something Fishy (mudslump), 
 ;  captain Kangaroo, near mud slump
-*date 2008.08.05 ; 5/08/08
+; 5/08/08
  
 ;Instruments / Book: Jarvist Frost / Paul Huttom
 ;Iztok Mohir was also on pushing trip, but did not survey
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin dangermouse
+*date 2008.08.05
 2	1	10.34	164	-72	; .1 1 5 - -
 2	3	7.26	285	+65	; .2 3 0 - - 
 3	4	2.65	111	+52	; .3 1.5 0 3 -

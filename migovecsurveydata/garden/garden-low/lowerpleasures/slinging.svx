@@ -1,6 +1,6 @@
 ; Slinging in the rain
 ; Pitch at the end of Labyrinth 
-*date 2013.8.8 ; Expedition Za Mig Na Kuk 
+; Expedition Za Mig Na Kuk
 
 ;Book + Tape: Oliver Myerscough
 ;Instruments: Rhys Tyers
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin slinging
+*date 2013.08.08
 *data normal from to tape compass clino ignoreall
 
 ;Data is on 2 pages

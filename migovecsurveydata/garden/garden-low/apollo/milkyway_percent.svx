@@ -1,6 +1,6 @@
 ;####Milky Way####:
 ;###Passage above queens bed chamber###
-*date 2012.8.11 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Tape + Instruments: Sam Page
 ;Book: Clare Tan
@@ -8,7 +8,7 @@
 ;Data entered by Sam Page / Rhys Tyers on 2012.8.12
 
 *begin milkyway
-
+*date 2012.08.11
 *units clino percent    ; Clino misread as %
 
 *data normal from to tape compass clino ignoreall

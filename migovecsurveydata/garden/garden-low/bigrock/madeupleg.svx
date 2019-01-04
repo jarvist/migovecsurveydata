@@ -11,7 +11,7 @@
 *equate gold.16 madeupleg.1
 
 *begin madeupleg
-
+*date 2003.08.14
 1	2	40	330	+10
 
 

@@ -1,7 +1,7 @@
 ;Republica Palma de Coco
 ; Upstream from redcow sump, insane bounce trip with JNH and Samo
 ;Date  7/8/09
-*date 2009.8.7 
+
 ;Instruments: Samo Rutar
 ;Tape: Samo Ruta
 ;Book: James 'Tetley' Hooper
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin republica
+*date 2009.08.07
 2	1	5.40	152	-05	; .2
 2	3	3.09	297	+05
 4	3	16.20	136	-19

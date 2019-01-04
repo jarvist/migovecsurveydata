@@ -1,6 +1,6 @@
 ;#### THE CRACK IN TIME ####:
 ; ### The connection of sidewinder to Envy  ###
-*date 2010.8.1 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book + Tape: Jana Carga
 ;Instruments: Jarvist Frost
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin crack_in_time
+*date 2010.08.01
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

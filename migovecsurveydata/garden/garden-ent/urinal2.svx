@@ -12,7 +12,7 @@
 *equate urinal.1 urinal2.4
 
 *begin urinal2
-
+*date 2000.07.24
 1	2	17.19	107	-12   ; stn1 is pss cairn at top of pitch
 2	3	15.22	-	up
 3	4	1.71	189	0

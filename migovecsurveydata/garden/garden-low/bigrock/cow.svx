@@ -10,6 +10,7 @@
 
 
 *begin cow
+*date 2004.07.26
 *flags duplicate ; superseded by Mad Cow, JMF 2010-07
 
 2	1	5.73	086	-19 ; stn 1 is pitch head

@@ -1,6 +1,6 @@
 ;####Hash2####:
 ;###Climb up vertical zig zagging tube off lost miles###
-*date 2013.7.22 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Tape: Sam Page
 ;Book + Instruments: Tetley
@@ -8,6 +8,7 @@
 ;Data entered by Tetley / Rhys Tyers on 2013.7.24
 
 *begin hash2
+*date 2013.07.22
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

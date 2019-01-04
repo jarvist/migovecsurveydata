@@ -1,6 +1,6 @@
 ;####Your Mum####:
 ;###Twatty continuation of Esoterica###
-*date 2014.7.24 ; Expedition
+; Expedition
 
 ;Instruments: William French
 ;Book: James O'Hanlon
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / William French  on 2014.7.26
 
 *begin yourmum
+*date 2014.07.24
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

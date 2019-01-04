@@ -8,6 +8,7 @@
 *equate kangaroo01.11 kangaroo01.12
 
 *begin kangaroo01
+*date 2005.07.22
 ;from	to	tape	co	cl	
 0	1	2.15	90	0
 1	2	1.20	180	+5

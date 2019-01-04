@@ -1,6 +1,6 @@
 ;####The Long Water####:
 ; ###Pitches below serpentine###
-*date 2011.7.26 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Book + Instruments: JMF
 ;Tape: Clare Tan
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin longwater
+*date 2011.07.26
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

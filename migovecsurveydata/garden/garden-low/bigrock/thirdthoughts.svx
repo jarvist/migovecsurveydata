@@ -1,6 +1,6 @@
 ;### Thirdthoughts ####:
 ; ### 2003 push - not entered till July 2010 ###
-*date 2003.8.6 ; 1
+; 1
 
 ;Book + Tape: PJ/RV
 ;Instruments: ###
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin thirdthoughts
+*date 2003.08.06
 ;Data is on 1 page
 ;p1/1
 *data normal from to tape compass clino ignoreall

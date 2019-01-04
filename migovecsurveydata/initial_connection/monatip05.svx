@@ -2,7 +2,7 @@
 ; vodoravni deli med toèkami od monatip05.2 do monatip05.21 se klièe "Ne tiè ne mi" 
 
 ;Date: 31/10/12
-*date 2012.10.31
+
 ;Merili: Nejc M., Dejan R. 
 ;Risala: Tjasa R.
 ; ostali udelezenci: Maffi
@@ -13,6 +13,7 @@
 ;*equate monatip05.27     monatip02.27 
 
 *begin monatip05
+*date 2012.10.31
 *data normal from to tape compass clino	
 *set decimal (.)
 

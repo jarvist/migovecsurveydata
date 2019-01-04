@@ -10,6 +10,7 @@
 
 
 *begin colarado
+*date 2004.08.03
 ;page one
 2	1	23.5	276	-17	;station 1 is PSS at water-level
 3	2	14.9	261	-18

@@ -1,6 +1,6 @@
 ;####name####:
 ; ###LOCATION/DESCRIPTION###
-*date 2013.7.14 ; Expedition  Za Mig Na Kuk 2013
+; Expedition  Za Mig Na Kuk 2013
 
 ;Book + Tape: Saber King, Oliver Myerscough
 ;Instruments: Saber King, Oliver Myerscough
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin labyrinth
+*date 2013.07.14
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

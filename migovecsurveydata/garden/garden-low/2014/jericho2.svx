@@ -1,6 +1,6 @@
 ;####Jericho2####:
 ;###Continuation of Rift off Sic Semper Tyrannis###
-*date 2014.7.26 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Instruments: Tanguy Racine
 ;Book: Sam Page
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / Dan Greenwald on 2014.8.5
 
 *begin jericho2
+*date 2014.07.26
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

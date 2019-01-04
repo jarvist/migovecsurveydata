@@ -1,6 +1,6 @@
 ;####Stuck in Paradise####:
 ; ###pitches at end of Magic Dragon passage - kamikaze extensions###
-*date 2011.7.30 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Instruments: Gergely Ambrus
 ;Book + Tape: Jana Carga
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin stuckinparadise
+*date 2011.07.30
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

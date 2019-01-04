@@ -3,7 +3,7 @@
 ; Surface survey from ubend
 
 ;Date: 2-Aug-2007
-*date 2007.8.2
+
 ;Instruments: Jarvist Frost
 ;Book: Jana Carga
 
@@ -15,6 +15,7 @@
 *entrance planika.1
 
 *begin planika
+*date 2007.08.02
 ;from	to	tape	comp	clino
 
 1	2	10.71	-	down	; - - 3 -

@@ -1,4 +1,4 @@
-*date 2010.7.28 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book : Nicolas Kral
 ;Instruments: Gergely Ambrus
@@ -9,6 +9,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin surprise
+*date 2010.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

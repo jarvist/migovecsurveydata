@@ -1,6 +1,6 @@
 ;####ESOTERICA####:
 ; ###obscure rift near PSS 12 consort###
-*date 2010.7.29 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book + Tape: Jan###
 ;Instruments: James###
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin esoterica
+*date 2010.07.29
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

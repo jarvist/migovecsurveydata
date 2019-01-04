@@ -1,12 +1,12 @@
 ;#### AJA ####:
 ;###Continuation of Rock Steady Love to Sump###
-*date 2014.7.27 ; Expedition
 
 ;Instruments + Book: Grega / Erik
 
 ;Data entered by Jarvist Moore Frost on 2014.7.28
 
 *begin AJA
+*date 2014.07.27 ; Expedition
 *data normal from to tape clino compass ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

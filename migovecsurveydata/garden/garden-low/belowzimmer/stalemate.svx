@@ -1,6 +1,6 @@
 ;#### STALEMATE ####:
 ; ### Pitch below White Bishop, Korita, ending in too tight rift taking water. Needs explosive to progress.###
-*date 2010.8.6 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book: Jarv M. Frost
 ;Instruments + Tape: Myles Denton
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin stalemate
+*date 2010.08.06
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

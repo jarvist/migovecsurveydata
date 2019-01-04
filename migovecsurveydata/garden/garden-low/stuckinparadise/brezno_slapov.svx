@@ -1,6 +1,6 @@
 ;#### Brezno Slapov ####:
 ; ### Waterfall pitch dropping down into Atlantis ###
-*date 2012.08.03 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Instruments: Iztok "Izi" Mozir
 ;Book: Jana Carga
@@ -8,6 +8,7 @@
 ;Data entered by Clewin Griffith on 2012.08.04
 
 *begin brezno_slapov
+*date 2012.08.03
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

@@ -1,6 +1,6 @@
 ;####Drink Your Own####
 ; ### Pitch series below Rotten Row (Serpentine series) ###
-*date 2011.08.06 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Tape: Jim Evans
 ;Book + Instruments: Jarvist Frost
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin drinkyourown
+*date 2011.08.06
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

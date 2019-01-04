@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin cloacamaxima
+*date 2016.07.30
 ;PAGE 1
 1	2	1.20	288	+03
 *flags splay

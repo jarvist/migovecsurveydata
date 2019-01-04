@@ -11,7 +11,7 @@
 *equate mushroom.17 cascade.27
 
 *begin mushroom
-
+*date 2003.08.04
 1	2	5.20	323	03
 2	3	2.46	287	-04
 3	4	2.47	328	-16

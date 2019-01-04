@@ -1,6 +1,6 @@
 ;#### Nevermore ####:
 ; ### Connected to MadCow ###
-*date 2004.8.1 ; Believe during 2004
+
 
 ;Book + Tape: Unattributed Notes
 ;Instruments: Unattributed Notes
@@ -13,6 +13,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin nevermore
+*date 2004.8.1 ; Believe during 2004
 *flags duplicate
 ;Data is on 2 pages 
 ;First side of 1st page contains numeric data

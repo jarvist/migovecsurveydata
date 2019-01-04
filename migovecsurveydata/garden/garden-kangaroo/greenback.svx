@@ -2,7 +2,7 @@
 ;Lower bit of Dangermouse,
 ; New big pitch off Something Fishy (mudslump), 
 ;  captain Kangaroo, near mud slump
-*date 2008.08.09 ; 9/08/08
+; 9/08/08
  
 ;Instruments / Book: Jarvist Frost / Paul Huttom
 ;Tim Osborne and Martin McGowan were also on pushing trip, but did not survey
@@ -13,6 +13,7 @@
 ;from	to	tape	comp	clino
 
 *begin greenback
+*date 2008.08.09
 2	1	6.70	312	-60	; .1 0.5 0.5 3 0
 2	3	7.39	031	+58	; .2 2 0 6 1
 3	4	3.45	352	-73	; .3 0 0.5 2 1

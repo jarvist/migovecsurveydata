@@ -11,6 +11,7 @@
 
 
 *begin bclent
+*date 2000.07.13
 ;*equate \surface2.5	\bclent.12
 ;* fix	\bclent.12	405115.90	123992.25	1785.49
 

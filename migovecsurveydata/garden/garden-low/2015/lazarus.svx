@@ -1,6 +1,6 @@
 ;####Lazarus####:
 ;###Passage through hole in the wall of Miles Underground###
-*date 2015.8.5 ; Expedition Pivo Moz
+; Expedition Pivo Moz
 
 ;Instruments: Rhys Tyers
 ;Book: Tanguy Racine
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / William French  on 2015.8.7
 
 *begin lazarus
+*date 2015.08.05
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

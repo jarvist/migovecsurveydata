@@ -11,7 +11,7 @@
 ; Instrument: DistoX2 3939 - CUBOT KING KONG
 
 *begin alk_disto_resurvey 
-
+*date 2018.07.27
   *team "Tanguy Racine" 
   *units tape meters
   *units compass degrees

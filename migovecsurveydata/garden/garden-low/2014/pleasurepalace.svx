@@ -1,6 +1,6 @@
 ;####Pleasure Palace####:
 ;###Pitch off Sic Semper Tyrannis leading to boulder choke###
-*date 2014.7.24 ; Expedition 
+; Expedition
 
 ;Instruments: David Kirkpatrick
 ;Book: Rhys Tyers
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / David Kirkpatrick on 2014.7.26
 
 *begin pleasurepalace
+*date 2014.07.24
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

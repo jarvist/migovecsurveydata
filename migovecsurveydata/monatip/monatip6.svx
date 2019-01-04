@@ -1,7 +1,7 @@
 ;Monatip
 
 ;Date: 23/06/13
-*date 2013.06.23
+
 ;Merili: Nejc M., Dejan R. 
 ;Risala: Tjasa R.
 ; ostali udelezenci: Maffi
@@ -12,6 +12,7 @@
 ;*equate monatip6.16     monatip5.1 
 ;Tjasa: 16. tocka je una tocka ki je v enem oknu, vse skupi pa je nad velikim breznom od prejsnjic	
 *begin monatip6
+*date 2013.06.23
 *data normal from to tape compass clino	;komentar
 *set decimal (.)
 1	2	13.0	0	90	;konec strika

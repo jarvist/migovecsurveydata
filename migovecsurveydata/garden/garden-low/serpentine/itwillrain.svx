@@ -1,6 +1,6 @@
 ;#### It will rain for a million years ####:
 ; ### Pitch below Serpentine meander ###
-*date 2010.8.7 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book + Tape: James KP
 ;Instruments: William French
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin itwillrain
+*date 2010.08.07
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

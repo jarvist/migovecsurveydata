@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 *equate fallsrd.1 Friend.4
 *begin fallsrd
+*date 2001.08.10
 2	1	7.15	222	30
 2	3	4.75	222	-43
 3	4	2.90	-	down

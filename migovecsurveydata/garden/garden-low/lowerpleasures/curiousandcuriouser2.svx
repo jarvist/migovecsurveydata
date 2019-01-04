@@ -1,7 +1,7 @@
 ;#### Curious and Curiouser 2 ####:
 ; ### tie in Curious and Curiouser to yorkshire ###
 ; ### survey of curious and curiouser was not completed by Rhys and Tim ###
-*date 2010.7.25 ; Expedition Za Mig Na kuk 2013
+; Expedition Za Mig Na kuk 2013
 
 ;Book + Tape: Saber King, Oliver Myerscough
 ;Instruments: Saber King, Oliver Myerscough
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin curiousandcuriouser2
+*date 2010.07.25
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

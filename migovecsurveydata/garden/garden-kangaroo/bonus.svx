@@ -5,6 +5,7 @@
 *equate bonus.18 zubafu.10
 
 *begin bonus
+*date 2005.07.24
 ;from	to	tape	co	cl
 0	1	2.40	283	0
 1	2	6.30	-	up

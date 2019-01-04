@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino
 
 *begin lowerfallsrd
+*date 2003.07.29
 2	1	5.39	242	+25
 3	2	4.68	-	down
 4	3	3.81	225	-10

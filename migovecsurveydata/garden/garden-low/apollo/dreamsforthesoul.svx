@@ -1,6 +1,6 @@
 ;####Dreams for the Soul####:
 ;###Passage above queens bed chamber, beyond Milky Way###
-*date 2012.8.13 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Tape + Instruments: Gergely Ambrus
 ;Book: Karin Rutar
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2012.8.16
 
 *begin dreamsforthesoul
+*date 2012.08.13
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

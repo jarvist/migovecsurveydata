@@ -1,6 +1,6 @@
 ;####Serenade####:
 ; ###passage from climb in throne room - kamikaze extensions###
-*date 2011.7.27 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Book + Tape: Kate
 ;Instruments: Jan
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin serenade
+*date 2011.07.27
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

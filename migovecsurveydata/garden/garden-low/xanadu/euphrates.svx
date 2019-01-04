@@ -1,6 +1,6 @@
 ; Euphrates
 ; Continuation of xanadu crawl
-*date 2012.7.28
+
 
 
 ;### Not tied in - survey should be continued to connect with xanadu.18
@@ -17,6 +17,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin euphrates
+*date 2012.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

@@ -1,6 +1,6 @@
 ;####Pick Your Poison####:
 ;###Balamory/Kokain extensions; Clapton pitch and passage below it###
-*date 2013.8.08 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Instruments: Grega Maffi
 ;Book + Tape: Clare Tan
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan / Sam Page on 2013.8.9
 
 *begin pick_your_poison
+*date 2013.08.08
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

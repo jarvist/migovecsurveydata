@@ -9,6 +9,7 @@
 
 *entrance gondolin.16
 *begin gondolin
+*date 2017.07.15
 ;PAGE 1
 2	1	11.70	123	-11
 3	1	5.99	335	+00

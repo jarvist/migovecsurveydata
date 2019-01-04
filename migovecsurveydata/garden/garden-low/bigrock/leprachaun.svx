@@ -11,6 +11,7 @@
 *equate leprachaun.33 highway32.1
 
 *begin leprachaun
+*date 2003.07.31
 2	1	4.75	140	+5
 3	2	5.00	138	+2
 4	3	5.68	209	-17

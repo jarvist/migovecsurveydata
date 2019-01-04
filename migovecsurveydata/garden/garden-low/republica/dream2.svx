@@ -1,6 +1,6 @@
 ;####Dream.2####:
 ; ###cascade series below insomnia, beyond daydreamers###
-*date 2011.08.04 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Tape: Clare Tan
 ;Book + Instruments: James Hooper
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin dream2
+*date 2011.08.04
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

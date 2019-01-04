@@ -1,6 +1,6 @@
 ;K * E * T * I
 ; Above primula, crazy climb above primula
-*date 2009.08.07 ; 07/08/09
+; 07/08/09
  
 ;Book + Instruments: Iztok Mozir IM
 ;Instruments: Eric Boncina EB
@@ -13,7 +13,8 @@
 ;from	to	tape	comp	clino
 
 *begin keti
-;Data is on two pages (from-to printed style) 
+*date 2009.08.07
+;Data is on two pages (from-to printed style)
 ;p1/2
 1	2	4.30	248	-54	;	1	1.5	1	0.5
 2	3	4.30	261	-40	;	1	1	1	1.5

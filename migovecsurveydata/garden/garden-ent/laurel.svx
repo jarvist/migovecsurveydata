@@ -1,7 +1,7 @@
 ;Laurel, Laurel pitch, following pitch and rift in Gardener's World (aka BCL)
 
 ;Date: 19/7/00
-*date 2000.7.19
+
 ;Instruments: Thomas Ayles
 ;Book: Pete Jurd
 
@@ -10,7 +10,7 @@
 *equate bclent2.15	laurel.18
 
 *begin laurel
-
+*date 2000.7.19
 ;data normal bcra grade 5
 ;from	to	tape	comp	clino
 

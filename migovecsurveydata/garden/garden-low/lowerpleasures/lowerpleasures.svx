@@ -1,6 +1,6 @@
 ;####Lower Pleasures####:
 ; ###dig off end of friendship gallery with the boulder collapse###
-*date 2011.7.31 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Instruments: Gergely Ambrus
 ;Book + Tape: Jana Carga
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin lowerpleasures
+*date 2011.07.31
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

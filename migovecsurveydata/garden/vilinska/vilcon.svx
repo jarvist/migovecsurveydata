@@ -9,6 +9,7 @@
 ;from	to	tape	comp	clino
 
 *begin vilcon
+*date 2008.08.18
 1	2	3.29	264	+14	; .1 1.2 0 2 1
 2	3	8.62	-	down	; .2 0.8 0.5 1 circa. 6
 *flags duplicate ; duplicates hunger / judge

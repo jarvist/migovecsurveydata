@@ -1,7 +1,7 @@
 ;Monatip
 
 ;Date: 07/07/13
-*date 2013.07.07
+
 ;Merili: Dejan R. 
 ;Risala: Tjasa R.
 ;ostali udelezenci: Rejec Z, Jarc S, Maffi, Bonèina E, Fratnik A.
@@ -13,6 +13,7 @@
 ;Tjasa: 20. tocka je tocka na dnu brezna
 
 *begin monatip07
+*date 2013.07.07
 *data normal from to tape compass clino	;komentar
 *set decimal (.)
 1	2	23.0	100		85	;moic

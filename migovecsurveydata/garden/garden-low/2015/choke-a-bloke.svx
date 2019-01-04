@@ -1,6 +1,6 @@
 ; choke-a-bloke
 ; south of meridian way
-*date 2015.7.28 ; Expedition Pivo Moz
+; Expedition Pivo Moz
 
 ;Book + Tape: Clare Tan
 ;Instruments: Oliver Myerscough
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin choke-a-bloke
+*date 2015.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

@@ -1,12 +1,13 @@
 ;####Hell's Teeth####
 ;###Continuation of Coincidence Cave###
-*date 2018.07.19; Expedition Klic Globin
+; Expedition Klic Globin
 
 ;Instruments: Rhys Tyers 
 ;Book: Jack Hare
 ;Data entered by Rhys Tyers on 28/07/2018
 
 *begin hells_teeth_2
+*date 2018.07.19
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

@@ -1,6 +1,6 @@
 ;Primula: Squirty cheese; quick LASER survey of chamber below cheesecake
 ;  captain Kangaroo, near mud slump
-*date 2008.08.17 ; 17/08/08
+; 17/08/08
  
 ;Instruments / Book: DG / TO
 
@@ -9,7 +9,8 @@
 ;data normal bcra grade 4
 ;from	to	tape	comp	clino
 
-*begin primula 
+*begin primula
+*date 2008.08.17
 1	ridge	8.56	-	down	
 ridge	south	7.44	180	+00
 ridge	west	4.5	270	+00

@@ -1,6 +1,6 @@
 ;####Dwarf Pine####:
 ;###Continuation of Hydrophobia (pitch series off Cuckoo's Nest)###
-*date 2013.8.05 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Instruments: Dave Kirkpatrick
 ;Book + Tape: Sam Page
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan / Sam Page on 2013.8.9
 
 *begin dwarf_pine
+*date 2013.08.05
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

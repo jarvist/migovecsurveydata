@@ -1,6 +1,6 @@
 ;####Duffers Drop####:
 ; ###Pitches below longwater###
-*date 2011.7.27 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Book + Tape: Mike Foley 
 ;Instruments: Myles Denton 
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin duffersdrop
+*date 2011.07.27
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

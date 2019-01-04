@@ -1,6 +1,6 @@
 ;Walk the Line:
 ; Below Wet Hammer, below dark tranquility in Kill'em'All, Captain K
-*date 2009.08.08 ; 08/08/09
+; 08/08/09
  
 ;Book + Tape: Tharatorn Supasiti
 ;Instruments: Tim Osborne
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino
 
 *begin walk_the_line
+*date 2009.08.08
 ;Data on one muddy page, notes on back of half page in front
 ;leg 1-2 seems to read comp=160, but this is actually a crossing out says Thara
 1	2	8.15	60	-48	;.1	1	2	?	0

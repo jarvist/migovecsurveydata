@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin roystan1
-
+*date 2001.07.30
 2	1	1.82	292	-24	;stn1 is cairn at bottom of last pitch
 2	3	6.52	054	79
 3	4	4.18	019	47

@@ -1,6 +1,6 @@
 ;#### Insomnia ####:
 ; ### Push off bottom of Republica; surveyed entirely after callout :<#  ###
-*date 2010.7.28 ; Expedition Vodna Sled 2010
+; Expedition Vodna Sled 2010
 
 ;Book + Tape: Who bloody knows, the books a mess
 ; Apparently Jan was book, JKP was instruments
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin insomnia
+*date 2010.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

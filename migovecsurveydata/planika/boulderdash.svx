@@ -2,7 +2,7 @@
 ; - Chamber off from rift window at -10m on main pitch
 
 ;Date: 14/8/08
-*date 2008.8.14
+
 ;Instruments / Book: Timothy Osborne, Jarvist Frost
 
 ;Data entered by Jarvist Frost 14/8/07
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino
 
 *begin boulderdash
+*date 2008.8.14
 1	2	12.60	17	+38	; .1 2 0 8+ 1.5
 ; up to rift inlet in corner, similar height to climb across rock bridge
 

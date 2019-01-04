@@ -1,6 +1,6 @@
 ;####LET NA DRUGI SVET####:
 ;###Continuation below first Serpentine pitch###
-*date 2011.7.29 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Instruments + Book: Izi
 ;Tape: Kletnik 
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 07.08.2011 
 
 *begin letnadrugisvet
+*date 2011.07.29
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino

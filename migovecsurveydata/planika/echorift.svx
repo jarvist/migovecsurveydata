@@ -2,7 +2,7 @@
 ;Below snow plug in planika
 
 ;Date: 24-July-2008
-*date 2008.07.24
+
 ;Instruments: Jarvist Frost
 ;Book: Jana Carga
 
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin echorift
+*date 2008.07.24
 ;from	to	tape	comp	clino
 
 b2	b1	3.27	145	-19	; b1: 0.1 ? 0.1 0.8 ;unlabelled cairn

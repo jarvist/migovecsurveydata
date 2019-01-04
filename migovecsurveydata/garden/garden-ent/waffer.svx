@@ -12,6 +12,7 @@
 *equate hardy.3 waffer.8
 
 *begin waffer
+*date 2000.07.23
 1	2	11.40	084	+20 	; 1PSS Cairn
 2	3	6.80	-	up
 3	4	4.30	105	+09

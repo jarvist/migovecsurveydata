@@ -2,7 +2,7 @@
 ;cascade of 3 pitches below dangermouse
 ; New big pitch off Something Fishy (mudslump), 
 ;  captain Kangaroo, near mud slump
-*date 2008.08.17 ; 17/08/08
+; 17/08/08
  
 ;Instruments / Book: DG / TO
 
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin giblet_breakfast
+*date 2008.08.17
 2	1	9.1	111	-46	; .1 3 0.5 7 1
 2	3	7.3	285	+49	; .2 1 1.5 7 2
 4	3	4	115	-25	; .3 0 0.2 1 3

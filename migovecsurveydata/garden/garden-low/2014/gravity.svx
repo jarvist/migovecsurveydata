@@ -1,6 +1,6 @@
 ;####Gravity####:
 ; ###Connects Hydrophobia to Soda Streamway###
-*date 2014.07.19
+
 
 ;Tape + Instruments: William French
 ;Book: Sam Page
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin gravity
+*date 2014.07.19
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

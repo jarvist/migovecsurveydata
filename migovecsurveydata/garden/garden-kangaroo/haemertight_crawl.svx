@@ -2,7 +2,7 @@
 ; Tight crawl with Haematite floor, 
 ;  bashed to pitch dropping into lower mudslump
 ;   captain Kangaroo, near mud slump
-*date 2008.08.15 ; 15/08/08
+; 15/08/08
  
 ;Instruments + Book / Tape: Jarvist Frost / James Kirkpatrick
 
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin haemertight_crawl 
+*date 2008.08.15
 6	1	3.68	236	+41	; .1 2 0 1.2 0.5
 1	2	5.90	248	-05	; .2 0.3 0.3 0.5 0.5
 ;.1 is above from mudslump pss on large rock

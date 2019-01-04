@@ -1,6 +1,6 @@
 ; Guillotine
 ; Extension to crawling passage at end of minotoar rift
-*date 2012.7.28 
+
 
 ;Book + Tape: Rhys Tyers
 ;Instruments: Gergely Ambrus
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin guillotine
+*date 2012.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

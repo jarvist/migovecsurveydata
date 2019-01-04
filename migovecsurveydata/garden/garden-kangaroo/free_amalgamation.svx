@@ -1,6 +1,7 @@
 ;Free Amalgamation:
 ; Below happy monday
-*date 2009.8.14 ; 10/08/14
+; 10/08/14
+; ^^ this seems like a suspicious date
  
 ;Book + Tape: Thara 
 ;Instruments: Tim Osborne
@@ -11,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin free_amalgamation
+*date 2009.8.14
 ;Data is on 1 page, 
 1	2	6.90	70	15 ; .20 .70 .50 .0
 2	3	10.2	57	27 ; 1.4 . . .4

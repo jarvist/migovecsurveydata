@@ -1,6 +1,6 @@
 ;#### Kokain Rute ####:
 ; ### Extensions beyond Balamory ###
-*date 2013.08.01 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Book: Grega Maffi
 ;Instruments: Erik Poncina
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2013.08.03
 
 *begin kokain_rute
+*date 2013.08.01
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

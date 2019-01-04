@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin bclent2
-
+*date 2000.08.03
 ;* fix	\bclent2.0	405115.90	123992.25	1785.49
 
 ; fix position done using surface survey from M18 called surface2

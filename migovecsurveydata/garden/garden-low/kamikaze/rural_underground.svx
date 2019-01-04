@@ -1,6 +1,6 @@
 ;####Rural Underground####:
 ;###Passage beyond undercover squirrel###
-*date 2013.7.26 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Tape + Instruments: Aljosa Boncina
 ;Book: Nejc Maver
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan on 2013.7.27
 
 *begin rural_underground
+*date 2013.07.26
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

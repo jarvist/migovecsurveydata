@@ -1,6 +1,6 @@
 ;mudslump:
 ; stuff off traverse chamber, captain Kangaroo, near mud slump
-*date 2007.08.02 ; 2/08/07
+ ; 2/08/07
  
 ;Instruments / Book: Ben Banfield, Richard Venn (Rik mainly book)
 
@@ -10,7 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin mudslump
-
+*date 2007.08.02
 2	1	2.71	166	-16	;	0.5 0 1 0.25
 3	2	5.52	274	-14	;	0 0.5 1 1
 4	3	1.84	020	+02	;	0 3 4 1

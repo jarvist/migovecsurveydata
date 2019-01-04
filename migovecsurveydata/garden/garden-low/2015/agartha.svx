@@ -1,6 +1,6 @@
 ;####Agartha####:
 ;###Continuation along push your luck rift###
-*date 2015.7.28 ; Expedition
+; Expedition
 
 ;Instruments: Jim Evans
 ;Book: David Kirkpatrick
@@ -8,6 +8,7 @@
 ;Data entered by David Kirkpatrick 2015.7.31
 
 *begin agartha
+*date 2015.07.28
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

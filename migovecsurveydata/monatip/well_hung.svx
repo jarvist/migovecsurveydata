@@ -1,12 +1,13 @@
 ;####Well Hung####:
 ;###Continuation of Cloaca Maxima###
-*date 2018.07.16 ; Expedition Klic Globin
+; Expedition Klic Globin
 
 ;Disto: David II Wilson
 ;PDA: Arun Paul
 ;Data entered by Tanguy Racine on 27/07/2018
 
 *begin well_hung
+*date 2018.07.16
 *team "ap dpw" 
   *units tape meters
   *units compass degrees

@@ -1,6 +1,6 @@
 ;####Daydreamers####:
 ; ###continuation below insomnia###
-*date 2011.7.30 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Tape: Clare Tan
 ;Book + Instruments: James Hooper
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin daydreamers
+*date 2011.07.30
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

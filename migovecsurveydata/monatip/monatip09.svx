@@ -1,7 +1,7 @@
 ;Monatip
 ;preèka na vrhu Luzerja
 ;Date: 22/08/15
-*date 2015.08.22
+
 ;Merili: Ristiè D., Trunovc B. 
 ;Risala: Ristiè D.
 ;ostali udelezenci: Maffi G., Fratnik A.  
@@ -13,6 +13,7 @@
 ;
 
 *begin monatip09
+*date 2015.08.22
 *data normal from to tape compass clino	;komentar
 *set decimal (.)
 0	1	29.0	0		90	; 0 je dno brezna, rov pod Luzerjem

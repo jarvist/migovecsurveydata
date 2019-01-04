@@ -1,6 +1,6 @@
 ;####First Draft####:
 ;###Continuation of Jet Stream to unrigged pitch that joins Final Draft###
-*date 2015.7.25 ; Expedition
+; Expedition
 
 ;Instruments: Rhys Tyers
 ;Book: Tanguy Racine
@@ -8,6 +8,7 @@
 ;Data entered by Rhys Tyers / Tanguy Racine  on 2015.7.27
 
 *begin firstdraft
+*date 2015.07.25
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

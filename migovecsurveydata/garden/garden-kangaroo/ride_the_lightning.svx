@@ -1,6 +1,6 @@
 ;Ride the Lightning
 ; Climbing up second shaft of Kill'em All
-*date 2009.08.09 ; 09/08/09
+; 09/08/09
  
 ;Book + Instruments: Iztok Mozir IM
 ;Instruments: Eric Boncina EB
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino
 
 *begin ride_the_lightning
+*date 2009.08.09
 ;1 page of data with notes on back
 ;2/3 page of plan drawing
 1	2	2.60	212	+49	;.1	0.2	0.2	1	0

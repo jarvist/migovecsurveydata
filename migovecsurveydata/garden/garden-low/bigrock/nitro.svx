@@ -12,7 +12,7 @@
 ;*equate nitro.9 potato.25
 
 *begin nitro
-
+*date 2004.08.01
 ;the following line is madeupleg
 ;2	10	40	330	+10
 

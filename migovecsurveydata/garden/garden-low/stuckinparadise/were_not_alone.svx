@@ -1,6 +1,6 @@
 ;####We're Not Alone####:
 ;###Extension off Atlantis###
-*date 2013.8.7 ; Expedition Z Miga Na Kuk
+; Expedition Z Miga Na Kuk
 
 ;Tape: Dave Wilson
 ;Book + Instruments: James Hooper
@@ -8,6 +8,7 @@
 ;Data entered by Clare Tan / James Hooper on 2013.8.9
 
 *begin were_not_alone
+*date 2013.08.07
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

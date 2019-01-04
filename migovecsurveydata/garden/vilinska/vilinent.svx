@@ -1,6 +1,5 @@
 ;Vilinska Jama entrance
 ;Date: 28/7/2008
-*date 2008.07.28
 ;Instruments: Dan Greenwald
 ;Book: James 'Tetley' Hooper
 
@@ -11,6 +10,7 @@
 
 *entrance vilinent.1
 *begin vilinent
+*date 2008.07.28
 1	2	4.96	218	-18
 3	2	5.68	097	+20
 3	4	4.40	265	-46

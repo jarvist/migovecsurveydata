@@ -1,13 +1,14 @@
 ;####TrueAdventures####
 ;##Beyond Colarado 'Sump'##:
-*date 2015.7.24 ; Expedition Pivo Moz 
+; Expedition Pivo Moz
 
 ;Tape: Connor Roe 
 ;Book: Jarvist Frost
 
 ;Data entered by Jarvist Moore Frost 31-7-15 
 
-*begin trueadventures 
+*begin trueadventures
+*date 2015.07.24
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

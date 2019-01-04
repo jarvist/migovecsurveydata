@@ -1,6 +1,6 @@
 ;kill_em_all: Kill 'em All
 ; Further on from mudslump, massive breakdown, massive weirdness
-*date 2007.08.05 ; 5/08/07
+; 5/08/07
  
 ;Instruments / Book: Izzy Morjir, Richard Venn
 
@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin kill_em_all
+*date 2007.08.05
 ;PAGE 1
 1	2	3.02	256	-18	;	1 4 40 0.5
 ;2	3	8.70	-	up	;	3 6 n/a 8.70   THIS LEG IS NOT PART OF THE SURVEY - TAPE WASN'T THOUGHT TO REACH AT FIRST

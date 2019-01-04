@@ -11,7 +11,7 @@
 
 
 *begin tesselator
-
+*date 2000.07.31
 2	1	4.38	244	-30	;stn 1 is pss cairn
 2	3	4.04	074	-4	;stn 3 is bottom of rope
 4	3	23.58	240	-88	;stn 4 is bolt at top of pitch

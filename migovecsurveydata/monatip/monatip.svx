@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin monatip
+*date 2007.08.06
 ;PAGE 1
 ;station 1 is red dot on roof at entrance
 ;station 13 is bottom of first pitch

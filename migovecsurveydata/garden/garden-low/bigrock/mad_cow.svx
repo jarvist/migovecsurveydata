@@ -17,7 +17,7 @@
 ;Data is on 5 sheets
 
 *begin mad_cow
-
+*date 2004.07.31
 ;p1/5
 					; LRUD data not specifically associated on right hand side with station
 1	2	4.30	24	+36	;.1 1 1 1 1

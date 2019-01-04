@@ -11,7 +11,7 @@
 *equate blind.10 doublethink.9
 
 *begin blind
-
+*date 2004.07.31
 ;page one
 1	2	9.12	143	27	;station 1 is PSS
 3	2	1.90	350	-22

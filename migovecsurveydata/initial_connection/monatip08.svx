@@ -1,7 +1,7 @@
 ;Monatip
 
 ;Date: 11/08/13
-*date 2013.08.11
+
 ;Merili: Clair, Fratnik A, Ivak A, 
 ;Risala: Clair
 ;ostali udelezenci: Maffi G, Maver N, Èibej K.  
@@ -13,6 +13,7 @@
 ;
 
 *begin monatip08
+*date 2013.08.11
 *data normal from to tape compass clino	;komentar
 *set decimal (.)
 1	2	9.6	55		45	;

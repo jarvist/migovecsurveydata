@@ -1,6 +1,6 @@
 ;####Watership Down####:
 ; ###continuation off Winter Journey###
-*date 2012.7.20 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Tape: Clare Tan
 ;Book + Instruments: Jarvist Frost
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin watershipdown
+*date 2012.07.20
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

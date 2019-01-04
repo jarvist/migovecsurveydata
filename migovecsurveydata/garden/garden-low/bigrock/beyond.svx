@@ -10,6 +10,7 @@
 
 
 *begin beyond
+*date 2004.08.01
 ;page one
 1	2	20.69	212	-54	;station 1 is a carbide 'S'
 2	3	15.01	176	-27	

@@ -1,6 +1,6 @@
 ;####Winter Journey####:
 ; ###Continuation of Penguin's egg - Dry bypass after daydreamers + dream.2, below insomnia ###
-*date 2011.08.05 ; Expedition Izkubljaeni Raj
+; Expedition Izkubljaeni Raj
 
 ;Tape: Andrej Fratnik
 ;Book + Instruments: Jarvist Frost
@@ -12,6 +12,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin winterjourney
+*date 2011.08.05
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

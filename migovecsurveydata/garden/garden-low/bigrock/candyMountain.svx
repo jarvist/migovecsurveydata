@@ -12,6 +12,7 @@
 *equate candyMountain.11 friend.23
 
 *begin candyMountain
+*date 2003.07.31
 1	2	3.80	194	-24
 2	3	19.97	-	up
 3	4	10.78	-	up

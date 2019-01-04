@@ -1,5 +1,5 @@
 ; Worm pitch, after ride the lightning
-*date 2012.07.26 ; 
+;
  
 ;Book: Clewin Griffith
 ;Instruments: Dan Greenwald
@@ -10,6 +10,7 @@
 ;from	to	tape	comp	clino
 
 *begin worm
+*date 2012.07.26
 ;1 page of data with diagrams on 1 separate sheet
 
 2	1	5.80	328	-43

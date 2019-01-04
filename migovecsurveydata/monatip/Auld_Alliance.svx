@@ -1,6 +1,6 @@
 ;####Auld_Alliance###
 ;Drop in a hole in mona tip- NCB connection
-*date 2016.07.27 ; Expedition Neprehojeni Poti
+; Expedition Neprehojeni Poti
 
 ;Tape + Instruments: William French
 ;Book: Will Scott
@@ -8,6 +8,7 @@
 ;Data entered by Miriam North-Ridao / Will Scott on 2016.08.5
 
 *begin Auld_Alliance
+*date 2016.07.27
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 5
 ;from   to      tape    comp    clino; L R U D

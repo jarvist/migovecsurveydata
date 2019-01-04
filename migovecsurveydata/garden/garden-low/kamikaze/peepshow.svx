@@ -1,6 +1,6 @@
 ;####Peep show####:
 ; ###  ###
-*date 2012.08.02 ; Expedition Sledi Vetra
+; Expedition Sledi Vetra
 
 ;Book + Tape: Nicolas Kral
 ;Instruments: Jonathan Paul Hardman
@@ -11,6 +11,7 @@
 ;from	to	tape	comp	clino; L R U D
 
 *begin peepshow
+*date 2012.08.02
 *data normal from to tape compass clino ignoreall
 ;data normal bcra grade 4
 ;from   to      tape    comp    clino; L R U D

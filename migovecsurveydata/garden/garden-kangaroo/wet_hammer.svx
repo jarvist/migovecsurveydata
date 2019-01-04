@@ -1,6 +1,6 @@
 ;Wet Hammer Passage:
 ; Below dark tranquility in Kill'em'All, Captain K
-*date 2009.08.03 ; 02/08/09
+; 02/08/09
  
 ;Book + Tape: James Kirkpatrick
 ;Instruments: Dan Greenwald
@@ -10,7 +10,8 @@
 ;data normal bcra grade 4
 ;from	to	tape	comp	clino
 
-*begin wet_hammer 
+*begin wet_hammer
+*date 2009.08.02
 ;Data is on two half pages, entitled 'Hammer Drop Rift'
 ;p 1/2
 1	2	4.01	271	+66	; 1.2 4 4 1
