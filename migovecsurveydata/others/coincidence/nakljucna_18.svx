@@ -1,0 +1,31 @@
+;survey Coincidence Cave  below Hell's Teeth
+;entered by Tanguy Racine on 1st Jan 2019
+
+*begin nakljucna_18
+  *date 2018.12.18 
+  *team "Aleks Fortunat"
+  *team "Grega Maffi" 
+  *units tape meters
+  *units compass degrees
+  *units clino degrees
+  2 	1	5.00	167	-25
+  2 	3	6.80	343	-26
+  4 	3	4.40	164	-26
+  4 	5	5.50	357	-54
+  5 	6	7.00	348	+62
+  6 	7	3.60	354	+48
+  8  	7	3.70	194	-37	
+  8   	9	7.20	337	+33
+  9	    10	7.10	345	-61
+  10	11	8.80	348	+36
+  11	12	14.30	357	+69
+  12 	13	2.60	088	+82	
+*end nakljucna_18
+
+;NOTES
+;1: a bolt before the last one ( beginning of the handline)  
+;2: last bolt ( end of handline)
+;11 – 13  aven called KAM_IN
+;13: top of the aven ( marked as X on the rock)  
+
+*equate nakljucna_18.1 hells_teeth_2.2
