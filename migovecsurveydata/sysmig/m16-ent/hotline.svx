@@ -20,9 +20,8 @@
 *date 1996.08.08
 *team "Chris Roberts" instruments
 *team "Peter Eland" book
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5SmhKQkF3STl3Tm8
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5NmcySFFsQVppblk
-
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.1a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.1b.jpg
 *data normal from to tape compass clino
 1       2       16.90   112     +18
 3       2       20.49   326     +01
@@ -45,8 +44,8 @@
 9	0	5	3	0
 
 
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5UWV0SEJSRmZBMlE
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5aTQtbk5lT01hcTQ
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.2a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.2b.jpg
 *data normal from to tape compass clino
 11      10      4.45    150     +06
 
@@ -85,7 +84,7 @@
 *date 1996.08.10
 *team "Mark Evans" book
 *team "Jim Evans" instruments
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5WTJlOGtlSUhGU0k
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.3.jpg
 *data normal from to tape compass clino
 
 6       16      3.00    340     +00

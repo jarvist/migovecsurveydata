@@ -16,9 +16,8 @@
 *date 1997.08.11
 *team "Jim Evans" instruments
 *team "Michael Playford" book
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5RU81WXp1S2tOOUE
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5S2k2S05xcWtWWFk
-
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.11.batshit2.1.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.11.batshit2.2.jpg
 *data normal from to tape compass clino
 1	2	6.03	129	26  ; stn 13 of original batshit
 2	3	3.78	108	23
