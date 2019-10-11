@@ -17,8 +17,8 @@
 *date 1997.08.02
 *team "Clewin Griffith" instruments
 *team "Alva Gosson" book
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5YzNFT01LbG15Y2s
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5eEM0dFJfVWZxdm8
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-ent/1997.08.02.baddybag.1.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-ent/1997.08.02.baddybag.2.jpg
 
 *data normal from to tape compass clino
 1	2	2.90	17	5	;1 PSS on cairn 
