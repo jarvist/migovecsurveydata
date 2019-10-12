@@ -19,8 +19,8 @@
 *date 1997.08.12
 *team "Oliver Mann" book
 *team "Hugh Penney" instruments
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5OWI3QnIyNmJ3YTg
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5YVdxS0xyWmEtZkk
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.12.window.a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.12.window.b.jpg
 
 *data normal from to tape compass clino
 1	2	15.27	279	-37	

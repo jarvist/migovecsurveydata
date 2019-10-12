@@ -22,11 +22,12 @@
 *team "Iain McKenna" compass clino
 *team "Jim Evans" book
 ;notes
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5MjYxWFpxUnVETFk
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5NnFta2FWNERUbXM
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/2/1996.07.29.dodgecity.1a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/2/1996.07.29.dodgecity.2a.jpg
+
 ;diagrams
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5Yy10d2JKb3lJUkk
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5UmtBUXdzVEt2Nkk
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/2/1996.07.29.dodgecity.1b.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/2/1996.07.29.dodgecity.2b.jpg
 
 *data normal from to tape compass clino
 0	1	5.80	105	58	;Stn 0 is gallery.12

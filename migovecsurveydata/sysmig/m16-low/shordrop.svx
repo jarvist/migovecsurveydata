@@ -20,8 +20,8 @@
 *date 1996.08.07
 *team "James Hooper" book
 *team "Andy Atkinson" instruments
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5QXdoMXRXX21Qak0
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5cW9ORGRTN2JHZXc
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.07.M16.a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.07.M16.b.jpg
 
 *data normal from to tape compass clino
 2       1       6.23    206     -01.5   ;Stn.1 is top bolt of second pitch after chamber (RHS going down cave)
@@ -60,8 +60,8 @@
 *team "Iain McKenna" compass clino
 *team "Jim Evans" tape
 *team "Chris Roberts" book
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5SmhKQkF3STl3Tm8
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5NmcySFFsQVppblk
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.1a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/9/1996.08.08.hotline.1b.jpg
 
 *data normal from to tape compass clino
 1       2       13.52   194     -75

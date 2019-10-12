@@ -10,8 +10,8 @@
 *date 1995.07
 
 ;notes
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5VTlSMnZtQjRqek0
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5eEp1ZUhrS1VELVk
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/notes/ttc.shreddies.1a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/notes/ttc.shreddies.2.jpg
 
 *data normal from to tape compass clino
 *sd tape 0.1 metres

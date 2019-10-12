@@ -16,8 +16,8 @@
 *date 1997.08.07
 *team "Jim Evans" instruments
 *team "James Hooper" book
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5cjFMVGUxVUpQSzA
-;*ref https://drive.google.com/open?id=0BxkZAUc06EK5WEZPUzFreHJ5VEk
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.07.batshitb.a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.07.batshitb.b.jpg
 
 *data normal from to tape compass clino
 14	13	9.75	133	-32	;13 is a pss
