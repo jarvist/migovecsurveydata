@@ -1,0 +1,32 @@
+;data entered by Tanguy Racine 2019.07.23
+*begin power_grab 
+  *date 2019.07.20
+  *team "CB DPW" 
+  *units tape meters
+  *units compass degrees
+  *units clino degrees
+  *alias station - ..
+  *flags not splay
+  *data normal from to tape compass clino
+	2	3	4.90	-	up
+	3	1	1.25	115	0
+	1	4	3.10	041	+6
+	5	4	1.70	328	-3
+	5	6	2.66	010	+17
+	6	7	9.00	082	+8
+	7	8	3.43	026	+44
+	8	9	6.52	057	-14
+	9	10	7.22	351	+36
+	10	11	3.56	253	+31
+
+;stn 1 is pss next to 5m undescended pitch
+;stn 7 is pss
+;stn 8 is flake bolt
+;stn 9 is pss
+;stn 10 is alpine bolt near odessy pss
+
+*end power_grab
+
+*equate power_grab.11 rokovo_brezno_resurvey.1
+
+

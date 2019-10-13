@@ -29,10 +29,12 @@
 8	9	6.0	288	-5
 9	10	3.3	258	-7
 10	11	7.5	321	0
+*flags duplicate
 11	12	11.6	302	-50
 12	13	14.0	0	-90
 13	14	6.0	354	0
 14	15	3.8	301	-12
 15	16	28.1	0	-90	; tocka 16 je zadnji fix na sahtu od 45m rok oznacil
+*flags not duplicate
 
 *end spodnji

@@ -26,6 +26,10 @@
 ; correct part of NCB for what the explorers remember!
 *equate s_monatip.monatip11.40   system.m18.gallery.7
 
+;2019 CONNECTION BETWEEN MONATIP AND SYSTEM MIGOVEC 
+;This is the connection between Wishing Well and Mig Country 
+*equate s_monatip.wishing_well2.4 system.level2.migcon.1
+
 ;Vilinska Jama, new entrance to GW
 *equate surf.08.surf_gardenvilinska.8 garden.vilinska.vilinent.1
 

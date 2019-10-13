@@ -3,8 +3,26 @@
 ; Surveyed to BCRA Grade 5b
 ;PriMadoni
 *begin prim
+
+;2019
+*calibrate compass -3.69
+*include 2019/belladonna
+*include 2019/ad_aspera_per_aqua
+*include 2019/artemis
+*include 2019/lachrymosa
+*include 2019/tartarus
+*include 2019/poseidon_rift
+*include 2019/power_grab
+*include 2019/spodnji_main_chamber_resurvey
+*include 2019/forget_me_not
+*include 2019/octarine
+*include 2019/street-wise_hercules
+*include 2019/octarine_core
+*include 2019/death_star
+*include 2019/below_donji_milanovac
+
 ;2018
-*calibrate compass -3.46
+*calibrate compass -3.58
 
 *include 2018/adequately_hammered
 *include 2018/ave_maria

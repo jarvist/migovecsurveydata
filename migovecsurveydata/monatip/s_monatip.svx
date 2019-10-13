@@ -29,6 +29,9 @@
 *include rat_rift
 *include alk_disto_resurvey
 *include cloaca_resurvey
+*include wishing_well
+*include wishing_well2
+*include sad_face
 
 *equate 	monatip2.27	    monatip1.27
 *equate 	monatip3.37     monatip2.37

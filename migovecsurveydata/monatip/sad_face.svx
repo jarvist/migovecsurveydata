@@ -1,0 +1,26 @@
+; 2019.08.03
+; :(
+; Instruments Jack Halliday  
+; Book Jack Halliday 
+; Tape David Wilson 
+
+*begin sad_face
+  *date 2019.08.02 
+  *team "jwdh dpw" 
+  *units tape meters
+  *units compass degrees
+  *units clino degrees
+  *alias station - ..
+  *flags not splay
+  *data normal from to tape compass clino
+    
+	0 1   24.4 - UP
+	1 2   11.0 188 +41
+	
+  *flags not splay
+;Notes:
+;stn 2 is wishing well stn 10
+
+*end sad_face
+
+*equate wishing_well.10 sad_face.2

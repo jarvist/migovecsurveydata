@@ -1,0 +1,20 @@
+; 2019.07.23 created by TopoDroid v 4.1.2q
+; donji_milanovac_resurv
+; Instrument: DistoX2 3939 - CUBOT KING KONG
+
+*begin spodnji_main_chamber_resurvey 
+  *date 2019.07.22 
+  *team "bh + jw" 
+  *units tape meters
+  *units compass degrees
+  *units clino degrees
+  *alias station - ..
+  *flags not splay
+  *data normal from to tape compass clino
+  *flags duplicate
+  
+  *flags not splay
+  *flags not duplicate
+*end spodnji_main_chamber_resurvey
+
+*equate spodnji_main_chamber_resurvey.15 pivnica_2_resurvey.0

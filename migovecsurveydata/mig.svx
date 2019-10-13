@@ -141,6 +141,7 @@
 *include kukpot/s_kukpot
 *include others/venus
 *include others/coincidence/s_coincidence
+*include others/janet_little_cave ; a cave south of Kuk only surveyed in 2019
 
 ; *********** SECTION III: Include .svx files for surface surveys ************ ;
 ;
@@ -274,6 +275,9 @@
 
 ; Hawk                              <-> GPS fix
 *equate hawk.1                          gps.HAWK
+
+;Janet's little Cave 				<-> GPS fix
+*equate janet_little_cave.0				gps.MLC
 
 ; E1                                <-> surface survey
 *equate E1.bolt                         surf.08.surf_m2e1.bolt
