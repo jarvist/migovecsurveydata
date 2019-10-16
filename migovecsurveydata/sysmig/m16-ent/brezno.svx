@@ -16,6 +16,7 @@
 *equate entrance.31 brezno.31
 
 *begin brezno
+*title "Brezno Strahov"
 *date 1996.08.04
 *team "Jim Evans" book
 *team "Sarah Wingrove" instruments

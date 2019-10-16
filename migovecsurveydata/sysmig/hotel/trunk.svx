@@ -13,6 +13,8 @@
 
 *begin trunk
 *date 1998.08.06
+*team "Colm Carroll" instruments
+*team "James Hooper" book
 
 1	2	3.93	194	-58
 2	3	4.63	-	down

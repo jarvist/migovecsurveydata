@@ -16,7 +16,10 @@
 *equate brezno.41 spiny.1
 
 *begin spiny 
+*title "Spiny Norman"
 *date 1999.07.19
+*team "Clewin Griffith" instruments
+*team "Bruce Drinkwater" book
 
 1	2	5.60	269	-2    
 2	3	5.60	216	-20

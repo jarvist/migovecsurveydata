@@ -18,6 +18,9 @@
 
 *begin leki
 *date 1999.08.03
+*team "Jan Evetts" tape
+*team "Ben Young" compass clino
+*team "James Hooper" book
 
 2	1	18.53	270	-70	;stn 2 is pss bolt mark at top of pitch
 3	2	3.60	-	down

@@ -18,6 +18,9 @@
 *equate hydrant.3 offhyd.9
 
 *begin offhyd
+*date 1999.08.11
+*team "Jim Evans" instruments
+*team "James Hooper" book
 
 2	1	8.08	197	-33	;stn 1 is pss
 3	2	5.96	208	-56

@@ -2,7 +2,7 @@
 ; (c) 1994 - 1997 Imperial College Caving Club
 ; Surveyed to BCRA Grade 5b
 
-;Baddy bad, pitch from goddy bag using lower crawl
+;Baddy bag, pitch from goody bag using lower crawl
 ;Lower crawl called 'Body Bag', lower piches called 'The Belfry'
 
 ;Date: 2 August	1997

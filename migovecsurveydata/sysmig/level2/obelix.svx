@@ -12,6 +12,9 @@
 
 *begin obelix
 *date 1999.08.05
+*team "Jan Evetts" instruments
+*team "Tom Ayles" instruments
+*team "James Hooper" book
 
 2	1	12.21	144	-21	;stn 1 is pss at botom of asterix
 2	3	3.87	237	-18	;st5n 3 is bolt on lhs of pitch

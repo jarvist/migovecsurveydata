@@ -16,6 +16,9 @@
 *equate galact3.1 galact2.1
 
 *begin galact3
+*date 1997.08.05
+*team "Mike Rogerson" instruments
+*team "James Hooper" book
 
 1	2	14.38	240	27
 3	2	16.19	006	-33

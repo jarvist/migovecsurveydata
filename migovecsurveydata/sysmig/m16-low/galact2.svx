@@ -16,6 +16,9 @@
 *equate galact1.8 galact2.10
 
 *begin galact2
+*date 1997.08.04
+*team "Sarah Wingrove" instruments
+*team "Mark Evans" book
 
 2	1	26.96	111	-42
 3	2	4.50	111	00

@@ -18,7 +18,7 @@
 
 *begin sifon
 *date 1997.07.30
-
+*team "James Hooper" book
 1	2	15.6	021	31	;stn. 1 is a sump
 2	3	11.9	010	15
 3	4	3.8	040	23	

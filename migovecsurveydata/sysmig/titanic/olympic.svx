@@ -13,6 +13,8 @@
 
 *begin olympic
 *date 1998.07.23
+*team "Phil Brooks" instruments
+*team "Sarah Wingrove" book
 
 1	2	38.80	-	up	;stn 2 is a bolt
 2	3	1.25	270	00

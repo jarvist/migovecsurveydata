@@ -12,6 +12,9 @@
 *equate elephant.10 mousse.1
 
 *begin mousse
+*date 1998.08.03
+*team "Clewin Griffith" book
+*team "Kathryn Atherton" instruments
 
 1	2	2.45	114	-11
 2	3	5.90	168	-19

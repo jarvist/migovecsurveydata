@@ -17,6 +17,9 @@
 *equate shordrop2.6 tamoka.1
 
 *begin tamoka
+*date 1997.07.26
+*team "Oliver Mann" instruments
+*team "Jim Evans" book
 
 1	2	3.03	220	-15	;1 is first bolt on Ta Moka pitch
 2	3	54.9	-	down	;2 is bolt at pitch head

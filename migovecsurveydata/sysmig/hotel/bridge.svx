@@ -13,6 +13,8 @@
 
 *begin bridge
 *date 1998.07.22
+*team "Martin McGowan" instruments
+*team "James Hooper" book
 
 1	2	9.62	175	-12	;STN 1 is a PSS carbide S on wall
 3	2	5.04	007	23	;stn 2 is a pss piece of paper on boulder

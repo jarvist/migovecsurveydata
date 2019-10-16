@@ -12,6 +12,9 @@
 
 *begin paradiso
 *date 1999.07.19
+*team "Tom Ayles" book
+*team "Mike Rogerson" instruments
+
 1	2	5.25	033	+3
 2	3	17.60	333	-24
 3	4	7.67	169	-42

@@ -16,6 +16,9 @@
 *equate tamoka.3 galact1.1
 
 *begin galact1
+*date 1997.08.04
+*team "Sarah Wingrove" instruments
+*team "Tim Wright" book
 
 1	2	9.91	211	14
 2	3	4.50	158	-41

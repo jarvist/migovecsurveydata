@@ -13,6 +13,8 @@
 
 *begin elephant
 *date 1998.07.31
+*team "Iain McKenna" instruments
+*team "Colm Carroll" book
 
 1	2	11.21	083	+26
 3	2	6.91	196	-15	;STN 2 IS PSS TOP OF BOULDER

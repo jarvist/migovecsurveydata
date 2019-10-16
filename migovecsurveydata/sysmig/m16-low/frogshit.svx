@@ -16,6 +16,9 @@
 *equate frogshit.23 batshita.12
 
 *begin frogshit
+*date 1999.08.04
+*team "Clewin Griffith" instruments
+*team "Hugh Penney" book
 
 2	1	9.61	218	-41	;stn 1 is pss at top of big (fuck off) big pitch
 3	2	10.66	199	-43	;stn 3 is pss (soot and start of bolt hole) to right of 12m pitch

@@ -18,6 +18,8 @@
 
 *begin teoti
 *date 1997.08.14
+*team "Mike Rogerson" instruments
+*team "Jim Evans" book
 2	1	20.00	023	54	;2 is a pss
 2	3	3.29	201	-18
 4	3	12.51	022	49

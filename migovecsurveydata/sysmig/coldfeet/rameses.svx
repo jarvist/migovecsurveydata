@@ -17,6 +17,8 @@
 
 *begin rameses
 *date 1997.08.11
+*team "Alva Gosson" instruments
+*team "James Hooper" book
 
 *calibrate tape 0.18
 

@@ -16,7 +16,9 @@
 *equate galact4.11 galact2.4
 
 *begin galact4
-
+*date 1997.08.16
+*team "Tim Wright" instruments
+*team "Alva Gosson" book
 ;Tape was to long by 5cm ??
 *calibrate tape 0.05
 

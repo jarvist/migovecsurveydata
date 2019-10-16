@@ -13,6 +13,9 @@
 
 *begin adder
 *date 1998.07.28
+*team "Jim Evans" instruments
+*team "James Hooper" book
+
 1	2	5.25	-	up
 2	3	2.35	114	+26	;stn3 is pss
 4	3	9.61	236	-02

@@ -14,11 +14,16 @@
 *equate silos.1 gallery.2
 
 *begin silos
+*date 1996.08.16 ;probably needs to move down to 4-5
+*team "Sarah Wingrove" instruments
+*team "Peter Eland" book
 
 1       2        7.6    150     -11     ;1-4 surveyed in '95
 2       3        3.2    081     -37     ;
 3       4        6.1    070     -70     ;Stn 4 is last bolt at top of pitch
 
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/7/1996.08.16.silos.a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1996/7/1996.08.16.silos.b.jpg
 4       5       67.43   -       down
 5       6       13.60   -       down
 6       7       26.30   -       down

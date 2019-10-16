@@ -17,6 +17,8 @@
 
 *begin dinsdale
 *date 1999.07.27
+*team "Mike Rogerson" instruments
+*team "Tom Ayles" book
 
 1	2	1.25	233	23
 2	3	4.75	117	6	

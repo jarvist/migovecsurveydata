@@ -17,6 +17,8 @@
 
 *begin sinners
 *date 1997.08.14
+*team "Mike Rogerson" instruments
+*team "Jim Evans" book
 1	2	2.65	-	up	;2 is a pss
 3	2	4.82	103	09
 4	3	5.73	117	03	;4 is a pss carbide mark

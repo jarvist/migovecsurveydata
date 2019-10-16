@@ -17,6 +17,9 @@
 *equate hydrant.1 tamoka.3
 
 *begin hydrant
+*date 1999.08.02
+*team "Tom Ayles" instruments
+*team "James Hooper" book
 
 1	2	13.50	177	42	; stn1 is pss cairn @ bottom of  ta mokar
 3	2	16.65	042	-48

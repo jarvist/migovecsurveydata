@@ -17,6 +17,7 @@
 *equate rockroll.12 boogywoo.6
 
 *begin boogywoo
+*title "Boogie-Woogie Washer Woman"
 *date 1996.08.17
 *team "Iain McKenna" book tape
 *team "Mark Evans" compass clino

@@ -16,8 +16,8 @@
 *date 1997.08.14
 *team "Mark Evans" instruments
 *team "James Hooper" book
-https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.14.mower.a.jpg
-https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.14.mower.b.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.14.mower.a.jpg
+;*ref https://clewingriffith.github.io/migovecsurveybooks/1997/m16-low/1997.08.14.mower.b.jpg
 
 *data normal from to tape compass clino
 1	2	8.00	-	down	;2 is a pss

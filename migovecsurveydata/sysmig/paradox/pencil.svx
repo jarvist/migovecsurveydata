@@ -12,7 +12,10 @@
 *equate pencil.1  paradox.11		; CHECK THIS
 
 *begin pencil
+*title "Broken Pencil Passage"
 *date 1998.07.27
+*team "Jim Evans" instruments
+*team "James Hooper" book
 
 2	1	8.05	183	+12	;stn2 is knot of Y hang
 3	2	7.66	143	+74

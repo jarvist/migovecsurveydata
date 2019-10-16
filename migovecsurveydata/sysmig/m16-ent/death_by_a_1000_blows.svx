@@ -14,9 +14,10 @@
 
 
 *begin death_by_a_1000_blows
-*date 1997.07.25
-*team “Jack Hare“ instruments
-*team “David P Wilson” book
+*title "Death by a 1000 blows"
+*date 2017.07.28
+*team "Jack Hare" instruments
+*team "David P Wilson" book
 
 ;data on 1 page
 

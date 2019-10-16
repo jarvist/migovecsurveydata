@@ -17,6 +17,8 @@
 
 *begin goodbag
 *date 1996.08.11
+*team "Mark Evans" book
+*team "Jim Evans" instruments
 
 1       2       2.70    122     +58
 2       3       3.3     103     +22

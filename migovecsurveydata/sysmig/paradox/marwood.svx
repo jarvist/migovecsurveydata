@@ -12,7 +12,10 @@
 *equate fame.3 marwood.25
 
 *begin marwood
+*title "Marwood Inlet"
 *date 1998.08.05
+*team "Jim Evans" instruments
+*team "Ian McKenna" book
 
 2	1	9.58	142	15
 3	2	5.48	085	12

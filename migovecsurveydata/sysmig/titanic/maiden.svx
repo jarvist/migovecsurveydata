@@ -12,7 +12,10 @@
 *equate maiden.9 olympic.1
 
 *begin maiden
+*title "Maiden Voyage"
 *date 1998.07.24
+*team "Clewin Griffith" instruments
+*team "James Hooper" book
 
 2	1	8.75	078	-50
 3	2	6.33	172	19

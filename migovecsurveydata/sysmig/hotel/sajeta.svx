@@ -16,6 +16,10 @@
 *equate sajeta.1 xxx.10
 
 *begin sajeta
+*date 1997.07.27
+*team "Michael Playford" instruments
+*team "Sarah Wingrove" instruments
+*team "James Hooper" book
 
 1	2	2.35	131.5	-17
 2	3	18.78	-	down	;stn 2 is halfway between pitch head bolts

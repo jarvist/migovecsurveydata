@@ -13,6 +13,8 @@
 
 *begin bosh
 *date 1998.08.05
+*team "Colm Carroll" instruments
+*team "James Hooper" book
 
 1	2	2.88	063	-04	
 2	3	5.15	057	-43

@@ -17,6 +17,8 @@
 
 *begin level2n
 *date 1996.07.28
+*team "Colm Carroll" instruments
+*team "James Hooper" book
 
 2	1	7.49	091	-09	;Stn.1 is 2m from bottom of Faulty Towers rope
 2	3	9.58	008	-02

@@ -16,8 +16,11 @@
 *equate glory.1 coldfeet.1
 
 *begin glory
+*title "The Glory Boyz Series"
 *calibrate tape 0.18
 *date 1997.08.04
+*team "Jim Evans" instruments
+*team "Colm Carroll" book
 
 2	1	23.60	49	+69	; PSS 1 is end of coldfeet passage
 3	2	13.51	19	58	; SS2 is highest bolt, marked P2
